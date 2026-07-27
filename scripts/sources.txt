@@ -1,0 +1,5 @@
+# Görsel prompt ile ilgili takip edilecek kaynak repolar
+# Format: https://github.com/kullanici/repo
+# Yeni repo eklemek için buraya bir satır ekle, workflow otomatik alacak
+
+https://github.com/ZeroLu/awesome-gpt-image
