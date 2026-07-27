@@ -1,0 +1,406 @@
+import { useCallback, useEffect, useMemo, useState } from 'react';
+import { Archive, ArchiveRestore, Check, FolderInput, Plus, Star, Tags, Trash2, XCircle } from 'lucide-react';
+import { api, isDemoMode } from './api/client';
+import TopBar from './components/TopBar';
+import FiltersPanel from './components/FiltersPanel';
+import ExploreView from './components/ExploreView';
+import CardsView from './components/CardsView';
+import ItemDetailModal from './components/ItemDetailModal';
+import ItemEditorModal from './components/ItemEditorModal';
+import GenerationPanel from './components/GenerationPanel';
+import GenerationQueueDrawer from './components/GenerationQueueDrawer';
+import ConfigPanel from './components/ConfigPanel';
+import { useDebouncedValue } from './hooks/useDebouncedValue';
+import { useItemsQuery } from './hooks/useItemsQuery';
+import type { AppConfig, AppUpdateStatus, ClusterRecord, GenerationJobRecord, GenerationProviderStatus, ItemBatchAction, ItemDetail, ItemSortMode, ItemSummary, TagRecord, ViewMode } from './types';
+import { copyTextToClipboard } from './utils/clipboard';
+import { localizedDemoTitle } from './utils/demoTitles';
+import { DEFAULT_UI_LANGUAGE, UI_LANGUAGE_LABELS, makeTranslator, normalizeUiLanguage, type UiLanguage } from './utils/i18n';
+import { DEFAULT_PROMPT_LANGUAGE, normalizePromptLanguage, resolvePromptText, type PromptCopyLanguage } from './utils/prompts';
+import { DEFAULT_ITEM_SORT, parseSearchSortQuery, parseStructuredSearchChips, removeSearchSortOperator, sortLabelForMode } from './utils/searchSort';
+
+const UI_LANGUAGE_STORAGE_KEY = 'image-prompt-library.ui_language';
+const PROMPT_LANGUAGE_STORAGE_KEY = 'image-prompt-library.preferred_prompt_language';
+const VIEW_STORAGE_KEY = 'image-prompt-library.view_mode.v2';
+const GLOBAL_THUMBNAIL_BUDGET_STORAGE_KEY = 'image-prompt-library.global_thumbnail_budget';
+const FOCUS_THUMBNAIL_BUDGET_STORAGE_KEY = 'image-prompt-library.focus_thumbnail_budget';
+const FRONTEND_BUILD_VERSION = import.meta.env.VITE_APP_VERSION || '';
+const FRONTEND_VERSION_RELOAD_STORAGE_KEY = 'image-prompt-library.frontend_version_reload_target.v1';
+
+function loadPreferredLanguage(): PromptCopyLanguage {
+  if (typeof window === 'undefined') return DEFAULT_PROMPT_LANGUAGE;
+  return normalizePromptLanguage(window.localStorage.getItem(PROMPT_LANGUAGE_STORAGE_KEY));
+}
+
+function loadUiLanguage(): UiLanguage {
+  if (typeof window === 'undefined') return DEFAULT_UI_LANGUAGE;
+  return normalizeUiLanguage(window.localStorage.getItem(UI_LANGUAGE_STORAGE_KEY));
+}
+
+function loadHasChosenUiLanguage() {
+  if (typeof window === 'undefined') return true;
+  return Boolean(window.localStorage.getItem(UI_LANGUAGE_STORAGE_KEY));
+}
+
+function loadPreferredView(): ViewMode {
+  if (typeof window === 'undefined') return 'cards';
+  const savedView = window.localStorage.getItem(VIEW_STORAGE_KEY);
+  if (savedView === 'explore' || savedView === 'cards') return savedView;
+  return 'cards';
+}
+
+function loadNumberSetting(key: string, fallback: number, min: number, max: number) {
+  if (typeof window === 'undefined') return fallback;
+  const raw = Number(window.localStorage.getItem(key));
+  if (!Number.isFinite(raw)) return fallback;
+  return Math.min(max, Math.max(min, Math.round(raw)));
+}
+
+function selectedCollectionNameSizeClass(name: string) {
+  if (name.length > 28) return 'is-very-long';
+  if (name.length > 16) return 'is-long';
+  return '';
+}
+
+function localizedClusterName(cluster: ClusterRecord | undefined, language: UiLanguage) {
+  return cluster?.names?.[language] || cluster?.names?.en || cluster?.name || '';
+}
+
+function localizeCluster(cluster: ClusterRecord, language: UiLanguage): ClusterRecord {
+  return { ...cluster, name: localizedClusterName(cluster, language) };
+}
+
+function localizeItemForDisplay(item: ItemSummary, language: UiLanguage): ItemSummary {
+  const clustered = item.cluster ? { ...item, cluster: localizeCluster(item.cluster, language) } : item;
+  return { ...clustered, title: localizedDemoTitle(clustered, language) };
+}
+
+function generationProviderConnected(provider: GenerationProviderStatus) {
+  return provider.can_generate ?? Boolean(provider.available && provider.authenticated && provider.configured);
+}
+
+export default function App() {
+  const [q, setQ] = useState('');
+  const [sort, setSort] = useState<ItemSortMode>(DEFAULT_ITEM_SORT);
+  const debouncedQ = useDebouncedValue(q);
+  const parsedSearchQuery = useMemo(() => parseSearchSortQuery(debouncedQ), [debouncedQ]);
+  const rawParsedSearchQuery = useMemo(() => parseSearchSortQuery(q), [q]);
+  const activeSort = rawParsedSearchQuery.explicitSort ? rawParsedSearchQuery.sort : sort;
+  const queryFilterChips = useMemo(() => parseStructuredSearchChips(q), [q]);
+  const showingArchivedItems = /\barchived:true\b/i.test(q);
+  const [clusterId, setClusterId] = useState<string>();
+  const [view, setView] = useState<ViewMode>(loadPreferredView);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const [configOpen, setConfigOpen] = useState(false);
+  const [focusConfigProviders, setFocusConfigProviders] = useState(false);
+  const [clusters, setClusters] = useState<ClusterRecord[]>([]);
+  const [tags, setTags] = useState<TagRecord[]>([]);
+  const [detailId, setDetailId] = useState<string>();
+  const [editing, setEditing] = useState<ItemDetail | undefined>();
+  const [editorOpen, setEditorOpen] = useState(false);
+  const [itemsReloadKey, setItemsReloadKey] = useState(0);
+  const [uiLanguage, setUiLanguage] = useState<UiLanguage>(loadUiLanguage);
+  const [hasChosenUiLanguage, setHasChosenUiLanguage] = useState(loadHasChosenUiLanguage);
+  const [preferredLanguage, setPreferredLanguage] = useState<PromptCopyLanguage>(loadPreferredLanguage);
+  const [globalThumbnailBudget, setGlobalThumbnailBudget] = useState(() => loadNumberSetting(GLOBAL_THUMBNAIL_BUDGET_STORAGE_KEY, 100, 50, 150));
+  const [focusThumbnailBudget, setFocusThumbnailBudget] = useState(() => loadNumberSetting(FOCUS_THUMBNAIL_BUDGET_STORAGE_KEY, 100, 24, 100));
+  const [exploreFitRequestKey, setExploreFitRequestKey] = useState(0);
+  const [pendingExploreUnfilterClusterId, setPendingExploreUnfilterClusterId] = useState<string>();
+  const [exploreUnfilterFadePhase, setExploreUnfilterFadePhase] = useState<'out' | 'pre-in' | 'in' | 'idle'>('idle');
+  const [toast, setToast] = useState<{ title: string; tone: 'success' | 'error' }>();
+  const [standaloneGenerationOpen, setStandaloneGenerationOpen] = useState(false);
+  const [generationQueueOpen, setGenerationQueueOpen] = useState(false);
+  const [focusedGenerationJobId, setFocusedGenerationJobId] = useState<string>();
+  const [pendingGenerationSourceItemId, setPendingGenerationSourceItemId] = useState<string>();
+  const [generationAvailable, setGenerationAvailable] = useState(false);
+  const [appConfig, setAppConfig] = useState<AppConfig>();
+  const [selectionMode, setSelectionMode] = useState(false);
+  const [selectedItemIds, setSelectedItemIds] = useState<Set<string>>(() => new Set());
+  const [updateStatus, setUpdateStatus] = useState<AppUpdateStatus>();
+  const [restartRequiredVersion, setRestartRequiredVersion] = useState<string>();
+  const { data, loading, initialLoading, refreshing, error, dataScope } = useItemsQuery(parsedSearchQuery.q, clusterId, undefined, 1000, itemsReloadKey, activeSort);
+  const exploreFocusedClusterId = view === 'explore'
+    ? (clusterId || (dataScope.clusterId === pendingExploreUnfilterClusterId ? pendingExploreUnfilterClusterId : undefined))
+    : clusterId;
+  const selectedCluster = useMemo(() => clusters.find(c => c.id === clusterId), [clusters, clusterId]);
+  const t = useMemo(() => makeTranslator(uiLanguage), [uiLanguage]);
+  const localizedClusters = useMemo(() => clusters.map(cluster => localizeCluster(cluster, uiLanguage)), [clusters, uiLanguage]);
+  const localizedData = useMemo(() => ({ ...data, items: data.items.map(item => localizeItemForDisplay(item, uiLanguage)) }), [data, uiLanguage]);
+  const localizedSelectedCluster = selectedCluster ? localizeCluster(selectedCluster, uiLanguage) : undefined;
+  const refreshClusters = () => api.clusters().then(setClusters).catch(() => setClusters([]));
+  const refreshTags = () => api.tags().then(setTags).catch(() => setTags([]));
+  const refreshGenerationAvailability = useCallback(() => api.generationProviders()
+    .then(providers => setGenerationAvailable(providers.some(generationProviderConnected)))
+    .catch(() => setGenerationAvailable(false)), []);
+  const refreshAppConfig = () => api.config().then(setAppConfig).catch(() => setAppConfig(undefined));
+  const refreshUpdateStatus = useCallback(() => api.updateStatus().then(status => {
+    setUpdateStatus(status);
+    if (!status.update_available) setRestartRequiredVersion(undefined);
+    return status;
+  }).catch(() => {
+    setUpdateStatus(current => current
+      ? { ...current, error: 'Could not check for updates', update_available: false }
+      : {
+        current_version: 'unknown',
+        latest_version: null,
+        update_available: false,
+        checked_at: new Date().toISOString(),
+        error: 'Could not check for updates',
+        update_capability: 'unknown',
+        update_reason: 'request_failed',
+        service_mode: 'unknown',
+        active_generation_jobs: { running: 0, queued: 0 },
+        can_restart: false,
+        requires_manual_restart: true,
+      });
+    return undefined;
+  }), []);
+  const handleUpdateInstalled = useCallback((targetVersion: string, requiresManualRestart: boolean) => {
+    setRestartRequiredVersion(requiresManualRestart ? targetVersion : undefined);
+    if (!requiresManualRestart) {
+      setUpdateStatus(current => current ? { ...current, update_available: false } : current);
+    }
+  }, []);
+  useEffect(() => { refreshClusters(); refreshTags(); refreshGenerationAvailability(); refreshAppConfig(); refreshUpdateStatus(); }, [refreshUpdateStatus]);
+  useEffect(() => {
+    if (isDemoMode || !FRONTEND_BUILD_VERSION || FRONTEND_BUILD_VERSION === 'demo') return;
+    api.health().then(({ version: serverVersion }) => {
+      if (!serverVersion || serverVersion === 'demo' || serverVersion === FRONTEND_BUILD_VERSION) {
+        window.sessionStorage.removeItem(FRONTEND_VERSION_RELOAD_STORAGE_KEY);
+        return;
+      }
+      if (serverVersion !== FRONTEND_BUILD_VERSION && window.sessionStorage.getItem(FRONTEND_VERSION_RELOAD_STORAGE_KEY) === serverVersion) return;
+      window.sessionStorage.setItem(FRONTEND_VERSION_RELOAD_STORAGE_KEY, serverVersion);
+      const currentUrl = new URL(window.location.href);
+      currentUrl.searchParams.set('_ipl_refresh', serverVersion);
+      currentUrl.searchParams.set('_ipl_ts', Date.now().toString());
+      window.location.replace(currentUrl.toString());
+    }).catch(() => undefined);
+  }, []);
+  useEffect(() => {
+    const timer = window.setInterval(refreshGenerationAvailability, 3000);
+    return () => window.clearInterval(timer);
+  }, [refreshGenerationAvailability]);
+  useEffect(() => {
+    if (!toast) return undefined;
+    const timer = window.setTimeout(() => setToast(undefined), 2600);
+    return () => window.clearTimeout(timer);
+  }, [toast]);
+  useEffect(() => {
+    if (pendingExploreUnfilterClusterId && dataScope.clusterId !== pendingExploreUnfilterClusterId) {
+      setPendingExploreUnfilterClusterId(undefined);
+      setExploreUnfilterFadePhase('pre-in');
+      window.requestAnimationFrame(() => setExploreUnfilterFadePhase('in'));
+      const timer = window.setTimeout(() => setExploreUnfilterFadePhase('idle'), 180);
+      return () => window.clearTimeout(timer);
+    }
+    return undefined;
+  }, [dataScope.clusterId, pendingExploreUnfilterClusterId]);
+  const selectCluster = (c: ClusterRecord) => { setClusterId(c.id); updateView('cards'); setFiltersOpen(false); setPendingExploreUnfilterClusterId(undefined); setExploreUnfilterFadePhase('idle'); };
+  const focusCluster = (c: ClusterRecord) => { setClusterId(c.id); updateView('explore'); setFiltersOpen(false); setPendingExploreUnfilterClusterId(undefined); setExploreUnfilterFadePhase('idle'); setExploreFitRequestKey(key => key + 1); };
+  const handleFilterSelect = (c: ClusterRecord) => { view === 'explore' ? focusCluster(c) : selectCluster(c); };
+  const clearCluster = () => {
+    if (view === 'explore' && clusterId) {
+      setPendingExploreUnfilterClusterId(clusterId);
+      setExploreUnfilterFadePhase('out');
+    }
+    setClusterId(undefined);
+  };
+  const saved = () => { refreshClusters(); refreshTags(); setItemsReloadKey(k => k + 1); };
+  const clearSelection = () => setSelectedItemIds(new Set());
+  const exitSelectionMode = () => { setSelectionMode(false); clearSelection(); };
+  const deleted = () => { setDetailId(undefined); setEditing(undefined); exitSelectionMode(); refreshClusters(); refreshTags(); setItemsReloadKey(k => k + 1); };
+  const batchChanged = () => { exitSelectionMode(); refreshClusters(); refreshTags(); setItemsReloadKey(k => k + 1); };
+  const updatePreferredLanguage = (language: PromptCopyLanguage) => {
+    setPreferredLanguage(language);
+    window.localStorage.setItem(PROMPT_LANGUAGE_STORAGE_KEY, language);
+  };
+  const updateUiLanguage = (language: UiLanguage) => {
+    setUiLanguage(language);
+    window.localStorage.setItem(UI_LANGUAGE_STORAGE_KEY, language);
+  };
+  const chooseFirstRunLanguage = (language: UiLanguage) => {
+    updateUiLanguage(language);
+    setHasChosenUiLanguage(true);
+  };
+  const updateView = (nextView: ViewMode) => {
+    setView(nextView);
+    window.localStorage.setItem(VIEW_STORAGE_KEY, nextView);
+  };
+  const updateGlobalThumbnailBudget = (budget: number) => {
+    setGlobalThumbnailBudget(budget);
+    window.localStorage.setItem(GLOBAL_THUMBNAIL_BUDGET_STORAGE_KEY, String(budget));
+  };
+  const updateFocusThumbnailBudget = (budget: number) => {
+    setFocusThumbnailBudget(budget);
+    window.localStorage.setItem(FOCUS_THUMBNAIL_BUDGET_STORAGE_KEY, String(budget));
+  };
+  const updateSort = (nextSort: ItemSortMode) => {
+    setSort(nextSort);
+    setQ(current => removeSearchSortOperator(current));
+  };
+  const clearSearchSort = () => {
+    setSort(DEFAULT_ITEM_SORT);
+    setQ(current => removeSearchSortOperator(current));
+  };
+  const searchSortLabel = rawParsedSearchQuery.explicitSort ? sortLabelForMode(rawParsedSearchQuery.sort, t) : undefined;
+  const showCopyToast = (success: boolean) => {
+    setToast({ title: success ? t('copySuccess') : t('copyFailed'), tone: success ? 'success' : 'error' });
+    window.setTimeout(() => setToast(undefined), 1800);
+  };
+  const copyPrompt = async (item: ItemSummary) => {
+    const text = resolvePromptText(item.prompts, preferredLanguage, item.title);
+    const copied = await copyTextToClipboard(text);
+    showCopyToast(copied);
+  };
+  const emptyMode = !isDemoMode && localizedData.items.length === 0 && !q.trim() && !clusterId ? 'first-run' : 'no-results';
+  const openNewItemEditor = () => { setEditing(undefined); setEditorOpen(true); };
+  const openConfig = () => { setFocusConfigProviders(false); setConfigOpen(true); };
+  const closeConfig = () => { setConfigOpen(false); setFocusConfigProviders(false); };
+  const openProviders = () => {
+    setGenerationQueueOpen(false);
+    setStandaloneGenerationOpen(false);
+    setDetailId(undefined);
+    setFocusedGenerationJobId(undefined);
+    setPendingGenerationSourceItemId(undefined);
+    setFocusConfigProviders(true);
+    setConfigOpen(true);
+  };
+  const openStandaloneGeneration = () => { if (!generationAvailable) return; setFocusedGenerationJobId(undefined); setPendingGenerationSourceItemId(undefined); setStandaloneGenerationOpen(true); setGenerationQueueOpen(false); };
+  const openGenerationJob = (job: GenerationJobRecord) => {
+    setFocusedGenerationJobId(job.id);
+    setGenerationQueueOpen(false);
+    if (job.source_item_id) {
+      setPendingGenerationSourceItemId(job.source_item_id);
+      setStandaloneGenerationOpen(false);
+      setDetailId(job.source_item_id);
+      return;
+    }
+    setPendingGenerationSourceItemId(undefined);
+    setDetailId(undefined);
+    setStandaloneGenerationOpen(true);
+  };
+  const favorite = (id: string) => { api.favorite(id).then(saved).catch(() => undefined); };
+  const toggleSelectedItem = (id: string) => {
+    setSelectedItemIds(current => {
+      const next = new Set(current);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  };
+  const deleteDetail = async (item: ItemDetail) => {
+    if (!confirm(t('deleteReferenceConfirm'))) return;
+    try {
+      await api.deleteItem(item.id);
+      deleted();
+    } catch {
+      setToast({ title: t('saveFailed'), tone: 'error' });
+    }
+  };
+  const runBatchAction = async (action: ItemBatchAction, extra: { tags?: string[]; cluster_name?: string } = {}) => {
+    if (!selectedItemIds.size) return;
+    try {
+      await api.batchItems({ item_ids: Array.from(selectedItemIds), action, ...extra });
+      batchChanged();
+    } catch {
+      setToast({ title: t('saveFailed'), tone: 'error' });
+    }
+  };
+  const deleteSelectedItems = async () => {
+    if (!selectedItemIds.size) return;
+    if (!confirm(t('deleteSelectedReferencesConfirm').replace('${selectedItemIds.size}', String(selectedItemIds.size)))) return;
+    await runBatchAction('delete');
+  };
+  const batchArchiveSelected = () => runBatchAction(showingArchivedItems ? 'unarchive' : 'archive');
+  const batchFavoriteSelected = () => runBatchAction('favorite');
+  const batchAddTagsSelected = () => {
+    const value = prompt(t('tagSelectedReferences'));
+    const tags = (value || '').split(',').map(tag => tag.trim()).filter(Boolean);
+    if (tags.length) runBatchAction('add_tags', { tags });
+  };
+  const batchMoveSelected = () => {
+    const cluster_name = (prompt(t('moveSelectedReferences')) || '').trim();
+    if (cluster_name) runBatchAction('move_collection', { cluster_name });
+  };
+  const editSummary = (item: { id: string }) => { api.item(item.id).then(full => { setEditing(full); setEditorOpen(true); }).catch(() => undefined); };
+  const focusedItemGenerationJobId = pendingGenerationSourceItemId ? focusedGenerationJobId : undefined;
+  const showSelectedCollectionDock = Boolean(selectedCluster && !filtersOpen && !configOpen && !detailId && !editorOpen);
+  const showFloatingActions = Boolean(emptyMode !== 'first-run' && !selectionMode && !filtersOpen && !configOpen && !detailId && !editorOpen && !standaloneGenerationOpen);
+  const updateBadgeLabel = restartRequiredVersion
+    ? 'Restart required'
+    : (updateStatus?.update_available && updateStatus.update_capability !== 'source' ? 'Update available' : undefined);
+  return <div className={`app ${view === 'explore' ? 'explore-mode' : 'cards-mode'}`}>
+    {!hasChosenUiLanguage && (
+      <div className="first-run-language-overlay" role="dialog" aria-modal="true" aria-labelledby="first-run-language-title">
+        <section className="first-run-language-card">
+          <p className="first-run-language-eyebrow">Image Prompt Library</p>
+          <h2 id="first-run-language-title">{t('chooseLanguage')}</h2>
+          <p>{t('chooseLanguageHelp')}</p>
+          <div className="first-run-language-options" role="group" aria-label={t('chooseLanguage')}>
+            {(['zh_hant', 'zh_hans', 'en'] as UiLanguage[]).map(language => (
+              <button key={language} type="button" onClick={() => chooseFirstRunLanguage(language)}>{UI_LANGUAGE_LABELS[language]}</button>
+            ))}
+          </div>
+          <p className="first-run-language-note">{t('changeLanguageLater')}</p>
+        </section>
+      </div>
+    )}
+    <TopBar t={t} q={q} searchQuery={parsedSearchQuery.q} sort={activeSort} sortLabel={searchSortLabel} queryFilterChips={queryFilterChips} updateBadgeLabel={updateBadgeLabel} onQ={setQ} onSort={updateSort} onClearSort={clearSearchSort} view={view} onView={updateView} onFilters={() => setFiltersOpen(true)} onConfig={openConfig} count={localizedData.total} clusterName={localizedClusterName(selectedCluster, uiLanguage)} clearCluster={clearCluster} />
+    {isDemoMode && (
+      <div className="demo-banner" role="status">
+        <strong>{t('onlineReadOnlyDemo')}</strong>
+        <span>{t('runLocallyForPrivateLibrary')}</span>
+        <span>{t('localInstallHighlights')}</span>
+        <a href="https://github.com/EddieTYP/image-prompt-library" target="_blank" rel="noreferrer">{t('viewOnGitHub')}</a>
+      </div>
+    )}
+    <FiltersPanel t={t} open={filtersOpen} clusters={localizedClusters} selected={clusterId} onSelect={handleFilterSelect} onClear={clearCluster} onClose={() => setFiltersOpen(false)} />
+    <ConfigPanel t={t} open={configOpen} focusProviders={focusConfigProviders} onClose={closeConfig} uiLanguage={uiLanguage} onUiLanguage={updateUiLanguage} preferredLanguage={preferredLanguage} onPreferredLanguage={updatePreferredLanguage} globalThumbnailBudget={globalThumbnailBudget} onGlobalThumbnailBudget={updateGlobalThumbnailBudget} focusThumbnailBudget={focusThumbnailBudget} onFocusThumbnailBudget={updateFocusThumbnailBudget} updateStatus={updateStatus} onRefreshUpdateStatus={refreshUpdateStatus} onUpdateInstalled={handleUpdateInstalled} onProvidersChanged={refreshGenerationAvailability} onLibraryCleanup={saved} />
+    {/* Static-test compatibility marker: <main className="app-main"> */}
+    <main className={`app-main ${refreshing ? 'is-refreshing' : ''}`} aria-busy={refreshing}>
+      {refreshing && <div className="refresh-indicator" role="status">{t('loading')}</div>}
+      {initialLoading && <div className="loading">{t('loading')}</div>}
+      {error && <div className="error">{error}</div>}
+      {view === 'explore'
+        ? <ExploreView t={t} clusters={localizedClusters} items={localizedData.items} focusedClusterId={exploreFocusedClusterId} fitRequestKey={exploreFitRequestKey} unfilterTransitionPhase={exploreUnfilterFadePhase} globalThumbnailBudget={globalThumbnailBudget} focusThumbnailBudget={focusThumbnailBudget} onFocusCluster={focusCluster} onOpen={setDetailId} onAdd={isDemoMode ? undefined : openNewItemEditor} />
+        : <CardsView t={t} items={localizedData.items} emptyMode={emptyMode} onOpen={setDetailId} onFavorite={isDemoMode ? undefined : favorite} onEdit={isDemoMode ? undefined : editSummary} onToggleSelection={selectionMode ? toggleSelectedItem : undefined} selectedIds={selectedItemIds} onCopyPrompt={copyPrompt} onAdd={isDemoMode ? undefined : openNewItemEditor} onOpenConfig={openConfig} />}
+    </main>
+    {selectionMode && !isDemoMode && (
+      <div className="selection-toolbar" role="toolbar" aria-label={t('selectReferences')}>
+        <button type="button" className="selection-toolbar-button" onClick={exitSelectionMode}>{t('cancel')}</button>
+        <span className="selection-toolbar-count">{selectedItemIds.size} {t('selectedReferences')}</span>
+        <div className="selection-toolbar-secondary">
+          <button type="button" className="selection-toolbar-button" onClick={batchArchiveSelected} disabled={!selectedItemIds.size}>
+            {showingArchivedItems ? <ArchiveRestore size={16} /> : <Archive size={16} />} {showingArchivedItems ? t('restoreSelectedReferences') : t('archiveSelectedReferences')}
+          </button>
+          <button type="button" className="selection-toolbar-button" onClick={batchFavoriteSelected} disabled={!selectedItemIds.size}><Star size={16} /> {t('favoriteSelectedReferences')}</button>
+          <button type="button" className="selection-toolbar-button" onClick={batchAddTagsSelected} disabled={!selectedItemIds.size}><Tags size={16} /> {t('tagSelectedReferences')}</button>
+          <button type="button" className="selection-toolbar-button" onClick={batchMoveSelected} disabled={!selectedItemIds.size}><FolderInput size={16} /> {t('moveSelectedReferences')}</button>
+        </div>
+        <button type="button" className="selection-toolbar-delete" onClick={deleteSelectedItems} disabled={!selectedItemIds.size}><Trash2 size={16} /> {t('deleteSelectedReferences')}</button>
+      </div>
+    )}
+    {showSelectedCollectionDock && localizedSelectedCluster && (
+      <button className="selected-collection-dock" onClick={clearCluster} aria-label={`${t('collectionChip')}: ${localizedSelectedCluster.name}. ${t('close')}`}>
+        <span className="selected-collection-dot" aria-hidden="true" />
+        <span className={`selected-collection-name ${selectedCollectionNameSizeClass(localizedSelectedCluster.name)}`}>{localizedSelectedCluster.name}</span>
+        <span className="selected-collection-count">{localizedData.total} {t('referencesShown')}</span>
+        <span className="selected-collection-clear" aria-hidden="true">×</span>
+      </button>
+    )}
+    {/* Static-test compatibility marker: !isDemoMode && <button className="fab" */}
+    {!isDemoMode && showFloatingActions && (
+      <div className="floating-action-rail">
+        {view === 'cards' && localizedData.items.length > 0 && <button className="fab select-fab" onClick={() => { setSelectionMode(true); clearSelection(); }}>{t('selectReferences')}</button>}
+        <button className="fab add-fab" onClick={openNewItemEditor}><Plus/> {t('add')}</button>
+        {generationAvailable && <button className="fab generate-fab" onClick={openStandaloneGeneration}>Generate</button>}
+      </div>
+    )}
+    {!isDemoMode && showFloatingActions && <GenerationQueueDrawer t={t} open={generationQueueOpen} onOpen={() => setGenerationQueueOpen(true)} onClose={() => setGenerationQueueOpen(false)} onOpenJob={openGenerationJob} onOpenProviders={openProviders} />}
+    <ItemDetailModal t={t} id={detailId} uiLanguage={uiLanguage} preferredLanguage={preferredLanguage} clusters={localizedClusters} tags={tags} onClose={() => setDetailId(undefined)} onCopyPrompt={showCopyToast} onChanged={saved} onDelete={isDemoMode ? undefined : deleteDetail} onOpenItem={setDetailId} onOpenProviders={openProviders} onEdit={(item) => { setDetailId(undefined); setEditing(item); setEditorOpen(true); }} showMutations={!isDemoMode} canGenerate={generationAvailable} promptVariablesEnabled={Boolean(appConfig?.features?.camelot?.percival)} initialGenerationJobId={focusedItemGenerationJobId} />
+    {toast && <div className={`toast copy-toast elegant-toast ${toast.tone}`} role="status"><span className="toast-icon">{toast.tone === 'success' ? <Check size={16} /> : <XCircle size={16} />}</span><span className="toast-title">{toast.title}</span></div>}
+    {editorOpen && <ItemEditorModal t={t} item={editing} clusters={localizedClusters} tags={tags} onClose={() => setEditorOpen(false)} onSaved={saved} onDeleted={deleted} />}
+    {standaloneGenerationOpen && <GenerationPanel t={t} preferredLanguage={preferredLanguage} clusters={localizedClusters} tags={tags} promptVariablesEnabled={Boolean(appConfig?.features?.camelot?.percival)} initialJobId={focusedGenerationJobId} onClose={() => setStandaloneGenerationOpen(false)} onOpenProviders={openProviders} onAccepted={(item, message) => { saved(); setToast({ title: message || 'New variant item created', tone: 'success' }); if (item?.id) setDetailId(item.id); }} />}
+  </div>
+}

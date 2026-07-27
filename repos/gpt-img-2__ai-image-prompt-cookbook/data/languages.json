@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-06-07T10:19:27.739Z",
+  "languages": [
+    {
+      "locale": "en",
+      "label": "English",
+      "title": "AI Image Prompt Cookbook for English Users",
+      "file": "docs/languages/en.md",
+      "promptLibraryUrl": "https://image3.org/en/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/en/ai-image"
+    },
+    {
+      "locale": "ja",
+      "label": "日本語",
+      "title": "日本語ユーザー向け AI 画像プロンプト集",
+      "file": "docs/languages/ja.md",
+      "promptLibraryUrl": "https://image3.org/ja/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/ja/ai-image"
+    },
+    {
+      "locale": "ko",
+      "label": "한국어",
+      "title": "한국어 사용자를 위한 AI 이미지 프롬프트 모음",
+      "file": "docs/languages/ko.md",
+      "promptLibraryUrl": "https://image3.org/ko/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/ko/ai-image"
+    },
+    {
+      "locale": "es",
+      "label": "Español",
+      "title": "Recetario de prompts para imágenes con IA",
+      "file": "docs/languages/es.md",
+      "promptLibraryUrl": "https://image3.org/es/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/es/ai-image"
+    },
+    {
+      "locale": "vi",
+      "label": "Tiếng Việt",
+      "title": "Sổ tay prompt tạo ảnh AI cho người dùng tiếng Việt",
+      "file": "docs/languages/vi.md",
+      "promptLibraryUrl": "https://image3.org/vi/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/vi/ai-image"
+    },
+    {
+      "locale": "ms",
+      "label": "Bahasa Melayu",
+      "title": "Buku prompt imej AI untuk pengguna Bahasa Melayu",
+      "file": "docs/languages/ms.md",
+      "promptLibraryUrl": "https://image3.org/ms/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/ms/ai-image"
+    },
+    {
+      "locale": "uk",
+      "label": "Українська",
+      "title": "Добірка промптів для AI-зображень українською",
+      "file": "docs/languages/uk.md",
+      "promptLibraryUrl": "https://image3.org/uk/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/uk/ai-image"
+    },
+    {
+      "locale": "ru",
+      "label": "Русский",
+      "title": "Подборка промптов для AI-изображений на русском",
+      "file": "docs/languages/ru.md",
+      "promptLibraryUrl": "https://image3.org/ru/prompts/gpt-image-2",
+      "generatorUrl": "https://image3.org/ru/ai-image"
+    }
+  ]
+}

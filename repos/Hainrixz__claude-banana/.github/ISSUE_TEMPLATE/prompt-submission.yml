@@ -1,0 +1,111 @@
+name: Submit a Prompt Template
+description: Share a prompt template with the community
+title: "[Template] "
+labels: ["template-submission"]
+body:
+  - type: input
+    id: template-name
+    attributes:
+      label: Template Name
+      description: A short descriptive name for your template
+      placeholder: "e.g., Neon Cyberpunk Street Scene"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain-mode
+    attributes:
+      label: Domain Mode
+      description: Which domain mode does this template fit best?
+      options:
+        - Cinema / Cinematic Scene
+        - Product Photography
+        - Portrait
+        - Editorial / Fashion
+        - UI / Web Design
+        - Logo / Brand Identity
+        - Landscape / Environment
+        - Abstract / Generative Art
+        - Infographic / Data Visualization
+        - Special Technique
+    validations:
+      required: true
+
+  - type: input
+    id: technique
+    attributes:
+      label: Technique (if applicable)
+      description: "The creative technique used (e.g., Tilt-Shift Miniature, Frame Breakout)"
+      placeholder: "e.g., Containment Scene"
+    validations:
+      required: false
+
+  - type: textarea
+    id: prompt-template
+    attributes:
+      label: Prompt Template
+      description: |
+        The parameterized prompt in narrative prose (not keyword lists).
+        Use {placeholder} syntax for customizable variables.
+        Must be 100-300 words. Do not use banned keywords (4K, 8K, masterpiece, etc.).
+      placeholder: "A {subject} stands in {setting}, illuminated by {lighting}..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: variables
+    attributes:
+      label: Variables
+      description: List each {placeholder} variable with a description and example values
+      placeholder: |
+        - {subject}: The main focus of the image. Example: "weathered lighthouse keeper"
+        - {setting}: The environment. Example: "rocky coastal cliff at dawn"
+    validations:
+      required: true
+
+  - type: input
+    id: aspect-ratio
+    attributes:
+      label: Recommended Aspect Ratio
+      placeholder: "e.g., 16:9, 1:1, 4:5"
+    validations:
+      required: true
+
+  - type: textarea
+    id: example-output
+    attributes:
+      label: Example Output
+      description: The template with all variables filled in — a complete, ready-to-use prompt
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage-notes
+    attributes:
+      label: Usage Notes
+      description: When to use this template, what it excels at, any tips
+    validations:
+      required: false
+
+  - type: textarea
+    id: generated-images
+    attributes:
+      label: Generated Image URLs
+      description: Links to images generated with this template (at least one)
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: quality-checklist
+    attributes:
+      label: Quality Checklist
+      options:
+        - label: Prompt uses narrative prose (not keyword lists)
+          required: true
+        - label: No banned keywords (4K, 8K, masterpiece, highly detailed, etc.)
+          required: true
+        - label: Template includes {placeholder} variables for customization
+          required: true
+        - label: Example output is fully resolved with all variables filled in
+          required: true

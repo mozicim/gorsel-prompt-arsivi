@@ -1,0 +1,282 @@
+import json
+
+from fastapi import APIRouter, File, Form, HTTPException, Query, Request, UploadFile
+from PIL import UnidentifiedImageError
+
+from backend.schemas import (
+    GenerationJobAcceptAsNewItemRequest,
+    GenerationJobAcceptResult,
+    GenerationJobCreate,
+    GenerationJobList,
+    GenerationJobRecord,
+    GenerationJobSetCreate,
+    GenerationJobSetRecord,
+    GenerationJobRetryResult,
+)
+from backend.services.generation_jobs import GenerationJobConflict, GenerationJobRepository, sanitize_generation_error
+from backend.services.generation_queue import _continue_generation_queue, enqueue_generation_jobs, run_generation_job_now
+from backend.services.openai_codex_native import (
+    PROVIDER_ID as CODEX_NATIVE_PROVIDER_ID,
+    CodexNativeAuthError,
+    CodexNativeRateLimitError,
+)
+
+router = APIRouter(prefix="/generation-jobs", tags=["generation-jobs"])
+
+MAX_UPLOAD_BYTES = 30 * 1024 * 1024
+
+
+def _sanitize_generation_input_image_spec(spec: object) -> object:
+    if not isinstance(spec, dict):
+        return spec
+    if "data_url" not in spec:
+        return spec
+    sanitized = dict(spec)
+    sanitized.pop("data_url", None)
+    sanitized["has_data_url"] = True
+    sanitized["data_url_redacted"] = True
+    return sanitized
+
+
+def _sanitize_generation_job_parameters(parameters: object) -> object:
+    if not isinstance(parameters, dict):
+        return parameters
+    input_images = parameters.get("input_images")
+    if not isinstance(input_images, list):
+        return parameters
+    sanitized = dict(parameters)
+    sanitized["input_images"] = [
+        _sanitize_generation_input_image_spec(item) for item in input_images
+    ]
+    return sanitized
+
+
+def _sanitize_generation_job_record(job: GenerationJobRecord) -> GenerationJobRecord:
+    payload = job.model_dump()
+    payload["parameters"] = _sanitize_generation_job_parameters(payload.get("parameters"))
+    if payload.get("error"):
+        payload["error"] = sanitize_generation_error(str(payload["error"]))
+    return GenerationJobRecord(**payload)
+
+
+def _sanitize_generation_job_list(jobs: GenerationJobList) -> GenerationJobList:
+    return GenerationJobList(
+        jobs=[_sanitize_generation_job_record(job) for job in jobs.jobs],
+        total=jobs.total,
+        limit=jobs.limit,
+        offset=jobs.offset,
+        status_counts=jobs.status_counts,
+        generation_sets=[
+            GenerationJobSetRecord(
+                **{**group.model_dump(), "jobs": [_sanitize_generation_job_record(job) for job in group.jobs]}
+            )
+            for group in jobs.generation_sets
+        ],
+        provider_queue_states=jobs.provider_queue_states,
+    )
+
+
+def repo(request: Request) -> GenerationJobRepository:
+    return GenerationJobRepository(request.app.state.library_path)
+
+
+@router.post("", response_model=GenerationJobRecord)
+def create_generation_job(payload: GenerationJobCreate, request: Request):
+    try:
+        created = repo(request).create_job(payload)
+    except KeyError as exc:
+        raise HTTPException(status_code=404, detail="Source item not found") from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+    if created.provider == CODEX_NATIVE_PROVIDER_ID:
+        enqueue_generation_jobs(request.app.state.library_path, provider=created.provider)
+    return _sanitize_generation_job_record(created)
+
+
+@router.post("/sets", response_model=GenerationJobSetRecord)
+def create_generation_job_set(payload: GenerationJobSetCreate, request: Request):
+    try:
+        created = repo(request).create_job_set(payload.job, payload.count)
+    except KeyError as exc:
+        raise HTTPException(status_code=404, detail="Source item not found") from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+    if created.provider == CODEX_NATIVE_PROVIDER_ID:
+        _continue_generation_queue(request.app.state.library_path, created.provider)
+    return GenerationJobSetRecord(
+        **{**created.model_dump(), "jobs": [_sanitize_generation_job_record(job) for job in created.jobs]}
+    )
+
+
+@router.get("", response_model=GenerationJobList)
+def list_generation_jobs(
+    request: Request,
+    status: str | None = None,
+    limit: int = Query(100, ge=1, le=1000),
+    offset: int = Query(0, ge=0),
+):
+    return _sanitize_generation_job_list(repo(request).list_jobs(status=status, limit=limit, offset=offset))
+
+
+@router.get("/sets/{generation_group_id}", response_model=GenerationJobSetRecord)
+def get_generation_job_set(generation_group_id: str, request: Request):
+    try:
+        created = repo(request).get_generation_set(generation_group_id)
+        return GenerationJobSetRecord(
+            **{**created.model_dump(), "jobs": [_sanitize_generation_job_record(job) for job in created.jobs]}
+        )
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+
+
+@router.post("/sets/{generation_group_id}/cancel-remaining", response_model=GenerationJobSetRecord)
+def cancel_remaining_generation_job_set(generation_group_id: str, request: Request):
+    try:
+        created = repo(request).cancel_generation_set(generation_group_id)
+        if created.provider == CODEX_NATIVE_PROVIDER_ID:
+            _continue_generation_queue(request.app.state.library_path, created.provider)
+        return GenerationJobSetRecord(
+            **{**created.model_dump(), "jobs": [_sanitize_generation_job_record(job) for job in created.jobs]}
+        )
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+
+
+@router.get("/{job_id}", response_model=GenerationJobRecord)
+def get_generation_job(job_id: str, request: Request):
+    try:
+        return _sanitize_generation_job_record(repo(request).get_job(job_id))
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+
+
+@router.post("/{job_id}/result", response_model=GenerationJobRecord)
+async def upload_generation_result(
+    job_id: str,
+    request: Request,
+    file: UploadFile = File(...),
+    metadata: str = Form("{}"),
+):
+    data = await file.read(MAX_UPLOAD_BYTES + 1)
+    if len(data) > MAX_UPLOAD_BYTES:
+        raise HTTPException(status_code=413, detail="Generation result upload too large")
+    try:
+        parsed_metadata = json.loads(metadata) if metadata else {}
+        if not isinstance(parsed_metadata, dict):
+            parsed_metadata = {}
+    except json.JSONDecodeError:
+        raise HTTPException(status_code=400, detail="metadata must be a JSON object")
+    try:
+        return _sanitize_generation_job_record(
+            repo(request).stage_result(
+                job_id,
+                data,
+                file.filename or "generated.png",
+                parsed_metadata,
+            )
+        )
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except (GenerationJobConflict, ValueError, UnidentifiedImageError) as exc:
+        raise HTTPException(status_code=409 if isinstance(exc, GenerationJobConflict) else 400, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/run", response_model=GenerationJobRecord)
+def run_generation_job(job_id: str, request: Request):
+    try:
+        result = _sanitize_generation_job_record(run_generation_job_now(request.app.state.library_path, job_id))
+        _continue_generation_queue(request.app.state.library_path, CODEX_NATIVE_PROVIDER_ID)
+        return result
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+    except CodexNativeRateLimitError as exc:
+        _continue_generation_queue(request.app.state.library_path, CODEX_NATIVE_PROVIDER_ID)
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+    except CodexNativeAuthError as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/accept", response_model=GenerationJobAcceptResult)
+def accept_generation_job(job_id: str, request: Request):
+    try:
+        result = repo(request).accept_result(job_id)
+        return GenerationJobAcceptResult(job=_sanitize_generation_job_record(result.job), item=result.item)
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/accept-as-new-item", response_model=GenerationJobAcceptResult)
+def accept_generation_job_as_new_item(job_id: str, request: Request, payload: GenerationJobAcceptAsNewItemRequest | None = None):
+    try:
+        result = repo(request).accept_result_as_new_item(job_id, payload)
+        return GenerationJobAcceptResult(job=_sanitize_generation_job_record(result.job), item=result.item)
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/cancel", response_model=GenerationJobRecord)
+def cancel_generation_job(job_id: str, request: Request):
+    try:
+        cancelled = repo(request).cancel_job(job_id)
+        if cancelled.provider == CODEX_NATIVE_PROVIDER_ID:
+            enqueue_generation_jobs(request.app.state.library_path, provider=cancelled.provider)
+        return _sanitize_generation_job_record(cancelled)
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/mark-failed", response_model=GenerationJobRecord)
+def mark_generation_job_failed(job_id: str, request: Request):
+    try:
+        return _sanitize_generation_job_record(repo(request).mark_stale_running_failed(job_id))
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/discard", response_model=GenerationJobRecord)
+def discard_generation_job(job_id: str, request: Request):
+    try:
+        return _sanitize_generation_job_record(repo(request).discard_job(job_id))
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/retry", response_model=GenerationJobRecord)
+def retry_generation_job(job_id: str, request: Request):
+    try:
+        retry = repo(request).retry_failed_job(job_id)
+        if retry.provider == CODEX_NATIVE_PROVIDER_ID:
+            enqueue_generation_jobs(request.app.state.library_path, provider=retry.provider)
+        return _sanitize_generation_job_record(retry)
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc
+
+
+@router.post("/{job_id}/discard-and-retry", response_model=GenerationJobRetryResult)
+def discard_and_retry_generation_job(job_id: str, request: Request):
+    try:
+        result = repo(request).discard_and_retry_job(job_id)
+        if result.retry_job.provider == CODEX_NATIVE_PROVIDER_ID:
+            enqueue_generation_jobs(request.app.state.library_path, provider=result.retry_job.provider)
+        return GenerationJobRetryResult(
+            discarded_job=_sanitize_generation_job_record(result.discarded_job),
+            retry_job=_sanitize_generation_job_record(result.retry_job),
+        )
+    except KeyError as exc:
+        raise HTTPException(status_code=404) from exc
+    except GenerationJobConflict as exc:
+        raise HTTPException(status_code=409, detail=str(exc)) from exc

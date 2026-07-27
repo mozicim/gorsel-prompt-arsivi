@@ -1,0 +1,907 @@
+# Gallery Attribution
+
+中文案例页：[cases.zh-CN.md](cases.zh-CN.md)
+
+The gallery shows Image2 Ads Studio prompt cases. Each public prompt is generated through this project's structured brief, template retrieval, visual recipe retrieval, and LLM prompt brain flow.
+
+Images are lightweight preview assets. They are included to document prompt behavior and should not be treated as reusable customer or brand assets.
+
+For each case, the external or project-owned image source is attribution only. The generated prompt also records a composite in-repo source made from matched business templates and visual recipes.
+
+## Project-Generated Preview Images
+
+- docs/assets/gallery/cases/owner-beverage-ad-concept.jpg
+  - Case: Beverage Product Ad Concept
+  - Source: Project owner generated concept preview
+  - Usage note: Project-owned AI-generated preview; visible third-party marks are not reusable assets
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0002`, `adimg_recipe_0175`, `adimg_recipe_0177`
+- docs/assets/gallery/cases/owner-product-ad-concept.jpg
+  - Case: Premium Appliance Product Ad Concept
+  - Source: Project owner generated concept preview
+  - Usage note: Project-owned AI-generated preview; visible third-party marks are not reusable assets
+  - Library composite: templates `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0077`, `adimg_template_0076`; recipes `adimg_recipe_0233`, `adimg_recipe_0234`, `adimg_recipe_0016`
+
+## Upstream-Inspired Rewritten Cases
+
+- docs/assets/gallery/cases/gallery-03-e-commerce-main-image-luxury-amber-perfume-ad.jpg
+  - Gallery case: E-commerce Main Image - Luxury Amber Perfume Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 113
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-04-e-commerce-main-image-skincare-product-studio-shot.jpg
+  - Gallery case: E-commerce Main Image - Skincare Product Studio Shot
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 114
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0069`, `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0149`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-05-e-commerce-main-image-tropical-citrus-soda-ad-poster.jpg
+  - Gallery case: E-commerce Main Image - Tropical Citrus Soda Ad Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 115
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0002`, `adimg_recipe_0182`, `adimg_recipe_0149`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-06-e-commerce-main-image-luxury-fur-lined-loafer-lifestyle-photo.jpg
+  - Gallery case: E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 117
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0003`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-07-e-commerce-main-image-luxury-perfume-ad-on-marble-vanity.jpg
+  - Gallery case: E-commerce Main Image - Luxury Perfume Ad on Marble Vanity
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 118
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0001`, `adimg_recipe_0017`, `adimg_recipe_0055`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-08-e-commerce-main-image-miniature-diorama-skincare-advertisement.jpg
+  - Gallery case: E-commerce Main Image - Miniature Diorama Skincare Advertisement
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 151
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0069`, `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`; recipes `adimg_recipe_0004`, `adimg_recipe_0055`, `adimg_recipe_0095`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-09-e-commerce-main-image-premium-gaming-motherboard-studio-shot.jpg
+  - Gallery case: E-commerce Main Image - Premium Gaming Motherboard Studio Shot
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 153
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0069`, `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`; recipes `adimg_recipe_0234`, `adimg_recipe_0233`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-10-e-commerce-main-image-premium-grain-powder-ad-board.jpg
+  - Gallery case: E-commerce Main Image - Premium Grain Powder Ad Board
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 154
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0069`, `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-11-e-commerce-main-image-earbuds-e-commerce-infographic.jpg
+  - Gallery case: E-commerce Main Image - Earbuds E-commerce Infographic
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 155
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0234`, `adimg_recipe_0233`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-12-e-commerce-main-image-elegant-cosmetic-poster-prompt.jpg
+  - Gallery case: E-commerce Main Image - Elegant Cosmetic Poster Prompt
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 157
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-13-e-commerce-main-image-minimalist-product-ad-pure-crunch.jpg
+  - Gallery case: E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 158
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0144`, `adimg_recipe_0149`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-14-burger-hero-image-plus-9-cell-ad-storyboard.jpg
+  - Gallery case: Burger hero image plus 9-cell ad storyboard
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 163
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0023`, `adimg_recipe_0149`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-15-luxury-chronograph-watch-ad.jpg
+  - Gallery case: Luxury Chronograph Watch Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 144
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-16-neon-nike-lumina-ad-poster.jpg
+  - Gallery case: Neon Nike Lumina Ad Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 145
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-17-streetwear-sneaker-poster-ad.jpg
+  - Gallery case: Streetwear Sneaker Poster Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 146
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-18-editorial-osaka-six-sweatshirt-ad.jpg
+  - Gallery case: Editorial Osaka Six Sweatshirt Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 147
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0182`, `adimg_recipe_0157`, `adimg_recipe_0159`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-19-editorial-perfume-shot-on-moss.jpg
+  - Gallery case: Editorial Perfume Shot on Moss
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 148
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0175`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-20-editorial-perfume-bottle-in-golden-fur.jpg
+  - Gallery case: Editorial Perfume Bottle in Golden Fur
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 149
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-21-luxury-miniature-dubai-city-model.jpg
+  - Gallery case: Luxury Miniature Dubai City Model
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 150
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-22-parody-luxury-product-advertisement.jpg
+  - Gallery case: Parody Luxury Product Advertisement
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 131
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-23-japanese-chinese-food-delivery-flyer.jpg
+  - Gallery case: Japanese Chinese Food Delivery Flyer
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 166
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0229`, `adimg_recipe_0157`, `adimg_recipe_0159`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-24-luxury-chocolate-campaign-system.jpg
+  - Gallery case: Luxury chocolate campaign system
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 169
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-25-urban-fruit-juice-ad-poster.jpg
+  - Gallery case: Urban fruit juice ad poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 170
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-26-luxury-sportswear-basketball-athlete-campaign-poster.jpg
+  - Gallery case: Luxury Sportswear Basketball Athlete Campaign Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 70
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0235`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-27-streetwear-fashion-campaign-asian-apparel-poster.jpg
+  - Gallery case: Streetwear Fashion Campaign Asian Apparel Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 71
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-28-surrealist-liquor-brand-high-fashion-poster.jpg
+  - Gallery case: Surrealist Liquor Brand High Fashion Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 75
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-29-surrealist-rolex-luxury-watch-fashion-poster.jpg
+  - Gallery case: Surrealist Rolex Luxury Watch Fashion Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 78
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0226`, `adimg_recipe_0227`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-30-splash-fashion-brand-hyper-realistic-campaign-poster.jpg
+  - Gallery case: SPLASH Fashion Brand Hyper-Realistic Campaign Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 80
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-31-aurora-oolong-cold-brew-commercial-poster.jpg
+  - Gallery case: Aurora Oolong Cold Brew Commercial Poster
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/product-food/aurora-oolong-poster.png
+  - Upstream file: docs/product-food/aurora-oolong-poster.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/product-food/aurora-oolong-poster.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-32-moss-radio-brand-identity-showcase-board.jpg
+  - Gallery case: Moss Radio Brand Identity Showcase Board
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/brand-systems-identity/brand-identity-moss-radio.png
+  - Upstream file: docs/brand-systems-identity/brand-identity-moss-radio.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/brand-systems-identity/brand-identity-moss-radio.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0014`, `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0015`; recipes `adimg_recipe_0222`, `adimg_recipe_0182`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-33-playful-mochi-metro-brand-kit-board.jpg
+  - Gallery case: Playful Mochi Metro Brand Kit Board
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/brand-systems-identity/playful-brand-kit-mochi-metro.png
+  - Upstream file: docs/brand-systems-identity/playful-brand-kit-mochi-metro.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/brand-systems-identity/playful-brand-kit-mochi-metro.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0014`, `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0015`; recipes `adimg_recipe_0229`, `adimg_recipe_0182`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-34-quiet-luxury-skincare-morning-tray.jpg
+  - Gallery case: Quiet-Luxury Skincare Morning Tray
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/beauty-lifestyle/skincare-morning-routine-tray.png
+  - Upstream file: docs/beauty-lifestyle/skincare-morning-routine-tray.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/beauty-lifestyle/skincare-morning-routine-tray.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0003`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-35-fragrance-evening-ritual-vanity.jpg
+  - Gallery case: Fragrance Evening Ritual Vanity
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/beauty-lifestyle/fragrance-evening-ritual-vanity.png
+  - Upstream file: docs/beauty-lifestyle/fragrance-evening-ritual-vanity.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/beauty-lifestyle/fragrance-evening-ritual-vanity.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0175`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-36-zoo-visitor-wayfinding-map.jpg
+  - Gallery case: Zoo Visitor Wayfinding Map
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/events-experience/zoo-visitor-wayfinding-map.png
+  - Upstream file: docs/events-experience/zoo-visitor-wayfinding-map.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/events-experience/zoo-visitor-wayfinding-map.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0044`, `adimg_template_0043`, `adimg_template_0046`, `adimg_template_0047`, `adimg_template_0261`; recipes `adimg_recipe_0230`, `adimg_recipe_0209`, `adimg_recipe_0158`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-37-scenic-area-chinese-wayfinding-map.jpg
+  - Gallery case: Scenic Area Chinese Wayfinding Map
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/events-experience/huashan-5a-scenic-wayfinding-map.png
+  - Upstream file: docs/events-experience/huashan-5a-scenic-wayfinding-map.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/events-experience/huashan-5a-scenic-wayfinding-map.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0185`, `adimg_template_0044`, `adimg_template_0043`, `adimg_template_0046`, `adimg_template_0047`; recipes `adimg_recipe_0230`, `adimg_recipe_0209`, `adimg_recipe_0158`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-38-tea-launch-poster-metro-lightbox-mockup.jpg
+  - Gallery case: Tea Launch Poster Metro Lightbox Mockup
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/edit-endpoint-showcase/tea-poster-metro-lightbox.png
+  - Upstream file: docs/edit-endpoint-showcase/tea-poster-metro-lightbox.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/edit-endpoint-showcase/tea-poster-metro-lightbox.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0035`, `adimg_template_0038`, `adimg_template_0039`, `adimg_template_0040`, `adimg_template_0036`; recipes `adimg_recipe_0238`, `adimg_recipe_0214`, `adimg_recipe_0032`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-39-freestyle-150.jpg
+  - Gallery case: 品牌徽标设计图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 150
+  - Upstream file: docs/gallery-part-1.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-150
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0301`, `adimg_template_0302`, `adimg_template_0303`, `adimg_template_0304`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0144`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-40-freestyle-151.jpg
+  - Gallery case: 界面交互设计图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 151
+  - Upstream file: docs/gallery-part-1.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-151
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0231`, `adimg_template_0232`, `adimg_template_0233`, `adimg_template_0234`, `adimg_template_0235`; recipes `adimg_recipe_0182`, `adimg_recipe_0238`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-41-freestyle-153.jpg
+  - Gallery case: 主题海报版式设计
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 153
+  - Upstream file: docs/gallery-part-1.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-153
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0291`, `adimg_template_0292`, `adimg_template_0293`, `adimg_template_0294`, `adimg_template_0295`; recipes `adimg_recipe_0149`, `adimg_recipe_0002`, `adimg_recipe_0055`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-42-freestyle-154.jpg
+  - Gallery case: 写实摄影风格创作
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 154
+  - Upstream file: docs/gallery-part-1.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-154
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0155`, `adimg_template_0159`, `adimg_template_0160`, `adimg_template_0215`, `adimg_template_0216`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-43-freestyle-310.jpg
+  - Gallery case: 零食品牌技术分解图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 310
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-310
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0148`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0144`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-44-noir-campaign.jpg
+  - Gallery case: NOIR 街头服饰 Campaign
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 344
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-344
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0227`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-45-freestyle-353.jpg
+  - Gallery case: 品牌口红推荐报告信息图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 353
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-353
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0023`, `adimg_template_0024`, `adimg_template_0025`, `adimg_template_0026`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-46-freestyle-362.jpg
+  - Gallery case: 抹茶品牌触点系统视觉板
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 362
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-362
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0023`, `adimg_template_0024`, `adimg_template_0025`, `adimg_template_0026`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-47-e-commerce-product-detail-page-layout.jpg
+  - Gallery case: E-Commerce Product Detail Page Layout
+  - Source repository: ZeroLu/awesome-gpt-image
+  - Upstream case: assets/opennana/terminator-taobao-page.jpeg
+  - Upstream file: assets/opennana/terminator-taobao-page.jpeg
+  - Upstream URL: https://github.com/ZeroLu/awesome-gpt-image/blob/main/assets/opennana/terminator-taobao-page.jpeg
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0234`, `adimg_recipe_0233`, `adimg_recipe_0149`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-48-blue-white-porcelain-product-infographic.jpg
+  - Gallery case: Blue-White Porcelain Product Infographic
+  - Source repository: ZeroLu/awesome-gpt-image
+  - Upstream case: assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg
+  - Upstream file: assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg
+  - Upstream URL: https://github.com/ZeroLu/awesome-gpt-image/blob/main/assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0014`, `adimg_template_0020`, `adimg_template_0025`, `adimg_template_0013`; recipes `adimg_recipe_0237`, `adimg_recipe_0020`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-49-fresh-lemon-juice-product-poster.jpg
+  - Gallery case: Fresh Lemon Juice Product Poster
+  - Source repository: TanShilongMario/PromptFill
+  - Upstream case: public/images/LemonJuice.png
+  - Upstream file: public/images/LemonJuice.png
+  - Upstream URL: https://github.com/TanShilongMario/PromptFill/blob/main/public/images/LemonJuice.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-50-minimal-table-lamp-product-advertisement.jpg
+  - Gallery case: Minimal Table Lamp Product Advertisement
+  - Source repository: TanShilongMario/PromptFill
+  - Upstream case: public/images/lamp.png
+  - Upstream file: public/images/lamp.png
+  - Upstream URL: https://github.com/TanShilongMario/PromptFill/blob/main/public/images/lamp.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0016`, `adimg_recipe_0182`, `adimg_recipe_0225`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-51-e-commerce-main-image-industrial-design-presentation-sheet.jpg
+  - Gallery case: E-commerce Main Image - Industrial Design Presentation Sheet
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 116
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-52-e-commerce-main-image-traditional-chinese-art-and-porcelain-vase.jpg
+  - Gallery case: E-commerce Main Image - Traditional Chinese Art and Porcelain Vases
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 152
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-53-e-commerce-main-image-sustainable-t-shirt-plantable-tag-ad.jpg
+  - Gallery case: E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 156
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-54-e-commerce-main-image-pastel-blue-crocs-fashion-ad.jpg
+  - Gallery case: E-commerce Main Image - Pastel Blue Crocs Fashion Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 159
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0227`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-55-e-commerce-main-image-9-panel-product-tvc-storyboard.jpg
+  - Gallery case: E-commerce Main Image - 9-Panel Product TVC Storyboard
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 160
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0023`, `adimg_recipe_0182`, `adimg_recipe_0149`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-56-premium-product-studio-shot-template.jpg
+  - Gallery case: Premium product studio shot template
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 161
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0175`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-57-premium-food-photography-template.jpg
+  - Gallery case: Premium food photography template
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 162
+  - Upstream file: cases/ecommerce.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ecommerce.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0175`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-58-4-panel-japanese-digital-ad-banner-grid.jpg
+  - Gallery case: 4-Panel Japanese Digital Ad Banner Grid
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 90
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0006`, `adimg_recipe_0182`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-59-18-panel-mascot-brand-identity-document.jpg
+  - Gallery case: 18-Panel Mascot Brand Identity Document
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 107
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0222`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-60-dark-mode-marketing-case-study-ui.jpg
+  - Gallery case: Dark Mode Marketing Case Study UI
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 108
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-61-vr-headset-exploded-view-poster.jpg
+  - Gallery case: VR Headset Exploded View Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 109
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0233`, `adimg_recipe_0234`, `adimg_recipe_0170`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-62-anime-character-brand-identity-merch-board.jpg
+  - Gallery case: Anime Character Brand Identity & Merch Board
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 112
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0222`, `adimg_recipe_0182`, `adimg_recipe_0195`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-63-magical-seed-packet-diorama.jpg
+  - Gallery case: Magical Seed Packet Diorama
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 143
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-64-pastel-jellyfish-room-goods-poster.jpg
+  - Gallery case: Pastel Jellyfish Room Goods Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 167
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-65-luxury-poster-for-fictional-ai-ad-printer.jpg
+  - Gallery case: Luxury poster for fictional AI ad printer
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 168
+  - Upstream file: cases/ad-creative.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/ad-creative.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-66-refreshing-summer-udon-ad.jpg
+  - Gallery case: Refreshing Summer Udon Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 46
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0182`, `adimg_recipe_0157`, `adimg_recipe_0159`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-67-japanese-supermarket-sale-flyer.jpg
+  - Gallery case: Japanese Supermarket Sale Flyer
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 49
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0182`, `adimg_recipe_0148`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-68-pilates-studio-ad-poster.jpg
+  - Gallery case: Pilates Studio Ad Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 51
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0182`, `adimg_recipe_0157`, `adimg_recipe_0159`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-69-6-block-fashion-campaign-prompt-formula.jpg
+  - Gallery case: 6-Block Fashion Campaign Prompt Formula
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 52
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0227`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-70-a-professional-product-photography-shot-of-a-cold-sparkling-wate.jpg
+  - Gallery case: A professional product photography shot of a cold sparkling water
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 59
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0175`, `adimg_recipe_0164`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-71-generate-an-image-of-a-racing-car-poster-with-its-spec-and-prici.jpg
+  - Gallery case: generate an image of a racing car poster with its spec and pricing
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 68
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-72-epic-career-moments-cinematic-poster-template.jpg
+  - Gallery case: Epic Career Moments Cinematic Poster Template
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 72
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0014`, `adimg_template_0015`; recipes `adimg_recipe_0182`, `adimg_recipe_0220`, `adimg_recipe_0154`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-73-avant-garde-basketball-sculpture-sports-fashion-ad.jpg
+  - Gallery case: Avant-Garde Basketball Sculpture Sports Fashion Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 73
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0227`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-74-avant-garde-tennis-racket-sculpture-sports-fashion-ad.jpg
+  - Gallery case: Avant-Garde Tennis Racket Sculpture Sports Fashion Ad
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 74
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0074`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0227`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-75-premium-food-recipe-poster-elegant-layout.jpg
+  - Gallery case: Premium Food Recipe Poster Elegant Layout
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 76
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0229`, `adimg_recipe_0019`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-76-illustrated-city-food-map.jpg
+  - Gallery case: Illustrated City Food Map
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 110
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0044`, `adimg_template_0043`, `adimg_template_0045`, `adimg_template_0046`, `adimg_template_0047`; recipes `adimg_recipe_0158`, `adimg_recipe_0209`, `adimg_recipe_0171`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-77-outdoor-sportswear-grid-campaign.jpg
+  - Gallery case: Outdoor Sportswear Grid Campaign
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 168
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0227`, `adimg_recipe_0228`, `adimg_recipe_0226`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-78-iced-coffee-product-infographic.jpg
+  - Gallery case: Iced Coffee Product Infographic
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 170
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0074`, `adimg_template_0073`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0053`, `adimg_recipe_0093`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-79-fast-food-character-poster.jpg
+  - Gallery case: Fast Food Character Poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 173
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0229`, `adimg_recipe_0182`, `adimg_recipe_0195`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-80-blue-tears-cocktail-tutorial-infographic-poster.jpg
+  - Gallery case: Blue Tears cocktail tutorial infographic poster
+  - Source repository: EvoLinkAI/awesome-gpt-image-2-prompts
+  - Upstream case: Case 175
+  - Upstream file: cases/poster.md
+  - Upstream URL: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/cases/poster.md
+  - License note: Apache-2.0, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0059`, `adimg_template_0060`, `adimg_template_0061`, `adimg_template_0063`, `adimg_template_0131`; recipes `adimg_recipe_0019`, `adimg_recipe_0182`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-81-freestyle-312.jpg
+  - Gallery case: 鲜艳霓虹光影下的动感苏打水飞溅商业海报
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 312
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-312
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0002`, `adimg_recipe_0177`, `adimg_recipe_0178`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-82-freestyle-317.jpg
+  - Gallery case: 震撼视觉的深红影棚广角美妆大片
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 317
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-317
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0073`, `adimg_template_0077`, `adimg_template_0075`, `adimg_template_0074`, `adimg_template_0076`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0175`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-83-freestyle-318.jpg
+  - Gallery case: 珊瑚色极简影棚时尚商业大片
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 318
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-318
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0157`, `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`; recipes `adimg_recipe_0175`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-84-freestyle-321.jpg
+  - Gallery case: 都市落日时尚大片
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 321
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-321
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0175`, `adimg_recipe_0226`, `adimg_recipe_0228`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-85-freestyle-327.jpg
+  - Gallery case: 沉香玫瑰悬浮幻景
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 327
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-327
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-86-freestyle-332.jpg
+  - Gallery case: 茶π产品宣传海报
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 332
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-332
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0146`, `adimg_template_0209`; recipes `adimg_recipe_0055`, `adimg_recipe_0095`, `adimg_recipe_0019`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-87-ai.jpg
+  - Gallery case: AI 眼镜爆炸拆解图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 333
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-333
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0234`, `adimg_recipe_0233`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-88-campaign.jpg
+  - Gallery case: 四季包装 Campaign 宫格
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 342
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-342
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0068`, `adimg_template_0208`, `adimg_template_0292`, `adimg_template_0065`, `adimg_template_0066`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-89-campaign.jpg
+  - Gallery case: 运动时尚三联 Campaign
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 349
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-349
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0151`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`; recipes `adimg_recipe_0227`, `adimg_recipe_0175`, `adimg_recipe_0226`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-90-campaign.jpg
+  - Gallery case: 健身品牌力量 Campaign
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 351
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-351
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0231`, `adimg_template_0237`, `adimg_template_0016`, `adimg_template_0022`, `adimg_template_0023`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-91-freestyle-358.jpg
+  - Gallery case: 草莓能量饮料商业广告
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 358
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-358
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0177`, `adimg_recipe_0178`, `adimg_recipe_0144`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-92-freestyle-361.jpg
+  - Gallery case: 手机爆炸拆解图
+  - Source repository: freestylefly/awesome-gpt-image-2
+  - Upstream case: Case 361
+  - Upstream file: docs/gallery-part-2.md
+  - Upstream URL: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-361
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0145`, `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`; recipes `adimg_recipe_0234`, `adimg_recipe_0233`, `adimg_recipe_0182`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-93-neighborhood-cafe-storefront-signboard-concept.jpg
+  - Gallery case: Neighborhood Cafe Storefront Signboard Concept
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/isometric/isometric-cafe.png
+  - Upstream file: docs/isometric/isometric-cafe.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/isometric/isometric-cafe.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0004`, `adimg_template_0008`, `adimg_template_0010`, `adimg_template_0001`, `adimg_template_0002`; recipes `adimg_recipe_0042`, `adimg_recipe_0044`, `adimg_recipe_0068`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-94-corporate-lobby-brand-wall-mockup.jpg
+  - Gallery case: Corporate Lobby Brand Wall Mockup
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/architecture-interior/mid-century-modern-office-studio.png
+  - Upstream file: docs/architecture-interior/mid-century-modern-office-studio.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/architecture-interior/mid-century-modern-office-studio.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0280`, `adimg_template_0271`, `adimg_template_0272`, `adimg_template_0273`, `adimg_template_0274`; recipes `adimg_recipe_0238`, `adimg_recipe_0214`, `adimg_recipe_0223`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-95-packaging-dieline-product-main-image.jpg
+  - Gallery case: Packaging Dieline Product Main Image
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/product-food/product-dieline-box.png
+  - Upstream file: docs/product-food/product-dieline-box.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/product-food/product-dieline-box.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0065`, `adimg_template_0066`, `adimg_template_0067`, `adimg_template_0068`, `adimg_template_0069`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0184`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-96-chocolate-wafer-product-campaign.jpg
+  - Gallery case: Chocolate Wafer Product Campaign
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/product-food/product-chocolate-wafer.png
+  - Upstream file: docs/product-food/product-chocolate-wafer.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/product-food/product-chocolate-wafer.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0075`, `adimg_template_0073`, `adimg_template_0074`, `adimg_template_0076`, `adimg_template_0077`; recipes `adimg_recipe_0182`, `adimg_recipe_0149`, `adimg_recipe_0157`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-97-fresh-salad-commercial-photography.jpg
+  - Gallery case: Fresh Salad Commercial Photography
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/product-food/food-salad-explosion.png
+  - Upstream file: docs/product-food/food-salad-explosion.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/product-food/food-salad-explosion.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0079`, `adimg_template_0080`, `adimg_template_0155`, `adimg_template_0156`, `adimg_template_0157`; recipes `adimg_recipe_0149`, `adimg_recipe_0164`, `adimg_recipe_0175`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-98-city-tourism-promotion-poster.jpg
+  - Gallery case: City Tourism Promotion Poster
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/typography-posters/city-tourism-promo-poster.png
+  - Upstream file: docs/typography-posters/city-tourism-promo-poster.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/typography-posters/city-tourism-promo-poster.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0014`, `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0015`; recipes `adimg_recipe_0230`, `adimg_recipe_0049`, `adimg_recipe_0089`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-99-modern-tea-product-launch-poster.jpg
+  - Gallery case: Modern Tea Product Launch Poster
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/typography-posters/tea-poster.png
+  - Upstream file: docs/typography-posters/tea-poster.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/typography-posters/tea-poster.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0014`, `adimg_template_0016`, `adimg_template_0020`, `adimg_template_0013`, `adimg_template_0015`; recipes `adimg_recipe_0019`, `adimg_recipe_0182`, `adimg_recipe_0238`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.
+- docs/assets/gallery/cases/gallery-100-b2b-operations-event-backdrop.jpg
+  - Gallery case: B2B Operations Event Backdrop
+  - Source repository: wuyoscar/gpt_image_2_skill
+  - Upstream case: docs/uiux-mockups/desktop-analytics-dashboard-operations.png
+  - Upstream file: docs/uiux-mockups/desktop-analytics-dashboard-operations.png
+  - Upstream URL: https://github.com/wuyoscar/gpt_image_2_skill/blob/main/docs/uiux-mockups/desktop-analytics-dashboard-operations.png
+  - License note: MIT License, per upstream repository LICENSE
+  - Library composite: templates `adimg_template_0258`, `adimg_template_0035`, `adimg_template_0038`, `adimg_template_0039`, `adimg_template_0040`; recipes `adimg_recipe_0240`, `adimg_recipe_0238`, `adimg_recipe_0214`
+  - Transformation: source prompt and image were used as structure reference only; the public optimized prompt was regenerated and debranded by Image2 Ads Studio.

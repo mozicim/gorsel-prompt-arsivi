@@ -3,3 +3,81 @@
 # Yeni repo eklemek için buraya bir satır ekle, workflow otomatik alacak
 
 https://github.com/ZeroLu/awesome-gpt-image
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompt | 3987 star
+https://github.com/wuyoscar/GPT-Image2-Skill
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompt | 87 star
+https://github.com/Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompt | 72 star
+https://github.com/moosl/awsome-gpt-image-2-prompts
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompt | 65 star
+https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi
+
+# Otomatik kesif: 2026-07-27 | konu: ai-image-prompts | 3987 star
+https://github.com/wuyoscar/GPT-Image2-Skill
+
+# Otomatik kesif: 2026-07-27 | konu: ai-image-prompts | 478 star
+https://github.com/0aicoder0/Ultimate-ChatGPT-Image-and-Nano-Banana-Pro-Collection
+
+# Otomatik kesif: 2026-07-27 | konu: ai-image-prompts | 228 star
+https://github.com/devanshug2307/Awesome-AI-Image-Prompts
+
+# Otomatik kesif: 2026-07-27 | konu: ai-image-prompts | 74 star
+https://github.com/gpt-img-2/ai-image-prompt-cookbook
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 8817 star
+https://github.com/freestylefly/awesome-gpt-image-2
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 123 star
+https://github.com/EddieTYP/image-prompt-library
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 87 star
+https://github.com/Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 85 star
+https://github.com/Hainrixz/claude-banana
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 65 star
+https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 42 star
+https://github.com/kwistzzqq-byte/image2-ads-studio
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 24 star
+https://github.com/editp23/editp23
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 21 star
+https://github.com/indreamai/awesome-gpt-image-2-prompts
+
+# Otomatik kesif: 2026-07-27 | konu: image-prompts | 20 star
+https://github.com/mythkiven/rednote-director-skill
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 3987 star
+https://github.com/wuyoscar/GPT-Image2-Skill
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 791 star
+https://github.com/flatkey-ai/awesome-images
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 123 star
+https://github.com/EddieTYP/image-prompt-library
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 87 star
+https://github.com/Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 72 star
+https://github.com/moosl/awsome-gpt-image-2-prompts
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 65 star
+https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi
+
+# Otomatik kesif: 2026-07-27 | konu: gpt-image-2-prompts | 21 star
+https://github.com/indreamai/awesome-gpt-image-2-prompts
+
+# Otomatik kesif: 2026-07-27 | konu: midjourney-prompts | 310 star
+https://github.com/alphatrait/100000-ai-prompts-by-contentifyai
+
+# Otomatik kesif: 2026-07-27 | konu: midjourney-prompts | 29 star
+https://github.com/pyronn/prompt-studio

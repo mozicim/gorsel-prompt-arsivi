@@ -1,0 +1,104 @@
+from contextlib import asynccontextmanager
+from pathlib import Path
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from .config import APP_VERSION, resolve_hidden_features, resolve_library_path, resolve_library_storage_path, validate_app_owned_paths
+from .db import get_db_path, init_db
+from .routers import app_updates, cleanup, clusters, generation_jobs, generation_providers, images, import_drafts, items, tags
+from .services.library_archives import LibraryOperationLock
+from .services.generation_queue import PROVIDER_ID as NATIVE_GENERATION_PROVIDER_ID, enqueue_generation_jobs, recover_interrupted_generation_jobs
+
+DEFAULT_FRONTEND_DIST_PATH = Path(__file__).resolve().parents[1] / "frontend" / "dist"
+
+FRONTEND_INDEX_CACHE_HEADERS = {
+    "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+    "Pragma": "no-cache",
+    "Expires": "0",
+}
+FRONTEND_ASSET_CACHE_HEADERS = {"Cache-Control": "public, max-age=31536000, immutable"}
+
+
+def frontend_file_response(path: Path, *, is_index: bool) -> FileResponse:
+    headers = FRONTEND_INDEX_CACHE_HEADERS if is_index else FRONTEND_ASSET_CACHE_HEADERS
+    return FileResponse(path, headers=headers)
+
+
+def create_app(library_path: Path | str | None = None, frontend_dist_path: Path | str | None = None) -> FastAPI:
+    library = resolve_library_path(library_path)
+    validate_app_owned_paths(library)
+    frontend_dist = Path(frontend_dist_path).resolve() if frontend_dist_path is not None else DEFAULT_FRONTEND_DIST_PATH.resolve()
+    # Initialization and the running app share the same sibling lease as
+    # backup/restore. This keeps database and media replacement offline without
+    # introducing a second process-management system.
+    with LibraryOperationLock(library):
+        init_db(library)
+
+    @asynccontextmanager
+    async def lifespan(app: FastAPI):
+        with LibraryOperationLock(library):
+            recover_interrupted_generation_jobs(library)
+            enqueue_generation_jobs(library, provider=NATIVE_GENERATION_PROVIDER_ID)
+            yield
+
+    app = FastAPI(title="Image Prompt Library", version=APP_VERSION, lifespan=lifespan)
+    app.state.library_path = library
+    app.state.frontend_dist_path = frontend_dist
+    app.add_middleware(CORSMiddleware, allow_origins=["http://127.0.0.1:5177", "http://localhost:5177"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+    app.include_router(items.router, prefix="/api")
+    app.include_router(images.router, prefix="/api")
+    app.include_router(clusters.router, prefix="/api")
+    app.include_router(tags.router, prefix="/api")
+    app.include_router(import_drafts.router, prefix="/api")
+    app.include_router(generation_jobs.router, prefix="/api")
+    app.include_router(generation_providers.router, prefix="/api")
+    app.include_router(app_updates.router, prefix="/api")
+    app.include_router(cleanup.router, prefix="/api")
+    @app.get("/api/health")
+    def health(): return {"ok": True, "version": APP_VERSION}
+    @app.get("/api/config")
+    def config(): return {"version": APP_VERSION, "library_path": str(library), "database_path": str(get_db_path(library)), "preferred_prompt_language": "zh_hant", "features": resolve_hidden_features()}
+    @app.api_route("/api/{api_path:path}", methods=["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"])
+    def unknown_api(api_path: str):
+        raise HTTPException(status_code=404)
+    @app.get("/media/{media_path:path}")
+    def media(media_path: str):
+        safe_roots = {"originals", "thumbs", "previews", "generation-results", "generation-references"}
+        parts = Path(media_path).parts
+        if not parts or parts[0] not in safe_roots:
+            raise HTTPException(status_code=404)
+        try:
+            candidate = resolve_library_storage_path(library, media_path)
+            allowed_root = resolve_library_storage_path(library, parts[0])
+            candidate.relative_to(allowed_root)
+        except ValueError as exc:
+            raise HTTPException(status_code=404) from exc
+        if not candidate.is_file():
+            raise HTTPException(status_code=404)
+        return FileResponse(candidate)
+
+    def serve_frontend_path(frontend_path: str = ""):
+        if frontend_path == "api" or frontend_path.startswith("api/"):
+            raise HTTPException(status_code=404)
+        index = frontend_dist / "index.html"
+        if not index.is_file():
+            raise HTTPException(status_code=404, detail="Frontend build not found. Run `npm run build` first, or use `./scripts/dev.sh` for development.")
+        candidate = (frontend_dist / frontend_path).resolve() if frontend_path else index.resolve()
+        try:
+            candidate.relative_to(frontend_dist)
+        except ValueError as exc:
+            raise HTTPException(status_code=404) from exc
+        if candidate.is_file():
+            return frontend_file_response(candidate, is_index=candidate == index.resolve())
+        return frontend_file_response(index, is_index=True)
+
+    @app.get("/")
+    def frontend_root():
+        return serve_frontend_path()
+
+    @app.get("/{frontend_path:path}")
+    def frontend_app(frontend_path: str):
+        return serve_frontend_path(frontend_path)
+    return app
+
+app = create_app()
