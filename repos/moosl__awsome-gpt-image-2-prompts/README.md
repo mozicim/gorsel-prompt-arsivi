@@ -1,13 +1,13 @@
 <h1 align="center">🎨 Awesome GPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>1787 production-tested prompts for GPT Image 2</strong> (ChatGPT image generation),<br>
+  <strong>1791 production-tested prompts for GPT Image 2</strong> (ChatGPT image generation),<br>
   curated from X/Twitter, organized by category, every prompt verified with an actual render.
 </p>
 
 <p align="center">
   <a href="https://github.com/moosl/awsome-gpt-image-2-prompts"><img src="https://img.shields.io/github/stars/moosl/awsome-gpt-image-2-prompts?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/prompts-1787-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-1791-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -47,12 +47,12 @@ Every prompt has a **🚀 Try it now** button that opens the prompt detail page 
 
 - [🗂️ Categories Overview](#-categories-overview)
 - [📋 All Prompts](#-all-prompts)
-  - [🧍 Portrait & People (839)](#cat-portrait)
-  - [🛍️ Product & E-commerce (228)](#cat-product)
-  - [🏷️ Brand & Logos (165)](#cat-branding)
+  - [🧍 Portrait & People (840)](#cat-portrait)
+  - [🛍️ Product & E-commerce (229)](#cat-product)
+  - [🏷️ Brand & Logos (166)](#cat-branding)
   - [🎭 Character Design (130)](#cat-character)
   - [📰 Posters & Typography (95)](#cat-poster)
-  - [📊 Charts & Infographics (79)](#cat-infographic)
+  - [📊 Charts & Infographics (80)](#cat-infographic)
   - [🎨 Illustration & Art (78)](#cat-illustration)
   - [🧊 3D Renders (52)](#cat-3d-render)
   - [🔀 Before / After & Comparisons (40)](#cat-comparison)
@@ -75,12 +75,12 @@ Every prompt has a **🚀 Try it now** button that opens the prompt detail page 
 
 | Category | Prompts | Description |
 |---|---:|---|
-| 🧍 **[Portrait & People](#cat-portrait)** | 839 | Portraits, headshots, character photography, and people-centric visuals. |
-| 🛍️ **[Product & E-commerce](#cat-product)** | 228 | Product shots, packaging, detail pages, and commerce visuals. |
-| 🏷️ **[Brand & Logos](#cat-branding)** | 165 | Logos, identity systems, and brand campaign visuals. |
+| 🧍 **[Portrait & People](#cat-portrait)** | 840 | Portraits, headshots, character photography, and people-centric visuals. |
+| 🛍️ **[Product & E-commerce](#cat-product)** | 229 | Product shots, packaging, detail pages, and commerce visuals. |
+| 🏷️ **[Brand & Logos](#cat-branding)** | 166 | Logos, identity systems, and brand campaign visuals. |
 | 🎭 **[Character Design](#cat-character)** | 130 | Original characters, mascots, stylized figures, and character sheets. |
 | 📰 **[Posters & Typography](#cat-poster)** | 95 | Event posters, covers, type-driven visuals, and strong layouts. |
-| 📊 **[Charts & Infographics](#cat-infographic)** | 79 | Infographics, knowledge maps, technical explainers, and diagrams. |
+| 📊 **[Charts & Infographics](#cat-infographic)** | 80 | Infographics, knowledge maps, technical explainers, and diagrams. |
 | 🎨 **[Illustration & Art](#cat-illustration)** | 78 | Illustration, art styles, decorative images, and material experiments. |
 | 🧊 **[3D Renders](#cat-3d-render)** | 52 | 3D-style renders, isometric scenes, and CG-feel imagery. |
 | 🔀 **[Before / After & Comparisons](#cat-comparison)** | 40 | Side-by-side transformations, edits, and comparison renders. |
@@ -96,7 +96,7 @@ Every prompt has a **🚀 Try it now** button that opens the prompt detail page 
 | 🧪 **[poster gradient art](#cat-poster-gradient-art)** | 6 | Creative experiments, special tasks, and mixed workflows. |
 | 🧪 **[poster editorial poster](#cat-poster-editorial-poster)** | 6 | Creative experiments, special tasks, and mixed workflows. |
 | 🧪 **[ops kv banner](#cat-ops-kv-banner)** | 4 | Creative experiments, special tasks, and mixed workflows. |
-| | **1787** | |
+| | **1791** | |
 
 ---
 
@@ -110,9 +110,35 @@ Every prompt has a **🚀 Try it now** button that opens the prompt detail page 
 
 > Portraits, headshots, character photography, and people-centric visuals.
 
-**839 prompts** · [↑ back to top](#-table-of-contents)
+**840 prompts** · [↑ back to top](#-table-of-contents)
 
-#### 1. Windy meadow fine-art portrait
+#### 1. CCD street snap doll girl
+
+<a href="https://aiistudio.com/en/prompt/2081700140545696169?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2081700140545696169/0.jpg" alt="CCD street snap doll girl" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Replace the appearance of the person in Material 1 into Material 2. Generate a long-shot candid photo from a fan-site perspective, showing a cute young girl standing on a street under harsh sunlight. She has fair skin, thick black hair, side-swept bangs, and delicate doll-like features. She wears a distinctive silver necklace and bracelet and carries a stylish artistic pink-toned bag. A small assistant stands beside her, small in the frame but recognizable as accompanying her. The girl is moving excitedly with animated gestures, as if suddenly photographed. The image should feel like an accidental failed shutter press: obvious motion blur, uneven facial lighting, slight local overexposure, a casual slightly tilted angle, smartphone snapshot texture, high contrast, realistic everyday photography, minimal retouching, natural details, pink color palette, low saturation, low image quality, slightly blurry, CCD style, retro early-internet feeling, subculture, dreamcore, and a virtual surreal feeling.
+```
+
+</details>
+
+<details><summary>🖼️ More renders</summary>
+
+<img src="https://cdn.aiistudio.com/twitter/2081700140545696169/1.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2081700140545696169/2.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2081700140545696169/3.jpg" width="320">
+
+</details>
+
+👤 [@qisi_ai](https://x.com/qisi_ai) · [Source tweet](https://x.com/qisi_ai/status/2081700140545696169) · Tags: `comparison`
+
+**[🚀 Try it now on aiiStudio →](https://aiistudio.com/en/prompt/2081700140545696169?utm_source=github&utm_medium=readme&utm_campaign=prompt-link)**
+
+---
+
+#### 2. Windy meadow fine-art portrait
 
 <a href="https://aiistudio.com/en/prompt/2081597935947792465?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2081597935947792465/0.jpg" alt="Windy meadow fine-art portrait" width="560"></a>
 
@@ -138,7 +164,7 @@ Ultra-realistic cinematic fine-art portrait of a young woman with short tousled 
 
 ---
 
-#### 2. Boyfriend POV photography style
+#### 3. Boyfriend POV photography style
 
 <a href="https://aiistudio.com/en/prompt/2079924115650256936?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2079924115650256936/0.jpg" alt="Boyfriend POV photography style" width="560"></a>
 
@@ -163,7 +189,7 @@ Masochist-style boyfriend's point-of-view photography style
 
 ---
 
-#### 3. Mirrored Japanese editorial portrait
+#### 4. Mirrored Japanese editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2078328105496678456?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078328105496678456/0.jpg" alt="Mirrored Japanese editorial portrait" width="560"></a>
 
@@ -199,7 +225,7 @@ Inspired by Masumi Ishida, luminous summer film image language, shot on 85mm sho
 
 ---
 
-#### 4. Korean night street portrait
+#### 5. Korean night street portrait
 
 <a href="https://aiistudio.com/en/prompt/2078321725100757096?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078321725100757096/0.jpg" alt="Korean night street portrait" width="560"></a>
 
@@ -228,7 +254,7 @@ Style: Ultra-photorealistic, natural mobile photography, candid street portrait,
 
 ---
 
-#### 5. Minimal apartment fashion portrait
+#### 6. Minimal apartment fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2078318416545321372?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078318416545321372/0.jpg" alt="Minimal apartment fashion portrait" width="560"></a>
 
@@ -254,7 +280,7 @@ blurry, low quality, extra fingers, bad hands, distorted anatomy, duplicate limb
 
 ---
 
-#### 6. Airport candid selfie portrait
+#### 7. Airport candid selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2078307037755101314?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078307037755101314/0.jpg" alt="Airport candid selfie portrait" width="560"></a>
 
@@ -280,7 +306,7 @@ Highly detailed skin texture, natural facial proportions, realistic hair strands
 
 ---
 
-#### 7. Cinematic night street portrait
+#### 8. Cinematic night street portrait
 
 <a href="https://aiistudio.com/en/prompt/2078175211900588255?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078175211900588255/0.jpg" alt="Cinematic night street portrait" width="560"></a>
 
@@ -306,7 +332,7 @@ Photorealistic cinematic night portrait of a young woman standing on a city stre
 
 ---
 
-#### 8. Denim studio fashion portrait
+#### 9. Denim studio fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2078166256981574127?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078166256981574127/0.jpg" alt="Denim studio fashion portrait" width="560"></a>
 
@@ -330,7 +356,7 @@ A full-body studio portrait of a beautiful woman with long, wavy brown hair, pos
 
 ---
 
-#### 9. Summer wheat field portrait
+#### 10. Summer wheat field portrait
 
 <a href="https://aiistudio.com/en/prompt/2078163965906145642?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078163965906145642/0.jpg" alt="Summer wheat field portrait" width="560"></a>
 
@@ -355,7 +381,7 @@ Cinematic summer environmental portrait, vertical composition. Clear blue sky wi
 
 ---
 
-#### 10. Smartphone flash portrait
+#### 11. Smartphone flash portrait
 
 <a href="https://aiistudio.com/en/prompt/2078160857595572474?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078160857595572474/0.jpg" alt="Smartphone flash portrait" width="560"></a>
 
@@ -379,7 +405,7 @@ Style: ultra-photorealistic, candid social media portrait, natural skin pores, r
 
 ---
 
-#### 11. iPhone 16 cinematic portrait
+#### 12. iPhone 16 cinematic portrait
 
 <a href="https://aiistudio.com/en/prompt/2078139353789067527?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2078139353789067527/0.jpg" alt="iPhone 16 cinematic portrait" width="560"></a>
 
@@ -397,7 +423,7 @@ iPhone 16 candid shot, ultra-realistic photo, 9:16 vertical composition. A young
 
 ---
 
-#### 12. Sapphire palace garden portrait
+#### 13. Sapphire palace garden portrait
 
 <a href="https://aiistudio.com/en/prompt/2077982572286771509?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077982572286771509/0.jpg" alt="Sapphire palace garden portrait" width="560"></a>
 
@@ -423,7 +449,7 @@ Create a 9:16 ultra-realistic romantic palace garden portrait of an adult East A
 
 ---
 
-#### 13. Night beach flash smartphone photo
+#### 14. Night beach flash smartphone photo
 
 <a href="https://aiistudio.com/en/prompt/2077960427779076489?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077960427779076489/0.jpg" alt="Night beach flash smartphone photo" width="560"></a>
 
@@ -451,7 +477,7 @@ Bright smartphone flash illuminates her from the front, creating strong contrast
 
 ---
 
-#### 14. Motion blur streetwear portrait
+#### 15. Motion blur streetwear portrait
 
 <a href="https://aiistudio.com/en/prompt/2077956466858725427?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077956466858725427/0.jpg" alt="Motion blur streetwear portrait" width="560"></a>
 
@@ -469,7 +495,7 @@ Panning shot of a blurry european man, streetwear clothing, facing camera direct
 
 ---
 
-#### 15. Park smartphone selfie portrait
+#### 16. Park smartphone selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2077954146024796413?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077954146024796413/0.jpg" alt="Park smartphone selfie portrait" width="560"></a>
 
@@ -493,7 +519,7 @@ Ultra-realistic smartphone selfie, looks genuinely captured with a mobile phone,
 
 ---
 
-#### 16. Luxury car close-up selfie
+#### 17. Luxury car close-up selfie
 
 <a href="https://aiistudio.com/en/prompt/2077950235419222439?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077950235419222439/0.jpg" alt="Luxury car close-up selfie" width="560"></a>
 
@@ -521,7 +547,7 @@ Style: ultra-photorealistic, candid beauty selfie, luxury lifestyle, natural day
 
 ---
 
-#### 17. Overhead East Asian cinematic portrait
+#### 18. Overhead East Asian cinematic portrait
 
 <a href="https://aiistudio.com/en/prompt/2077942129960038743?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077942129960038743/0.jpg" alt="Overhead East Asian cinematic portrait" width="560"></a>
 
@@ -567,7 +593,7 @@ Avoid: sharply alert gaze, direct confident eye contact, bright cheerful eyes, c
 
 ---
 
-#### 18. Cozy morning bedroom selfie
+#### 19. Cozy morning bedroom selfie
 
 <a href="https://aiistudio.com/en/prompt/2077921897111843201?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077921897111843201/0.jpg" alt="Cozy morning bedroom selfie" width="560"></a>
 
@@ -604,7 +630,7 @@ Negative prompt: low quality, blurry, CGI, AI-generated look, plastic skin, beau
 
 ---
 
-#### 19. Kabukicho bikini editorial portrait
+#### 20. Kabukicho bikini editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2077772388658454747?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077772388658454747/0.jpg" alt="Kabukicho bikini editorial portrait" width="560"></a>
 
@@ -642,7 +668,7 @@ Fujifilm Classic Chrome film simulation, muted color palette, subdued blues and 
 
 ---
 
-#### 20. Sunlit cafe terrace film portrait
+#### 21. Sunlit cafe terrace film portrait
 
 <a href="https://aiistudio.com/en/prompt/2077705170696446286?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077705170696446286/0.jpg" alt="Sunlit cafe terrace film portrait" width="560"></a>
 
@@ -668,7 +694,7 @@ warm sunlit film portrait, young woman sitting relaxed at a small café terrace 
 
 ---
 
-#### 21. Baseball cap bedroom selfie
+#### 22. Baseball cap bedroom selfie
 
 <a href="https://aiistudio.com/en/prompt/2077677938724770283?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077677938724770283/0.jpg" alt="Baseball cap bedroom selfie" width="560"></a>
 
@@ -692,7 +718,7 @@ Ultra-realistic smartphone portrait, looks genuinely captured with a mobile phon
 
 ---
 
-#### 22. Golden hour bedroom fashion portrait
+#### 23. Golden hour bedroom fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077631250895085580?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077631250895085580/0.jpg" alt="Golden hour bedroom fashion portrait" width="560"></a>
 
@@ -712,7 +738,7 @@ blurry, low quality, cartoon, anime, CGI, extra fingers, deformed face, bad anat
 
 ---
 
-#### 23. Melancholic seaside portrait
+#### 24. Melancholic seaside portrait
 
 <a href="https://aiistudio.com/en/prompt/2077627547173695645?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077627547173695645/0.jpg" alt="Melancholic seaside portrait" width="560"></a>
 
@@ -738,7 +764,7 @@ A melancholic young East Asian woman with long, slightly messy black hair sits q
 
 ---
 
-#### 24. Indian floral fashion poster
+#### 25. Indian floral fashion poster
 
 <a href="https://aiistudio.com/en/prompt/2077556250938859858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077556250938859858/0.jpg" alt="Indian floral fashion poster" width="560"></a>
 
@@ -756,7 +782,7 @@ A luxury fashion editorial poster featuring a multi-portrait collage of an ultra
 
 ---
 
-#### 25. Korean train portrait in denim skirt
+#### 26. Korean train portrait in denim skirt
 
 <a href="https://aiistudio.com/en/prompt/2077424077539783074?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077424077539783074/0.jpg" alt="Korean train portrait in denim skirt" width="560"></a>
 
@@ -780,7 +806,7 @@ A hyper-realistic photorealistic portrait of a beautiful young Korean woman with
 
 ---
 
-#### 26. Japanese train station portrait
+#### 27. Japanese train station portrait
 
 <a href="https://aiistudio.com/en/prompt/2077421901656572021?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077421901656572021/0.jpg" alt="Japanese train station portrait" width="560"></a>
 
@@ -808,7 +834,7 @@ low quality, blurry, oversaturated, HDR, CGI, cartoon, extra limbs, extra finger
 
 ---
 
-#### 27. Taupe open-back fashion portrait
+#### 28. Taupe open-back fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077392741173018735?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077392741173018735/0.jpg" alt="Taupe open-back fashion portrait" width="560"></a>
 
@@ -844,7 +870,7 @@ Style: ultra-realistic luxury studio fashion photography, adult model, taupe ope
 
 ---
 
-#### 28. Heart hands close-up portrait
+#### 29. Heart hands close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2077386460215599441?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077386460215599441/0.jpg" alt="Heart hands close-up portrait" width="560"></a>
 
@@ -871,7 +897,7 @@ Lighting is soft and even, minimal shadows, natural highlights. Straight-on angl
 
 ---
 
-#### 29. Y2K selfie photo collage
+#### 30. Y2K selfie photo collage
 
 <a href="https://aiistudio.com/en/prompt/2077323413610520663?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077323413610520663/0.jpg" alt="Y2K selfie photo collage" width="560"></a>
 
@@ -894,7 +920,7 @@ iPhone 17 Pro Max direct flash style, bright highlights, slight overexposure, vi
 
 ---
 
-#### 30. Low angle balcony flower portrait
+#### 31. Low angle balcony flower portrait
 
 <a href="https://aiistudio.com/en/prompt/2077252531810373925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077252531810373925/0.jpg" alt="Low angle balcony flower portrait" width="560"></a>
 
@@ -919,7 +945,7 @@ Close-up shot from low angle, young woman's face peeking over white balcony rail
 
 ---
 
-#### 31. Pink floral chiffon portrait
+#### 32. Pink floral chiffon portrait
 
 <a href="https://aiistudio.com/en/prompt/2077231113303646242?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077231113303646242/0.jpg" alt="Pink floral chiffon portrait" width="560"></a>
 
@@ -945,7 +971,7 @@ Ultra-realistic portrait of a young woman against a plain light gray wall with a
 
 ---
 
-#### 32. Champagne couture Vogue portrait
+#### 33. Champagne couture Vogue portrait
 
 <a href="https://aiistudio.com/en/prompt/2077230666303815819?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077230666303815819/0.jpg" alt="Champagne couture Vogue portrait" width="560"></a>
 
@@ -975,7 +1001,7 @@ Captured from a cinematic low angle using an 85mm lens with shallow depth of fie
 
 ---
 
-#### 33. Sunlit indoor fashion portrait
+#### 34. Sunlit indoor fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077211550772064580?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077211550772064580/0.jpg" alt="Sunlit indoor fashion portrait" width="560"></a>
 
@@ -1011,7 +1037,7 @@ Style: ultra-realistic minimalist indoor fashion photography, adult model, beige
 
 ---
 
-#### 34. Purple mini skirt selfie portrait
+#### 35. Purple mini skirt selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2077195381465886923?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077195381465886923/0.jpg" alt="Purple mini skirt selfie portrait" width="560"></a>
 
@@ -1035,7 +1061,7 @@ A young beautiful East Asian woman with long straight dark brown hair kneels on 
 
 ---
 
-#### 35. Blue floral qipao fashion portrait
+#### 36. Blue floral qipao fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077120952157065246?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077120952157065246/0.jpg" alt="Blue floral qipao fashion portrait" width="560"></a>
 
@@ -1073,7 +1099,7 @@ Style: realistic elegant Chinese-style fashion photography, adult model, light b
 
 ---
 
-#### 36. Minimalist studio fashion portrait
+#### 37. Minimalist studio fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077110909223465116?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077110909223465116/0.jpg" alt="Minimalist studio fashion portrait" width="560"></a>
 
@@ -1103,7 +1129,7 @@ Style: realistic elegant Chinese-style fashion photography, adult model, light b
 
 ---
 
-#### 37. Luxury editorial sofa portrait
+#### 38. Luxury editorial sofa portrait
 
 <a href="https://aiistudio.com/en/prompt/2077060927434920093?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077060927434920093/0.jpg" alt="Luxury editorial sofa portrait" width="560"></a>
 
@@ -1132,7 +1158,7 @@ Style: ultra-realistic, luxury editorial portrait, Vogue-inspired, minimalist in
 
 ---
 
-#### 38. Night car interior fashion portrait
+#### 39. Night car interior fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2077060560173019354?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077060560173019354/0.jpg" alt="Night car interior fashion portrait" width="560"></a>
 
@@ -1168,7 +1194,7 @@ Style: ultra-realistic nighttime car interior portrait, adult model, relaxed sea
 
 ---
 
-#### 39. Smartphone half-face portrait
+#### 40. Smartphone half-face portrait
 
 <a href="https://aiistudio.com/en/prompt/2077059614517207200?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077059614517207200/0.jpg" alt="Smartphone half-face portrait" width="560"></a>
 
@@ -1192,7 +1218,7 @@ Ultra-realistic smartphone portrait, looks genuinely captured with a mobile phon
 
 ---
 
-#### 40. Motion blur beauty close-up
+#### 41. Motion blur beauty close-up
 
 <a href="https://aiistudio.com/en/prompt/2077024429121679745?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077024429121679745/0.jpg" alt="Motion blur beauty close-up" width="560"></a>
 
@@ -1218,7 +1244,7 @@ An artistic portrait featuring intentional motion blur, captured with a smartpho
 
 ---
 
-#### 41. Night bedroom candid portrait
+#### 42. Night bedroom candid portrait
 
 <a href="https://aiistudio.com/en/prompt/2077019606540251544?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2077019606540251544/0.jpg" alt="Night bedroom candid portrait" width="560"></a>
 
@@ -1242,7 +1268,7 @@ A sudden photo of his 20-year-old girlfriend as she is about to fall asleep in a
 
 ---
 
-#### 42. Dreamcore rooftop sky portrait
+#### 43. Dreamcore rooftop sky portrait
 
 <a href="https://aiistudio.com/en/prompt/2076918868589850764?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076918868589850764/0.jpg" alt="Dreamcore rooftop sky portrait" width="560"></a>
 
@@ -1267,7 +1293,7 @@ Create a real photographic work in a “dreamcore soft-focus portrait” style, 
 
 ---
 
-#### 43. Black knit fashion beauty portrait
+#### 44. Black knit fashion beauty portrait
 
 <a href="https://aiistudio.com/en/prompt/2076917564060627397?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076917564060627397/0.jpg" alt="Black knit fashion beauty portrait" width="560"></a>
 
@@ -1295,7 +1321,7 @@ blurry, low resolution, low quality, bad anatomy, extra fingers, deformed hands,
 
 ---
 
-#### 44. Crimson hair morning portrait
+#### 45. Crimson hair morning portrait
 
 <a href="https://aiistudio.com/en/prompt/2076864478873092186?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076864478873092186/0.jpg" alt="Crimson hair morning portrait" width="560"></a>
 
@@ -1324,7 +1350,7 @@ unreal human anatomy, small curves, airbrushed skin, plastic skin, CGI look, blu
 
 ---
 
-#### 45. Cafe lifestyle denim portrait
+#### 46. Cafe lifestyle denim portrait
 
 <a href="https://aiistudio.com/en/prompt/2076692481060581673?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076692481060581673/0.jpg" alt="Cafe lifestyle denim portrait" width="560"></a>
 
@@ -1353,7 +1379,7 @@ blurry, low resolution, overexposed highlights, harsh shadows, distorted face, e
 
 ---
 
-#### 46. East Asian mall fashion portrait
+#### 47. East Asian mall fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076595092391927864?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076595092391927864/0.jpg" alt="East Asian mall fashion portrait" width="560"></a>
 
@@ -1377,7 +1403,7 @@ A candid photograph of a beautiful young East Asian woman in her early 20s stand
 
 ---
 
-#### 47. Ivory bridal veil portrait
+#### 48. Ivory bridal veil portrait
 
 <a href="https://aiistudio.com/en/prompt/2076667967631470645?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076667967631470645/0.jpg" alt="Ivory bridal veil portrait" width="560"></a>
 
@@ -1429,7 +1455,7 @@ Negative constraints: no text, no watermark, no extra people, no duplicate jewel
 
 ---
 
-#### 48. Golden-hour beauty close-up
+#### 49. Golden-hour beauty close-up
 
 <a href="https://aiistudio.com/en/prompt/2076637896304402467?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076637896304402467/0.jpg" alt="Golden-hour beauty close-up" width="560"></a>
 
@@ -1457,7 +1483,7 @@ Shot on a full-frame DSLR with an 85mm f/1.4 portrait lens, shallow depth of fie
 
 ---
 
-#### 49. Pale pink mini dress portrait
+#### 50. Pale pink mini dress portrait
 
 <a href="https://aiistudio.com/en/prompt/2076635226248216911?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076635226248216911/0.jpg" alt="Pale pink mini dress portrait" width="560"></a>
 
@@ -1491,7 +1517,7 @@ Style: Realistic indoor fashion portrait, adult model, pale pink fitted mini dre
 
 ---
 
-#### 50. Y2K grass fashion editorial
+#### 51. Y2K grass fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2076629299201966458?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076629299201966458/0.jpg" alt="Y2K grass fashion editorial" width="560"></a>
 
@@ -1523,7 +1549,7 @@ Black leather shoulder bag placed beside her on the grass, rich natural grass te
 
 ---
 
-#### 51. Golden hour beauty portrait
+#### 52. Golden hour beauty portrait
 
 <a href="https://aiistudio.com/en/prompt/2076628112595673466?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076628112595673466/0.jpg" alt="Golden hour beauty portrait" width="560"></a>
 
@@ -1551,7 +1577,7 @@ Captured on a full-frame mirrorless camera with an 85mm f/1.4 portrait lens at a
 
 ---
 
-#### 52. Luxury office power portrait
+#### 53. Luxury office power portrait
 
 <a href="https://aiistudio.com/en/prompt/2076621024721035348?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076621024721035348/0.jpg" alt="Luxury office power portrait" width="560"></a>
 
@@ -1610,7 +1636,7 @@ Captured on a full-frame mirrorless camera with an 85mm f/1.4 portrait lens at a
 
 ---
 
-#### 53. Natural summer river portrait
+#### 54. Natural summer river portrait
 
 <a href="https://aiistudio.com/en/prompt/2076573360436469885?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076573360436469885/0.jpg" alt="Natural summer river portrait" width="560"></a>
 
@@ -1667,7 +1693,7 @@ Different face, altered facial proportions, long hair, childlike appearance, unr
 
 ---
 
-#### 54. Indian fitness gym portrait
+#### 55. Indian fitness gym portrait
 
 <a href="https://aiistudio.com/en/prompt/2076551422653731165?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076551422653731165/0.jpg" alt="Indian fitness gym portrait" width="560"></a>
 
@@ -1705,7 +1731,7 @@ Negative prompt: blurry, deformed, extra limbs, bad anatomy, over-smoothed skin,
 
 ---
 
-#### 55. Tropical beach portrait in white
+#### 56. Tropical beach portrait in white
 
 <a href="https://aiistudio.com/en/prompt/2076537472834756690?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076537472834756690/0.jpg" alt="Tropical beach portrait in white" width="560"></a>
 
@@ -1741,7 +1767,7 @@ Avoid plastic skin, cartoon style, distorted face, extra fingers, AI artifacts.
 
 ---
 
-#### 56. Rainy cafe window portrait
+#### 57. Rainy cafe window portrait
 
 <a href="https://aiistudio.com/en/prompt/2076525346028134426?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076525346028134426/0.jpg" alt="Rainy cafe window portrait" width="560"></a>
 
@@ -1769,7 +1795,7 @@ Intimate candid composition, subject looking sideways or subtly toward the camer
 
 ---
 
-#### 57. Skatepark jersey fashion portrait
+#### 58. Skatepark jersey fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076518233956622760?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076518233956622760/0.jpg" alt="Skatepark jersey fashion portrait" width="560"></a>
 
@@ -1799,7 +1825,7 @@ Intimate candid composition, subject looking sideways or subtly toward the camer
 
 ---
 
-#### 58. Tropical beach fashion portrait
+#### 59. Tropical beach fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076517429719781451?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076517429719781451/0.jpg" alt="Tropical beach fashion portrait" width="560"></a>
 
@@ -1825,7 +1851,7 @@ Ultra-realistic premium lifestyle fashion photography of a breathtakingly beauti
 
 ---
 
-#### 59. Neon cardigan garden portrait
+#### 60. Neon cardigan garden portrait
 
 <a href="https://aiistudio.com/en/prompt/2076510695491842410?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076510695491842410/0.jpg" alt="Neon cardigan garden portrait" width="560"></a>
 
@@ -1856,7 +1882,7 @@ blurry, low quality, low resolution, overprocessed skin, cartoon, anime, CGI, pa
 
 ---
 
-#### 60. Pink dress indoor fashion portrait
+#### 61. Pink dress indoor fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076501888791453855?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076501888791453855/0.jpg" alt="Pink dress indoor fashion portrait" width="560"></a>
 
@@ -1890,7 +1916,7 @@ Style: realistic indoor fashion portrait, adult model, pale-pink fitted mini dre
 
 ---
 
-#### 61. Low-angle kitchen snapshot
+#### 62. Low-angle kitchen snapshot
 
 <a href="https://aiistudio.com/en/prompt/2076497056001339754?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076497056001339754/0.jpg" alt="Low-angle kitchen snapshot" width="560"></a>
 
@@ -1918,7 +1944,7 @@ Style: Ultra-photorealistic, candid documentary photography, cinematic snapshot,
 
 ---
 
-#### 62. Beach knitwear fashion portrait
+#### 63. Beach knitwear fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076491020787937579?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076491020787937579/0.jpg" alt="Beach knitwear fashion portrait" width="560"></a>
 
@@ -1943,7 +1969,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 ---
 
-#### 63. Skatepark low-angle fashion
+#### 64. Skatepark low-angle fashion
 
 <a href="https://aiistudio.com/en/prompt/2076487175114576057?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076487175114576057/0.jpg" alt="Skatepark low-angle fashion" width="560"></a>
 
@@ -1972,7 +1998,7 @@ subject_and_outfit_formula": "A stylish young East Asian woman with a confident 
 
 ---
 
-#### 64. Vintage kitchen indie portrait
+#### 65. Vintage kitchen indie portrait
 
 <a href="https://aiistudio.com/en/prompt/2076486773530841329?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076486773530841329/0.jpg" alt="Vintage kitchen indie portrait" width="560"></a>
 
@@ -2085,7 +2111,7 @@ No AI look
 
 ---
 
-#### 65. Vintage mansion fashion portrait
+#### 66. Vintage mansion fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2076365980469690685?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076365980469690685/0.jpg" alt="Vintage mansion fashion portrait" width="560"></a>
 
@@ -2118,7 +2144,7 @@ Warm moody cinematic lighting comes from soft daylight through tall rear windows
 
 ---
 
-#### 66. Abandoned exam room editorial
+#### 67. Abandoned exam room editorial
 
 <a href="https://aiistudio.com/en/prompt/2076473988180840809?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076473988180840809/0.jpg" alt="Abandoned exam room editorial" width="560"></a>
 
@@ -2142,7 +2168,7 @@ Create a photorealistic editorial portrait. A 20s seductive stunning Japanese or
 
 ---
 
-#### 67. Y2K bridge sunset portrait
+#### 68. Y2K bridge sunset portrait
 
 <a href="https://aiistudio.com/en/prompt/2076344387098095795?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076344387098095795/0.jpg" alt="Y2K bridge sunset portrait" width="560"></a>
 
@@ -2166,7 +2192,7 @@ A cinematic, high-quality portrait captured on a Canon EOS R5 with an RF 85mm f/
 
 ---
 
-#### 68. Japanese futon film portrait
+#### 69. Japanese futon film portrait
 
 <a href="https://aiistudio.com/en/prompt/2076335782328242496?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076335782328242496/0.jpg" alt="Japanese futon film portrait" width="560"></a>
 
@@ -2192,7 +2218,7 @@ A medium portrait captured with a 50mm lens at f/2.0. The subject is a young Eas
 
 ---
 
-#### 69. Yellow scooter smartphone portrait
+#### 70. Yellow scooter smartphone portrait
 
 <a href="https://aiistudio.com/en/prompt/2076329404129525901?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076329404129525901/0.jpg" alt="Yellow scooter smartphone portrait" width="560"></a>
 
@@ -2216,7 +2242,7 @@ Ultra-realistic smartphone photo, looks genuinely captured with a mobile phone, 
 
 ---
 
-#### 70. Luxury hotel couple editorial
+#### 71. Luxury hotel couple editorial
 
 <a href="https://aiistudio.com/en/prompt/2076327470609858672?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076327470609858672/0.jpg" alt="Luxury hotel couple editorial" width="560"></a>
 
@@ -2250,7 +2276,7 @@ Warm cinematic lighting, shallow depth of field, soft golden highlights, realist
 
 ---
 
-#### 71. Cherry blossom road trip portrait
+#### 72. Cherry blossom road trip portrait
 
 <a href="https://aiistudio.com/en/prompt/2076324192853823517?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076324192853823517/0.jpg" alt="Cherry blossom road trip portrait" width="560"></a>
 
@@ -2280,7 +2306,7 @@ spring blossom aesthetic, cherry blossoms, vintage car, travel photography, cozy
 
 ---
 
-#### 72. Flower market rose portrait
+#### 73. Flower market rose portrait
 
 <a href="https://aiistudio.com/en/prompt/2076317088315322765?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076317088315322765/0.jpg" alt="Flower market rose portrait" width="560"></a>
 
@@ -2308,7 +2334,7 @@ Ultra-realistic cinematic street photography of a beautiful young East Asian wom
 
 ---
 
-#### 73. Birthday flash portrait
+#### 74. Birthday flash portrait
 
 <a href="https://aiistudio.com/en/prompt/2076309003429368290?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076309003429368290/0.jpg" alt="Birthday flash portrait" width="560"></a>
 
@@ -2326,7 +2352,7 @@ High-contrast direct flash, cool-toned dark shadows, locally overexposed highlig
 
 ---
 
-#### 74. Y2K overhead fashion editorial
+#### 75. Y2K overhead fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2076276489394483465?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076276489394483465/0.jpg" alt="Y2K overhead fashion editorial" width="560"></a>
 
@@ -2364,7 +2390,7 @@ Composition: full body, centered composition, editorial magazine cover, negative
 
 ---
 
-#### 75. Tropical romance collage
+#### 76. Tropical romance collage
 
 <a href="https://aiistudio.com/en/prompt/2076267830396555585?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076267830396555585/0.jpg" alt="Tropical romance collage" width="560"></a>
 
@@ -2382,7 +2408,7 @@ Ultra-realistic IMAX-level Netflix-style cinematic tropical-romance collage, 9:1
 
 ---
 
-#### 76. Overhead Y2K bed portrait
+#### 77. Overhead Y2K bed portrait
 
 <a href="https://aiistudio.com/en/prompt/2076226919297888339?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076226919297888339/0.jpg" alt="Overhead Y2K bed portrait" width="560"></a>
 
@@ -2424,7 +2450,7 @@ Negative Prompt: low quality, blurry, flat lighting, dull colors, bad anatomy, e
 
 ---
 
-#### 77. Seaside cardigan beauty portrait
+#### 78. Seaside cardigan beauty portrait
 
 <a href="https://aiistudio.com/en/prompt/2076207952105713762?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076207952105713762/0.jpg" alt="Seaside cardigan beauty portrait" width="560"></a>
 
@@ -2454,7 +2480,7 @@ summer aesthetic, seaside portrait, ocean breeze, soft pastel colors, feminine e
 
 ---
 
-#### 78. Ferris wheel boho summer photo
+#### 79. Ferris wheel boho summer photo
 
 <a href="https://aiistudio.com/en/prompt/2076205946674766094?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076205946674766094/0.jpg" alt="Ferris wheel boho summer photo" width="560"></a>
 
@@ -2483,7 +2509,7 @@ The face, identity, appearance, age, and all unique characteristics of the perso
 
 ---
 
-#### 79. Vintage bedroom portrait
+#### 80. Vintage bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2076202949760680121?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076202949760680121/0.jpg" alt="Vintage bedroom portrait" width="560"></a>
 
@@ -2501,7 +2527,7 @@ Create a realistic 3:4 vertical environmental portrait with the feeling of an in
 
 ---
 
-#### 80. CCD indoor candid portrait
+#### 81. CCD indoor candid portrait
 
 <a href="https://aiistudio.com/en/prompt/2076186185261850883?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076186185261850883/0.jpg" alt="CCD indoor candid portrait" width="560"></a>
 
@@ -2529,7 +2555,7 @@ She wears a soft black satin camisole and sheer black stockings, with realistic 
 
 ---
 
-#### 81. Apartment floor close-up portrait
+#### 82. Apartment floor close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2076184782677872656?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076184782677872656/0.jpg" alt="Apartment floor close-up portrait" width="560"></a>
 
@@ -2577,7 +2603,7 @@ painted, not illustration, not anime.
 
 ---
 
-#### 82. iPhone home snapshot portrait
+#### 83. iPhone home snapshot portrait
 
 <a href="https://aiistudio.com/en/prompt/2076183526647742489?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076183526647742489/0.jpg" alt="iPhone home snapshot portrait" width="560"></a>
 
@@ -2595,7 +2621,7 @@ A realistic everyday smartphone snapshot as if taken on an iPhone 16 Pro. A beau
 
 ---
 
-#### 83. East Asian bedroom portrait
+#### 84. East Asian bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2076182720192061454?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076182720192061454/0.jpg" alt="East Asian bedroom portrait" width="560"></a>
 
@@ -2623,7 +2649,7 @@ Negative Prompt: low quality, blurry, overexposed, watermark, logo, text, signat
 
 ---
 
-#### 84. Early 2000s sofa portrait
+#### 85. Early 2000s sofa portrait
 
 <a href="https://aiistudio.com/en/prompt/2076181875866083727?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076181875866083727/0.jpg" alt="Early 2000s sofa portrait" width="560"></a>
 
@@ -2653,7 +2679,7 @@ Mood: sleepy, private, melancholic, effortlessly attractive, slightly rebellious
 
 ---
 
-#### 85. Night smartphone selfie portrait
+#### 86. Night smartphone selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2076146935866720540?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076146935866720540/0.jpg" alt="Night smartphone selfie portrait" width="560"></a>
 
@@ -2677,7 +2703,7 @@ Ultra-realistic smartphone selfie taken with a mobile phone at night, looks genu
 
 ---
 
-#### 86. Luxury car golden-hour selfie
+#### 87. Luxury car golden-hour selfie
 
 <a href="https://aiistudio.com/en/prompt/2076143107532304615?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076143107532304615/0.jpg" alt="Luxury car golden-hour selfie" width="560"></a>
 
@@ -2710,7 +2736,7 @@ luxury beauty portrait, golden-hour selfie, influencer aesthetic, elegant fashio
 
 ---
 
-#### 87. Japanese gravure bedroom photo
+#### 88. Japanese gravure bedroom photo
 
 <a href="https://aiistudio.com/en/prompt/2076139490515747158?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2076139490515747158/0.jpg" alt="Japanese gravure bedroom photo" width="560"></a>
 
@@ -2734,7 +2760,7 @@ Soft daylight from a window, bright clean room, warm natural color grading, shal
 
 ---
 
-#### 88. CCD flash nightlife portrait
+#### 89. CCD flash nightlife portrait
 
 <a href="https://aiistudio.com/en/prompt/2075943661909823766?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075943661909823766/0.jpg" alt="CCD flash nightlife portrait" width="560"></a>
 
@@ -2762,7 +2788,7 @@ Mood: cold glamorous nightlife queen, aloof, seductive, expensive, hard to appro
 
 ---
 
-#### 89. Cottagecore window portrait
+#### 90. Cottagecore window portrait
 
 <a href="https://aiistudio.com/en/prompt/2075800777545675259?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075800777545675259/0.jpg" alt="Cottagecore window portrait" width="560"></a>
 
@@ -2804,7 +2830,7 @@ Natural window light mixed with warm indoor ambient lighting, shallow depth of f
 
 ---
 
-#### 90. Blossom editorial portrait
+#### 91. Blossom editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2075436239852101967?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075436239852101967/0.jpg" alt="Blossom editorial portrait" width="560"></a>
 
@@ -2855,7 +2881,7 @@ Natural window light mixed with warm indoor ambient lighting, shallow depth of f
 
 ---
 
-#### 91. Chocolate blazer fashion portrait
+#### 92. Chocolate blazer fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2075071088137208063?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075071088137208063/0.jpg" alt="Chocolate blazer fashion portrait" width="560"></a>
 
@@ -2881,7 +2907,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 ---
 
-#### 92. Korean glasses beauty portrait
+#### 93. Korean glasses beauty portrait
 
 <a href="https://aiistudio.com/en/prompt/2074700254801203447?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074700254801203447/0.jpg" alt="Korean glasses beauty portrait" width="560"></a>
 
@@ -2907,7 +2933,7 @@ Negative Prompt: low quality, blurry, cartoon, anime, CGI, plastic skin, AI arti
 
 ---
 
-#### 93. Lace feather beauty portrait
+#### 94. Lace feather beauty portrait
 
 <a href="https://aiistudio.com/en/prompt/2074688357167460860?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074688357167460860/0.jpg" alt="Lace feather beauty portrait" width="560"></a>
 
@@ -2939,7 +2965,7 @@ Negative prompt: low quality, harsh lighting, heavy makeup, sharp shadows, disto
 
 ---
 
-#### 94. Giant coffee mug surreal scene
+#### 95. Giant coffee mug surreal scene
 
 <a href="https://aiistudio.com/en/prompt/2074682583770874190?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074682583770874190/0.jpg" alt="Giant coffee mug surreal scene" width="560"></a>
 
@@ -2963,7 +2989,7 @@ A SURREAL, ATMOSPHERIC COMPOSITION WHERE A BEAUTIFUL 30-YEAR-OLD WOMAN WITH THE 
 
 ---
 
-#### 95. Mixed-reality street portrait
+#### 96. Mixed-reality street portrait
 
 <a href="https://aiistudio.com/en/prompt/2074540375319163233?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074540375319163233/0.jpg" alt="Mixed-reality street portrait" width="560"></a>
 
@@ -2989,7 +3015,7 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 
 ---
 
-#### 96. Low-angle Tokyo street portrait
+#### 97. Low-angle Tokyo street portrait
 
 <a href="https://aiistudio.com/en/prompt/2074539929196200363?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074539929196200363/0.jpg" alt="Low-angle Tokyo street portrait" width="560"></a>
 
@@ -3008,7 +3034,7 @@ dutch angle, stray cat tail --ar 9:16
 
 ---
 
-#### 97. Cinematic rim light studio portrait
+#### 98. Cinematic rim light studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2074505205429735763?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074505205429735763/0.jpg" alt="Cinematic rim light studio portrait" width="560"></a>
 
@@ -3034,7 +3060,7 @@ A professional, cinematic portrait of a young woman with long, voluminous, dark 
 
 ---
 
-#### 98. Wildflower field portrait
+#### 99. Wildflower field portrait
 
 <a href="https://aiistudio.com/en/prompt/2074505187876807008?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074505187876807008/0.jpg" alt="Wildflower field portrait" width="560"></a>
 
@@ -3052,7 +3078,7 @@ cinematic, wide-angle portrait of her sitting in a wildflower field during the d
 
 ---
 
-#### 99. Cyber-core street HUD portrait
+#### 100. Cyber-core street HUD portrait
 
 <a href="https://aiistudio.com/en/prompt/2074473336327802940?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074473336327802940/0.jpg" alt="Cyber-core street HUD portrait" width="560"></a>
 
@@ -3070,7 +3096,7 @@ Cyber-core editorial photography of [your details] wearing [clothing], walking t
 
 ---
 
-#### 100. Table tennis sports portrait
+#### 101. Table tennis sports portrait
 
 <a href="https://aiistudio.com/en/prompt/2074463449996734464?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074463449996734464/0.jpg" alt="Table tennis sports portrait" width="560"></a>
 
@@ -3092,7 +3118,7 @@ Realistic indoor sports hall environment with polished wooden floor, green and y
 
 ---
 
-#### 101. Luxury sunglasses fashion portrait
+#### 102. Luxury sunglasses fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2074463163139993782?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074463163139993782/0.jpg" alt="Luxury sunglasses fashion portrait" width="560"></a>
 
@@ -3126,7 +3152,7 @@ Negative Prompt: low quality, AI look, plastic skin, beauty filter, oversaturate
 
 ---
 
-#### 102. Sunset double exposure portrait
+#### 103. Sunset double exposure portrait
 
 <a href="https://aiistudio.com/en/prompt/2074450071098171724?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074450071098171724/0.jpg" alt="Sunset double exposure portrait" width="560"></a>
 
@@ -3144,7 +3170,7 @@ A stunning double exposure artistic portrait of a woman with her eyes closed and
 
 ---
 
-#### 103. Cosplay selfie OK gesture
+#### 104. Cosplay selfie OK gesture
 
 <a href="https://aiistudio.com/en/prompt/2074449079992799669?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074449079992799669/0.jpg" alt="Cosplay selfie OK gesture" width="560"></a>
 
@@ -3170,7 +3196,7 @@ Specified character: {Ganyu from Genshin Impact}. Soft-light CCD Korean-style sl
 
 ---
 
-#### 104. Stereoscopic film photo
+#### 105. Stereoscopic film photo
 
 <a href="https://aiistudio.com/en/prompt/2074448344974291293?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074448344974291293/0.jpg" alt="Stereoscopic film photo" width="560"></a>
 
@@ -3188,7 +3214,7 @@ Stereoscopic photo of two women, Kodak Ektar 100 colour negative 35mm film, film
 
 ---
 
-#### 105. Luxury casting contact sheet
+#### 106. Luxury casting contact sheet
 
 <a href="https://aiistudio.com/en/prompt/2074446170412535875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074446170412535875/0.jpg" alt="Luxury casting contact sheet" width="560"></a>
 
@@ -3206,7 +3232,7 @@ Luxury fashion casting contact sheet of a woman with thick espresso-brown curls 
 
 ---
 
-#### 106. Rainy Seoul bookstore portrait
+#### 107. Rainy Seoul bookstore portrait
 
 <a href="https://aiistudio.com/en/prompt/2074437044743590288?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074437044743590288/0.jpg" alt="Rainy Seoul bookstore portrait" width="560"></a>
 
@@ -3224,7 +3250,7 @@ A breathtaking 22-year-old Korean woman with long silky black hair wearing a cre
 
 ---
 
-#### 107. Tokyo bathroom flash portrait
+#### 108. Tokyo bathroom flash portrait
 
 <a href="https://aiistudio.com/en/prompt/2074436218289582268?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074436218289582268/0.jpg" alt="Tokyo bathroom flash portrait" width="560"></a>
 
@@ -3252,7 +3278,7 @@ Lighting: strong direct flash, shiny skin highlights, subtle halation, visible f
 
 ---
 
-#### 108. Dusk compact-camera park portrait
+#### 109. Dusk compact-camera park portrait
 
 <a href="https://aiistudio.com/en/prompt/2074421892560384188?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074421892560384188/0.jpg" alt="Dusk compact-camera park portrait" width="560"></a>
 
@@ -3270,7 +3296,7 @@ Outdoors on grass in a park or open yard at dusk, low-light consumer compact-cam
 
 ---
 
-#### 109. Beatnik Korean studio portrait
+#### 110. Beatnik Korean studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2074418815287578858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074418815287578858/0.jpg" alt="Beatnik Korean studio portrait" width="560"></a>
 
@@ -3295,7 +3321,7 @@ dutch angle, stray dog tail --ar 9
 
 ---
 
-#### 110. Medieval sword heroine portrait
+#### 111. Medieval sword heroine portrait
 
 <a href="https://aiistudio.com/en/prompt/2074401527478043077?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074401527478043077/0.jpg" alt="Medieval sword heroine portrait" width="560"></a>
 
@@ -3319,7 +3345,7 @@ Using the uploaded reference photo, keep the subject's face, identity, and expre
 
 ---
 
-#### 111. Golden-hour staircase portrait
+#### 112. Golden-hour staircase portrait
 
 <a href="https://aiistudio.com/en/prompt/2074387982313009492?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074387982313009492/0.jpg" alt="Golden-hour staircase portrait" width="560"></a>
 
@@ -3337,7 +3363,7 @@ A model sitting on modern staircase, one knee bent, other leg extended. Hair lon
 
 ---
 
-#### 112. Late-night laptop portrait
+#### 113. Late-night laptop portrait
 
 <a href="https://aiistudio.com/en/prompt/2074376879147258056?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074376879147258056/0.jpg" alt="Late-night laptop portrait" width="560"></a>
 
@@ -3361,7 +3387,7 @@ A model sitting on modern staircase, one knee bent, other leg extended. Hair lon
 
 ---
 
-#### 113. Dreamlike beach motion portrait
+#### 114. Dreamlike beach motion portrait
 
 <a href="https://aiistudio.com/en/prompt/2074365749016367486?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074365749016367486/0.jpg" alt="Dreamlike beach motion portrait" width="560"></a>
 
@@ -3387,7 +3413,7 @@ The aspect ratio is 9:16.
 
 ---
 
-#### 114. Indian black lace portrait
+#### 115. Indian black lace portrait
 
 <a href="https://aiistudio.com/en/prompt/2074347105469210797?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074347105469210797/0.jpg" alt="Indian black lace portrait" width="560"></a>
 
@@ -3419,7 +3445,7 @@ Negative prompt: deformed, ugly, blurry, low quality, cartoon, painting, over-sa
 
 ---
 
-#### 115. Minimalist gallery fashion photoshoot
+#### 116. Minimalist gallery fashion photoshoot
 
 <a href="https://aiistudio.com/en/prompt/2074342833515855902?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074342833515855902/0.jpg" alt="Minimalist gallery fashion photoshoot" width="560"></a>
 
@@ -3459,7 +3485,7 @@ low quality, blurry, oversaturated colors, heavy makeup, exaggerated facial feat
 
 ---
 
-#### 116. Emerald CEO fashion portrait
+#### 117. Emerald CEO fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2074335853498011753?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074335853498011753/0.jpg" alt="Emerald CEO fashion portrait" width="560"></a>
 
@@ -3491,7 +3517,7 @@ Quality: Hyper-realistic, photorealistic, ultra-detailed skin texture, natural h
 
 ---
 
-#### 117. Mall fashion twin selfie
+#### 118. Mall fashion twin selfie
 
 <a href="https://aiistudio.com/en/prompt/2074335534659375550?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074335534659375550/0.jpg" alt="Mall fashion twin selfie" width="560"></a>
 
@@ -3519,7 +3545,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 ---
 
-#### 118. Japanese school bedroom portrait
+#### 119. Japanese school bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2074282250531664134?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074282250531664134/0.jpg" alt="Japanese school bedroom portrait" width="560"></a>
 
@@ -3551,7 +3577,7 @@ Soft natural indoor lighting, gentle shadows, warm color grading, highly detaile
 
 ---
 
-#### 119. Warm brick studio portrait
+#### 120. Warm brick studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2074260351328362804?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074260351328362804/0.jpg" alt="Warm brick studio portrait" width="560"></a>
 
@@ -3575,7 +3601,7 @@ An intimate indoor studio settingwraps the scene in dark brick textures and warm
 
 ---
 
-#### 120. Emerald rooftop city portrait
+#### 121. Emerald rooftop city portrait
 
 <a href="https://aiistudio.com/en/prompt/2074229649001886148?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074229649001886148/0.jpg" alt="Emerald rooftop city portrait" width="560"></a>
 
@@ -3593,7 +3619,7 @@ The scene unfolds on a high urban rooftop under a soft, diffused overcast sky, o
 
 ---
 
-#### 121. Garage mechanic actress portrait
+#### 122. Garage mechanic actress portrait
 
 <a href="https://aiistudio.com/en/prompt/2074220398917411110?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074220398917411110/0.jpg" alt="Garage mechanic actress portrait" width="560"></a>
 
@@ -3619,7 +3645,7 @@ Low quality slightly blurry amateur iphone ultra close-up shot of a american act
 
 ---
 
-#### 122. Cinematic Anya studio portrait
+#### 123. Cinematic Anya studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2074197602787340539?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074197602787340539/0.jpg" alt="Cinematic Anya studio portrait" width="560"></a>
 
@@ -3643,7 +3669,7 @@ Anya Taylor Joy. An intimate indoor studio setting wraps the scene in dark brick
 
 ---
 
-#### 123. Shoji window East Asian portrait
+#### 124. Shoji window East Asian portrait
 
 <a href="https://aiistudio.com/en/prompt/2074169969429111183?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074169969429111183/0.jpg" alt="Shoji window East Asian portrait" width="560"></a>
 
@@ -3669,7 +3695,7 @@ A medium portrait captured with a 50mm lens at f/2.0. The subject is a young Eas
 
 ---
 
-#### 124. Marble bathtub cinematic portrait
+#### 125. Marble bathtub cinematic portrait
 
 <a href="https://aiistudio.com/en/prompt/2074163725381390515?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074163725381390515/0.jpg" alt="Marble bathtub cinematic portrait" width="560"></a>
 
@@ -3693,7 +3719,7 @@ A cinematic, intimate full-figure photo of Sophie Turner with a deeply relaxed e
 
 ---
 
-#### 125. Night hotel lingerie portrait
+#### 126. Night hotel lingerie portrait
 
 <a href="https://aiistudio.com/en/prompt/2074152360696545727?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074152360696545727/0.jpg" alt="Night hotel lingerie portrait" width="560"></a>
 
@@ -3717,7 +3743,7 @@ A stunning mid-20s Japanese or Korean woman. wearing a lingerie outfit, lying on
 
 ---
 
-#### 126. Golden hour woman portrait
+#### 127. Golden hour woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2074142688312512885?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074142688312512885/0.jpg" alt="Golden hour woman portrait" width="560"></a>
 
@@ -3743,7 +3769,7 @@ A cinematic close-up portrait of a beautiful young woman with dark brown hair in
 
 ---
 
-#### 127. Doodle hug studio portrait
+#### 128. Doodle hug studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2074109926327435393?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074109926327435393/0.jpg" alt="Doodle hug studio portrait" width="560"></a>
 
@@ -3768,7 +3794,7 @@ A cute minimalist portrait of a young woman sitting casually on the floor in a c
 
 ---
 
-#### 128. Luxury penthouse man portrait
+#### 129. Luxury penthouse man portrait
 
 <a href="https://aiistudio.com/en/prompt/2074089139088023993?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074089139088023993/0.jpg" alt="Luxury penthouse man portrait" width="560"></a>
 
@@ -3793,7 +3819,7 @@ Behind him, floor-to-ceiling glass windows reveal a breathtaking city skyline gl
 
 ---
 
-#### 129. Cinematic door gap thriller close-up
+#### 130. Cinematic door gap thriller close-up
 
 <a href="https://aiistudio.com/en/prompt/2074086326966907380?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074086326966907380/0.jpg" alt="Cinematic door gap thriller close-up" width="560"></a>
 
@@ -3812,7 +3838,7 @@ Use the provided face reference image for all facial details — bone structure,
 
 ---
 
-#### 130. Moody East Asian portrait
+#### 131. Moody East Asian portrait
 
 <a href="https://aiistudio.com/en/prompt/2074079683583566319?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074079683583566319/0.jpg" alt="Moody East Asian portrait" width="560"></a>
 
@@ -3836,7 +3862,7 @@ A cinematic close-up portrait of a young East Asian woman with long slightly mes
 
 ---
 
-#### 131. Pink orchid water portrait
+#### 132. Pink orchid water portrait
 
 <a href="https://aiistudio.com/en/prompt/2074065157932888285?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074065157932888285/0.jpg" alt="Pink orchid water portrait" width="560"></a>
 
@@ -3866,7 +3892,7 @@ Negative Prompt: low quality, blurry, deformed, ugly, extra limbs, bad anatomy, 
 
 ---
 
-#### 132. Luxury beverage forced perspective
+#### 133. Luxury beverage forced perspective
 
 <a href="https://aiistudio.com/en/prompt/2074054562122752127?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074054562122752127/0.jpg" alt="Luxury beverage forced perspective" width="560"></a>
 
@@ -3884,7 +3910,7 @@ Ultra-realistic lifestyle portrait of a beautiful woman standing in a luxurious 
 
 ---
 
-#### 133. Fantasy knight low-angle portrait
+#### 134. Fantasy knight low-angle portrait
 
 <a href="https://aiistudio.com/en/prompt/2074050441848267112?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074050441848267112/0.jpg" alt="Fantasy knight low-angle portrait" width="560"></a>
 
@@ -3908,7 +3934,7 @@ Create a vertical 3:4outdoor fantasy fashion portrait. Use an extreme low-angle 
 
 ---
 
-#### 134. Golden hour cafe fashion portrait
+#### 135. Golden hour cafe fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2074038533254443479?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074038533254443479/0.jpg" alt="Golden hour cafe fashion portrait" width="560"></a>
 
@@ -3933,7 +3959,7 @@ Ultra-realistic fashion portrait of a beautiful young woman standing outside a s
 
 ---
 
-#### 135. Japanese film still portrait
+#### 136. Japanese film still portrait
 
 <a href="https://aiistudio.com/en/prompt/2074034667079250143?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074034667079250143/0.jpg" alt="Japanese film still portrait" width="560"></a>
 
@@ -3957,7 +3983,7 @@ A stunning mid-20s Japanese or Korean woman. wearing front hem half-tucked into 
 
 ---
 
-#### 136. Golden hour bob portrait
+#### 137. Golden hour bob portrait
 
 <a href="https://aiistudio.com/en/prompt/2074010203083911243?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074010203083911243/0.jpg" alt="Golden hour bob portrait" width="560"></a>
 
@@ -3984,7 +4010,7 @@ She wears an oversized off-shoulder white sweatshirt with three black stripes ru
 
 ---
 
-#### 137. Forest travel smartphone portrait
+#### 138. Forest travel smartphone portrait
 
 <a href="https://aiistudio.com/en/prompt/2074004004238197010?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074004004238197010/0.jpg" alt="Forest travel smartphone portrait" width="560"></a>
 
@@ -4002,7 +4028,7 @@ She wears an oversized off-shoulder white sweatshirt with three black stripes ru
 
 ---
 
-#### 138. White cat cosplay bedroom portrait
+#### 139. White cat cosplay bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2073967347006869894?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073967347006869894/0.jpg" alt="White cat cosplay bedroom portrait" width="560"></a>
 
@@ -4026,7 +4052,7 @@ She wears a soft white camisole layered under a fluffy white cardigan, with simp
 
 ---
 
-#### 139. Korean qipao lantern teahouse portrait
+#### 140. Korean qipao lantern teahouse portrait
 
 <a href="https://aiistudio.com/en/prompt/2073896013169844655?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073896013169844655/0.jpg" alt="Korean qipao lantern teahouse portrait" width="560"></a>
 
@@ -4050,7 +4076,7 @@ Shot on a full-frame mirrorless camera such as the Sony A7R V or Canon EOS R5, u
 
 ---
 
-#### 140. Open beach swimwear editorial
+#### 141. Open beach swimwear editorial
 
 <a href="https://aiistudio.com/en/prompt/2073868222974103679?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073868222974103679/0.jpg" alt="Open beach swimwear editorial" width="560"></a>
 
@@ -4079,7 +4105,7 @@ Direct afternoon sunlight, open beach reflectivity providing fill from the sand 
 
 ---
 
-#### 141. Raw camera casting portrait prompt
+#### 142. Raw camera casting portrait prompt
 
 <a href="https://aiistudio.com/en/prompt/2073745972036006044?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073745972036006044/0.jpg" alt="Raw camera casting portrait prompt" width="560"></a>
 
@@ -4367,7 +4393,7 @@ For every user request, output only the finished plain-language image-generation
 
 ---
 
-#### 142. Norwegian gym influencer iPhone shot
+#### 143. Norwegian gym influencer iPhone shot
 
 <a href="https://aiistudio.com/en/prompt/2073865316896063591?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073865316896063591/0.jpg" alt="Norwegian gym influencer iPhone shot" width="560"></a>
 
@@ -4392,7 +4418,7 @@ realistic amateur iPhone shot of a stunning fit norwegian gym influencer woman a
 
 ---
 
-#### 143. Vintage Polaroid girl collage
+#### 144. Vintage Polaroid girl collage
 
 <a href="https://aiistudio.com/en/prompt/2073834675030864042?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073834675030864042/0.jpg" alt="Vintage Polaroid girl collage" width="560"></a>
 
@@ -4410,7 +4436,7 @@ Create a warm vintage aesthetic collage featuring six Polaroid-style photographs
 
 ---
 
-#### 144. Desert pin-up editorial portrait
+#### 145. Desert pin-up editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2074150841188032632?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074150841188032632/0.jpg" alt="Desert pin-up editorial portrait" width="560"></a>
 
@@ -4488,7 +4514,7 @@ Create a warm vintage aesthetic collage featuring six Polaroid-style photographs
 
 ---
 
-#### 145. Parking garage cinematic portrait
+#### 146. Parking garage cinematic portrait
 
 <a href="https://aiistudio.com/en/prompt/2073808543141245317?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073808543141245317/0.jpg" alt="Parking garage cinematic portrait" width="560"></a>
 
@@ -4515,7 +4541,7 @@ the other hand holding a jacket at her side, skirt swinging slightly, handheld e
 
 ---
 
-#### 146. Industrial leather editorial portrait
+#### 147. Industrial leather editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2073804504571761056?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073804504571761056/0.jpg" alt="Industrial leather editorial portrait" width="560"></a>
 
@@ -4723,7 +4749,7 @@ No artificial overlays.
 
 ---
 
-#### 147. Monochrome football legend portrait
+#### 148. Monochrome football legend portrait
 
 <a href="https://aiistudio.com/en/prompt/2073804037372448984?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073804037372448984/0.jpg" alt="Monochrome football legend portrait" width="560"></a>
 
@@ -4749,7 +4775,7 @@ Shot in a professional photography studio with a seamless dark gray gradient bac
 
 ---
 
-#### 148. Monochrome rim light portrait
+#### 149. Monochrome rim light portrait
 
 <a href="https://aiistudio.com/en/prompt/2073795757937996061?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073795757937996061/0.jpg" alt="Monochrome rim light portrait" width="560"></a>
 
@@ -4773,7 +4799,7 @@ Lighting: Single, very hard, concentrated light source positioned directly behin
 
 ---
 
-#### 149. Rome cafe fashion portrait
+#### 150. Rome cafe fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2073789791204983122?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073789791204983122/0.jpg" alt="Rome cafe fashion portrait" width="560"></a>
 
@@ -4801,7 +4827,7 @@ A stunning mid-20s Japanese or Korean woman with clear transparent thin-frame gl
 
 ---
 
-#### 150. Gen Z mirror selfie doodle
+#### 151. Gen Z mirror selfie doodle
 
 <a href="https://aiistudio.com/en/prompt/2073778025649541492?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073778025649541492/0.jpg" alt="Gen Z mirror selfie doodle" width="560"></a>
 
@@ -4823,7 +4849,7 @@ Create a cheerful Gen Z aesthetic with bright natural lighting, soft shadows, cl
 
 ---
 
-#### 151. Yellow cutout dress portrait
+#### 152. Yellow cutout dress portrait
 
 <a href="https://aiistudio.com/en/prompt/2073750129946083833?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073750129946083833/0.jpg" alt="Yellow cutout dress portrait" width="560"></a>
 
@@ -4858,7 +4884,7 @@ Negative prompt: deformed, blurry, low quality, cartoon, painting, over-saturate
 
 ---
 
-#### 152. Sydney Sweeney tropical beach swimsuit
+#### 153. Sydney Sweeney tropical beach swimsuit
 
 <a href="https://aiistudio.com/en/prompt/2073736836275397064?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073736836275397064/0.jpg" alt="Sydney Sweeney tropical beach swimsuit" width="560"></a>
 
@@ -4942,7 +4968,7 @@ Negative prompt: deformed, blurry, low quality, cartoon, painting, over-saturate
 
 ---
 
-#### 153. Pink mirror selfie fashion
+#### 154. Pink mirror selfie fashion
 
 <a href="https://aiistudio.com/en/prompt/2073736572759859665?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073736572759859665/0.jpg" alt="Pink mirror selfie fashion" width="560"></a>
 
@@ -4966,7 +4992,7 @@ She stands in a minimalist modern room with plain light gray walls, dark wood ba
 
 ---
 
-#### 154. East Asian maid bedroom portrait
+#### 155. East Asian maid bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2073731587230048284?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073731587230048284/0.jpg" alt="East Asian maid bedroom portrait" width="560"></a>
 
@@ -4984,7 +5010,7 @@ young East Asian woman, long straight brown hair with a white lace maid headband
 
 ---
 
-#### 155. Leaf shadow close-up portrait
+#### 156. Leaf shadow close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2073729428669006122?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073729428669006122/0.jpg" alt="Leaf shadow close-up portrait" width="560"></a>
 
@@ -5002,7 +5028,7 @@ A dramatic close-up portrait photograph of the woman seen in the referenced imag
 
 ---
 
-#### 156. Japanese sailor mansion portrait
+#### 157. Japanese sailor mansion portrait
 
 <a href="https://aiistudio.com/en/prompt/2073721826664968587?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073721826664968587/0.jpg" alt="Japanese sailor mansion portrait" width="560"></a>
 
@@ -5028,7 +5054,7 @@ A stunning mid-20s Japanese or Korean woman. with gold metal thin-frame glasses.
 
 ---
 
-#### 157. Laundry room photo portrait
+#### 158. Laundry room photo portrait
 
 <a href="https://aiistudio.com/en/prompt/2073720044068987000?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073720044068987000/0.jpg" alt="Laundry room photo portrait" width="560"></a>
 
@@ -5067,7 +5093,7 @@ A stunning mid-20s Japanese or Korean woman. with gold metal thin-frame glasses.
 
 ---
 
-#### 158. Giant ice cream surreal comedy
+#### 159. Giant ice cream surreal comedy
 
 <a href="https://aiistudio.com/en/prompt/2073718533528387659?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073718533528387659/0.jpg" alt="Giant ice cream surreal comedy" width="560"></a>
 
@@ -5085,7 +5111,7 @@ Hyper-realistic cinematic forced-perspective surreal comedy scene. Recreate the 
 
 ---
 
-#### 159. Minimalist hoodie portrait
+#### 160. Minimalist hoodie portrait
 
 <a href="https://aiistudio.com/en/prompt/2073718421586428035?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073718421586428035/0.jpg" alt="Minimalist hoodie portrait" width="560"></a>
 
@@ -5111,7 +5137,7 @@ A cute minimalist portrait of a young woman sitting casually on the floor in a c
 
 ---
 
-#### 160. Golden light fine-art women portrait
+#### 161. Golden light fine-art women portrait
 
 <a href="https://aiistudio.com/en/prompt/2073714008046145750?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073714008046145750/0.jpg" alt="Golden light fine-art women portrait" width="560"></a>
 
@@ -5135,7 +5161,7 @@ A cinematic fine-art portrait of elegant young women with long, soft wavy hair a
 
 ---
 
-#### 161. Cozy bedroom celebrity selfie
+#### 162. Cozy bedroom celebrity selfie
 
 <a href="https://aiistudio.com/en/prompt/2073713796447674426?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073713796447674426/0.jpg" alt="Cozy bedroom celebrity selfie" width="560"></a>
 
@@ -5161,7 +5187,7 @@ Foreground includes various makeup products and cosmetic containers scattered on
 
 ---
 
-#### 162. Surreal floating head portrait
+#### 163. Surreal floating head portrait
 
 <a href="https://aiistudio.com/en/prompt/2073708753502060858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073708753502060858/0.jpg" alt="Surreal floating head portrait" width="560"></a>
 
@@ -5190,7 +5216,7 @@ Concept: holding your own mind, self-awareness, identity, personal growth, surre
 
 ---
 
-#### 163. Resort swimwear magazine feature
+#### 164. Resort swimwear magazine feature
 
 <a href="https://aiistudio.com/en/prompt/2073701766969876800?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073701766969876800/0.jpg" alt="Resort swimwear magazine feature" width="560"></a>
 
@@ -5219,7 +5245,7 @@ Dappled natural shade from palm fronds, soft irregular light and shadow patterns
 
 ---
 
-#### 164. Crimson gown brick archway
+#### 165. Crimson gown brick archway
 
 <a href="https://aiistudio.com/en/prompt/2073696868630974858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073696868630974858/0.jpg" alt="Crimson gown brick archway" width="560"></a>
 
@@ -5247,7 +5273,7 @@ Soft, diffused golden hour light filters through the arch. Realistic skin textur
 
 ---
 
-#### 165. Cinematic street portrait
+#### 166. Cinematic street portrait
 
 <a href="https://aiistudio.com/en/prompt/2073679914184692182?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073679914184692182/0.jpg" alt="Cinematic street portrait" width="560"></a>
 
@@ -5272,7 +5298,7 @@ Cinematic, intimate portrait of a young woman with short dark wavy hair, natural
 
 ---
 
-#### 166. Chibi clone coffee shop photo
+#### 167. Chibi clone coffee shop photo
 
 <a href="https://aiistudio.com/en/prompt/2073677659398357166?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073677659398357166/0.jpg" alt="Chibi clone coffee shop photo" width="560"></a>
 
@@ -5296,7 +5322,7 @@ A realistic lifestyle photo inside a modern minimalist coffee shop. A stylish yo
 
 ---
 
-#### 167. Lisbon sunset travel portrait
+#### 168. Lisbon sunset travel portrait
 
 <a href="https://aiistudio.com/en/prompt/2073663128202817960?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073663128202817960/0.jpg" alt="Lisbon sunset travel portrait" width="560"></a>
 
@@ -5321,7 +5347,7 @@ Photorealistic cinematic portrait of a young Portuguese woman strolling through 
 
 ---
 
-#### 168. Cosplay catgirl selfie
+#### 169. Cosplay catgirl selfie
 
 <a href="https://aiistudio.com/en/prompt/2073662327577026618?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073662327577026618/0.jpg" alt="Cosplay catgirl selfie" width="560"></a>
 
@@ -5339,7 +5365,7 @@ Photorealistic cinematic portrait of a young Portuguese woman strolling through 
 
 ---
 
-#### 169. Glass tank beauty close-up
+#### 170. Glass tank beauty close-up
 
 <a href="https://aiistudio.com/en/prompt/2073659989671977309?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073659989671977309/0.jpg" alt="Glass tank beauty close-up" width="560"></a>
 
@@ -5363,7 +5389,7 @@ This composition and creative shooting technique works especially well for beaut
 
 ---
 
-#### 170. Cybercore Gangnam fashion HUD
+#### 171. Cybercore Gangnam fashion HUD
 
 <a href="https://aiistudio.com/en/prompt/2073656452858933762?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073656452858933762/0.jpg" alt="Cybercore Gangnam fashion HUD" width="560"></a>
 
@@ -5393,7 +5419,7 @@ Aspect ratio: 4:5. Generate for cristiano ronaldo
 
 ---
 
-#### 171. Neon Seoul rooftop girl
+#### 172. Neon Seoul rooftop girl
 
 <a href="https://aiistudio.com/en/prompt/2073655668813463740?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073655668813463740/0.jpg" alt="Neon Seoul rooftop girl" width="560"></a>
 
@@ -5417,7 +5443,7 @@ A beautiful Korean-inspired girl standing on a neon-lit rooftop overlooking Seou
 
 ---
 
-#### 172. Japanese morning film portrait
+#### 173. Japanese morning film portrait
 
 <a href="https://aiistudio.com/en/prompt/2073647166070178105?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073647166070178105/0.jpg" alt="Japanese morning film portrait" width="560"></a>
 
@@ -5451,7 +5477,7 @@ Overall mood: a quiet, private moment of joy — everyday life turned into poetr
 
 ---
 
-#### 173. Outdoor cafe fashion portrait
+#### 174. Outdoor cafe fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2073641339695276380?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073641339695276380/0.jpg" alt="Outdoor cafe fashion portrait" width="560"></a>
 
@@ -5469,7 +5495,7 @@ Ultra-realistic DSLR portrait of a stunningly beautiful, stylish young woman sit
 
 ---
 
-#### 174. Baby pink mirror selfie fashion
+#### 175. Baby pink mirror selfie fashion
 
 <a href="https://aiistudio.com/en/prompt/2073654739598987333?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073654739598987333/0.jpg" alt="Baby pink mirror selfie fashion" width="560"></a>
 
@@ -5494,7 +5520,7 @@ She stands in a minimalist modern room with plain light gray walls, dark wood ba
 
 ---
 
-#### 175. Adult character sheet reference
+#### 176. Adult character sheet reference
 
 <a href="https://aiistudio.com/en/prompt/2073635538817655243?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073635538817655243/0.jpg" alt="Adult character sheet reference" width="560"></a>
 
@@ -5548,7 +5574,7 @@ Strictly avoid: different faces, hairstyle changes, proportion changes, making t
 
 ---
 
-#### 176. Luxury home steps lifestyle portrait
+#### 177. Luxury home steps lifestyle portrait
 
 <a href="https://aiistudio.com/en/prompt/2073634313414041791?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073634313414041791/0.jpg" alt="Luxury home steps lifestyle portrait" width="560"></a>
 
@@ -5573,7 +5599,7 @@ Ultra-realistic portrait of a beautiful young woman sitting casually on modern b
 
 ---
 
-#### 177. American flag street style
+#### 178. American flag street style
 
 <a href="https://aiistudio.com/en/prompt/2073626230411477013?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073626230411477013/0.jpg" alt="American flag street style" width="560"></a>
 
@@ -5591,7 +5617,7 @@ Full body shot of a young East Asian woman with long brown hair and a confident 
 
 ---
 
-#### 178. Monochrome rim light portrait
+#### 179. Monochrome rim light portrait
 
 <a href="https://aiistudio.com/en/prompt/2073618225070277055?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073618225070277055/0.jpg" alt="Monochrome rim light portrait" width="560"></a>
 
@@ -5619,7 +5645,7 @@ Lighting: Single, very hard, concentrated light source positioned directly behin
 
 ---
 
-#### 179. Sunflower sidewalk portrait
+#### 180. Sunflower sidewalk portrait
 
 <a href="https://aiistudio.com/en/prompt/2073615248767234220?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073615248767234220/0.jpg" alt="Sunflower sidewalk portrait" width="560"></a>
 
@@ -5729,7 +5755,7 @@ Negative Prompt Low quality, blurry, oversaturated colors, plastic skin, CGI, AI
 
 ---
 
-#### 180. Beach volleyball bikini portrait
+#### 181. Beach volleyball bikini portrait
 
 <a href="https://aiistudio.com/en/prompt/2073605499082150375?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073605499082150375/0.jpg" alt="Beach volleyball bikini portrait" width="560"></a>
 
@@ -5764,7 +5790,7 @@ Negative prompt: blurry, deformed, ugly, extra limbs, bad anatomy, watermark, te
 
 ---
 
-#### 181. Low-angle street fashion editorial
+#### 182. Low-angle street fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2073604918926262459?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073604918926262459/0.jpg" alt="Low-angle street fashion editorial" width="560"></a>
 
@@ -5794,7 +5820,7 @@ Fujifilm Classic Negative color science, vibrant blues, deep architectural green
 
 ---
 
-#### 182. Fluffy cat portrait photo edit
+#### 183. Fluffy cat portrait photo edit
 
 <a href="https://aiistudio.com/en/prompt/2073595511047942325?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073595511047942325/0.jpg" alt="Fluffy cat portrait photo edit" width="560"></a>
 
@@ -5825,7 +5851,7 @@ COLOR SCHEME AND ATMOSPHERE: Soft pastel warm color palette with harmonious blue
 
 ---
 
-#### 183. Indonesian infinity pool portrait
+#### 184. Indonesian infinity pool portrait
 
 <a href="https://aiistudio.com/en/prompt/2073497073660617172?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073497073660617172/0.jpg" alt="Indonesian infinity pool portrait" width="560"></a>
 
@@ -5851,7 +5877,7 @@ Professional photography, sharp focus, natural daylight lighting with soft shado
 
 ---
 
-#### 184. Golden hour city portrait
+#### 185. Golden hour city portrait
 
 <a href="https://aiistudio.com/en/prompt/2073456321773568422?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073456321773568422/0.jpg" alt="Golden hour city portrait" width="560"></a>
 
@@ -5875,7 +5901,7 @@ Photorealistic cinematic portrait of a tanned beautiful european woman standing 
 
 ---
 
-#### 185. Argentina stadium supporter portrait
+#### 186. Argentina stadium supporter portrait
 
 <a href="https://aiistudio.com/en/prompt/2073425553785311304?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073425553785311304/0.jpg" alt="Argentina stadium supporter portrait" width="560"></a>
 
@@ -5972,7 +5998,7 @@ Photorealistic cinematic portrait of a tanned beautiful european woman standing 
 
 ---
 
-#### 186. Personal brand poster
+#### 187. Personal brand poster
 
 <a href="https://aiistudio.com/en/prompt/2073402053997834484?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073402053997834484/0.jpg" alt="Personal brand poster" width="560"></a>
 
@@ -6009,7 +6035,7 @@ Output size: vertical 9:16.
 
 ---
 
-#### 187. Hotel room fashion photoshoot
+#### 188. Hotel room fashion photoshoot
 
 <a href="https://aiistudio.com/en/prompt/2073360718230163907?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073360718230163907/0.jpg" alt="Hotel room fashion photoshoot" width="560"></a>
 
@@ -6035,7 +6061,7 @@ A stunning mid-20s Japanese or Korean woman. poses for a photoshoot, in boutique
 
 ---
 
-#### 188. Pure red lingerie portrait
+#### 189. Pure red lingerie portrait
 
 <a href="https://aiistudio.com/en/prompt/2073313917774995474?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073313917774995474/0.jpg" alt="Pure red lingerie portrait" width="560"></a>
 
@@ -6061,7 +6087,7 @@ A stunning mid-20s Japanese or Korean woman. wearing pink lace bra top and pink 
 
 ---
 
-#### 189. Pastel Porsche fashion photo
+#### 190. Pastel Porsche fashion photo
 
 <a href="https://aiistudio.com/en/prompt/2073251156739211475?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073251156739211475/0.jpg" alt="Pastel Porsche fashion photo" width="560"></a>
 
@@ -6087,7 +6113,7 @@ A dreamy editorial fashion photograph of a minimalist young woman sitting gracef
 
 ---
 
-#### 190. Shinjuku vending machine portrait
+#### 191. Shinjuku vending machine portrait
 
 <a href="https://aiistudio.com/en/prompt/2073239006754857297?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073239006754857297/0.jpg" alt="Shinjuku vending machine portrait" width="560"></a>
 
@@ -6111,7 +6137,7 @@ A stunning mid-20s Japanese or Korean woman poses for a photoshoot in a Shinjuku
 
 ---
 
-#### 191. Japanese bedroom portrait
+#### 192. Japanese bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2073192810560573857?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073192810560573857/0.jpg" alt="Japanese bedroom portrait" width="560"></a>
 
@@ -6149,7 +6175,7 @@ neon cross-processed rendering, cyan-shifted cool tones, fluorescent primary-col
 
 ---
 
-#### 192. Peach studio couple piggyback
+#### 193. Peach studio couple piggyback
 
 <a href="https://aiistudio.com/en/prompt/2073851180460146806?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073851180460146806/0.jpg" alt="Peach studio couple piggyback" width="560"></a>
 
@@ -6187,7 +6213,7 @@ cartoon, anime, 3D render, CGI, illustration, painting, face distortion, identit
 
 ---
 
-#### 193. CCD flash backless-heels tatami portrait
+#### 194. CCD flash backless-heels tatami portrait
 
 <a href="https://aiistudio.com/en/prompt/2069638534261277012?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069638534261277012/0.jpg" alt="CCD flash backless-heels tatami portrait" width="560"></a>
 
@@ -6219,7 +6245,7 @@ Small contrast-color art signature VSCZHENG in the lower-right corner.
 
 ---
 
-#### 194. Night-market schoolgirl street snapshot
+#### 195. Night-market schoolgirl street snapshot
 
 <a href="https://aiistudio.com/en/prompt/2069625960979399121?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069625960979399121/0.jpg" alt="Night-market schoolgirl street snapshot" width="560"></a>
 
@@ -6243,7 +6269,7 @@ Young Japanese girl with long straight black hair, soft bangs, and a cute black 
 
 ---
 
-#### 195. Moonlit guofeng hanfu window portrait
+#### 196. Moonlit guofeng hanfu window portrait
 
 <a href="https://aiistudio.com/en/prompt/2069588590158561671?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069588590158561671/0.jpg" alt="Moonlit guofeng hanfu window portrait" width="560"></a>
 
@@ -6269,7 +6295,7 @@ Mood: quiet, ethereal, elegant, and intimate. Cold moonlit guofeng beauty, soft 
 
 ---
 
-#### 196. Black-mask low-angle fashion selfie
+#### 197. Black-mask low-angle fashion selfie
 
 <a href="https://aiistudio.com/en/prompt/2069576333764784552?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069576333764784552/0.jpg" alt="Black-mask low-angle fashion selfie" width="560"></a>
 
@@ -6287,7 +6313,7 @@ Mood: quiet, ethereal, elegant, and intimate. Cold moonlit guofeng beauty, soft 
 
 ---
 
-#### 197. Luxury restaurant blonde dining portrait
+#### 198. Luxury restaurant blonde dining portrait
 
 <a href="https://aiistudio.com/en/prompt/2069567106509857190?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069567106509857190/0.jpg" alt="Luxury restaurant blonde dining portrait" width="560"></a>
 
@@ -6344,7 +6370,7 @@ Mood: quiet, ethereal, elegant, and intimate. Cold moonlit guofeng beauty, soft 
 
 ---
 
-#### 198. Millennium Japanese CCD flash portrait
+#### 199. Millennium Japanese CCD flash portrait
 
 <a href="https://aiistudio.com/en/prompt/2069448713031094575?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069448713031094575/0.jpg" alt="Millennium Japanese CCD flash portrait" width="560"></a>
 
@@ -6368,7 +6394,7 @@ Mood: quiet, ethereal, elegant, and intimate. Cold moonlit guofeng beauty, soft 
 
 ---
 
-#### 199. Island-hopping boat disposable-cam photo
+#### 200. Island-hopping boat disposable-cam photo
 
 <a href="https://aiistudio.com/en/prompt/2069440706507354126?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069440706507354126/0.jpg" alt="Island-hopping boat disposable-cam photo" width="560"></a>
 
@@ -6407,7 +6433,7 @@ Negative prompt: modern smartphone quality, DSLR sharpness, luxury editorial pho
 
 ---
 
-#### 200. Beach cafe disposable-cam vacation photo
+#### 201. Beach cafe disposable-cam vacation photo
 
 <a href="https://aiistudio.com/en/prompt/2069439475625885929?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069439475625885929/0.jpg" alt="Beach cafe disposable-cam vacation photo" width="560"></a>
 
@@ -6438,7 +6464,7 @@ A frosty pineapple tropical drink sits on the table beside her. Condensation bea
 
 ---
 
-#### 201. Disposable-cam island pier beach photo
+#### 202. Disposable-cam island pier beach photo
 
 <a href="https://aiistudio.com/en/prompt/2069439026336272408?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069439026336272408/0.jpg" alt="Disposable-cam island pier beach photo" width="560"></a>
 
@@ -6470,7 +6496,7 @@ Negative prompt: nudity, erotic posing, lingerie, overly sexualized styling, mod
 
 ---
 
-#### 202. CCD flash car kimono hottie portrait
+#### 203. CCD flash car kimono hottie portrait
 
 <a href="https://aiistudio.com/en/prompt/2069373186173788508?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069373186173788508/0.jpg" alt="CCD flash car kimono hottie portrait" width="560"></a>
 
@@ -6504,7 +6530,7 @@ Small VSCZHENG signature in the lower-left corner.
 
 ---
 
-#### 203. Rear-view hotel corridor black dress
+#### 204. Rear-view hotel corridor black dress
 
 <a href="https://aiistudio.com/en/prompt/2069357911307079873?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069357911307079873/0.jpg" alt="Rear-view hotel corridor black dress" width="560"></a>
 
@@ -6528,7 +6554,7 @@ Small VSCZHENG signature in the lower-left corner.
 
 ---
 
-#### 204. Kiss-face character portrait template
+#### 205. Kiss-face character portrait template
 
 <a href="https://aiistudio.com/en/prompt/2069342915420393572?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069342915420393572/0.jpg" alt="Kiss-face character portrait template" width="560"></a>
 
@@ -6567,7 +6593,7 @@ Negative prompt: no underage feel, no infantile face, no explicit pornography, n
 
 ---
 
-#### 205. High-angle bedroom phone selfie portrait
+#### 206. High-angle bedroom phone selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2069337363713753480?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069337363713753480/0.jpg" alt="High-angle bedroom phone selfie portrait" width="560"></a>
 
@@ -6591,7 +6617,7 @@ Negative prompt: no underage feel, no infantile face, no explicit pornography, n
 
 ---
 
-#### 206. Backstage concert iPhone selfie portrait
+#### 207. Backstage concert iPhone selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2069286390333153746?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069286390333153746/0.jpg" alt="Backstage concert iPhone selfie portrait" width="560"></a>
 
@@ -6619,7 +6645,7 @@ Background softly blurred: backstage hallway, LED lights, equipment cases, staff
 
 ---
 
-#### 207. World Cup stadium fan girl with cat
+#### 208. World Cup stadium fan girl with cat
 
 <a href="https://aiistudio.com/en/prompt/2069273951814266980?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069273951814266980/0.jpg" alt="World Cup stadium fan girl with cat" width="560"></a>
 
@@ -6643,7 +6669,7 @@ A beautiful, gorgeous young woman sitting in a packed FIFA World Cup stadium und
 
 ---
 
-#### 208. Luxury car backseat night-glam portrait
+#### 209. Luxury car backseat night-glam portrait
 
 <a href="https://aiistudio.com/en/prompt/2069186320384356747?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069186320384356747/0.jpg" alt="Luxury car backseat night-glam portrait" width="560"></a>
 
@@ -6681,7 +6707,7 @@ Negative prompt: ugly face, warped face, melted features, swollen face, asymmetr
 
 ---
 
-#### 209. Wet-skin post-shower towel selfie
+#### 210. Wet-skin post-shower towel selfie
 
 <a href="https://aiistudio.com/en/prompt/2069080876818817235?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2069080876818817235/0.jpg" alt="Wet-skin post-shower towel selfie" width="560"></a>
 
@@ -6705,7 +6731,7 @@ Negative prompt: ugly face, warped face, melted features, swollen face, asymmetr
 
 ---
 
-#### 210. Black-gold CCD flash subway night portrait
+#### 211. Black-gold CCD flash subway night portrait
 
 <a href="https://aiistudio.com/en/prompt/2068317298101031406?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068317298101031406/0.jpg" alt="Black-gold CCD flash subway night portrait" width="560"></a>
 
@@ -6737,7 +6763,7 @@ Aspect ratio: 9:16
 
 ---
 
-#### 211. Cozy bedroom iPhone snapshot of japanese woman
+#### 212. Cozy bedroom iPhone snapshot of japanese woman
 
 <a href="https://aiistudio.com/en/prompt/2068309340805869803?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068309340805869803/0.jpg" alt="Cozy bedroom iPhone snapshot of japanese woman" width="560"></a>
 
@@ -6766,7 +6792,7 @@ low resolution, blurry, heavy makeup, studio lighting, cinematic grading, unreal
 
 ---
 
-#### 212. Retro neon bar magazine portrait
+#### 213. Retro neon bar magazine portrait
 
 <a href="https://aiistudio.com/en/prompt/2068278443847127094?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068278443847127094/0.jpg" alt="Retro neon bar magazine portrait" width="560"></a>
 
@@ -6802,7 +6828,7 @@ Aspect ratio 3:4 or 4:5, high definition, realistic photographic texture. No ove
 
 ---
 
-#### 213. Low-angle K800i kitchen snapshot portrait
+#### 214. Low-angle K800i kitchen snapshot portrait
 
 <a href="https://aiistudio.com/en/prompt/2068258791796457800?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068258791796457800/0.jpg" alt="Low-angle K800i kitchen snapshot portrait" width="560"></a>
 
@@ -6835,7 +6861,7 @@ Background contains a refrigerator, upper kitchen cabinets, storage containers, 
 
 ---
 
-#### 214. Black-and-white cinematic portrait
+#### 215. Black-and-white cinematic portrait
 
 <a href="https://aiistudio.com/en/prompt/2068191894455386218?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068191894455386218/0.jpg" alt="Black-and-white cinematic portrait" width="560"></a>
 
@@ -6860,7 +6886,7 @@ Create timeless black-and-white cinematic portraits with dramatic lighting, film
 
 ---
 
-#### 215. Cozy bedroom snapshot of japanese student
+#### 216. Cozy bedroom snapshot of japanese student
 
 <a href="https://aiistudio.com/en/prompt/2068182767783821462?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068182767783821462/0.jpg" alt="Cozy bedroom snapshot of japanese student" width="560"></a>
 
@@ -6889,7 +6915,7 @@ child, teenager, underage, schoolgirl, revealing clothing, suggestive pose, low 
 
 ---
 
-#### 216. Rooftop infinity pool swimwear editorial
+#### 217. Rooftop infinity pool swimwear editorial
 
 <a href="https://aiistudio.com/en/prompt/2068173392688107665?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2068173392688107665/0.jpg" alt="Rooftop infinity pool swimwear editorial" width="560"></a>
 
@@ -6918,7 +6944,7 @@ Illumination comes exclusively from the pool's underwater LED light and the ambi
 
 ---
 
-#### 217. Toy-camera candid of woman reading on balcony
+#### 218. Toy-camera candid of woman reading on balcony
 
 <a href="https://aiistudio.com/en/prompt/2067979982589300953?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067979982589300953/0.jpg" alt="Toy-camera candid of woman reading on balcony" width="560"></a>
 
@@ -6967,7 +6993,7 @@ beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR p
 
 ---
 
-#### 218. Toy-camera vanity bedroom candid
+#### 219. Toy-camera vanity bedroom candid
 
 <a href="https://aiistudio.com/en/prompt/2067979367800815893?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067979367800815893/0.jpg" alt="Toy-camera vanity bedroom candid" width="560"></a>
 
@@ -7014,7 +7040,7 @@ beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR p
 
 ---
 
-#### 219. VHS punk streetwear portrait on salt flats
+#### 220. VHS punk streetwear portrait on salt flats
 
 <a href="https://aiistudio.com/en/prompt/2067963276949147910?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067963276949147910/0.jpg" alt="VHS punk streetwear portrait on salt flats" width="560"></a>
 
@@ -7040,7 +7066,7 @@ A seductive stunning 20-year-old Japanese or Korean woman wearing a punk streetw
 
 ---
 
-#### 220. Retro CCD snapshot of woman in satin slip dress
+#### 221. Retro CCD snapshot of woman in satin slip dress
 
 <a href="https://aiistudio.com/en/prompt/2067871975218053305?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067871975218053305/0.jpg" alt="Retro CCD snapshot of woman in satin slip dress" width="560"></a>
 
@@ -7066,7 +7092,7 @@ A seductive stunning 20-year-old Japanese or Korean woman wearing a satin slip m
 
 ---
 
-#### 221. Festival body-art beauty selfie side profile
+#### 222. Festival body-art beauty selfie side profile
 
 <a href="https://aiistudio.com/en/prompt/2067632197570617782?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067632197570617782/0.jpg" alt="Festival body-art beauty selfie side profile" width="560"></a>
 
@@ -7116,7 +7142,7 @@ Negative prompt: front-facing pose, floral design, tattoo, permanent ink, digita
 
 ---
 
-#### 222. Y2K VHS babydoll portrait in tatami room
+#### 223. Y2K VHS babydoll portrait in tatami room
 
 <a href="https://aiistudio.com/en/prompt/2067627641717563837?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2067627641717563837/0.jpg" alt="Y2K VHS babydoll portrait in tatami room" width="560"></a>
 
@@ -7141,7 +7167,7 @@ A seductive stunning 20-year-old Japanese or Korean woman wearing a soft doll-li
 
 ---
 
-#### 223. CCD flash office portrait of asian woman
+#### 224. CCD flash office portrait of asian woman
 
 <a href="https://aiistudio.com/en/prompt/2066792351222173789?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2066792351222173789/0.jpg" alt="CCD flash office portrait of asian woman" width="560"></a>
 
@@ -7166,7 +7192,7 @@ Direct CCD flash, nighttime office, whiteboard formulas, black-framed glasses, w
 
 ---
 
-#### 224. DHL tape dress Y2K baddie portrait
+#### 225. DHL tape dress Y2K baddie portrait
 
 <a href="https://aiistudio.com/en/prompt/2063936486542897587?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2063936486542897587/0.jpg" alt="DHL tape dress Y2K baddie portrait" width="560"></a>
 
@@ -7191,7 +7217,7 @@ DHL courier tape dress, Y2K K-pop baddie, CCD camera aesthetic
 
 ---
 
-#### 225. Night CCD-style city street portrait
+#### 226. Night CCD-style city street portrait
 
 <a href="https://aiistudio.com/en/prompt/2063912036116144459?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2063912036116144459/0.jpg" alt="Night CCD-style city street portrait" width="560"></a>
 
@@ -7223,7 +7249,7 @@ Line emphasis: medium
 
 ---
 
-#### 226. Rooftop pool golden hour portrait
+#### 227. Rooftop pool golden hour portrait
 
 <a href="https://aiistudio.com/en/prompt/2073749153059065966?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073749153059065966/0.jpg" alt="Rooftop pool golden hour portrait" width="560"></a>
 
@@ -7256,7 +7282,7 @@ Camera: Shot on Sony A7R IV, 85mm f/1.8 lens, natural skin details, realistic fa
 
 ---
 
-#### 227. East Asian woman car selfie portrait
+#### 228. East Asian woman car selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2062770714021871897?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062770714021871897/0.jpg" alt="East Asian woman car selfie portrait" width="560"></a>
 
@@ -7274,7 +7300,7 @@ Camera: Shot on Sony A7R IV, 85mm f/1.8 lens, natural skin details, realistic fa
 
 ---
 
-#### 228. Ocean balcony fashion editorial portrait
+#### 229. Ocean balcony fashion editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2062692909519163605?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062692909519163605/0.jpg" alt="Ocean balcony fashion editorial portrait" width="560"></a>
 
@@ -7298,7 +7324,7 @@ A professional medium shot of a stunning woman posing on a balcony overlooking t
 
 ---
 
-#### 229. Overhead candid fitness influencer portrait
+#### 230. Overhead candid fitness influencer portrait
 
 <a href="https://aiistudio.com/en/prompt/2062651839598698592?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062651839598698592/0.jpg" alt="Overhead candid fitness influencer portrait" width="560"></a>
 
@@ -7365,7 +7391,7 @@ A professional medium shot of a stunning woman posing on a balcony overlooking t
 
 ---
 
-#### 230. Cinematic hand-holding summer portrait
+#### 231. Cinematic hand-holding summer portrait
 
 <a href="https://aiistudio.com/en/prompt/2062531007538950592?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062531007538950592/0.jpg" alt="Cinematic hand-holding summer portrait" width="560"></a>
 
@@ -7405,7 +7431,7 @@ Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expres
 
 ---
 
-#### 231. Gen Z flash selfie collage
+#### 232. Gen Z flash selfie collage
 
 <a href="https://aiistudio.com/en/prompt/2062378876697997716?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062378876697997716/0.jpg" alt="Gen Z flash selfie collage" width="560"></a>
 
@@ -7429,7 +7455,7 @@ Ultra-realistic Gen Z selfie photo collage, three vertical smartphone flash self
 
 ---
 
-#### 232. Crowd portrait mosaic of a celebrity
+#### 233. Crowd portrait mosaic of a celebrity
 
 <a href="https://aiistudio.com/en/prompt/2062219992868045180?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062219992868045180/0.jpg" alt="Crowd portrait mosaic of a celebrity" width="560"></a>
 
@@ -7455,7 +7481,7 @@ Create a portrait of [person] constructed from thousands of tiny human figures s
 
 ---
 
-#### 233. Frosted glass street fashion editorial
+#### 234. Frosted glass street fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2062195358948794870?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062195358948794870/0.jpg" alt="Frosted glass street fashion editorial" width="560"></a>
 
@@ -7512,7 +7538,7 @@ Text: S
 
 ---
 
-#### 234. Y2K flash mirror selfie luxury bathroom
+#### 235. Y2K flash mirror selfie luxury bathroom
 
 <a href="https://aiistudio.com/en/prompt/2062184740849930384?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062184740849930384/0.jpg" alt="Y2K flash mirror selfie luxury bathroom" width="560"></a>
 
@@ -7539,7 +7565,7 @@ Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, s
 
 ---
 
-#### 235. Cheongsam portrait in Victorian mansion
+#### 236. Cheongsam portrait in Victorian mansion
 
 <a href="https://aiistudio.com/en/prompt/2062180260675023045?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062180260675023045/0.jpg" alt="Cheongsam portrait in Victorian mansion" width="560"></a>
 
@@ -7565,7 +7591,7 @@ Create a photorealistic editorial portrait. The scene is looted Victorian mansio
 
 ---
 
-#### 236. Maid-style portrait under cool blue flash
+#### 237. Maid-style portrait under cool blue flash
 
 <a href="https://aiistudio.com/en/prompt/2062178929381929237?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062178929381929237/0.jpg" alt="Maid-style portrait under cool blue flash" width="560"></a>
 
@@ -7591,7 +7617,7 @@ watermark, logo, text, Chinese characters, anime, cartoon, CGI, plastic skin, do
 
 ---
 
-#### 237. Analog machine-room kneeling portrait
+#### 238. Analog machine-room kneeling portrait
 
 <a href="https://aiistudio.com/en/prompt/2062016936255623668?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2062016936255623668/0.jpg" alt="Analog machine-room kneeling portrait" width="560"></a>
 
@@ -7617,7 +7643,7 @@ an elegant beautiful seductive stunning 20-year-old Japanese or Korean woman, ta
 
 ---
 
-#### 238. Suzhou garden qipao portrait with lattice light
+#### 239. Suzhou garden qipao portrait with lattice light
 
 <a href="https://aiistudio.com/en/prompt/2061507537438957821?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2061507537438957821/0.jpg" alt="Suzhou garden qipao portrait with lattice light" width="560"></a>
 
@@ -7644,7 +7670,7 @@ Morning light enters through the carved lattice window as a precise geometric gr
 
 ---
 
-#### 239. Luxury editorial portrait with oversized panda plush
+#### 240. Luxury editorial portrait with oversized panda plush
 
 <a href="https://aiistudio.com/en/prompt/2061501949070156194?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2061501949070156194/0.jpg" alt="Luxury editorial portrait with oversized panda plush" width="560"></a>
 
@@ -7662,7 +7688,7 @@ Use the uploaded girl image as the subject. Recreate the exact pose, framing, st
 
 ---
 
-#### 240. Tokyo night street fashion portrait with sakura nail art
+#### 241. Tokyo night street fashion portrait with sakura nail art
 
 <a href="https://aiistudio.com/en/prompt/2061475556303253532?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2061475556303253532/0.jpg" alt="Tokyo night street fashion portrait with sakura nail art" width="560"></a>
 
@@ -7717,7 +7743,7 @@ Shot on Sony A7R V, 85mm lens, f/1.8, shallow depth of field, ultra-sharp focus,
 
 ---
 
-#### 241. Korean fashion collage at golden hour
+#### 242. Korean fashion collage at golden hour
 
 <a href="https://aiistudio.com/en/prompt/2060582437349167570?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2060582437349167570/0.jpg" alt="Korean fashion collage at golden hour" width="560"></a>
 
@@ -7743,7 +7769,7 @@ Huge green grassy field everywhere, minimal trees, open sky with soft clouds, di
 
 ---
 
-#### 242. Korean Elevator Selfie
+#### 243. Korean Elevator Selfie
 
 <a href="https://aiistudio.com/en/prompt/2060405125038944421?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2060405125038944421/0.jpg" alt="Korean Elevator Selfie" width="560"></a>
 
@@ -7767,7 +7793,7 @@ Huge green grassy field everywhere, minimal trees, open sky with soft clouds, di
 
 ---
 
-#### 243. Fashion Collage Multi-Pose Portrait
+#### 244. Fashion Collage Multi-Pose Portrait
 
 <a href="https://aiistudio.com/en/prompt/2060257875289682108?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2060257875289682108/0.jpg" alt="Fashion Collage Multi-Pose Portrait" width="560"></a>
 
@@ -7785,7 +7811,7 @@ Ultra realistic fashion collage of a woman in 5 different poses inside a warm su
 
 ---
 
-#### 244. Urban Rooftop Portrait with Blue Hair
+#### 245. Urban Rooftop Portrait with Blue Hair
 
 <a href="https://aiistudio.com/en/prompt/2060190044443525595?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2060190044443525595/0.jpg" alt="Urban Rooftop Portrait with Blue Hair" width="560"></a>
 
@@ -7821,7 +7847,7 @@ The composition is a full-body back-view shot, camera positioned slightly below 
 
 ---
 
-#### 245. Cyberpunk sci-fi portrait with math equations
+#### 246. Cyberpunk sci-fi portrait with math equations
 
 <a href="https://aiistudio.com/en/prompt/2059937847902175601?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059937847902175601/0.jpg" alt="Cyberpunk sci-fi portrait with math equations" width="560"></a>
 
@@ -7839,7 +7865,7 @@ Make a cinematic close-up portrait of a young woman's face in side profile, wet 
 
 ---
 
-#### 246. Lingerie Fitting Room Mirror Selfie
+#### 247. Lingerie Fitting Room Mirror Selfie
 
 <a href="https://aiistudio.com/en/prompt/2060028678793568578?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2060028678793568578/0.jpg" alt="Lingerie Fitting Room Mirror Selfie" width="560"></a>
 
@@ -7865,7 +7891,7 @@ Generate a single 9:16 vertical phone mirror selfie RAW photo. The scene is an i
 
 ---
 
-#### 247. F1 Grid Girl Cinematic Portrait
+#### 248. F1 Grid Girl Cinematic Portrait
 
 <a href="https://aiistudio.com/en/prompt/2059860064857624974?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059860064857624974/0.jpg" alt="F1 Grid Girl Cinematic Portrait" width="560"></a>
 
@@ -7891,7 +7917,7 @@ Create a hyper-realistic cinematic Formula 1 portrait inspired by luxury Red Bul
 
 ---
 
-#### 248. Candid smartphone-flash night alley street portrait
+#### 249. Candid smartphone-flash night alley street portrait
 
 <a href="https://aiistudio.com/en/prompt/2059379220086735196?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059379220086735196/0.jpg" alt="Candid smartphone-flash night alley street portrait" width="560"></a>
 
@@ -7984,7 +8010,7 @@ Create a hyper-realistic cinematic Formula 1 portrait inspired by luxury Red Bul
 
 ---
 
-#### 249. Overhead direct-flash bedroom editorial portrait
+#### 250. Overhead direct-flash bedroom editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2059175442121212175?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059175442121212175/0.jpg" alt="Overhead direct-flash bedroom editorial portrait" width="560"></a>
 
@@ -8034,7 +8060,7 @@ No minors, no youth-coding, no overt nudity, no sexualized poses, no exaggerated
 
 ---
 
-#### 250. Child me meets present me side-by-side
+#### 251. Child me meets present me side-by-side
 
 <a href="https://aiistudio.com/en/prompt/2059048918978351303?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059048918978351303/0.jpg" alt="Child me meets present me side-by-side" width="560"></a>
 
@@ -8059,7 +8085,7 @@ photo size 4:5
 
 ---
 
-#### 251. Cozy Korean bedroom night portrait
+#### 252. Cozy Korean bedroom night portrait
 
 <a href="https://aiistudio.com/en/prompt/2058944647435870328?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2058944647435870328/0.jpg" alt="Cozy Korean bedroom night portrait" width="560"></a>
 
@@ -8088,7 +8114,7 @@ Romantic slice-of-life atmosphere, cozy feminine aesthetic, intimate late-night 
 
 ---
 
-#### 252. 90s disposable-flash bedroom mirror selfie
+#### 253. 90s disposable-flash bedroom mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2058926680966582337?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2058926680966582337/0.jpg" alt="90s disposable-flash bedroom mirror selfie" width="560"></a>
 
@@ -8121,7 +8147,7 @@ low quality, blurry face, distorted anatomy, extra fingers, unrealistic skin, he
 
 ---
 
-#### 253. Disposable-flash bathroom mirror selfie portrait
+#### 254. Disposable-flash bathroom mirror selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2058870939220074895?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2058870939220074895/0.jpg" alt="Disposable-flash bathroom mirror selfie portrait" width="560"></a>
 
@@ -8145,7 +8171,7 @@ A Korean young woman with the same unchanged face, pale soft complexion blown sl
 
 ---
 
-#### 254. Luxury hotel bathroom mirror selfie portrait
+#### 255. Luxury hotel bathroom mirror selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2058694009850335428?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2058694009850335428/0.jpg" alt="Luxury hotel bathroom mirror selfie portrait" width="560"></a>
 
@@ -8171,7 +8197,7 @@ A real Korean-style Instagram mirror selfie of a 25-year-old adult East Asian wo
 
 ---
 
-#### 255. Istanbul travel 3x3 Instagram feed grid
+#### 256. Istanbul travel 3x3 Instagram feed grid
 
 <a href="https://aiistudio.com/en/prompt/2057907347427659853?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057907347427659853/0.jpg" alt="Istanbul travel 3x3 Instagram feed grid" width="560"></a>
 
@@ -8247,7 +8273,7 @@ A real Korean-style Instagram mirror selfie of a 25-year-old adult East Asian wo
 
 ---
 
-#### 256. Realistic iPhone selfie of asian woman
+#### 257. Realistic iPhone selfie of asian woman
 
 <a href="https://aiistudio.com/en/prompt/2057371613059002495?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057371613059002495/0.jpg" alt="Realistic iPhone selfie of asian woman" width="560"></a>
 
@@ -8277,7 +8303,7 @@ Negative requirements: no anime, no 3D CG, no studio fashion shoot, no low-quali
 
 ---
 
-#### 257. Black-and-white motion blur portrait
+#### 258. Black-and-white motion blur portrait
 
 <a href="https://aiistudio.com/en/prompt/2057318412175757523?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057318412175757523/0.jpg" alt="Black-and-white motion blur portrait" width="560"></a>
 
@@ -8301,7 +8327,7 @@ A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-m
 
 ---
 
-#### 258. Luxury male portrait in black turtleneck
+#### 259. Luxury male portrait in black turtleneck
 
 <a href="https://aiistudio.com/en/prompt/2057309251048206778?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057309251048206778/0.jpg" alt="Luxury male portrait in black turtleneck" width="560"></a>
 
@@ -8319,7 +8345,7 @@ Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact 
 
 ---
 
-#### 259. Late-night Seoul ramen photo + journal page
+#### 260. Late-night Seoul ramen photo + journal page
 
 <a href="https://aiistudio.com/en/prompt/2057308848118173943?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057308848118173943/0.jpg" alt="Late-night Seoul ramen photo + journal page" width="560"></a>
 
@@ -8350,7 +8376,7 @@ Korean lifestyle magazine journaling illustration, stylish Korean girl with long
 
 ---
 
-#### 260. 12-expression sticker pack portrait
+#### 261. 12-expression sticker pack portrait
 
 <a href="https://aiistudio.com/en/prompt/2057145271675765241?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057145271675765241/0.jpg" alt="12-expression sticker pack portrait" width="560"></a>
 
@@ -8368,7 +8394,7 @@ A high-quality sticker pack featuring a young beautiful English woman with long 
 
 ---
 
-#### 261. Glitch motion-blur editorial fashion portrait
+#### 262. Glitch motion-blur editorial fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2056371032290717919?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056371032290717919/0.jpg" alt="Glitch motion-blur editorial fashion portrait" width="560"></a>
 
@@ -8386,7 +8412,7 @@ A stylish young man standing in a dynamic pose, looking down, wearing oversized 
 
 ---
 
-#### 262. Cozy Korean living room couch portrait
+#### 263. Cozy Korean living room couch portrait
 
 <a href="https://aiistudio.com/en/prompt/2056322913628815661?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056322913628815661/0.jpg" alt="Cozy Korean living room couch portrait" width="560"></a>
 
@@ -8414,7 +8440,7 @@ Romantic slice-of-life atmosphere, intimate late-night mood, candid relaxed pose
 
 ---
 
-#### 263. Cinematic editorial portrait black-gold
+#### 264. Cinematic editorial portrait black-gold
 
 <a href="https://aiistudio.com/en/prompt/2056254447203025155?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056254447203025155/0.jpg" alt="Cinematic editorial portrait black-gold" width="560"></a>
 
@@ -8580,7 +8606,7 @@ high-end editorial realism,
 
 ---
 
-#### 264. Korean classroom golden hour portrait
+#### 265. Korean classroom golden hour portrait
 
 <a href="https://aiistudio.com/en/prompt/2056251216708145544?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056251216708145544/0.jpg" alt="Korean classroom golden hour portrait" width="560"></a>
 
@@ -8609,7 +8635,7 @@ Warm amber golden light flooding in through tall classroom windows at a low angl
 
 ---
 
-#### 265. Y2K flash mirror selfie luxury bathroom
+#### 266. Y2K flash mirror selfie luxury bathroom
 
 <a href="https://aiistudio.com/en/prompt/2056244935112978875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056244935112978875/0.jpg" alt="Y2K flash mirror selfie luxury bathroom" width="560"></a>
 
@@ -8673,7 +8699,7 @@ Camera aesthetic: Shot on iPhone 15 Pro rear camera, 26mm equivalent lens, ISO 1
 
 ---
 
-#### 266. Korean classroom window daylight portrait
+#### 267. Korean classroom window daylight portrait
 
 <a href="https://aiistudio.com/en/prompt/2056228362042093913?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056228362042093913/0.jpg" alt="Korean classroom window daylight portrait" width="560"></a>
 
@@ -8702,7 +8728,7 @@ Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model 
 
 ---
 
-#### 267. Korean studio fashion portrait minimal
+#### 268. Korean studio fashion portrait minimal
 
 <a href="https://aiistudio.com/en/prompt/2056036216789966991?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056036216789966991/0.jpg" alt="Korean studio fashion portrait minimal" width="560"></a>
 
@@ -8730,7 +8756,7 @@ Minimalist Korean fashion aesthetic, calm elegant atmosphere, candid model pose,
 
 ---
 
-#### 268. Neon green cyberpunk headphones portrait JSON
+#### 269. Neon green cyberpunk headphones portrait JSON
 
 <a href="https://aiistudio.com/en/prompt/2056025469741609447?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056025469741609447/0.jpg" alt="Neon green cyberpunk headphones portrait JSON" width="560"></a>
 
@@ -8845,7 +8871,7 @@ Minimalist Korean fashion aesthetic, calm elegant atmosphere, candid model pose,
 
 ---
 
-#### 269. Turn yourself into K-pop concert jumbotron idol
+#### 270. Turn yourself into K-pop concert jumbotron idol
 
 <a href="https://aiistudio.com/en/prompt/2056019017543131376?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056019017543131376/0.jpg" alt="Turn yourself into K-pop concert jumbotron idol" width="560"></a>
 
@@ -8875,7 +8901,7 @@ Instead: - slightly looking somewhere off-camera - subtle side gaze - soft unfoc
 
 ---
 
-#### 270. Japanese college girl fashion collage Tokyo Pink
+#### 271. Japanese college girl fashion collage Tokyo Pink
 
 <a href="https://aiistudio.com/en/prompt/2056013715892514937?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056013715892514937/0.jpg" alt="Japanese college girl fashion collage Tokyo Pink" width="560"></a>
 
@@ -8893,7 +8919,7 @@ Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese 
 
 ---
 
-#### 271. 2010s CCD camera LCD nostalgic flash snapshot
+#### 272. 2010s CCD camera LCD nostalgic flash snapshot
 
 <a href="https://aiistudio.com/en/prompt/2055982404662333699?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055982404662333699/0.jpg" alt="2010s CCD camera LCD nostalgic flash snapshot" width="560"></a>
 
@@ -8929,7 +8955,7 @@ Shooting style mimics an authentic early-2010s Sony Cyber-shot point-and-shoot w
 
 ---
 
-#### 272. Ricoh GR III night direct flash influencer portrait
+#### 273. Ricoh GR III night direct flash influencer portrait
 
 <a href="https://aiistudio.com/en/prompt/2055952722319561015?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055952722319561015/0.jpg" alt="Ricoh GR III night direct flash influencer portrait" width="560"></a>
 
@@ -8956,7 +8982,7 @@ add small white handwriting signature text "BubbleBrain" on bottom right corner
 
 ---
 
-#### 273. Cozy Korean kitchen night portrait
+#### 274. Cozy Korean kitchen night portrait
 
 <a href="https://aiistudio.com/en/prompt/2055153441425727781?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055153441425727781/0.jpg" alt="Cozy Korean kitchen night portrait" width="560"></a>
 
@@ -8984,7 +9010,7 @@ Romantic slice-of-life atmosphere, candid pose, cozy late-night baking vibe, sof
 
 ---
 
-#### 274. Stadium candid backwards cap portrait
+#### 275. Stadium candid backwards cap portrait
 
 <a href="https://aiistudio.com/en/prompt/2055141733965709491?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055141733965709491/0.jpg" alt="Stadium candid backwards cap portrait" width="560"></a>
 
@@ -9009,7 +9035,7 @@ A high-quality, realistic candid photo of a beautiful young woman in a crowded s
 
 ---
 
-#### 275. FACS 3x3 redhead expression collage
+#### 276. FACS 3x3 redhead expression collage
 
 <a href="https://aiistudio.com/en/prompt/2055027622422175817?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055027622422175817/0.jpg" alt="FACS 3x3 redhead expression collage" width="560"></a>
 
@@ -9139,7 +9165,7 @@ A high-quality, realistic candid photo of a beautiful young woman in a crowded s
 
 ---
 
-#### 276. Cinematic asian woman golden hour portrait
+#### 277. Cinematic asian woman golden hour portrait
 
 <a href="https://aiistudio.com/en/prompt/2053706043159638096?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053706043159638096/0.jpg" alt="Cinematic asian woman golden hour portrait" width="560"></a>
 
@@ -9163,7 +9189,7 @@ Cinematic close-up portrait of a young Asian woman with short messy bob hair, so
 
 ---
 
-#### 277. iPhone reflection portrait with phone-on-face
+#### 278. iPhone reflection portrait with phone-on-face
 
 <a href="https://aiistudio.com/en/prompt/2053535379618423118?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053535379618423118/0.jpg" alt="iPhone reflection portrait with phone-on-face" width="560"></a>
 
@@ -9188,7 +9214,7 @@ Ultra-realistic creative portrait taken with an iPhone, identity accurately pres
 
 ---
 
-#### 278. Y2K K-fashion editorial magazine cover
+#### 279. Y2K K-fashion editorial magazine cover
 
 <a href="https://aiistudio.com/en/prompt/2053406367621497187?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053406367621497187/0.jpg" alt="Y2K K-fashion editorial magazine cover" width="560"></a>
 
@@ -9215,7 +9241,7 @@ Design feels like a nostalgic early-2000s fashion magazine cover blended with co
 
 ---
 
-#### 279. Smartphone gym mirror selfie portrait
+#### 280. Smartphone gym mirror selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2053343022218100809?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053343022218100809/0.jpg" alt="Smartphone gym mirror selfie portrait" width="560"></a>
 
@@ -9239,7 +9265,7 @@ A realistic smartphone mirror selfie of a young woman in her 20s sitting on a bl
 
 ---
 
-#### 280. Luxury VISION magazine cover portrait
+#### 281. Luxury VISION magazine cover portrait
 
 <a href="https://aiistudio.com/en/prompt/2053336660658790655?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053336660658790655/0.jpg" alt="Luxury VISION magazine cover portrait" width="560"></a>
 
@@ -9296,7 +9322,7 @@ masterpiece, cinematic elegance, timeless beauty
 
 ---
 
-#### 281. 3x3 candid Asian woman tank top photo dump
+#### 282. 3x3 candid Asian woman tank top photo dump
 
 <a href="https://aiistudio.com/en/prompt/2052858579666038948?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2052858579666038948/0.jpg" alt="3x3 candid Asian woman tank top photo dump" width="560"></a>
 
@@ -9411,7 +9437,7 @@ masterpiece, cinematic elegance, timeless beauty
 
 ---
 
-#### 282. Luxury magazine cover close-up portrait
+#### 283. Luxury magazine cover close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2052635450444251615?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2052635450444251615/0.jpg" alt="Luxury magazine cover close-up portrait" width="560"></a>
 
@@ -9457,7 +9483,7 @@ photorealistic, ultra high resolution, glossy finish, 8k
 
 ---
 
-#### 283. NBA stands CCTV5 broadcast screenshot
+#### 284. NBA stands CCTV5 broadcast screenshot
 
 <a href="https://aiistudio.com/en/prompt/2052580570077737455?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2052580570077737455/0.jpg" alt="NBA stands CCTV5 broadcast screenshot" width="560"></a>
 
@@ -9483,7 +9509,7 @@ Create a realistic documentary-style sports broadcast screenshot, set in the spe
 
 ---
 
-#### 284. Japanese schoolgirl manga overhead tatami portrait
+#### 285. Japanese schoolgirl manga overhead tatami portrait
 
 <a href="https://aiistudio.com/en/prompt/2052573209355334077?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2052573209355334077/0.jpg" alt="Japanese schoolgirl manga overhead tatami portrait" width="560"></a>
 
@@ -9509,7 +9535,7 @@ Negative prompt: blurry, low quality, extra fingers, bad anatomy, distorted hand
 
 ---
 
-#### 285. Y2K Korean soft-girl 3x3 photo grid
+#### 286. Y2K Korean soft-girl 3x3 photo grid
 
 <a href="https://aiistudio.com/en/prompt/2051960110373855289?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051960110373855289/0.jpg" alt="Y2K Korean soft-girl 3x3 photo grid" width="560"></a>
 
@@ -9527,7 +9553,7 @@ A highly aesthetic Korean soft-girl editorial collage in a clean white studio. 3
 
 ---
 
-#### 286. East Asian lazy morning bedroom portrait
+#### 287. East Asian lazy morning bedroom portrait
 
 <a href="https://aiistudio.com/en/prompt/2051878844160975033?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051878844160975033/0.jpg" alt="East Asian lazy morning bedroom portrait" width="560"></a>
 
@@ -9552,7 +9578,7 @@ A casual, authentic lifestyle photograph shot from a slightly tilted high angle 
 
 ---
 
-#### 287. Golden double exposure woman portrait
+#### 288. Golden double exposure woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2051718957971968369?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051718957971968369/0.jpg" alt="Golden double exposure woman portrait" width="560"></a>
 
@@ -9570,7 +9596,7 @@ A striking double exposure composition in a monochromatic golden-yellow hue, ble
 
 ---
 
-#### 288. Y2K flash fashion portrait of woman
+#### 289. Y2K flash fashion portrait of woman
 
 <a href="https://aiistudio.com/en/prompt/2051284816054858055?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051284816054858055/0.jpg" alt="Y2K flash fashion portrait of woman" width="560"></a>
 
@@ -9607,7 +9633,7 @@ Negative prompt: perfect studio beauty shot, commercial ecommerce photo, plastic
 
 ---
 
-#### 289. East asian phone-flash bedroom selfie
+#### 290. East asian phone-flash bedroom selfie
 
 <a href="https://aiistudio.com/en/prompt/2051202480793686229?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051202480793686229/0.jpg" alt="East asian phone-flash bedroom selfie" width="560"></a>
 
@@ -9632,7 +9658,7 @@ A high-angle front-camera phone selfie of a young woman in her 20s sitting or ha
 
 ---
 
-#### 290. Cloud-formed face transformation
+#### 291. Cloud-formed face transformation
 
 <a href="https://aiistudio.com/en/prompt/2051008065613238378?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051008065613238378/0.jpg" alt="Cloud-formed face transformation" width="560"></a>
 
@@ -9659,7 +9685,7 @@ High resolution, ultra-realistic cloud texture, smooth blending, no text, no wat
 
 ---
 
-#### 291. Self simulation archive snapshot
+#### 292. Self simulation archive snapshot
 
 <a href="https://aiistudio.com/en/prompt/2050926759923871776?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050926759923871776/0.jpg" alt="Self simulation archive snapshot" width="560"></a>
 
@@ -9687,7 +9713,7 @@ Using the generation rules I have given you so far, generate 10 different imagin
 
 ---
 
-#### 292. Korean idol nightlife portrait
+#### 293. Korean idol nightlife portrait
 
 <a href="https://aiistudio.com/en/prompt/2050892241376542864?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050892241376542864/0.jpg" alt="Korean idol nightlife portrait" width="560"></a>
 
@@ -9705,7 +9731,7 @@ Low-light cinematic portrait, telephoto lens compression, shallow depth of field
 
 ---
 
-#### 293. Royal blue qipao cosplay portrait
+#### 294. Royal blue qipao cosplay portrait
 
 <a href="https://aiistudio.com/en/prompt/2050839245074399282?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050839245074399282/0.jpg" alt="Royal blue qipao cosplay portrait" width="560"></a>
 
@@ -9741,7 +9767,7 @@ Negative prompt: childlike face, underage, plastic skin, over-retouched, extra f
 
 ---
 
-#### 294. Curvy Korean iPhone 3x3 grid
+#### 295. Curvy Korean iPhone 3x3 grid
 
 <a href="https://aiistudio.com/en/prompt/2050835640766341487?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050835640766341487/0.jpg" alt="Curvy Korean iPhone 3x3 grid" width="560"></a>
 
@@ -9761,7 +9787,7 @@ She poses in a variety of ways, with each pose and photo designed to make her bo
 
 ---
 
-#### 295. Dim bedroom blonde phone selfie
+#### 296. Dim bedroom blonde phone selfie
 
 <a href="https://aiistudio.com/en/prompt/2050815018535649548?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050815018535649548/0.jpg" alt="Dim bedroom blonde phone selfie" width="560"></a>
 
@@ -9786,7 +9812,7 @@ Create a realistic vertical 9:16 close-up phone selfie of a young adult woman in
 
 ---
 
-#### 296. Asian man beige hoodie editorial
+#### 297. Asian man beige hoodie editorial
 
 <a href="https://aiistudio.com/en/prompt/2050783561591255069?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050783561591255069/0.jpg" alt="Asian man beige hoodie editorial" width="560"></a>
 
@@ -9811,7 +9837,7 @@ Make the aspect ratio 3:4
 
 ---
 
-#### 297. Obsidian throne cathedral portrait
+#### 298. Obsidian throne cathedral portrait
 
 <a href="https://aiistudio.com/en/prompt/2050871134959112387?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050871134959112387/0.jpg" alt="Obsidian throne cathedral portrait" width="560"></a>
 
@@ -9835,7 +9861,7 @@ An American white man with sharp jawline and defined facial features sits on a c
 
 ---
 
-#### 298. Built Different torn-paper editorial
+#### 299. Built Different torn-paper editorial
 
 <a href="https://aiistudio.com/en/prompt/2050851671291683136?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050851671291683136/0.jpg" alt="Built Different torn-paper editorial" width="560"></a>
 
@@ -9878,7 +9904,7 @@ Keep layout asymmetrical, slightly messy but visually balanced, like a high-fash
 
 ---
 
-#### 299. Taiwanese beef noodle table spread
+#### 300. Taiwanese beef noodle table spread
 
 <a href="https://aiistudio.com/en/prompt/2050627668861944073?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050627668861944073/0.jpg" alt="Taiwanese beef noodle table spread" width="560"></a>
 
@@ -9896,7 +9922,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 
 ---
 
-#### 300. Retro split-wall stool editorial
+#### 301. Retro split-wall stool editorial
 
 <a href="https://aiistudio.com/en/prompt/2050541242782564848?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050541242782564848/0.jpg" alt="Retro split-wall stool editorial" width="560"></a>
 
@@ -9936,7 +9962,7 @@ Parameters:
 
 ---
 
-#### 301. Japanese student-teacher portrait
+#### 302. Japanese student-teacher portrait
 
 <a href="https://aiistudio.com/en/prompt/2050184131750035676?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050184131750035676/0.jpg" alt="Japanese student-teacher portrait" width="560"></a>
 
@@ -9970,7 +9996,7 @@ Reproduce a sense of camera shake and a casually-taken, rough composition. 4k.
 
 ---
 
-#### 302. Low-light cafe smartphone portrait
+#### 303. Low-light cafe smartphone portrait
 
 <a href="https://aiistudio.com/en/prompt/2050098347248144777?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050098347248144777/0.jpg" alt="Low-light cafe smartphone portrait" width="560"></a>
 
@@ -10007,7 +10033,7 @@ Keep a low-light smartphone texture: soft edges, mild shadow noise, warm film-li
 
 ---
 
-#### 303. Cassette fitness triptych editorial
+#### 304. Cassette fitness triptych editorial
 
 <a href="https://aiistudio.com/en/prompt/2050095429153681472?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050095429153681472/0.jpg" alt="Cassette fitness triptych editorial" width="560"></a>
 
@@ -10073,7 +10099,7 @@ Subtle grain for realism
 
 ---
 
-#### 304. Y2K CCD digicam fashion portrait
+#### 305. Y2K CCD digicam fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2050056670408216927?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050056670408216927/0.jpg" alt="Y2K CCD digicam fashion portrait" width="560"></a>
 
@@ -10125,7 +10151,7 @@ cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blu
 
 ---
 
-#### 305. Lavender tulle couture cover
+#### 306. Lavender tulle couture cover
 
 <a href="https://aiistudio.com/en/prompt/2049890997409374295?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049890997409374295/0.jpg" alt="Lavender tulle couture cover" width="560"></a>
 
@@ -10153,7 +10179,7 @@ Lighting: soft studio lighting, diffused glow, high-end Vogue-style editorial, u
 
 ---
 
-#### 306. Formal business profile headshot
+#### 307. Formal business profile headshot
 
 <a href="https://aiistudio.com/en/prompt/2049779470144552976?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049779470144552976/0.jpg" alt="Formal business profile headshot" width="560"></a>
 
@@ -10194,7 +10220,7 @@ The first line (name) uses dark navy bold large English text. The second and thi
 
 ---
 
-#### 307. Zara-style triple-pose editorial
+#### 308. Zara-style triple-pose editorial
 
 <a href="https://aiistudio.com/en/prompt/2049771976546533609?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049771976546533609/0.jpg" alt="Zara-style triple-pose editorial" width="560"></a>
 
@@ -10221,7 +10247,7 @@ Style: ultra-realistic, sharp focus, cinematic lighting, soft shadows, premium e
 
 ---
 
-#### 308. WU XIA xianxia magazine cover
+#### 309. WU XIA xianxia magazine cover
 
 <a href="https://aiistudio.com/en/prompt/2049734906247553153?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049734906247553153/0.jpg" alt="WU XIA xianxia magazine cover" width="560"></a>
 
@@ -10269,7 +10295,7 @@ ultra realistic, 8K, film grain, masterpiece --ar 2:3 --v 6 --style raw
 
 ---
 
-#### 309. Glitch monochrome side-profile portrait
+#### 310. Glitch monochrome side-profile portrait
 
 <a href="https://aiistudio.com/en/prompt/2049733639651385759?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049733639651385759/0.jpg" alt="Glitch monochrome side-profile portrait" width="560"></a>
 
@@ -10311,7 +10337,7 @@ Aspect ratio is 9:16
 
 ---
 
-#### 310. Top-down rose bouquet golden hour
+#### 311. Top-down rose bouquet golden hour
 
 <a href="https://aiistudio.com/en/prompt/2049666088942883193?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049666088942883193/0.jpg" alt="Top-down rose bouquet golden hour" width="560"></a>
 
@@ -10336,7 +10362,7 @@ A high-angle, top-down cinematic portrait of a young woman with wavy brown hair 
 
 ---
 
-#### 311. Editorial 3x3 beige studio grid
+#### 312. Editorial 3x3 beige studio grid
 
 <a href="https://aiistudio.com/en/prompt/2049556448288407795?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049556448288407795/0.jpg" alt="Editorial 3x3 beige studio grid" width="560"></a>
 
@@ -10354,7 +10380,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 ---
 
-#### 312. Taiwan street burger night portrait
+#### 313. Taiwan street burger night portrait
 
 <a href="https://aiistudio.com/en/prompt/2049540329158701201?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049540329158701201/0.jpg" alt="Taiwan street burger night portrait" width="560"></a>
 
@@ -10380,7 +10406,7 @@ Blurry amateur Asian super model in the middle of Taiwan old street at night ful
 
 ---
 
-#### 313. Doodle overlay photo manipulation
+#### 314. Doodle overlay photo manipulation
 
 <a href="https://aiistudio.com/en/prompt/2049538141993001161?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049538141993001161/0.jpg" alt="Doodle overlay photo manipulation" width="560"></a>
 
@@ -10415,7 +10441,7 @@ Avoid fixed phrases-generate context-aware, creative, and humorous text that fit
 
 ---
 
-#### 314. Cross-hatched celestial portrait
+#### 315. Cross-hatched celestial portrait
 
 <a href="https://aiistudio.com/en/prompt/2049514400386855005?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049514400386855005/0.jpg" alt="Cross-hatched celestial portrait" width="560"></a>
 
@@ -10444,7 +10470,7 @@ Ratio 9:16
 
 ---
 
-#### 315. Cozy bedroom red-haired selfie
+#### 316. Cozy bedroom red-haired selfie
 
 <a href="https://aiistudio.com/en/prompt/2049499896835912063?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049499896835912063/0.jpg" alt="Cozy bedroom red-haired selfie" width="560"></a>
 
@@ -10468,7 +10494,7 @@ Ratio 9:16
 
 ---
 
-#### 316. NYC vlogger 3x3 phone-photo grid
+#### 317. NYC vlogger 3x3 phone-photo grid
 
 <a href="https://aiistudio.com/en/prompt/2049493053933596869?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049493053933596869/0.jpg" alt="NYC vlogger 3x3 phone-photo grid" width="560"></a>
 
@@ -10519,7 +10545,7 @@ Ratio 9:16
 
 ---
 
-#### 317. Earthy collage fashion editorial
+#### 318. Earthy collage fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2049477482471178408?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049477482471178408/0.jpg" alt="Earthy collage fashion editorial" width="560"></a>
 
@@ -10546,7 +10572,7 @@ Style: Gucci-style premium fashion campaign, ultra-realistic, high resolution, e
 
 ---
 
-#### 318. Naive folk art symbolic painting
+#### 319. Naive folk art symbolic painting
 
 <a href="https://aiistudio.com/en/prompt/2049444356395008000?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049444356395008000/0.jpg" alt="Naive folk art symbolic painting" width="560"></a>
 
@@ -10572,7 +10598,7 @@ A naive folk art painting of [subject], surrounded by symbolic plants, stars, an
 
 ---
 
-#### 319. Japanese peach magazine cover
+#### 320. Japanese peach magazine cover
 
 <a href="https://aiistudio.com/en/prompt/2049437959712018916?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049437959712018916/0.jpg" alt="Japanese peach magazine cover" width="560"></a>
 
@@ -10602,7 +10628,7 @@ No garbled text. No vulgarity. No plastic skin. No deformed hands. No cheap-post
 
 ---
 
-#### 320. Luxury makeup analysis board
+#### 321. Luxury makeup analysis board
 
 <a href="https://aiistudio.com/en/prompt/2049416670113124540?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049416670113124540/0.jpg" alt="Luxury makeup analysis board" width="560"></a>
 
@@ -10657,7 +10683,7 @@ Style: elegant balanced composition, soft shadows, professional retouching, clea
 
 ---
 
-#### 321. Gucci-style trousers fashion poster
+#### 322. Gucci-style trousers fashion poster
 
 <a href="https://aiistudio.com/en/prompt/2049403600594747482?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049403600594747482/0.jpg" alt="Gucci-style trousers fashion poster" width="560"></a>
 
@@ -10695,7 +10721,7 @@ Ultra realistic, sharp, 4K, luxury branding feel
 
 ---
 
-#### 322. Pixel-glitch portal social UI
+#### 323. Pixel-glitch portal social UI
 
 <a href="https://aiistudio.com/en/prompt/2049390794881065431?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049390794881065431/0.jpg" alt="Pixel-glitch portal social UI" width="560"></a>
 
@@ -10717,7 +10743,7 @@ Ultra realistic + semi-illustrated style, high detail skin texture, cinematic li
 
 ---
 
-#### 323. Korean rice bowl 3-page magazine
+#### 324. Korean rice bowl 3-page magazine
 
 <a href="https://aiistudio.com/en/prompt/2049383276406824999?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049383276406824999/0.jpg" alt="Korean rice bowl 3-page magazine" width="560"></a>
 
@@ -10770,7 +10796,7 @@ Aspect ratio: wide horizontal, 3-panel layout.
 
 ---
 
-#### 324. Zen Mode ink wash editorial cover
+#### 325. Zen Mode ink wash editorial cover
 
 <a href="https://aiistudio.com/en/prompt/2049375876220154308?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049375876220154308/0.jpg" alt="Zen Mode ink wash editorial cover" width="560"></a>
 
@@ -10806,7 +10832,7 @@ high fashion + contemporary art fusion, ultra refined, 8K --ar 2:3 --style raw
 
 ---
 
-#### 325. Beige menswear fashion infographic
+#### 326. Beige menswear fashion infographic
 
 <a href="https://aiistudio.com/en/prompt/2049363989721653251?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049363989721653251/0.jpg" alt="Beige menswear fashion infographic" width="560"></a>
 
@@ -10824,7 +10850,7 @@ Ultra-realistic fashion infographic photography of a single male model, using th
 
 ---
 
-#### 326. Cartoon burger comic-pop portrait
+#### 327. Cartoon burger comic-pop portrait
 
 <a href="https://aiistudio.com/en/prompt/2049363203998818532?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049363203998818532/0.jpg" alt="Cartoon burger comic-pop portrait" width="560"></a>
 
@@ -10857,7 +10883,7 @@ pop-art street style mood.
 
 ---
 
-#### 327. Japanese arcade fighting
+#### 328. Japanese arcade fighting
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-75?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/75.jpg" alt="Japanese arcade fighting" width="560"></a>
 
@@ -10885,7 +10911,7 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 
 ---
 
-#### 328. Polaroid with person bursting
+#### 329. Polaroid with person bursting
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-69?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/69.jpg" alt="Polaroid with person bursting" width="560"></a>
 
@@ -10906,7 +10932,7 @@ Generated with GPT Image-2 →
 
 ---
 
-#### 329. Naturalist dissected food study
+#### 330. Naturalist dissected food study
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-68?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/68.jpg" alt="Naturalist dissected food study" width="560"></a>
 
@@ -10969,7 +10995,7 @@ rough, smooth, moist, dry, dense, loose.
 
 ---
 
-#### 330. East Asian art portrait
+#### 331. East Asian art portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-66?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/66.jpg" alt="East Asian art portrait" width="560"></a>
 
@@ -10995,7 +11021,7 @@ The image emphasizes delicate texture, soft tones, a fusion of light French and 
 
 ---
 
-#### 331. Eastern fantasy half-body portrait
+#### 332. Eastern fantasy half-body portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-65?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/65.jpg" alt="Eastern fantasy half-body portrait" width="560"></a>
 
@@ -11023,7 +11049,7 @@ Style: high-end CG illustration, ultra-fine, cinematic lighting, soft-light rend
 
 ---
 
-#### 332. Douyin lingerie livestream UI
+#### 333. Douyin lingerie livestream UI
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-64?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/64.jpg" alt="Douyin lingerie livestream UI" width="560"></a>
 
@@ -11041,7 +11067,7 @@ Generate a Douyin livestream screenshot of a beautiful girl streaming, selling s
 
 ---
 
-#### 333. Tushan Yaya fox-fur portrait
+#### 334. Tushan Yaya fox-fur portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-63?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/63.jpg" alt="Tushan Yaya fox-fur portrait" width="560"></a>
 
@@ -11059,7 +11085,7 @@ Hu Yao Xiao Hong Niang — Tushan Yaya portrait blockbuster: pink nine-tail-fox-
 
 ---
 
-#### 334. Yang Guifei realistic photo
+#### 335. Yang Guifei realistic photo
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-61?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/61.jpg" alt="Yang Guifei realistic photo" width="560"></a>
 
@@ -11077,7 +11103,7 @@ Based on the historical descriptions of Yang Yuhuan, generate a realistic photo 
 
 ---
 
-#### 335. Tang Chang'an Lantern
+#### 336. Tang Chang'an Lantern
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-60?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/60.jpg" alt="Tang Chang'an Lantern" width="560"></a>
 
@@ -11095,7 +11121,7 @@ Panorama of the Lantern Festival in Chang'an during the Tang dynasty — thousan
 
 ---
 
-#### 336. Photorealistic Guanyin portrait
+#### 337. Photorealistic Guanyin portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-59?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/59.jpg" alt="Photorealistic Guanyin portrait" width="560"></a>
 
@@ -11113,7 +11139,7 @@ Based on the Buddhist scripture's description of Bodhisattva Guanyin, faithfully
 
 ---
 
-#### 337. Ultimate wuxia heroine 9:16
+#### 338. Ultimate wuxia heroine 9:16
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-58?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/58.jpg" alt="Ultimate wuxia heroine 9:16" width="560"></a>
 
@@ -11131,7 +11157,7 @@ Based on the Buddhist scripture's description of Bodhisattva Guanyin, faithfully
 
 ---
 
-#### 338. Subway candid phone portrait
+#### 339. Subway candid phone portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-56?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/56.jpg" alt="Subway candid phone portrait" width="560"></a>
 
@@ -11151,7 +11177,7 @@ Get your first try free ⬇️
 
 ---
 
-#### 339. Lu Xun Dawn Blossoms scene
+#### 340. Lu Xun Dawn Blossoms scene
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-55?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/55.jpg" alt="Lu Xun Dawn Blossoms scene" width="560"></a>
 
@@ -11169,7 +11195,7 @@ Combining content from Lu Xun's 'Dawn Blossoms Plucked at Dusk,' generate an ima
 
 ---
 
-#### 340. Su Daji ancient-style portrait
+#### 341. Su Daji ancient-style portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-54?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/54.jpg" alt="Su Daji ancient-style portrait" width="560"></a>
 
@@ -11187,7 +11213,7 @@ Su Daji ancient-style portrait — semi-transparent red gauze robe, fox ears fai
 
 ---
 
-#### 341. Neo-Chinese 'one flower' visual
+#### 342. Neo-Chinese 'one flower' visual
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-53?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/53.jpg" alt="Neo-Chinese 'one flower' visual" width="560"></a>
 
@@ -11223,7 +11249,7 @@ Overall lighting translucent, clean, layered, no gray fog, no flatness. Premium 
 
 ---
 
-#### 342. Douyin livestream UI mockup
+#### 343. Douyin livestream UI mockup
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-49?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/49.jpg" alt="Douyin livestream UI mockup" width="560"></a>
 
@@ -11241,7 +11267,7 @@ Generate a Douyin livestream screenshot showing a pretty girl streaming, selling
 
 ---
 
-#### 343. Most significant 2001 event
+#### 344. Most significant 2001 event
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-43?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/43.jpg" alt="Most significant 2001 event" width="560"></a>
 
@@ -11259,7 +11285,7 @@ Generate an image of the most significant event of 2001
 
 ---
 
-#### 344. Edit coin stacks to 244.5 baht
+#### 345. Edit coin stacks to 244.5 baht
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-42?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/42.jpg" alt="Edit coin stacks to 244.5 baht" width="560"></a>
 
@@ -11277,7 +11303,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 ---
 
-#### 345. Most significant 2020 event
+#### 346. Most significant 2020 event
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-41?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/41.jpg" alt="Most significant 2020 event" width="560"></a>
 
@@ -11295,7 +11321,7 @@ Generate an image of the most significant event of 2020
 
 ---
 
-#### 346. Sam Altman as MLB batter
+#### 347. Sam Altman as MLB batter
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-39?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/39.jpg" alt="Sam Altman as MLB batter" width="560"></a>
 
@@ -11313,7 +11339,7 @@ Sam Altman as a Major League baseball player holding a bat at the ready, in the 
 
 ---
 
-#### 347. Sam Altman selfie riding a bear
+#### 348. Sam Altman selfie riding a bear
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-35?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/35.jpg" alt="Sam Altman selfie riding a bear" width="560"></a>
 
@@ -11333,7 +11359,7 @@ Edit prompt: Remove the background make it transparent
 
 ---
 
-#### 348. Authentic photo of any subject
+#### 349. Authentic photo of any subject
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-32?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/32.jpg" alt="Authentic photo of any subject" width="560"></a>
 
@@ -11351,7 +11377,7 @@ Help me generate an authentic image of xxxx.
 
 ---
 
-#### 349. Portrait
+#### 350. Portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-118?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/118.jpg" alt="Portrait" width="560"></a>
 
@@ -11369,7 +11395,7 @@ Help me generate an authentic image of xxxx.
 
 ---
 
-#### 350. Cinematic lighting car
+#### 351. Cinematic lighting car
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-109?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/109.jpg" alt="Cinematic lighting car" width="560"></a>
 
@@ -11387,7 +11413,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 ---
 
-#### 351. Photorealistic cat
+#### 352. Photorealistic cat
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-104?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/104.jpg" alt="Photorealistic cat" width="560"></a>
 
@@ -11405,7 +11431,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 ---
 
-#### 352. Landscape
+#### 353. Landscape
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-91?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/91.jpg" alt="Landscape" width="560"></a>
 
@@ -11423,7 +11449,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 ---
 
-#### 353. Iphone v2
+#### 354. Iphone v2
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-3?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/3.jpg" alt="Iphone v2" width="560"></a>
 
@@ -11441,7 +11467,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-#### 354. Iphone
+#### 355. Iphone
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-2?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/2.jpg" alt="Iphone" width="560"></a>
 
@@ -11459,7 +11485,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ---
 
-#### 355. Photorealistic portrait
+#### 356. Photorealistic portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-172?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/172.jpg" alt="Photorealistic portrait" width="560"></a>
 
@@ -11490,7 +11516,7 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 ---
 
-#### 356. Photorealistic car
+#### 357. Photorealistic car
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-165?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/165.jpg" alt="Photorealistic car" width="560"></a>
 
@@ -11508,7 +11534,7 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 ---
 
-#### 357. Cyberpunk building
+#### 358. Cyberpunk building
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-139?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/139.jpg" alt="Cyberpunk building" width="560"></a>
 
@@ -11545,7 +11571,7 @@ Generate image using uploaded image as reference
 
 ---
 
-#### 358. Chen Uen tribute editorial poster
+#### 359. Chen Uen tribute editorial poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-122?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/122.jpg" alt="Chen Uen tribute editorial poster" width="560"></a>
 
@@ -11563,7 +11589,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 ---
 
-#### 359. Magazine cover portrait
+#### 360. Magazine cover portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-77?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/77.jpg" alt="Magazine cover portrait" width="560"></a>
 
@@ -11583,7 +11609,7 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 ---
 
-#### 360. Photorealistic magazine
+#### 361. Photorealistic magazine
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-62?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/62.jpg" alt="Photorealistic magazine" width="560"></a>
 
@@ -11637,7 +11663,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 ---
 
-#### 361. Building
+#### 362. Building
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-58?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/58.jpg" alt="Building" width="560"></a>
 
@@ -11655,7 +11681,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 ---
 
-#### 362. Equirectangular image
+#### 363. Equirectangular image
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-54?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/54.jpg" alt="Equirectangular image" width="560"></a>
 
@@ -11673,7 +11699,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 ---
 
-#### 363. Golden hour car
+#### 364. Golden hour car
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-52?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/52.jpg" alt="Golden hour car" width="560"></a>
 
@@ -11691,7 +11717,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 ---
 
-#### 364. Retro poster
+#### 365. Retro poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-2?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/2.jpg" alt="Retro poster" width="560"></a>
 
@@ -11709,7 +11735,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ---
 
-#### 365. Boston Spring 2026 city poster
+#### 366. Boston Spring 2026 city poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-1?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/1.jpg" alt="Boston Spring 2026 city poster" width="560"></a>
 
@@ -11727,7 +11753,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-#### 366. Rainy bus stop burger portrait
+#### 367. Rainy bus stop burger portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-103?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/103.jpg" alt="Rainy bus stop burger portrait" width="560"></a>
 
@@ -11751,7 +11777,7 @@ pants. Moody, dark, atmospheric street photography.
 
 ---
 
-#### 367. Japanese classroom schoolgirl
+#### 368. Japanese classroom schoolgirl
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-100?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/100.jpg" alt="Japanese classroom schoolgirl" width="560"></a>
 
@@ -11769,7 +11795,7 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 
 ---
 
-#### 368. Underwater dreamy
+#### 369. Underwater dreamy
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-99?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/99.jpg" alt="Underwater dreamy" width="560"></a>
 
@@ -11787,7 +11813,7 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 
 ---
 
-#### 369. Photobook portrait of glasses
+#### 370. Photobook portrait of glasses
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-98?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/98.jpg" alt="Photobook portrait of glasses" width="560"></a>
 
@@ -11805,7 +11831,7 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 
 ---
 
-#### 370. Sports drink athlete portrait
+#### 371. Sports drink athlete portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-97?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/97.jpg" alt="Sports drink athlete portrait" width="560"></a>
 
@@ -11823,7 +11849,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 ---
 
-#### 371. Dreamy Oriental close-up portrait
+#### 372. Dreamy Oriental close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-91?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/91.jpg" alt="Dreamy Oriental close-up portrait" width="560"></a>
 
@@ -11841,7 +11867,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 ---
 
-#### 372. Desert snap to luxury studio
+#### 373. Desert snap to luxury studio
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-89?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/89.jpg" alt="Desert snap to luxury studio" width="560"></a>
 
@@ -11859,7 +11885,7 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 
 ---
 
-#### 373. Silver dress staircase portrait
+#### 374. Silver dress staircase portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-88?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/88.jpg" alt="Silver dress staircase portrait" width="560"></a>
 
@@ -11877,7 +11903,7 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 
 ---
 
-#### 374. 3D CGI cartoon caricature
+#### 375. 3D CGI cartoon caricature
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-87?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/87.jpg" alt="3D CGI cartoon caricature" width="560"></a>
 
@@ -11895,7 +11921,7 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 ---
 
-#### 375. Engraved hooded bearded portrait
+#### 376. Engraved hooded bearded portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-85?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/85.jpg" alt="Engraved hooded bearded portrait" width="560"></a>
 
@@ -11913,7 +11939,7 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 
 ---
 
-#### 376. Pen-and-ink family portrait
+#### 377. Pen-and-ink family portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-84?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/84.jpg" alt="Pen-and-ink family portrait" width="560"></a>
 
@@ -11931,7 +11957,7 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 
 ---
 
-#### 377. Bedroom phone close selfie
+#### 378. Bedroom phone close selfie
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-30?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/30.jpg" alt="Bedroom phone close selfie" width="560"></a>
 
@@ -11963,7 +11989,7 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 
 ---
 
-#### 378. Rugged man side-profile
+#### 379. Rugged man side-profile
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-29?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/29.jpg" alt="Rugged man side-profile" width="560"></a>
 
@@ -11981,7 +12007,7 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 
 ---
 
-#### 379. Old Delhi sweet shop
+#### 380. Old Delhi sweet shop
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-28?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/28.jpg" alt="Old Delhi sweet shop" width="560"></a>
 
@@ -11999,7 +12025,7 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 
 ---
 
-#### 380. Musician at a downtown bodega
+#### 381. Musician at a downtown bodega
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-27?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/27.jpg" alt="Musician at a downtown bodega" width="560"></a>
 
@@ -12017,7 +12043,7 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 
 ---
 
-#### 381. Honey-blonde candid selfie
+#### 382. Honey-blonde candid selfie
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-26?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/26.jpg" alt="Honey-blonde candid selfie" width="560"></a>
 
@@ -12035,7 +12061,7 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 
 ---
 
-#### 382. Slim man with blue 2017 Mustang
+#### 383. Slim man with blue 2017 Mustang
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-25?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/25.jpg" alt="Slim man with blue 2017 Mustang" width="560"></a>
 
@@ -12063,7 +12089,7 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 ---
 
-#### 383. Vintage newspaper front page
+#### 384. Vintage newspaper front page
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-19?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/19.jpg" alt="Vintage newspaper front page" width="560"></a>
 
@@ -12098,7 +12124,7 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 ---
 
-#### 384. 'The me you know' portrait
+#### 385. 'The me you know' portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-18?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/18.jpg" alt="'The me you know' portrait" width="560"></a>
 
@@ -12116,7 +12142,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 385. Fuji film couple portrait 9:16
+#### 386. Fuji film couple portrait 9:16
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-17?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/17.jpg" alt="Fuji film couple portrait 9:16" width="560"></a>
 
@@ -12134,7 +12160,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 386. Korean idol mist filter
+#### 387. Korean idol mist filter
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-16?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/16.jpg" alt="Korean idol mist filter" width="560"></a>
 
@@ -12152,7 +12178,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 387. Fuji film Japanese portrait
+#### 388. Fuji film Japanese portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-15?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/15.jpg" alt="Fuji film Japanese portrait" width="560"></a>
 
@@ -12170,7 +12196,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 388. Editorial misty Korean portrait
+#### 389. Editorial misty Korean portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-14?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/14.jpg" alt="Editorial misty Korean portrait" width="560"></a>
 
@@ -12188,7 +12214,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 389. Korean idol 3x3 photoshoot
+#### 390. Korean idol 3x3 photoshoot
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-13?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/13.jpg" alt="Korean idol 3x3 photoshoot" width="560"></a>
 
@@ -12206,7 +12232,7 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 ---
 
-#### 390. CCD flash Korean idol snapshot
+#### 391. CCD flash Korean idol snapshot
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-12?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/12.jpg" alt="CCD flash Korean idol snapshot" width="560"></a>
 
@@ -12224,7 +12250,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ---
 
-#### 391. 3x3 Korean idol grid 9:16
+#### 392. 3x3 Korean idol grid 9:16
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-11?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/11.jpg" alt="3x3 Korean idol grid 9:16" width="560"></a>
 
@@ -12242,7 +12268,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ---
 
-#### 392. Sam Altman skatepark photo
+#### 393. Sam Altman skatepark photo
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-10?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/10.jpg" alt="Sam Altman skatepark photo" width="560"></a>
 
@@ -12260,7 +12286,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ---
 
-#### 393. 7/10 body young woman portrait
+#### 394. 7/10 body young woman portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-9?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/9.jpg" alt="7/10 body young woman portrait" width="560"></a>
 
@@ -12278,7 +12304,7 @@ The image is a medium close-up shot at eye level, focused on a young woman. She 
 
 ---
 
-#### 394. Anime cosplayer phone screenshot
+#### 395. Anime cosplayer phone screenshot
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-8?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/8.jpg" alt="Anime cosplayer phone screenshot" width="560"></a>
 
@@ -12296,7 +12322,7 @@ Generate an image styled like a vertical phone screenshot, with overall ratio cl
 
 ---
 
-#### 395. Luxury glam Black woman
+#### 396. Luxury glam Black woman
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-7?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/7.jpg" alt="Luxury glam Black woman" width="560"></a>
 
@@ -12314,7 +12340,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 ---
 
-#### 396. Japanese airy 35mm portrait
+#### 397. Japanese airy 35mm portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-6?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/6.jpg" alt="Japanese airy 35mm portrait" width="560"></a>
 
@@ -12332,7 +12358,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-#### 397. Chinese girl mirror selfie
+#### 398. Chinese girl mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-5?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/5.jpg" alt="Chinese girl mirror selfie" width="560"></a>
 
@@ -12351,7 +12377,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ---
 
-#### 398. 35mm direct flash portrait
+#### 399. 35mm direct flash portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-4?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/4.jpg" alt="35mm direct flash portrait" width="560"></a>
 
@@ -12369,7 +12395,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ---
 
-#### 399. Onsen ryokan 35mm portrait
+#### 400. Onsen ryokan 35mm portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-3?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/3.jpg" alt="Onsen ryokan 35mm portrait" width="560"></a>
 
@@ -12387,7 +12413,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ---
 
-#### 400. Solitary man in red gradient
+#### 401. Solitary man in red gradient
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-2?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/2.jpg" alt="Solitary man in red gradient" width="560"></a>
 
@@ -12405,7 +12431,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 ---
 
-#### 401. Convenience store 35mm portrait
+#### 402. Convenience store 35mm portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-1?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/1.jpg" alt="Convenience store 35mm portrait" width="560"></a>
 
@@ -12423,7 +12449,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 ---
 
-#### 402. Elon livestream UI mockup
+#### 403. Elon livestream UI mockup
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-89?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/89.jpg" alt="Elon livestream UI mockup" width="560"></a>
 
@@ -12487,7 +12513,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 ---
 
-#### 403. Taiwan night lantern street portrait
+#### 404. Taiwan night lantern street portrait
 
 <a href="https://aiistudio.com/en/prompt/2049180168623661379?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049180168623661379/0.jpg" alt="Taiwan night lantern street portrait" width="560"></a>
 
@@ -12511,7 +12537,7 @@ Blurry amateur Asian super model in the middle of Taiwan old street at night ful
 
 ---
 
-#### 404. Luxury skincare campaign portrait
+#### 405. Luxury skincare campaign portrait
 
 <a href="https://aiistudio.com/en/prompt/2049059204632080436?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049059204632080436/0.jpg" alt="Luxury skincare campaign portrait" width="560"></a>
 
@@ -12558,7 +12584,7 @@ Cheat Sheet
 
 ---
 
-#### 405. Sparco racing-jersey editorial
+#### 406. Sparco racing-jersey editorial
 
 <a href="https://aiistudio.com/en/prompt/2048967861981594095?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048967861981594095/0.jpg" alt="Sparco racing-jersey editorial" width="560"></a>
 
@@ -12581,7 +12607,7 @@ High contrast, HDR lighting, sharp focus, fashion editorial motorsport compositi
 
 ---
 
-#### 406. Queen of Spades sorcerer poster
+#### 407. Queen of Spades sorcerer poster
 
 <a href="https://aiistudio.com/en/prompt/2048805574176112646?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048805574176112646/0.jpg" alt="Queen of Spades sorcerer poster" width="560"></a>
 
@@ -12604,7 +12630,7 @@ Photorealistic face, epic fantasy realism, movie poster composition, high contra
 
 ---
 
-#### 407. Eastern emotion neo-Chinese poster
+#### 408. Eastern emotion neo-Chinese poster
 
 <a href="https://aiistudio.com/en/prompt/2048798194348515567?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048798194348515567/0.jpg" alt="Eastern emotion neo-Chinese poster" width="560"></a>
 
@@ -12763,7 +12789,7 @@ Emotion name: [name]
 
 ---
 
-#### 408. Low-angle product fashion campaign
+#### 409. Low-angle product fashion campaign
 
 <a href="https://aiistudio.com/en/prompt/2048748266293190833?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048748266293190833/0.jpg" alt="Low-angle product fashion campaign" width="560"></a>
 
@@ -12781,7 +12807,7 @@ Low-angle fashion campaign photograph of a confident model holding a large [prod
 
 ---
 
-#### 409. Photo + crayon editorial
+#### 410. Photo + crayon editorial
 
 <a href="https://aiistudio.com/en/prompt/2048714101850071422?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048714101850071422/0.jpg" alt="Photo + crayon editorial" width="560"></a>
 
@@ -12867,7 +12893,7 @@ High resolution, commercial-level quality
 
 ---
 
-#### 410. Baggy jeans luxury fashion ad
+#### 411. Baggy jeans luxury fashion ad
 
 <a href="https://aiistudio.com/en/prompt/2048615041566449922?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048615041566449922/0.jpg" alt="Baggy jeans luxury fashion ad" width="560"></a>
 
@@ -12890,7 +12916,7 @@ ultra realistic, sharp focus, premium color grading, soft highlights, depth of f
 
 ---
 
-#### 411. Korean idol shadow editorial
+#### 412. Korean idol shadow editorial
 
 <a href="https://aiistudio.com/en/prompt/2048600232577933720?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048600232577933720/0.jpg" alt="Korean idol shadow editorial" width="560"></a>
 
@@ -12908,7 +12934,7 @@ editorial portrait, Korean female idol, subtly sensual  outfit: silk shirt or so
 
 ---
 
-#### 412. Hip-hop motion-drag poster
+#### 413. Hip-hop motion-drag poster
 
 <a href="https://aiistudio.com/en/prompt/2048599189681291673?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048599189681291673/0.jpg" alt="Hip-hop motion-drag poster" width="560"></a>
 
@@ -12934,7 +12960,7 @@ Hip-hop fashion model standing full-frame, clothing distorted into stretched str
 
 ---
 
-#### 413. Underground club headphones poster
+#### 414. Underground club headphones poster
 
 <a href="https://aiistudio.com/en/prompt/2048586749778293129?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048586749778293129/0.jpg" alt="Underground club headphones poster" width="560"></a>
 
@@ -12952,7 +12978,7 @@ Create a dark, high‑contrast poster with a moody, underground club aesthetic. 
 
 ---
 
-#### 414. Yu Ji haute couture runway
+#### 415. Yu Ji haute couture runway
 
 <a href="https://aiistudio.com/en/prompt/2048044673302982925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048044673302982925/0.jpg" alt="Yu Ji haute couture runway" width="560"></a>
 
@@ -12970,7 +12996,7 @@ Yu Ji trying on a haute-couture dress — red trailing long gown with a sword, u
 
 ---
 
-#### 415. Lingerie magazine poster
+#### 416. Lingerie magazine poster
 
 <a href="https://aiistudio.com/en/prompt/2048032278660477297?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2048032278660477297/0.jpg" alt="Lingerie magazine poster" width="560"></a>
 
@@ -13026,7 +13052,7 @@ Output: 4K, high detail, commercial advertising quality
 
 ---
 
-#### 416. Boyfriend POV cosplay shot
+#### 417. Boyfriend POV cosplay shot
 
 <a href="https://aiistudio.com/en/prompt/2048018805729992820?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2048018805729992820/0.jpg" alt="Boyfriend POV cosplay shot" width="560"></a>
 
@@ -13052,7 +13078,7 @@ Boyfriend's perspective: Waking up in the morning, a Korean cosplayer dressed as
 
 ---
 
-#### 417. Editorial style king
+#### 418. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2047991391763243032?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047991391763243032/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -13084,7 +13110,7 @@ High contrast, HDR lighting, sharp focus, fashion editorial composition, surreal
 
 ---
 
-#### 418. Editorial style woman portrait
+#### 419. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2047949150222778710?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047949150222778710/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -13102,7 +13128,7 @@ A cinematic luxury fashion editorial set inside a grand vintage library with tal
 
 ---
 
-#### 419. Cyberpunk bear
+#### 420. Cyberpunk bear
 
 <a href="https://aiistudio.com/en/prompt/2047882171336253928?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047882171336253928/0.jpg" alt="Cyberpunk bear" width="560"></a>
 
@@ -13120,7 +13146,7 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 
 ---
 
-#### 420. Editorial style creative scene v2
+#### 421. Editorial style creative scene v2
 
 <a href="https://aiistudio.com/en/prompt/2047631914769756180?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047631914769756180/0.jpg" alt="Editorial style creative scene v2" width="560"></a>
 
@@ -13146,7 +13172,7 @@ A soft-focus dream photograph of a [subject] in a [setting], seen through transl
 
 ---
 
-#### 421. King artwork
+#### 422. King artwork
 
 <a href="https://aiistudio.com/en/prompt/2047631839406297325?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047631839406297325/0.jpg" alt="King artwork" width="560"></a>
 
@@ -13164,7 +13190,7 @@ Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, s
 
 ---
 
-#### 422. Editorial style king v2
+#### 423. Editorial style king v2
 
 <a href="https://aiistudio.com/en/prompt/2047550158427259188?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047550158427259188/0.jpg" alt="Editorial style king v2" width="560"></a>
 
@@ -13185,7 +13211,7 @@ No text, no typography, no logos, no brand names, no product bottles, no packagi
 
 ---
 
-#### 423. Cinematic lighting king
+#### 424. Cinematic lighting king
 
 <a href="https://aiistudio.com/en/prompt/2047541284005453933?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047541284005453933/0.jpg" alt="Cinematic lighting king" width="560"></a>
 
@@ -13210,7 +13236,7 @@ Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic colo
 
 ---
 
-#### 424. Cinematic lighting portrait
+#### 425. Cinematic lighting portrait
 
 <a href="https://aiistudio.com/en/prompt/2047325329052823996?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047325329052823996/0.jpg" alt="Cinematic lighting portrait" width="560"></a>
 
@@ -13234,7 +13260,7 @@ Cinematic portrait of [Athlete Name] showing his/her journey, with bold text of 
 
 ---
 
-#### 425. Cinematic lighting king
+#### 426. Cinematic lighting king
 
 <a href="https://aiistudio.com/en/prompt/2047276802620411960?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047276802620411960/0.jpg" alt="Cinematic lighting king" width="560"></a>
 
@@ -13253,7 +13279,7 @@ negative prompt: distorted face, changed identity, altered hairstyle, flat light
 
 ---
 
-#### 426. Editorial style character desi
+#### 427. Editorial style character desi
 
 <a href="https://aiistudio.com/en/prompt/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047207812800147647/0.jpg" alt="Editorial style character desi" width="560"></a>
 
@@ -13296,7 +13322,7 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 ---
 
-#### 427. Editorial style woman portrait
+#### 428. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2047178898375426212?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047178898375426212/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -13324,7 +13350,7 @@ Ultra photorealistic, 8K, real magazine cover quality, perfect typography placem
 
 ---
 
-#### 428. Creative scene artwork
+#### 429. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2046924538643107922?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046924538643107922/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -13348,7 +13374,7 @@ Photo shoot of the Green Snake (Xiao Qing): green skin-tight scale-pattern dress
 
 ---
 
-#### 429. Editorial style woman portrait
+#### 430. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2046434670724907395?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2046434670724907395/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -13366,7 +13392,7 @@ Photo shoot of the Green Snake (Xiao Qing): green skin-tight scale-pattern dress
 
 ---
 
-#### 430. Photorealistic asian portrait
+#### 431. Photorealistic asian portrait
 
 <a href="https://aiistudio.com/en/prompt/2046115431144902732?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2046115431144902732/0.jpg" alt="Photorealistic asian portrait" width="560"></a>
 
@@ -13384,7 +13410,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-#### 431. Photorealistic woman portrait v2
+#### 432. Photorealistic woman portrait v2
 
 <a href="https://aiistudio.com/en/prompt/2045753728897331649?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045753728897331649/0.jpg" alt="Photorealistic woman portrait v2" width="560"></a>
 
@@ -13409,7 +13435,7 @@ Photorealistic iPhone candid of a woman on an escalator, using the exact face an
 
 ---
 
-#### 432. Editorial style woman portrait v2
+#### 433. Editorial style woman portrait v2
 
 <a href="https://aiistudio.com/en/prompt/2045717144319697140?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045717144319697140/0.jpg" alt="Editorial style woman portrait v2" width="560"></a>
 
@@ -13427,7 +13453,7 @@ Ultra-realistic close-up portrait of a young woman with fair skin and subtle fre
 
 ---
 
-#### 433. Editorial style king v2
+#### 434. Editorial style king v2
 
 <a href="https://aiistudio.com/en/prompt/2045689019007426749?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045689019007426749/0.jpg" alt="Editorial style king v2" width="560"></a>
 
@@ -13451,7 +13477,7 @@ A striking editorial portrait photograph of a person wearing a red blazer, shot 
 
 ---
 
-#### 434. Photorealistic woman portrait
+#### 435. Photorealistic woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2045554188877524994?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045554188877524994/0.jpg" alt="Photorealistic woman portrait" width="560"></a>
 
@@ -13475,7 +13501,7 @@ Photorealistic printed portrait of a young woman using the exact same face from 
 
 ---
 
-#### 435. Editorial style creative scene
+#### 436. Editorial style creative scene
 
 <a href="https://aiistudio.com/en/prompt/2045387100842070500?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045387100842070500/0.jpg" alt="Editorial style creative scene" width="560"></a>
 
@@ -13501,7 +13527,7 @@ Create a digital modern maximalism style sports collage of [TEAm Name] [Player n
 
 ---
 
-#### 436. Editorial style woman portrait
+#### 437. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2045337223638515794?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045337223638515794/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -13525,7 +13551,7 @@ Photorealistic editorial portrait of a smiling woman using the exact same face f
 
 ---
 
-#### 437. Photorealistic king
+#### 438. Photorealistic king
 
 <a href="https://aiistudio.com/en/prompt/2045105124268478650?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045105124268478650/0.jpg" alt="Photorealistic king" width="560"></a>
 
@@ -13547,7 +13573,7 @@ Lighting & Format: Natural light, aspect ratio 1080:1350 (4:5).
 
 ---
 
-#### 438. Cinematic lighting king v2
+#### 439. Cinematic lighting king v2
 
 <a href="https://aiistudio.com/en/prompt/2044775603145224640?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044775603145224640/0.jpg" alt="Cinematic lighting king v2" width="560"></a>
 
@@ -13571,7 +13597,7 @@ Close-up portrait of a woman (Same face as reference image)looking directly at t
 
 ---
 
-#### 439. Editorial style king
+#### 440. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2044616580890575125?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044616580890575125/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -13589,7 +13615,7 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 
 ---
 
-#### 440. Photorealistic woman portrait v2
+#### 441. Photorealistic woman portrait v2
 
 <a href="https://aiistudio.com/en/prompt/2044511721205993480?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044511721205993480/0.jpg" alt="Photorealistic woman portrait v2" width="560"></a>
 
@@ -13651,7 +13677,7 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 
 ---
 
-#### 441. Minimalist portrait
+#### 442. Minimalist portrait
 
 <a href="https://aiistudio.com/en/prompt/2044495725053284467?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044495725053284467/0.jpg" alt="Minimalist portrait" width="560"></a>
 
@@ -13698,7 +13724,7 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 
 ---
 
-#### 442. Editorial style sea creature
+#### 443. Editorial style sea creature
 
 <a href="https://aiistudio.com/en/prompt/2044411171433075106?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044411171433075106/0.jpg" alt="Editorial style sea creature" width="560"></a>
 
@@ -13722,7 +13748,7 @@ Ultra wide-angle low-angle portrait shot from ground perspective, young woman le
 
 ---
 
-#### 443. 3d render bear
+#### 444. 3d render bear
 
 <a href="https://aiistudio.com/en/prompt/2044357243827580959?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044357243827580959/0.jpg" alt="3d render bear" width="560"></a>
 
@@ -13740,7 +13766,7 @@ Ultra wide-angle low-angle portrait shot from ground perspective, young woman le
 
 ---
 
-#### 444. Cinematic lighting king
+#### 445. Cinematic lighting king
 
 <a href="https://aiistudio.com/en/prompt/2043677756467319089?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043677756467319089/0.jpg" alt="Cinematic lighting king" width="560"></a>
 
@@ -13772,7 +13798,7 @@ The overall mood should feel cinematic, mysterious, moody, aesthetic, and intima
 
 ---
 
-#### 445. Portrait asian portrait
+#### 446. Portrait asian portrait
 
 <a href="https://aiistudio.com/en/prompt/2043565528615371229?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043565528615371229/0.jpg" alt="Portrait asian portrait" width="560"></a>
 
@@ -13797,7 +13823,7 @@ The overall mood should feel cinematic, mysterious, moody, aesthetic, and intima
 
 ---
 
-#### 446. Wes anderson palette king
+#### 447. Wes anderson palette king
 
 <a href="https://aiistudio.com/en/prompt/2043539455131459957?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043539455131459957/0.jpg" alt="Wes anderson palette king" width="560"></a>
 
@@ -13821,7 +13847,7 @@ Style: vintage pop art, Wes Anderson symmetry, fashion editorial photography, pa
 
 ---
 
-#### 447. Editorial style glowing turtle
+#### 448. Editorial style glowing turtle
 
 <a href="https://aiistudio.com/en/prompt/2043495375395525118?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043495375395525118/0.jpg" alt="Editorial style glowing turtle" width="560"></a>
 
@@ -13851,7 +13877,7 @@ Captured with an 85mm lens in a medium close-up composition, with a shallow dept
 
 ---
 
-#### 448. Photorealistic woman portrait
+#### 449. Photorealistic woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2043449707314487616?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043449707314487616/0.jpg" alt="Photorealistic woman portrait" width="560"></a>
 
@@ -13913,7 +13939,7 @@ Captured with an 85mm lens in a medium close-up composition, with a shallow dept
 
 ---
 
-#### 449. King artwork
+#### 450. King artwork
 
 <a href="https://aiistudio.com/en/prompt/2043272414918771047?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043272414918771047/0.jpg" alt="King artwork" width="560"></a>
 
@@ -14046,7 +14072,7 @@ Captured with an 85mm lens in a medium close-up composition, with a shallow dept
 
 ---
 
-#### 450. Pixar 3d style car shot
+#### 451. Pixar 3d style car shot
 
 <a href="https://aiistudio.com/en/prompt/2043020207447310430?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043020207447310430/0.jpg" alt="Pixar 3d style car shot" width="560"></a>
 
@@ -14064,7 +14090,7 @@ Transform the person from the attached photo into a smooth stylized 3D cartoon c
 
 ---
 
-#### 451. Editorial style cat
+#### 452. Editorial style cat
 
 <a href="https://aiistudio.com/en/prompt/2042910026658930983?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042910026658930983/0.jpg" alt="Editorial style cat" width="560"></a>
 
@@ -14144,7 +14170,7 @@ Transform the person from the attached photo into a smooth stylized 3D cartoon c
 
 ---
 
-#### 452. Editorial style king
+#### 453. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2042785774245154868?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042785774245154868/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -14173,7 +14199,7 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 ---
 
-#### 453. Photorealistic king
+#### 454. Photorealistic king
 
 <a href="https://aiistudio.com/en/prompt/2042663199892488585?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042663199892488585/0.jpg" alt="Photorealistic king" width="560"></a>
 
@@ -14234,7 +14260,7 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 ---
 
-#### 454. Editorial style man portrait
+#### 455. Editorial style man portrait
 
 <a href="https://aiistudio.com/en/prompt/2042609010659201189?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042609010659201189/0.jpg" alt="Editorial style man portrait" width="560"></a>
 
@@ -14265,7 +14291,7 @@ Ultra-detailed, sharp focus, 8K resolution, vertical composition
 
 ---
 
-#### 455. Charcoal sketch woman portrait
+#### 456. Charcoal sketch woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2042586039450243514?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042586039450243514/0.jpg" alt="Charcoal sketch woman portrait" width="560"></a>
 
@@ -14283,7 +14309,7 @@ An extreme close-up focusing on a pretty lady's face and neck. She has blue eyes
 
 ---
 
-#### 456. Cyberpunk robot
+#### 457. Cyberpunk robot
 
 <a href="https://aiistudio.com/en/prompt/2042461948336595020?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042461948336595020/0.jpg" alt="Cyberpunk robot" width="560"></a>
 
@@ -14301,7 +14327,7 @@ Ultra-realistic futuristic portrait of a young woman in side profile facing left
 
 ---
 
-#### 457. Portrait queen
+#### 458. Portrait queen
 
 <a href="https://aiistudio.com/en/prompt/2042270514501312771?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042270514501312771/0.jpg" alt="Portrait queen" width="560"></a>
 
@@ -14319,7 +14345,7 @@ A creative romantic digital photo collage featuring a young handsome woman in a 
 
 ---
 
-#### 458. Editorial style king
+#### 459. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2041841779025019132?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041841779025019132/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -14361,7 +14387,7 @@ Skin: Retain natural pores and texture.
 
 ---
 
-#### 459. Editorial style king
+#### 460. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2041840872925606344?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041840872925606344/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -14386,7 +14412,7 @@ Technical Specs: flat lighting, low depth of field, clean studio photography, vi
 
 ---
 
-#### 460. Editorial style king
+#### 461. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2041827450943103133?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041827450943103133/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -14404,7 +14430,7 @@ A cinematic ultra-wide low-angle shot of a stylish young woman walking through a
 
 ---
 
-#### 461. Portrait king
+#### 462. Portrait king
 
 <a href="https://aiistudio.com/en/prompt/2041695940797690203?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041695940797690203/0.jpg" alt="Portrait king" width="560"></a>
 
@@ -14429,7 +14455,7 @@ She poses as if holding a white paper cup to her ear, listening. Her expression 
 
 ---
 
-#### 462. 3d render creative scene
+#### 463. 3d render creative scene
 
 <a href="https://aiistudio.com/en/prompt/2041689986781868223?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041689986781868223/0.jpg" alt="3d render creative scene" width="560"></a>
 
@@ -14514,7 +14540,7 @@ She poses as if holding a white paper cup to her ear, listening. Her expression 
 
 ---
 
-#### 463. Black turtleneck duo profile
+#### 464. Black turtleneck duo profile
 
 <a href="https://aiistudio.com/en/prompt/2041463539047735472?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041463539047735472/0.jpg" alt="Black turtleneck duo profile" width="560"></a>
 
@@ -14539,7 +14565,7 @@ A minimalist black and white cinematic portrait featuring two individuals (male 
 
 ---
 
-#### 464. Jisoo grand piano editorial
+#### 465. Jisoo grand piano editorial
 
 <a href="https://aiistudio.com/en/prompt/2041413918019780792?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041413918019780792/0.jpg" alt="Jisoo grand piano editorial" width="560"></a>
 
@@ -14567,7 +14593,7 @@ A minimalist black and white cinematic portrait featuring two individuals (male 
 
 ---
 
-#### 465. Over-the-shoulder ethereal
+#### 466. Over-the-shoulder ethereal
 
 <a href="https://aiistudio.com/en/prompt/2041379629668446277?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041379629668446277/0.jpg" alt="Over-the-shoulder ethereal" width="560"></a>
 
@@ -14607,7 +14633,7 @@ Face reference: soft oval face, smooth glowing skin, symmetrical features, natur
 
 ---
 
-#### 466. Inverted brand mask helmet
+#### 467. Inverted brand mask helmet
 
 <a href="https://aiistudio.com/en/prompt/2041238850962382939?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041238850962382939/0.jpg" alt="Inverted brand mask helmet" width="560"></a>
 
@@ -14633,7 +14659,7 @@ Face reference: soft oval face, smooth glowing skin, symmetrical features, natur
 
 ---
 
-#### 467. Black marble Murphy editorial
+#### 468. Black marble Murphy editorial
 
 <a href="https://aiistudio.com/en/prompt/2041196287077597676?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041196287077597676/0.jpg" alt="Black marble Murphy editorial" width="560"></a>
 
@@ -14655,7 +14681,7 @@ Shot on Hasselblad H6D-400C, 85mm, shallow DOF, glossy marble bokeh, HDR, Murphy
 
 ---
 
-#### 468. Japanese three-women ad
+#### 469. Japanese three-women ad
 
 <a href="https://aiistudio.com/en/prompt/2041188242846888389?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041188242846888389/0.jpg" alt="Japanese three-women ad" width="560"></a>
 
@@ -14680,7 +14706,7 @@ No text, no logos, no typography anywhere in the image.
 
 ---
 
-#### 469. Suburban shocked frozen moment
+#### 470. Suburban shocked frozen moment
 
 <a href="https://aiistudio.com/en/prompt/2041185290245878092?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041185290245878092/0.jpg" alt="Suburban shocked frozen moment" width="560"></a>
 
@@ -14751,7 +14777,7 @@ No text, no logos, no typography anywhere in the image.
 
 ---
 
-#### 470. 5-panel monochrome collage
+#### 471. 5-panel monochrome collage
 
 <a href="https://aiistudio.com/en/prompt/2041126427295461679?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041126427295461679/0.jpg" alt="5-panel monochrome collage" width="560"></a>
 
@@ -14769,7 +14795,7 @@ No text, no logos, no typography anywhere in the image.
 
 ---
 
-#### 471. Cybernetic freckled portrait
+#### 472. Cybernetic freckled portrait
 
 <a href="https://aiistudio.com/en/prompt/2041020925706117267?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041020925706117267/0.jpg" alt="Cybernetic freckled portrait" width="560"></a>
 
@@ -14803,7 +14829,7 @@ Color Grade: Desaturated cool tones with high contrast. High-resolution digital 
 
 ---
 
-#### 472. Resting woman profile macro
+#### 473. Resting woman profile macro
 
 <a href="https://aiistudio.com/en/prompt/2041002026616905820?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041002026616905820/0.jpg" alt="Resting woman profile macro" width="560"></a>
 
@@ -14827,7 +14853,7 @@ Color Grade: Desaturated cool tones with high contrast. High-resolution digital 
 
 ---
 
-#### 473. Worm's-eye intense profile
+#### 474. Worm's-eye intense profile
 
 <a href="https://aiistudio.com/en/prompt/2041000388133106148?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041000388133106148/0.jpg" alt="Worm's-eye intense profile" width="560"></a>
 
@@ -14864,7 +14890,7 @@ cartoon, painting, sketch, 3D render, CGI, plastic skin, blurry, low quality, fe
 
 ---
 
-#### 474. 3D caricature smiling man
+#### 475. 3D caricature smiling man
 
 <a href="https://aiistudio.com/en/prompt/2040971582303318487?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040971582303318487/0.jpg" alt="3D caricature smiling man" width="560"></a>
 
@@ -14888,7 +14914,7 @@ A highly detailed 3D caricature of a cheerful man with an oversized head, a big 
 
 ---
 
-#### 475. iPhone flash bedroom selfie
+#### 476. iPhone flash bedroom selfie
 
 <a href="https://aiistudio.com/en/prompt/2040889714044223767?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040889714044223767/0.jpg" alt="iPhone flash bedroom selfie" width="560"></a>
 
@@ -14966,7 +14992,7 @@ A highly detailed 3D caricature of a cheerful man with an oversized head, a big 
 
 ---
 
-#### 476. Off-white void fashion shot
+#### 477. Off-white void fashion shot
 
 <a href="https://aiistudio.com/en/prompt/2040745533858574471?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040745533858574471/0.jpg" alt="Off-white void fashion shot" width="560"></a>
 
@@ -14992,7 +15018,7 @@ A [subject] photographed from a 35-degree overhead angle, standing alone in an o
 
 ---
 
-#### 477. Edgy denim Pixar avatar
+#### 478. Edgy denim Pixar avatar
 
 <a href="https://aiistudio.com/en/prompt/2040691670384366063?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040691670384366063/0.jpg" alt="Edgy denim Pixar avatar" width="560"></a>
 
@@ -15018,7 +15044,7 @@ Create a head-and-shoulders Pixar-style 3D avatar of an edgy person based on the
 
 ---
 
-#### 478. Nayeon bunny smile portrait
+#### 479. Nayeon bunny smile portrait
 
 <a href="https://aiistudio.com/en/prompt/2040553750755172616?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040553750755172616/0.jpg" alt="Nayeon bunny smile portrait" width="560"></a>
 
@@ -15072,7 +15098,7 @@ photorealistic, no artifacts, no watermark --ar 9:16
 
 ---
 
-#### 479. Couple urban walkway candid
+#### 480. Couple urban walkway candid
 
 <a href="https://aiistudio.com/en/prompt/2040303034115477755?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040303034115477755/0.jpg" alt="Couple urban walkway candid" width="560"></a>
 
@@ -15090,7 +15116,7 @@ A cinematic candid medium shot portrait of a man and a woman walking side by sid
 
 ---
 
-#### 480. East Asian man barstool shot
+#### 481. East Asian man barstool shot
 
 <a href="https://aiistudio.com/en/prompt/2040029384518901953?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040029384518901953/0.jpg" alt="East Asian man barstool shot" width="560"></a>
 
@@ -15122,7 +15148,7 @@ Lighting: Soft, even studio lighting with minimal shadows to create a clean, hig
 
 ---
 
-#### 481. Jang Wonyoung 4-panel collage
+#### 482. Jang Wonyoung 4-panel collage
 
 <a href="https://aiistudio.com/en/prompt/2039986009476411400?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039986009476411400/0.jpg" alt="Jang Wonyoung 4-panel collage" width="560"></a>
 
@@ -15258,7 +15284,7 @@ Lighting: Soft, even studio lighting with minimal shadows to create a clean, hig
 
 ---
 
-#### 482. Forest light leak portrait
+#### 483. Forest light leak portrait
 
 <a href="https://aiistudio.com/en/prompt/2039956008555229561?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039956008555229561/0.jpg" alt="Forest light leak portrait" width="560"></a>
 
@@ -15276,7 +15302,7 @@ A cinematic portrait of an Asian woman standing in a quiet forest, captured in a
 
 ---
 
-#### 483. Editorial sunglasses overcoat
+#### 484. Editorial sunglasses overcoat
 
 <a href="https://aiistudio.com/en/prompt/2039615557272494205?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039615557272494205/0.jpg" alt="Editorial sunglasses overcoat" width="560"></a>
 
@@ -15489,7 +15515,7 @@ A cinematic portrait of an Asian woman standing in a quiet forest, captured in a
 
 ---
 
-#### 484. Sony A7R candid 9:16 portrait
+#### 485. Sony A7R candid 9:16 portrait
 
 <a href="https://aiistudio.com/en/prompt/2039554164267610221?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039554164267610221/0.jpg" alt="Sony A7R candid 9:16 portrait" width="560"></a>
 
@@ -15589,7 +15615,7 @@ A cinematic portrait of an Asian woman standing in a quiet forest, captured in a
 
 ---
 
-#### 485. Leather jacket light sweep
+#### 486. Leather jacket light sweep
 
 <a href="https://aiistudio.com/en/prompt/2039207783384613057?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039207783384613057/0.jpg" alt="Leather jacket light sweep" width="560"></a>
 
@@ -15613,7 +15639,7 @@ Ultra-realistic portrait of a woman (from uploaded image), messy hair slightly w
 
 ---
 
-#### 486. Streetwear fashion sheet
+#### 487. Streetwear fashion sheet
 
 <a href="https://aiistudio.com/en/prompt/2038942399746212173?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038942399746212173/0.jpg" alt="Streetwear fashion sheet" width="560"></a>
 
@@ -15648,7 +15674,7 @@ Style: Clean sketchbook + graffiti undertone, realistic + pencil hybrid, ultra-d
 
 ---
 
-#### 487. Sage grass field portrait
+#### 488. Sage grass field portrait
 
 <a href="https://aiistudio.com/en/prompt/2038617381388583283?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038617381388583283/0.jpg" alt="Sage grass field portrait" width="560"></a>
 
@@ -15673,7 +15699,7 @@ Dark hair is slightly messy, with natural strands moving in the wind. The head i
 
 ---
 
-#### 488. Sana balcony golden hour
+#### 489. Sana balcony golden hour
 
 <a href="https://aiistudio.com/en/prompt/2038558603943239874?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038558603943239874/0.jpg" alt="Sana balcony golden hour" width="560"></a>
 
@@ -15712,7 +15738,7 @@ Dark hair is slightly messy, with natural strands moving in the wind. The head i
 
 ---
 
-#### 489. Caricature vintage car scene
+#### 490. Caricature vintage car scene
 
 <a href="https://aiistudio.com/en/prompt/2038172237560439254?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038172237560439254/0.jpg" alt="Caricature vintage car scene" width="560"></a>
 
@@ -15739,7 +15765,7 @@ Style: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-det
 
 ---
 
-#### 490. Angry Birds escape selfie
+#### 491. Angry Birds escape selfie
 
 <a href="https://aiistudio.com/en/prompt/2038093061708996622?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038093061708996622/0.jpg" alt="Angry Birds escape selfie" width="560"></a>
 
@@ -15759,7 +15785,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ---
 
-#### 491. Eastern classical close-up
+#### 492. Eastern classical close-up
 
 <a href="https://aiistudio.com/en/prompt/2037809608794759408?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037809608794759408/0.jpg" alt="Eastern classical close-up" width="560"></a>
 
@@ -15787,7 +15813,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ---
 
-#### 492. Red-haired curtains portrait
+#### 493. Red-haired curtains portrait
 
 <a href="https://aiistudio.com/en/prompt/2037660838149210608?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037660838149210608/0.jpg" alt="Red-haired curtains portrait" width="560"></a>
 
@@ -15835,7 +15861,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ---
 
-#### 493. Jang Wonyoung silver foil
+#### 494. Jang Wonyoung silver foil
 
 <a href="https://aiistudio.com/en/prompt/2037653892843114830?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037653892843114830/0.jpg" alt="Jang Wonyoung silver foil" width="560"></a>
 
@@ -15935,7 +15961,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ---
 
-#### 494. Polaroid element flowing out
+#### 495. Polaroid element flowing out
 
 <a href="https://aiistudio.com/en/prompt/2037633578519965864?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037633578519965864/0.jpg" alt="Polaroid element flowing out" width="560"></a>
 
@@ -15953,7 +15979,7 @@ A hyper-realistic 3D photo concept showing a hand holding a square polaroid phot
 
 ---
 
-#### 495. Mixed-media torn collage portrait
+#### 496. Mixed-media torn collage portrait
 
 <a href="https://aiistudio.com/en/prompt/2036534946433736932?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036534946433736932/0.jpg" alt="Mixed-media torn collage portrait" width="560"></a>
 
@@ -15971,7 +15997,7 @@ Mixed-media portrait of [SUBJECT], [EXPRESSION], [GAZE DIRECTION], with [ACCESSO
 
 ---
 
-#### 496. Yellow halter satin moodboard
+#### 497. Yellow halter satin moodboard
 
 <a href="https://aiistudio.com/en/prompt/2036433262583628096?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036433262583628096/0.jpg" alt="Yellow halter satin moodboard" width="560"></a>
 
@@ -16184,7 +16210,7 @@ Prompt(right):
 
 ---
 
-#### 497. Streetlight rain solo shot
+#### 498. Streetlight rain solo shot
 
 <a href="https://aiistudio.com/en/prompt/2036128381763461566?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036128381763461566/0.jpg" alt="Streetlight rain solo shot" width="560"></a>
 
@@ -16202,7 +16228,7 @@ Create a highly cinematic, realistic photo of a person using the face from the u
 
 ---
 
-#### 498. Rosé Mediterranean cliffside
+#### 499. Rosé Mediterranean cliffside
 
 <a href="https://aiistudio.com/en/prompt/2036026418581172621?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036026418581172621/0.jpg" alt="Rosé Mediterranean cliffside" width="560"></a>
 
@@ -16227,7 +16253,7 @@ Photorealistic full body shot of BLACKPINK Rosé sitting sideways on an ancient 
 
 ---
 
-#### 499. Sheer halter floral bedroom
+#### 500. Sheer halter floral bedroom
 
 <a href="https://aiistudio.com/en/prompt/2036000158513598875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036000158513598875/0.jpg" alt="Sheer halter floral bedroom" width="560"></a>
 
@@ -16245,7 +16271,7 @@ Photorealistic full body shot of BLACKPINK Rosé sitting sideways on an ancient 
 
 ---
 
-#### 500. Notion-style monoline avatar
+#### 501. Notion-style monoline avatar
 
 <a href="https://aiistudio.com/en/prompt/2035793669911896120?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035793669911896120/0.jpg" alt="Notion-style monoline avatar" width="560"></a>
 
@@ -16274,7 +16300,7 @@ High contrast, clean 2D vector graphics.
 
 ---
 
-#### 501. Rainy car window portrait
+#### 502. Rainy car window portrait
 
 <a href="https://aiistudio.com/en/prompt/2035707444777865469?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035707444777865469/0.jpg" alt="Rainy car window portrait" width="560"></a>
 
@@ -16292,7 +16318,7 @@ Create a highly cinematic and realistic photo of a person using the face from th
 
 ---
 
-#### 502. An Yujin manga reading
+#### 503. An Yujin manga reading
 
 <a href="https://aiistudio.com/en/prompt/2035194436662305239?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035194436662305239/0.jpg" alt="An Yujin manga reading" width="560"></a>
 
@@ -16319,7 +16345,7 @@ A highly detailed, photorealistic portrait of Naoi Rei from IVE, lying on her st
 
 ---
 
-#### 503. Stylized 3D LeBron portrait
+#### 504. Stylized 3D LeBron portrait
 
 <a href="https://aiistudio.com/en/prompt/2034967465487163740?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034967465487163740/0.jpg" alt="Stylized 3D LeBron portrait" width="560"></a>
 
@@ -16355,7 +16381,7 @@ Respect reference face 100%.Respect all head accessories and hair exactly. Only 
 
 ---
 
-#### 504. Red puffer streetwear crouch
+#### 505. Red puffer streetwear crouch
 
 <a href="https://aiistudio.com/en/prompt/2034898321639121310?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034898321639121310/0.jpg" alt="Red puffer streetwear crouch" width="560"></a>
 
@@ -16385,7 +16411,7 @@ CAMPAIGN STYLE, NO BLUR, NO DISTORTION, NO EXTRA LIMBS, NO ARTIFACTS
 
 ---
 
-#### 505. Suit over-shoulder spotlight
+#### 506. Suit over-shoulder spotlight
 
 <a href="https://aiistudio.com/en/prompt/2034783762769486109?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034783762769486109/0.jpg" alt="Suit over-shoulder spotlight" width="560"></a>
 
@@ -16403,7 +16429,7 @@ Ultra-realistic cinematic portrait of a stylish man in a black suit, captured fr
 
 ---
 
-#### 506. CCD flash store selfie
+#### 507. CCD flash store selfie
 
 <a href="https://aiistudio.com/en/prompt/2034704709647564838?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034704709647564838/0.jpg" alt="CCD flash store selfie" width="560"></a>
 
@@ -16476,7 +16502,7 @@ mobile phone photo, CCD camera aesthetic, on-camera flash photography,
 
 ---
 
-#### 507. Cutout monokini sofa portrait
+#### 508. Cutout monokini sofa portrait
 
 <a href="https://aiistudio.com/en/prompt/2034294040339038344?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034294040339038344/0.jpg" alt="Cutout monokini sofa portrait" width="560"></a>
 
@@ -16494,7 +16520,7 @@ mobile phone photo, CCD camera aesthetic, on-camera flash photography,
 
 ---
 
-#### 508. Rosé tennis racket portrait
+#### 509. Rosé tennis racket portrait
 
 <a href="https://aiistudio.com/en/prompt/2034035802142052381?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034035802142052381/0.jpg" alt="Rosé tennis racket portrait" width="560"></a>
 
@@ -16543,7 +16569,7 @@ mobile phone photo, CCD camera aesthetic, on-camera flash photography,
 
 ---
 
-#### 509. Le Sserafim red latex collage
+#### 510. Le Sserafim red latex collage
 
 <a href="https://aiistudio.com/en/prompt/2034002331340320770?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034002331340320770/0.jpg" alt="Le Sserafim red latex collage" width="560"></a>
 
@@ -16572,7 +16598,7 @@ Overall Style: High-resolution, glossy magazine editorial look, soft glam makeup
 
 ---
 
-#### 510. AR floating tracklist portrait
+#### 511. AR floating tracklist portrait
 
 <a href="https://aiistudio.com/en/prompt/2033982968113352937?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033982968113352937/0.jpg" alt="AR floating tracklist portrait" width="560"></a>
 
@@ -16610,7 +16636,7 @@ Goal: Generate a cinematic, dreamlike AR (Augmented Reality) visual featuring [P
 
 ---
 
-#### 511. 7-panel 8K studio editorial
+#### 512. 7-panel 8K studio editorial
 
 <a href="https://aiistudio.com/en/prompt/2033941378279883011?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033941378279883011/0.jpg" alt="7-panel 8K studio editorial" width="560"></a>
 
@@ -16658,7 +16684,7 @@ Technical: 8k, ray-traced reflections, professional grading, global illumination
 
 ---
 
-#### 512. Low-light couch portrait
+#### 513. Low-light couch portrait
 
 <a href="https://aiistudio.com/en/prompt/2033917202567446610?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033917202567446610/0.jpg" alt="Low-light couch portrait" width="560"></a>
 
@@ -16676,7 +16702,7 @@ Technical: 8k, ray-traced reflections, professional grading, global illumination
 
 ---
 
-#### 513. Korean idol bedroom portrait 8K
+#### 514. Korean idol bedroom portrait 8K
 
 <a href="https://aiistudio.com/en/prompt/2033797895640535404?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033797895640535404/0.jpg" alt="Korean idol bedroom portrait 8K" width="560"></a>
 
@@ -16736,7 +16762,7 @@ Technical: 8k, ray-traced reflections, professional grading, global illumination
 
 ---
 
-#### 514. K-pop idols on a train
+#### 515. K-pop idols on a train
 
 <a href="https://aiistudio.com/en/prompt/2033747149994045758?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033747149994045758/0.jpg" alt="K-pop idols on a train" width="560"></a>
 
@@ -16799,7 +16825,7 @@ Technical: 8k, ray-traced reflections, professional grading, global illumination
 
 ---
 
-#### 515. 10mm fisheye puffer portrait
+#### 516. 10mm fisheye puffer portrait
 
 <a href="https://aiistudio.com/en/prompt/2033570946985144647?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033570946985144647/0.jpg" alt="10mm fisheye puffer portrait" width="560"></a>
 
@@ -16823,7 +16849,7 @@ Convert uploaded photo into ultra-wide 10mm fisheye portrait from dramatic high 
 
 ---
 
-#### 516. Country figures mirror selfie
+#### 517. Country figures mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2033551007062409422?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033551007062409422/0.jpg" alt="Country figures mirror selfie" width="560"></a>
 
@@ -16841,7 +16867,7 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, three
 
 ---
 
-#### 517. Black qipao camellia portrait
+#### 518. Black qipao camellia portrait
 
 <a href="https://aiistudio.com/en/prompt/2033544696119853426?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033544696119853426/0.jpg" alt="Black qipao camellia portrait" width="560"></a>
 
@@ -16865,7 +16891,7 @@ Artistic portrait of an elegant Asian woman wearing a black silk cheongsam (qipa
 
 ---
 
-#### 518. Orange backlit rain portrait
+#### 519. Orange backlit rain portrait
 
 <a href="https://aiistudio.com/en/prompt/2033501597330809017?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033501597330809017/0.jpg" alt="Orange backlit rain portrait" width="560"></a>
 
@@ -16883,7 +16909,7 @@ Ultra realistic cinematic portrait of a 32-year-old young woman standing in heav
 
 ---
 
-#### 519. Reference-locked female characte
+#### 520. Reference-locked female characte
 
 <a href="https://aiistudio.com/en/prompt/2033430945877930237?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033430945877930237/0.jpg" alt="Reference-locked female characte" width="560"></a>
 
@@ -17040,7 +17066,7 @@ Ultra realistic cinematic portrait of a 32-year-old young woman standing in heav
 
 ---
 
-#### 520. Adidas color-block panel ad
+#### 521. Adidas color-block panel ad
 
 <a href="https://aiistudio.com/en/prompt/2033403443269030215?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033403443269030215/0.jpg" alt="Adidas color-block panel ad" width="560"></a>
 
@@ -17058,7 +17084,7 @@ A high-quality, split-screen fashion editorial advertisement featuring multiple 
 
 ---
 
-#### 521. Fanta Buko Pandan drink
+#### 522. Fanta Buko Pandan drink
 
 <a href="https://aiistudio.com/en/prompt/2033341324305608968?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033341324305608968/0.jpg" alt="Fanta Buko Pandan drink" width="560"></a>
 
@@ -17094,7 +17120,7 @@ Optional parameters
 
 ---
 
-#### 522. Moss-textured logo artifact
+#### 523. Moss-textured logo artifact
 
 <a href="https://aiistudio.com/en/prompt/2033260707525914989?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033260707525914989/0.jpg" alt="Moss-textured logo artifact" width="560"></a>
 
@@ -17133,7 +17159,7 @@ Constraint: NO TEXT inside or immediately near the central moss icon. Only the b
 
 ---
 
-#### 523. iPhone flash alley portrait
+#### 524. iPhone flash alley portrait
 
 <a href="https://aiistudio.com/en/prompt/2033184442068697589?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033184442068697589/0.jpg" alt="iPhone flash alley portrait" width="560"></a>
 
@@ -17200,7 +17226,7 @@ Constraint: NO TEXT inside or immediately near the central moss icon. Only the b
 
 ---
 
-#### 524. Ronaldo Kinder Joy figurine
+#### 525. Ronaldo Kinder Joy figurine
 
 <a href="https://aiistudio.com/en/prompt/2032973567760232717?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032973567760232717/0.jpg" alt="Ronaldo Kinder Joy figurine" width="560"></a>
 
@@ -17224,7 +17250,7 @@ A cute stylized 3D collectible figurine inspired by Cristiano Ronaldo, with shor
 
 ---
 
-#### 525. Reclining porcelain glow
+#### 526. Reclining porcelain glow
 
 <a href="https://aiistudio.com/en/prompt/2032829615828283545?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032829615828283545/0.jpg" alt="Reclining porcelain glow" width="560"></a>
 
@@ -17296,7 +17322,7 @@ A cute stylized 3D collectible figurine inspired by Cristiano Ronaldo, with shor
 
 ---
 
-#### 526. Sydney Sweeney bathtub scene
+#### 527. Sydney Sweeney bathtub scene
 
 <a href="https://aiistudio.com/en/prompt/2032817549813969039?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032817549813969039/0.jpg" alt="Sydney Sweeney bathtub scene" width="560"></a>
 
@@ -17330,7 +17356,7 @@ The color palette highlights the bright yellow tiles, the white foam, the blonde
 
 ---
 
-#### 527. Stranger Things mirror selfie
+#### 528. Stranger Things mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2032770762525065405?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032770762525065405/0.jpg" alt="Stranger Things mirror selfie" width="560"></a>
 
@@ -17356,7 +17382,7 @@ Cinematic mirror selfie scene inspired by a retro 80s sci-fi horror vibe, a grou
 
 ---
 
-#### 528. Spiraling neon city portrait
+#### 529. Spiraling neon city portrait
 
 <a href="https://aiistudio.com/en/prompt/2032694954758193192?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032694954758193192/0.jpg" alt="Spiraling neon city portrait" width="560"></a>
 
@@ -17374,7 +17400,7 @@ cinematic portrait of a young woman standing perfectly still as the city around 
 
 ---
 
-#### 529. A&H two-tone tee poster
+#### 530. A&H two-tone tee poster
 
 <a href="https://aiistudio.com/en/prompt/2032618498460102987?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032618498460102987/0.jpg" alt="A&H two-tone tee poster" width="560"></a>
 
@@ -17417,7 +17443,7 @@ Important rules: • Do NOT add any website URLs
 
 ---
 
-#### 530. Leeseo IVE iPhone selfie
+#### 531. Leeseo IVE iPhone selfie
 
 <a href="https://aiistudio.com/en/prompt/2032603866433466598?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032603866433466598/0.jpg" alt="Leeseo IVE iPhone selfie" width="560"></a>
 
@@ -17500,7 +17526,7 @@ Important rules: • Do NOT add any website URLs
 
 ---
 
-#### 531. Pixar cast mirror selfie
+#### 532. Pixar cast mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2032557237437116521?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032557237437116521/0.jpg" alt="Pixar cast mirror selfie" width="560"></a>
 
@@ -17518,7 +17544,7 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the m
 
 ---
 
-#### 532. 4x4 black white expression grid
+#### 533. 4x4 black white expression grid
 
 <a href="https://aiistudio.com/en/prompt/2032434291645497698?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032434291645497698/0.jpg" alt="4x4 black white expression grid" width="560"></a>
 
@@ -17638,7 +17664,7 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the m
 
 ---
 
-#### 533. Tortoiseshell amber shades
+#### 534. Tortoiseshell amber shades
 
 <a href="https://aiistudio.com/en/prompt/2032343238015938917?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032343238015938917/0.jpg" alt="Tortoiseshell amber shades" width="560"></a>
 
@@ -17662,7 +17688,7 @@ Atmosphere: Premium, editorial fashion magazine aesthetic; high-contrast but wit
 
 ---
 
-#### 534. 3D caricature long neck
+#### 535. 3D caricature long neck
 
 <a href="https://aiistudio.com/en/prompt/2032256273782358153?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032256273782358153/0.jpg" alt="3D caricature long neck" width="560"></a>
 
@@ -17694,7 +17720,7 @@ Aspect ratio 4:5.
 
 ---
 
-#### 535. God rays warehouse portrait
+#### 536. God rays warehouse portrait
 
 <a href="https://aiistudio.com/en/prompt/2032013831548125557?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032013831548125557/0.jpg" alt="God rays warehouse portrait" width="560"></a>
 
@@ -17712,7 +17738,7 @@ Portrait of [your description], face illuminated by dramatic cinematic volumetri
 
 ---
 
-#### 536. Photo to 3D toy figure
+#### 537. Photo to 3D toy figure
 
 <a href="https://aiistudio.com/en/prompt/2031893220314202619?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031893220314202619/0.jpg" alt="Photo to 3D toy figure" width="560"></a>
 
@@ -17738,7 +17764,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 ---
 
-#### 537. High fashion swatch campaign
+#### 538. High fashion swatch campaign
 
 <a href="https://aiistudio.com/en/prompt/2031843569942622631?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031843569942622631/0.jpg" alt="High fashion swatch campaign" width="560"></a>
 
@@ -17764,7 +17790,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 ---
 
-#### 538. Designer toy chibi
+#### 539. Designer toy chibi
 
 <a href="https://aiistudio.com/en/prompt/2031741057105526932?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031741057105526932/0.jpg" alt="Designer toy chibi" width="560"></a>
 
@@ -17782,7 +17808,7 @@ Create a high-detail 3D semi-realistic chibi character with slightly exaggerated
 
 ---
 
-#### 539. Pixar high-fashion CGI
+#### 540. Pixar high-fashion CGI
 
 <a href="https://aiistudio.com/en/prompt/2031735211772317828?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031735211772317828/0.jpg" alt="Pixar high-fashion CGI" width="560"></a>
 
@@ -17818,7 +17844,7 @@ Create a high-detail 3D semi-realistic chibi character with slightly exaggerated
 
 ---
 
-#### 540. Chill-out red hoodie poster
+#### 541. Chill-out red hoodie poster
 
 <a href="https://aiistudio.com/en/prompt/2031417651390722459?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031417651390722459/0.jpg" alt="Chill-out red hoodie poster" width="560"></a>
 
@@ -17842,7 +17868,7 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 ---
 
-#### 541. Red hair lens flare gothic
+#### 542. Red hair lens flare gothic
 
 <a href="https://aiistudio.com/en/prompt/2031395548436246618?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031395548436246618/0.jpg" alt="Red hair lens flare gothic" width="560"></a>
 
@@ -17877,7 +17903,7 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 ---
 
-#### 542. Man smoking on motorbike
+#### 543. Man smoking on motorbike
 
 <a href="https://aiistudio.com/en/prompt/2031369659350679749?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031369659350679749/0.jpg" alt="Man smoking on motorbike" width="560"></a>
 
@@ -17931,7 +17957,7 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 ---
 
-#### 543. Spotlight upward gaze portrait
+#### 544. Spotlight upward gaze portrait
 
 <a href="https://aiistudio.com/en/prompt/2031362125055369376?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031362125055369376/0.jpg" alt="Spotlight upward gaze portrait" width="560"></a>
 
@@ -17951,7 +17977,7 @@ Shot on an 85mm lens with shallow depth of field, high contrast, and a spiritual
 
 ---
 
-#### 544. Glowing orange sun stool
+#### 545. Glowing orange sun stool
 
 <a href="https://aiistudio.com/en/prompt/2031161843520270729?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031161843520270729/0.jpg" alt="Glowing orange sun stool" width="560"></a>
 
@@ -17969,7 +17995,7 @@ A man with short curly hair and light facial hair sitting on a tall black stool,
 
 ---
 
-#### 545. Two-model green campaign
+#### 546. Two-model green campaign
 
 <a href="https://aiistudio.com/en/prompt/2030906462999122123?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030906462999122123/0.jpg" alt="Two-model green campaign" width="560"></a>
 
@@ -17997,7 +18023,7 @@ Highly detailed, fashion catalog quality, DSLR photography style, 8k resolution,
 
 ---
 
-#### 546. Two-frame Turkish tea pour
+#### 547. Two-frame Turkish tea pour
 
 <a href="https://aiistudio.com/en/prompt/2030799128343798247?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030799128343798247/0.jpg" alt="Two-frame Turkish tea pour" width="560"></a>
 
@@ -18015,7 +18041,7 @@ Ultra-realistic cinematic two-frame composition. In the top golden vintage frame
 
 ---
 
-#### 547. Rainy night noir glasses
+#### 548. Rainy night noir glasses
 
 <a href="https://aiistudio.com/en/prompt/2030797695405936926?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030797695405936926/0.jpg" alt="Rainy night noir glasses" width="560"></a>
 
@@ -18033,7 +18059,7 @@ Cinematic close-up portrait of a young man standing in heavy rain at night, wear
 
 ---
 
-#### 548. Dish liquid explosion editorial
+#### 549. Dish liquid explosion editorial
 
 <a href="https://aiistudio.com/en/prompt/2030670376104087834?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030670376104087834/0.jpg" alt="Dish liquid explosion editorial" width="560"></a>
 
@@ -18061,7 +18087,7 @@ Check ALTs for ideas 👇 @AdobeFirefly
 
 ---
 
-#### 549. Escalator motion blur fashion
+#### 550. Escalator motion blur fashion
 
 <a href="https://aiistudio.com/en/prompt/2030443205599404475?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030443205599404475/0.jpg" alt="Escalator motion blur fashion" width="560"></a>
 
@@ -18079,7 +18105,7 @@ Ultra-realistic cinematic fashion photograph of a stylish blonde woman standing 
 
 ---
 
-#### 550. Chibi minis with doodles
+#### 551. Chibi minis with doodles
 
 <a href="https://aiistudio.com/en/prompt/2030296182745170292?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030296182745170292/0.jpg" alt="Chibi minis with doodles" width="560"></a>
 
@@ -18103,7 +18129,7 @@ Keep the original face, body shape, and proportions of the main subject unchange
 
 ---
 
-#### 551. KitKat Dark red sweater
+#### 552. KitKat Dark red sweater
 
 <a href="https://aiistudio.com/en/prompt/2030089473577693629?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030089473577693629/0.jpg" alt="KitKat Dark red sweater" width="560"></a>
 
@@ -18128,7 +18154,7 @@ A cute young girl with short black hair and bangs smiling while holding a red Ki
 
 ---
 
-#### 552. Cozy room object vortex
+#### 553. Cozy room object vortex
 
 <a href="https://aiistudio.com/en/prompt/2030062558372319415?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030062558372319415/0.jpg" alt="Cozy room object vortex" width="560"></a>
 
@@ -18146,7 +18172,7 @@ Cinematic surreal scene of a young woman falling forward through a swirling vort
 
 ---
 
-#### 553. Swiss-style person collage
+#### 554. Swiss-style person collage
 
 <a href="https://aiistudio.com/en/prompt/2029935139044671622?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029935139044671622/0.jpg" alt="Swiss-style person collage" width="560"></a>
 
@@ -18188,7 +18214,7 @@ PHASE 5: TECH SPECS
 
 ---
 
-#### 554. Curly hoodie smirk Pixar
+#### 555. Curly hoodie smirk Pixar
 
 <a href="https://aiistudio.com/en/prompt/2029817553288319295?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029817553288319295/0.jpg" alt="Curly hoodie smirk Pixar" width="560"></a>
 
@@ -18212,7 +18238,7 @@ PHASE 5: TECH SPECS
 
 ---
 
-#### 555. Parisian sticker wall portrait
+#### 556. Parisian sticker wall portrait
 
 <a href="https://aiistudio.com/en/prompt/2029722084394553837?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029722084394553837/0.jpg" alt="Parisian sticker wall portrait" width="560"></a>
 
@@ -18230,7 +18256,7 @@ Full cinematic daylight fashion portrait of a female model leaning against a whi
 
 ---
 
-#### 556. Red sofa cheetah luxury
+#### 557. Red sofa cheetah luxury
 
 <a href="https://aiistudio.com/en/prompt/2029721401033384149?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029721401033384149/0.jpg" alt="Red sofa cheetah luxury" width="560"></a>
 
@@ -18248,7 +18274,7 @@ Using the reference picture, create A stylish man sitting on a luxurious vintage
 
 ---
 
-#### 557. 3D boy with raccoon
+#### 558. 3D boy with raccoon
 
 <a href="https://aiistudio.com/en/prompt/2029567508244750343?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029567508244750343/0.jpg" alt="3D boy with raccoon" width="560"></a>
 
@@ -18272,7 +18298,7 @@ Cute stylized 3D animated boy with messy fluffy blue hair and big expressive eye
 
 ---
 
-#### 558. 4-panel emotion grid portrait
+#### 559. 4-panel emotion grid portrait
 
 <a href="https://aiistudio.com/en/prompt/2029370003485802945?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029370003485802945/0.jpg" alt="4-panel emotion grid portrait" width="560"></a>
 
@@ -18330,7 +18356,7 @@ Lips slightly curved downward
 
 ---
 
-#### 559. Wind-blown side profile
+#### 560. Wind-blown side profile
 
 <a href="https://aiistudio.com/en/prompt/2029362173567541328?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029362173567541328/0.jpg" alt="Wind-blown side profile" width="560"></a>
 
@@ -18399,7 +18425,7 @@ Lips slightly curved downward
 
 ---
 
-#### 560. Vertical brand manifesto stack
+#### 561. Vertical brand manifesto stack
 
 <a href="https://aiistudio.com/en/prompt/2029294395384574292?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029294395384574292/0.jpg" alt="Vertical brand manifesto stack" width="560"></a>
 
@@ -18443,7 +18469,7 @@ PHASE 4: TECH SPECS
 
 ---
 
-#### 561. Sun-kissed orange portrait
+#### 562. Sun-kissed orange portrait
 
 <a href="https://aiistudio.com/en/prompt/2029294271879168502?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029294271879168502/0.jpg" alt="Sun-kissed orange portrait" width="560"></a>
 
@@ -18518,7 +18544,7 @@ PHASE 4: TECH SPECS
 
 ---
 
-#### 562. Teal four-model studio ad
+#### 563. Teal four-model studio ad
 
 <a href="https://aiistudio.com/en/prompt/2029228739192865157?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029228739192865157/0.jpg" alt="Teal four-model studio ad" width="560"></a>
 
@@ -18554,7 +18580,7 @@ A sophisticated mix of Teal-Grey, Burnt Orange, Chocolate Brown, and Crisp White
 
 ---
 
-#### 563. Real plus Pixar twin
+#### 564. Real plus Pixar twin
 
 <a href="https://aiistudio.com/en/prompt/2029142137015812314?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029142137015812314/0.jpg" alt="Real plus Pixar twin" width="560"></a>
 
@@ -18577,7 +18603,7 @@ DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to 
 
 ---
 
-#### 564. Pixar 3D headshot avatar
+#### 565. Pixar 3D headshot avatar
 
 <a href="https://aiistudio.com/en/prompt/2029107310187237797?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029107310187237797/0.jpg" alt="Pixar 3D headshot avatar" width="560"></a>
 
@@ -18601,7 +18627,7 @@ DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to 
 
 ---
 
-#### 565. Bird blur teal magazine cover
+#### 566. Bird blur teal magazine cover
 
 <a href="https://aiistudio.com/en/prompt/2029072361669181640?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029072361669181640/0.jpg" alt="Bird blur teal magazine cover" width="560"></a>
 
@@ -18627,7 +18653,7 @@ Editorial photography, a woman wearing a structured deep teal blazer standing ag
 
 ---
 
-#### 566. Cozy mixed-media portrait
+#### 567. Cozy mixed-media portrait
 
 <a href="https://aiistudio.com/en/prompt/2029006238101680432?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029006238101680432/0.jpg" alt="Cozy mixed-media portrait" width="560"></a>
 
@@ -18715,7 +18741,7 @@ Editorial photography, a woman wearing a structured deep teal blazer standing ag
 
 ---
 
-#### 567. Chiaroscuro mauve lips
+#### 568. Chiaroscuro mauve lips
 
 <a href="https://aiistudio.com/en/prompt/2028853502358003808?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028853502358003808/0.jpg" alt="Chiaroscuro mauve lips" width="560"></a>
 
@@ -18734,7 +18760,7 @@ Outfit should white.
 
 ---
 
-#### 568. Toddler 3D from reference
+#### 569. Toddler 3D from reference
 
 <a href="https://aiistudio.com/en/prompt/2028747310759542860?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028747310759542860/0.jpg" alt="Toddler 3D from reference" width="560"></a>
 
@@ -18770,7 +18796,7 @@ Ultra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI re
 
 ---
 
-#### 569. Kinder Joy egg swing
+#### 570. Kinder Joy egg swing
 
 <a href="https://aiistudio.com/en/prompt/2028673990672216202?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028673990672216202/0.jpg" alt="Kinder Joy egg swing" width="560"></a>
 
@@ -18794,7 +18820,7 @@ The lighting is soft, warm, and directional from the left, casting subtle shadow
 
 ---
 
-#### 570. Classroom Silence portrait
+#### 571. Classroom Silence portrait
 
 <a href="https://aiistudio.com/en/prompt/2028623800313798810?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028623800313798810/0.jpg" alt="Classroom Silence portrait" width="560"></a>
 
@@ -18818,7 +18844,7 @@ Create a high-contrast black and white portrait in a quiet classroom.Use uploade
 
 ---
 
-#### 571. Fisheye crouching girl
+#### 572. Fisheye crouching girl
 
 <a href="https://aiistudio.com/en/prompt/2028508328859750704?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028508328859750704/0.jpg" alt="Fisheye crouching girl" width="560"></a>
 
@@ -18836,7 +18862,7 @@ Make an Ultra-wide fisheye lens perspective shot from ground level looking strai
 
 ---
 
-#### 572. Tom Cruise gritty smoke
+#### 573. Tom Cruise gritty smoke
 
 <a href="https://aiistudio.com/en/prompt/2028499516119453886?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028499516119453886/0.jpg" alt="Tom Cruise gritty smoke" width="560"></a>
 
@@ -18854,7 +18880,7 @@ A highly detailed, cinematic portrait of Tom Cruise, featuring a gritty, industr
 
 ---
 
-#### 573. Brand triadic triptych editorial
+#### 574. Brand triadic triptych editorial
 
 <a href="https://aiistudio.com/en/prompt/2028489707311464765?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028489707311464765/0.jpg" alt="Brand triadic triptych editorial" width="560"></a>
 
@@ -18897,7 +18923,7 @@ PHASE 5: TECH SPECS
 
 ---
 
-#### 574. Girl out of notebook 3D
+#### 575. Girl out of notebook 3D
 
 <a href="https://aiistudio.com/en/prompt/2028389324677611935?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028389324677611935/0.jpg" alt="Girl out of notebook 3D" width="560"></a>
 
@@ -18923,7 +18949,7 @@ A creative 3D illusion artwork of a cute young girl stepping out of a spiral not
 
 ---
 
-#### 575. Dissolving streetwear man
+#### 576. Dissolving streetwear man
 
 <a href="https://aiistudio.com/en/prompt/2028276251262423347?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028276251262423347/0.jpg" alt="Dissolving streetwear man" width="560"></a>
 
@@ -18941,7 +18967,7 @@ Create an ultra-realistic, cinematic 8K image with high-contrast dramatic lighti
 
 ---
 
-#### 576. Green bath gel underwater hands
+#### 577. Green bath gel underwater hands
 
 <a href="https://aiistudio.com/en/prompt/2028125035433714003?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028125035433714003/0.jpg" alt="Green bath gel underwater hands" width="560"></a>
 
@@ -18959,7 +18985,7 @@ Luxury product photography of a green translucent bath and shower gel bottle hel
 
 ---
 
-#### 577. 2x2 sandwich-layer editorial
+#### 578. 2x2 sandwich-layer editorial
 
 <a href="https://aiistudio.com/en/prompt/2028115571724660920?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028115571724660920/0.jpg" alt="2x2 sandwich-layer editorial" width="560"></a>
 
@@ -19013,7 +19039,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 578. Slogan window poster
+#### 579. Slogan window poster
 
 <a href="https://aiistudio.com/en/prompt/2028068337427603741?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028068337427603741/0.jpg" alt="Slogan window poster" width="560"></a>
 
@@ -19065,7 +19091,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 579. Film noir 4-panel boxer
+#### 580. Film noir 4-panel boxer
 
 <a href="https://aiistudio.com/en/prompt/2027814444437307602?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027814444437307602/0.jpg" alt="Film noir 4-panel boxer" width="560"></a>
 
@@ -19105,7 +19131,7 @@ High detail, High Quality, Photorealism Style, cinematic composition, cohesive i
 
 ---
 
-#### 580. Typographic mask cutout poster
+#### 581. Typographic mask cutout poster
 
 <a href="https://aiistudio.com/en/prompt/2027798913516761522?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027798913516761522/0.jpg" alt="Typographic mask cutout poster" width="560"></a>
 
@@ -19157,7 +19183,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 581. Korean noona latex catsuit
+#### 582. Korean noona latex catsuit
 
 <a href="https://aiistudio.com/en/prompt/2027605456857010248?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027605456857010248/0.jpg" alt="Korean noona latex catsuit" width="560"></a>
 
@@ -19175,7 +19201,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 582. 3D giant-head caricature
+#### 583. 3D giant-head caricature
 
 <a href="https://aiistudio.com/en/prompt/2027380851030262216?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027380851030262216/0.jpg" alt="3D giant-head caricature" width="560"></a>
 
@@ -19199,7 +19225,7 @@ TECHNICAL SPECS: Hyper-realistic 3D render, cinematic quality, Octane Render sty
 
 ---
 
-#### 583. Japanese idol engawa portrait
+#### 584. Japanese idol engawa portrait
 
 <a href="https://aiistudio.com/en/prompt/2027114611636572306?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027114611636572306/0.jpg" alt="Japanese idol engawa portrait" width="560"></a>
 
@@ -19248,7 +19274,7 @@ TECHNICAL SPECS: Hyper-realistic 3D render, cinematic quality, Octane Render sty
 
 ---
 
-#### 584. Cat portrait
+#### 585. Cat portrait
 
 <a href="https://aiistudio.com/en/prompt/2026999002961793268?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026999002961793268/0.jpg" alt="Cat portrait" width="560"></a>
 
@@ -19266,7 +19292,7 @@ A heartwarming studio portrait of a young woman holding a cute orange tabby cat 
 
 ---
 
-#### 585. Creative scene v2
+#### 586. Creative scene v2
 
 <a href="https://aiistudio.com/en/prompt/2026703924888219706?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2026703924888219706/0.jpg" alt="Creative scene v2" width="560"></a>
 
@@ -19284,7 +19310,7 @@ Create an Ultra-realistic photo composite of uploaded person breaking out of an 
 
 ---
 
-#### 586. Cyberpunk scene
+#### 587. Cyberpunk scene
 
 <a href="https://aiistudio.com/en/prompt/2026603084760363062?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026603084760363062/0.jpg" alt="Cyberpunk scene" width="560"></a>
 
@@ -19308,7 +19334,7 @@ Ultra-realistic cinematic studio portrait using provided person only. Subject we
 
 ---
 
-#### 587. Editorial poster v3
+#### 588. Editorial poster v3
 
 <a href="https://aiistudio.com/en/prompt/2026374679276216569?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026374679276216569/0.jpg" alt="Editorial poster v3" width="560"></a>
 
@@ -19332,7 +19358,7 @@ Secondary Text: In the top right corner, add the text: "[TEXT]". Use a small, so
 
 ---
 
-#### 588. Woman portrait
+#### 589. Woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2026308234420666586?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026308234420666586/0.jpg" alt="Woman portrait" width="560"></a>
 
@@ -19352,7 +19378,7 @@ slow-shutter cinematic effect
 
 ---
 
-#### 589. Editorial poster
+#### 590. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2026214554083242053?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026214554083242053/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19379,7 +19405,7 @@ Ultra-realistic studio portrait of a man, close-up headshot, centered compositio
 
 ---
 
-#### 590. Woman portrait
+#### 591. Woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2026212158548369776?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026212158548369776/0.jpg" alt="Woman portrait" width="560"></a>
 
@@ -19403,7 +19429,7 @@ Ultra-realistic cinematic portrait of a young woman with soft brown hair, center
 
 ---
 
-#### 591. Logo design
+#### 592. Logo design
 
 <a href="https://aiistudio.com/en/prompt/2026207647968743551?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026207647968743551/0.jpg" alt="Logo design" width="560"></a>
 
@@ -19440,7 +19466,7 @@ Aspect ratio 4:5.
 
 ---
 
-#### 592. Editorial poster
+#### 593. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2026100670500339830?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026100670500339830/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19465,7 +19491,7 @@ Ultra-realistic cinematic street portrait of a young woman in a bright blue puff
 
 ---
 
-#### 593. Logo design v2
+#### 594. Logo design v2
 
 <a href="https://aiistudio.com/en/prompt/2025631713729106049?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025631713729106049/0.jpg" alt="Logo design v2" width="560"></a>
 
@@ -19523,7 +19549,7 @@ TECHNICAL FINISH:
 
 ---
 
-#### 594. Editorial poster v2
+#### 595. Editorial poster v2
 
 <a href="https://aiistudio.com/en/prompt/2025283986860253292?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025283986860253292/0.jpg" alt="Editorial poster v2" width="560"></a>
 
@@ -19550,7 +19576,7 @@ All annotations are in refined, elegant handwritten cursive. Ray-traced ambient 
 
 ---
 
-#### 595. Editorial poster
+#### 596. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2025153830552494523?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025153830552494523/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19633,7 +19659,7 @@ All annotations are in refined, elegant handwritten cursive. Ray-traced ambient 
 
 ---
 
-#### 596. Editorial poster
+#### 597. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2025093067787960824?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025093067787960824/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19659,7 +19685,7 @@ Typography (Overlay): Large, bold white "GQ Style" logo across the top in a clas
 
 ---
 
-#### 597. Coffee product shot
+#### 598. Coffee product shot
 
 <a href="https://aiistudio.com/en/prompt/2024892734062911621?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024892734062911621/0.jpg" alt="Coffee product shot" width="560"></a>
 
@@ -19769,7 +19795,7 @@ Typography (Overlay): Large, bold white "GQ Style" logo across the top in a clas
 
 ---
 
-#### 598. Cityscape
+#### 599. Cityscape
 
 <a href="https://aiistudio.com/en/prompt/2024838490785984655?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024838490785984655/0.jpg" alt="Cityscape" width="560"></a>
 
@@ -19789,7 +19815,7 @@ The Shooting Style Uses A Fujifilm Camera With Soft Cinematic Color Tones, A Sli
 
 ---
 
-#### 599. Landscape scene
+#### 600. Landscape scene
 
 <a href="https://aiistudio.com/en/prompt/2024712387132346673?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024712387132346673/0.jpg" alt="Landscape scene" width="560"></a>
 
@@ -19807,7 +19833,7 @@ A cinematic, high-contrast profile portrait of a woman with short, platinum-blon
 
 ---
 
-#### 600. Portrait v3
+#### 601. Portrait v3
 
 <a href="https://aiistudio.com/en/prompt/2024450766874751356?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024450766874751356/0.jpg" alt="Portrait v3" width="560"></a>
 
@@ -19825,7 +19851,7 @@ A hyper-stylized, dynamic 3D head portrait floats against a vivid red background
 
 ---
 
-#### 601. Editorial poster v4
+#### 602. Editorial poster v4
 
 <a href="https://aiistudio.com/en/prompt/2024432382124945823?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024432382124945823/0.jpg" alt="Editorial poster v4" width="560"></a>
 
@@ -19843,7 +19869,7 @@ Create a dramatic, digital painting-style portrait of a male footballer looking 
 
 ---
 
-#### 602. Cityscape
+#### 603. Cityscape
 
 <a href="https://aiistudio.com/en/prompt/2024088055896801484?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024088055896801484/0.jpg" alt="Cityscape" width="560"></a>
 
@@ -19861,7 +19887,7 @@ Create an exaggerated stylized 3D caricature character portrait with strong inte
 
 ---
 
-#### 603. Skincare product shot
+#### 604. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2024027461520937070?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024027461520937070/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -19889,7 +19915,7 @@ Negative prompt: low resolution, distorted face, incorrect anatomy, exaggerated 
 
 ---
 
-#### 604. Editorial poster
+#### 605. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2023762122853986641?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023762122853986641/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19907,7 +19933,7 @@ unlimited nano banana pro, AI photo collage, vintage film look, black and white 
 
 ---
 
-#### 605. Editorial poster
+#### 606. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2023643232845140297?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023643232845140297/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -19925,7 +19951,7 @@ A double exposure, long exposure editorial photograph of a man Use image for fac
 
 ---
 
-#### 606. Skincare product shot
+#### 607. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2023548369269108754?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023548369269108754/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -20025,7 +20051,7 @@ A double exposure, long exposure editorial photograph of a man Use image for fac
 
 ---
 
-#### 607. Editorial poster
+#### 608. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2023230471061315992?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023230471061315992/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -20043,7 +20069,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ---
 
-#### 608. Retro scene
+#### 609. Retro scene
 
 <a href="https://aiistudio.com/en/prompt/2023215251924389964?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023215251924389964/0.jpg" alt="Retro scene" width="560"></a>
 
@@ -20061,7 +20087,7 @@ A cinematic close-up profile of a weathered women with a salt-and-pepper face, w
 
 ---
 
-#### 609. Woman portrait
+#### 610. Woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2023082481331904583?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023082481331904583/0.jpg" alt="Woman portrait" width="560"></a>
 
@@ -20079,7 +20105,7 @@ A surreal, ultra-realistic scene of a young woman emerging from an ornate golden
 
 ---
 
-#### 610. Illustration
+#### 611. Illustration
 
 <a href="https://aiistudio.com/en/prompt/2023079918830002551?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023079918830002551/0.jpg" alt="Illustration" width="560"></a>
 
@@ -20127,7 +20153,7 @@ TECH SPECS:
 
 ---
 
-#### 611. Swimsuit cosplay
+#### 612. Swimsuit cosplay
 
 <a href="https://aiistudio.com/en/prompt/2023070651964072103?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023070651964072103/0.jpg" alt="Swimsuit cosplay" width="560"></a>
 
@@ -20256,7 +20282,7 @@ TECH SPECS:
 
 ---
 
-#### 612. Tech product shot
+#### 613. Tech product shot
 
 <a href="https://aiistudio.com/en/prompt/2023029989336301608?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023029989336301608/0.jpg" alt="Tech product shot" width="560"></a>
 
@@ -20291,7 +20317,7 @@ The skin is slightly subtle oiled or wet from sea drops
 
 ---
 
-#### 613. Portrait v2
+#### 614. Portrait v2
 
 <a href="https://aiistudio.com/en/prompt/2022996169698545867?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022996169698545867/0.jpg" alt="Portrait v2" width="560"></a>
 
@@ -20309,7 +20335,7 @@ Create a typographic art portrait using the uploaded photo of a person as refere
 
 ---
 
-#### 614. Editorial poster v3
+#### 615. Editorial poster v3
 
 <a href="https://aiistudio.com/en/prompt/2022753970704286181?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022753970704286181/0.jpg" alt="Editorial poster v3" width="560"></a>
 
@@ -20353,7 +20379,7 @@ TECH SPECS:
 
 ---
 
-#### 615. Skincare product shot
+#### 616. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2022733333218955487?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022733333218955487/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -20371,7 +20397,7 @@ A soft-focus, cinematic portrait of a young woman with delicate facial features 
 
 ---
 
-#### 616. Landscape scene
+#### 617. Landscape scene
 
 <a href="https://aiistudio.com/en/prompt/2022635065910464957?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022635065910464957/0.jpg" alt="Landscape scene" width="560"></a>
 
@@ -20397,7 +20423,7 @@ Photorealistic cinematic portrait of a young East Asian woman standing outdoors 
 
 ---
 
-#### 617. Editorial poster v4
+#### 618. Editorial poster v4
 
 <a href="https://aiistudio.com/en/prompt/2022179786580537521?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022179786580537521/0.jpg" alt="Editorial poster v4" width="560"></a>
 
@@ -20423,7 +20449,7 @@ Full-body 3D stylized anthropomorphic cartoon dog character wearing modern stree
 
 ---
 
-#### 618. Skincare product shot
+#### 619. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2021979175113081029?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021979175113081029/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -20537,7 +20563,7 @@ Full-body 3D stylized anthropomorphic cartoon dog character wearing modern stree
 
 ---
 
-#### 619. Editorial poster v3
+#### 620. Editorial poster v3
 
 <a href="https://aiistudio.com/en/prompt/2021933979398492325?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021933979398492325/0.jpg" alt="Editorial poster v3" width="560"></a>
 
@@ -20561,7 +20587,7 @@ Cinematic portrait of a stylish young person wearing round glasses, standing bes
 
 ---
 
-#### 620. Editorial poster
+#### 621. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2021903910617915795?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021903910617915795/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -20579,7 +20605,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 ---
 
-#### 621. Portrait
+#### 622. Portrait
 
 <a href="https://aiistudio.com/en/prompt/2021859477130293356?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021859477130293356/0.jpg" alt="Portrait" width="560"></a>
 
@@ -20603,7 +20629,7 @@ Cinematic portrait of a young person standing still in the middle of a busy crow
 
 ---
 
-#### 622. Anime illustration
+#### 623. Anime illustration
 
 <a href="https://aiistudio.com/en/prompt/2021810779348140286?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021810779348140286/0.jpg" alt="Anime illustration" width="560"></a>
 
@@ -20627,7 +20653,7 @@ Overlay the image with vibrant hand drawn doodle effects, white drawn outlines a
 
 ---
 
-#### 623. Retro scene
+#### 624. Retro scene
 
 <a href="https://aiistudio.com/en/prompt/2021695937878667352?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021695937878667352/0.jpg" alt="Retro scene" width="560"></a>
 
@@ -20690,7 +20716,7 @@ Overlay the image with vibrant hand drawn doodle effects, white drawn outlines a
 
 ---
 
-#### 624. Woman portrait v2
+#### 625. Woman portrait v2
 
 <a href="https://aiistudio.com/en/prompt/2021596118635696437?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021596118635696437/0.jpg" alt="Woman portrait v2" width="560"></a>
 
@@ -20714,7 +20740,7 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 
 ---
 
-#### 625. Editorial poster
+#### 626. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2021560192530354188?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021560192530354188/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -20824,7 +20850,7 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 
 ---
 
-#### 626. Creative scene
+#### 627. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2021451045273219457?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021451045273219457/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -20898,7 +20924,7 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 
 ---
 
-#### 627. Woman portrait
+#### 628. Woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2021300975248736723?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021300975248736723/0.jpg" alt="Woman portrait" width="560"></a>
 
@@ -20924,7 +20950,7 @@ A detailed, high-fashion studio photograph of a woman posing gracefully, wearing
 
 ---
 
-#### 628. Skincare product shot v2
+#### 629. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2021083866258342114?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021083866258342114/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -20972,7 +20998,7 @@ no illustration, no CGI look, no anime, no painterly texture, no extra typograph
 
 ---
 
-#### 629. Man portrait
+#### 630. Man portrait
 
 <a href="https://aiistudio.com/en/prompt/2021058505885745401?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021058505885745401/0.jpg" alt="Man portrait" width="560"></a>
 
@@ -20996,7 +21022,7 @@ A hyperrealistic 8K black and white extreme close-up portrait of a young man's f
 
 ---
 
-#### 630. Creative scene
+#### 631. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2020856678351065532?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020856678351065532/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -21093,7 +21119,7 @@ A hyperrealistic 8K black and white extreme close-up portrait of a young man's f
 
 ---
 
-#### 631. Figurine render
+#### 632. Figurine render
 
 <a href="https://aiistudio.com/en/prompt/2020837883549298730?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020837883549298730/0.jpg" alt="Figurine render" width="560"></a>
 
@@ -21119,7 +21145,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 ---
 
-#### 632. Illustration
+#### 633. Illustration
 
 <a href="https://aiistudio.com/en/prompt/2020791306197561403?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020791306197561403/0.jpg" alt="Illustration" width="560"></a>
 
@@ -21152,7 +21178,7 @@ Use clean, simple linework and a limited color palette of [PRIMARY COLORS], keep
 
 ---
 
-#### 633. Editorial poster v2
+#### 634. Editorial poster v2
 
 <a href="https://aiistudio.com/en/prompt/2020780086363054275?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020780086363054275/0.jpg" alt="Editorial poster v2" width="560"></a>
 
@@ -21176,7 +21202,7 @@ Ultra-realistic fine-art portrait of a young woman with soft natural features, m
 
 ---
 
-#### 634. Editorial poster
+#### 635. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2020728313006936161?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020728313006936161/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21194,7 +21220,7 @@ A young man with a slight smile see the uploaded picture as reference for the fa
 
 ---
 
-#### 635. Editorial poster
+#### 636. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2020715808939549011?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020715808939549011/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21212,7 +21238,7 @@ A high fashion magazine pictorial of an Alpine-looking woman in her early 20s wh
 
 ---
 
-#### 636. Skincare product shot
+#### 637. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2020417951816671438?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020417951816671438/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -21337,7 +21363,7 @@ A high fashion magazine pictorial of an Alpine-looking woman in her early 20s wh
 
 ---
 
-#### 637. Editorial poster
+#### 638. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2020188222287229390?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020188222287229390/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21355,7 +21381,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 ---
 
-#### 638. Cityscape
+#### 639. Cityscape
 
 <a href="https://aiistudio.com/en/prompt/2020152101528301587?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020152101528301587/0.jpg" alt="Cityscape" width="560"></a>
 
@@ -21399,7 +21425,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 ---
 
-#### 639. Creative scene
+#### 640. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2019833999154376925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019833999154376925/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -21417,7 +21443,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 640. Editorial poster
+#### 641. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2019779947020026325?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019779947020026325/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21525,7 +21551,7 @@ TECHNICAL SPECS:
 
 ---
 
-#### 641. Editorial poster
+#### 642. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2019648173652996217?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019648173652996217/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21572,7 +21598,7 @@ TECHNICAL SPECS:
 
 ---
 
-#### 642. Editorial poster
+#### 643. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2019338808009920744?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019338808009920744/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21590,7 +21616,7 @@ A minimalist cinematic colored poster featuring a [Character Name]’s portrait 
 
 ---
 
-#### 643. Editorial poster
+#### 644. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2018707915008618763?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018707915008618763/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21618,7 +21644,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 ---
 
-#### 644. Tech product shot
+#### 645. Tech product shot
 
 <a href="https://aiistudio.com/en/prompt/2018586991621808584?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018586991621808584/0.jpg" alt="Tech product shot" width="560"></a>
 
@@ -21674,7 +21700,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 ---
 
-#### 645. Portrait
+#### 646. Portrait
 
 <a href="https://aiistudio.com/en/prompt/2018389139826037141?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018389139826037141/0.jpg" alt="Portrait" width="560"></a>
 
@@ -21692,7 +21718,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 646. Editorial poster
+#### 647. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2018342372141400340?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018342372141400340/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -21788,7 +21814,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 647. Tech product shot
+#### 648. Tech product shot
 
 <a href="https://aiistudio.com/en/prompt/2018204485517287451?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018204485517287451/0.jpg" alt="Tech product shot" width="560"></a>
 
@@ -21874,7 +21900,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 648. Subway stairs olive portrait
+#### 649. Subway stairs olive portrait
 
 <a href="https://aiistudio.com/en/prompt/2018178058868732010?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018178058868732010/0.jpg" alt="Subway stairs olive portrait" width="560"></a>
 
@@ -21950,7 +21976,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 649. Overhead grid-shadow shot
+#### 650. Overhead grid-shadow shot
 
 <a href="https://aiistudio.com/en/prompt/2018150642045637076?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018150642045637076/0.jpg" alt="Overhead grid-shadow shot" width="560"></a>
 
@@ -21974,7 +22000,7 @@ High-fashion cinematic surrealism. A top-down, 90-degree overhead shot of the wo
 
 ---
 
-#### 650. Jennie Adidas gym editorial
+#### 651. Jennie Adidas gym editorial
 
 <a href="https://aiistudio.com/en/prompt/2018116329711218781?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018116329711218781/0.jpg" alt="Jennie Adidas gym editorial" width="560"></a>
 
@@ -22085,7 +22111,7 @@ High-fashion cinematic surrealism. A top-down, 90-degree overhead shot of the wo
 
 ---
 
-#### 651. B&W smoking coat portrait
+#### 652. B&W smoking coat portrait
 
 <a href="https://aiistudio.com/en/prompt/2017795656379994165?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017795656379994165/0.jpg" alt="B&W smoking coat portrait" width="560"></a>
 
@@ -22103,7 +22129,7 @@ Ultra-realistic fashion black and white portrait of a man with short light hair,
 
 ---
 
-#### 652. Cedar sauna wellness shot
+#### 653. Cedar sauna wellness shot
 
 <a href="https://aiistudio.com/en/prompt/2017635765488898309?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017635765488898309/0.jpg" alt="Cedar sauna wellness shot" width="560"></a>
 
@@ -22200,7 +22226,7 @@ Ultra-realistic fashion black and white portrait of a man with short light hair,
 
 ---
 
-#### 653. Color box fashion portrait
+#### 654. Color box fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2017598696678895882?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017598696678895882/0.jpg" alt="Color box fashion portrait" width="560"></a>
 
@@ -22231,7 +22257,7 @@ Output: hyper-real, photorealistic, 8k detail, editorial campaign quality, sharp
 
 ---
 
-#### 654. Nordic 4-frame stack shot
+#### 655. Nordic 4-frame stack shot
 
 <a href="https://aiistudio.com/en/prompt/2017517770578227637?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017517770578227637/0.jpg" alt="Nordic 4-frame stack shot" width="560"></a>
 
@@ -22260,7 +22286,7 @@ Ultra-realistic photography, cinematic film still, editorial fashion look, natur
 
 ---
 
-#### 655. Vogue silver watch shot
+#### 656. Vogue silver watch shot
 
 <a href="https://aiistudio.com/en/prompt/2017483949271085191?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017483949271085191/0.jpg" alt="Vogue silver watch shot" width="560"></a>
 
@@ -22282,7 +22308,7 @@ A high-definition, professional fashion editorial photograph of a sophisticated 
 
 ---
 
-#### 656. Cafe gold hoops portrait
+#### 657. Cafe gold hoops portrait
 
 <a href="https://aiistudio.com/en/prompt/2017407873836614094?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017407873836614094/0.jpg" alt="Cafe gold hoops portrait" width="560"></a>
 
@@ -22300,7 +22326,7 @@ A high-definition, professional fashion editorial photograph of a sophisticated 
 
 ---
 
-#### 657. Graphic-novel eyes poster
+#### 658. Graphic-novel eyes poster
 
 <a href="https://aiistudio.com/en/prompt/2017259594419228875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017259594419228875/0.jpg" alt="Graphic-novel eyes poster" width="560"></a>
 
@@ -22319,7 +22345,7 @@ The eyes look fierce, emotional, and determined, with slightly messy hair. Use t
 
 ---
 
-#### 658. Turquoise tunnel portrait
+#### 659. Turquoise tunnel portrait
 
 <a href="https://aiistudio.com/en/prompt/2017213008729244087?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017213008729244087/0.jpg" alt="Turquoise tunnel portrait" width="560"></a>
 
@@ -22337,7 +22363,7 @@ A full shot captures a young man in profile, leaning against a textured turquois
 
 ---
 
-#### 659. Cozy bedroom blonde shot
+#### 660. Cozy bedroom blonde shot
 
 <a href="https://aiistudio.com/en/prompt/2017166130746675620?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017166130746675620/0.jpg" alt="Cozy bedroom blonde shot" width="560"></a>
 
@@ -22362,7 +22388,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 ---
 
-#### 660. Beige studio 3x3 grid
+#### 661. Beige studio 3x3 grid
 
 <a href="https://aiistudio.com/en/prompt/2017116581164454309?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017116581164454309/0.jpg" alt="Beige studio 3x3 grid" width="560"></a>
 
@@ -22396,7 +22422,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 ---
 
-#### 661. Louis Vuitton sneaker grid
+#### 662. Louis Vuitton sneaker grid
 
 <a href="https://aiistudio.com/en/prompt/2017067361673896150?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017067361673896150/0.jpg" alt="Louis Vuitton sneaker grid" width="560"></a>
 
@@ -22443,7 +22469,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 ---
 
-#### 662. Lavender knit indie shot
+#### 663. Lavender knit indie shot
 
 <a href="https://aiistudio.com/en/prompt/2016448117617602890?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016448117617602890/0.jpg" alt="Lavender knit indie shot" width="560"></a>
 
@@ -22520,7 +22546,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 ---
 
-#### 663. Orange shades portrait
+#### 664. Orange shades portrait
 
 <a href="https://aiistudio.com/en/prompt/2016414841779704227?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016414841779704227/0.jpg" alt="Orange shades portrait" width="560"></a>
 
@@ -22547,7 +22573,7 @@ Lighting: soft studio lighting from the front with subtle side shadows, even ski
 
 ---
 
-#### 664. Cat-ear hat mirror selfie
+#### 665. Cat-ear hat mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2016383627076989240?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016383627076989240/0.jpg" alt="Cat-ear hat mirror selfie" width="560"></a>
 
@@ -22565,7 +22591,7 @@ A photorealistic profile selfie, minimalist and monochrome: a woman in a dark ov
 
 ---
 
-#### 665. Instagram frame pop-out
+#### 666. Instagram frame pop-out
 
 <a href="https://aiistudio.com/en/prompt/2016237325639155913?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016237325639155913/0.jpg" alt="Instagram frame pop-out" width="560"></a>
 
@@ -22600,7 +22626,7 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 ---
 
-#### 666. Sticker bubblegum face
+#### 667. Sticker bubblegum face
 
 <a href="https://aiistudio.com/en/prompt/2016189962090381695?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016189962090381695/0.jpg" alt="Sticker bubblegum face" width="560"></a>
 
@@ -22774,7 +22800,7 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 ---
 
-#### 667. K-beauty 4-panel collage
+#### 668. K-beauty 4-panel collage
 
 <a href="https://aiistudio.com/en/prompt/2016088856077205937?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016088856077205937/0.jpg" alt="K-beauty 4-panel collage" width="560"></a>
 
@@ -22839,7 +22865,7 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 ---
 
-#### 668. Glitch cyber head portrait
+#### 669. Glitch cyber head portrait
 
 <a href="https://aiistudio.com/en/prompt/2016088197714084320?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2016088197714084320/0.jpg" alt="Glitch cyber head portrait" width="560"></a>
 
@@ -22864,7 +22890,7 @@ Overall style is futuristic, cyber-inspired, high-detail, and photorealistic.
 
 ---
 
-#### 669. Wine-red top portrait
+#### 670. Wine-red top portrait
 
 <a href="https://aiistudio.com/en/prompt/2016087801759203335?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016087801759203335/0.jpg" alt="Wine-red top portrait" width="560"></a>
 
@@ -22888,7 +22914,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 670. Cafe lip-gloss portrait
+#### 671. Cafe lip-gloss portrait
 
 <a href="https://aiistudio.com/en/prompt/2016070583570862480?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016070583570862480/0.jpg" alt="Cafe lip-gloss portrait" width="560"></a>
 
@@ -22953,7 +22979,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 671. Adidas streetwear collage
+#### 672. Adidas streetwear collage
 
 <a href="https://aiistudio.com/en/prompt/2016070222038602112?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016070222038602112/0.jpg" alt="Adidas streetwear collage" width="560"></a>
 
@@ -23481,7 +23507,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 672. Velvet armchair smoke shot
+#### 673. Velvet armchair smoke shot
 
 <a href="https://aiistudio.com/en/prompt/2016007845410701687?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016007845410701687/0.jpg" alt="Velvet armchair smoke shot" width="560"></a>
 
@@ -23503,7 +23529,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 673. Beige stripe street portrait
+#### 674. Beige stripe street portrait
 
 <a href="https://aiistudio.com/en/prompt/2015953469547675874?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015953469547675874/0.jpg" alt="Beige stripe street portrait" width="560"></a>
 
@@ -23527,7 +23553,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 674. Wind-blown garment shot
+#### 675. Wind-blown garment shot
 
 <a href="https://aiistudio.com/en/prompt/2015758548199002294?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015758548199002294/0.jpg" alt="Wind-blown garment shot" width="560"></a>
 
@@ -23557,7 +23583,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 675. Bubble-wrap fashion item
+#### 676. Bubble-wrap fashion item
 
 <a href="https://aiistudio.com/en/prompt/2015757888283652351?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015757888283652351/0.jpg" alt="Bubble-wrap fashion item" width="560"></a>
 
@@ -23590,7 +23616,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 ---
 
-#### 676. Fanta supermarket AR POV
+#### 677. Fanta supermarket AR POV
 
 <a href="https://aiistudio.com/en/prompt/2015451528929464593?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015451528929464593/0.jpg" alt="Fanta supermarket AR POV" width="560"></a>
 
@@ -23618,7 +23644,7 @@ Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels,
 
 ---
 
-#### 677. Rainy cafe window shot
+#### 678. Rainy cafe window shot
 
 <a href="https://aiistudio.com/en/prompt/2015378809508503595?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015378809508503595/0.jpg" alt="Rainy cafe window shot" width="560"></a>
 
@@ -23636,7 +23662,7 @@ A cinematic, moody photograph of a young woman sitting inside a café at night, 
 
 ---
 
-#### 678. French New Wave couple
+#### 679. French New Wave couple
 
 <a href="https://aiistudio.com/en/prompt/2015296685354721690?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015296685354721690/0.jpg" alt="French New Wave couple" width="560"></a>
 
@@ -23656,7 +23682,7 @@ Emotion conveyed through stillness, silence, and unresolved tension — love pre
 
 ---
 
-#### 679. Spa clay-mask portrait
+#### 680. Spa clay-mask portrait
 
 <a href="https://aiistudio.com/en/prompt/2015284406307692759?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015284406307692759/0.jpg" alt="Spa clay-mask portrait" width="560"></a>
 
@@ -23721,7 +23747,7 @@ Emotion conveyed through stillness, silence, and unresolved tension — love pre
 
 ---
 
-#### 680. 1970s motion-blur portrait
+#### 681. 1970s motion-blur portrait
 
 <a href="https://aiistudio.com/en/prompt/2015263403393355980?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015263403393355980/0.jpg" alt="1970s motion-blur portrait" width="560"></a>
 
@@ -23770,7 +23796,7 @@ Emotion conveyed through stillness, silence, and unresolved tension — love pre
 
 ---
 
-#### 681. Snowfall umbrella portrait
+#### 682. Snowfall umbrella portrait
 
 <a href="https://aiistudio.com/en/prompt/2015259087718748577?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015259087718748577/0.jpg" alt="Snowfall umbrella portrait" width="560"></a>
 
@@ -23796,7 +23822,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 682. Oversized product editorial
+#### 683. Oversized product editorial
 
 <a href="https://aiistudio.com/en/prompt/2015152385207984348?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015152385207984348/0.jpg" alt="Oversized product editorial" width="560"></a>
 
@@ -23814,7 +23840,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 683. Sydney Sweeney Paris shot
+#### 684. Sydney Sweeney Paris shot
 
 <a href="https://aiistudio.com/en/prompt/2013557142402277695?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013557142402277695/0.jpg" alt="Sydney Sweeney Paris shot" width="560"></a>
 
@@ -23861,7 +23887,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 684. Batik gown mask portrait
+#### 685. Batik gown mask portrait
 
 <a href="https://aiistudio.com/en/prompt/2013512902716858758?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013512902716858758/0.jpg" alt="Batik gown mask portrait" width="560"></a>
 
@@ -23981,7 +24007,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 685. Neon crosswalk phone shot
+#### 686. Neon crosswalk phone shot
 
 <a href="https://aiistudio.com/en/prompt/2013478541753753795?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013478541753753795/0.jpg" alt="Neon crosswalk phone shot" width="560"></a>
 
@@ -24072,7 +24098,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 686. Fedora chiaroscuro portrait
+#### 687. Fedora chiaroscuro portrait
 
 <a href="https://aiistudio.com/en/prompt/2013448656767328610?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013448656767328610/0.jpg" alt="Fedora chiaroscuro portrait" width="560"></a>
 
@@ -24099,7 +24125,7 @@ Mood: Emotional, reflective and beautifully sad
 
 ---
 
-#### 687. Wildflower daisy portrait
+#### 688. Wildflower daisy portrait
 
 <a href="https://aiistudio.com/en/prompt/2013419302662348979?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013419302662348979/0.jpg" alt="Wildflower daisy portrait" width="560"></a>
 
@@ -24117,7 +24143,7 @@ cinematic, wide-angle portrait of her sitting in a wildflower field during the d
 
 ---
 
-#### 688. Pixar-style 3D avatar
+#### 689. Pixar-style 3D avatar
 
 <a href="https://aiistudio.com/en/prompt/2013295220440654142?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013295220440654142/0.jpg" alt="Pixar-style 3D avatar" width="560"></a>
 
@@ -24135,7 +24161,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 
 ---
 
-#### 689. Freckled bedroom close-up
+#### 690. Freckled bedroom close-up
 
 <a href="https://aiistudio.com/en/prompt/2013249730239758389?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013249730239758389/0.jpg" alt="Freckled bedroom close-up" width="560"></a>
 
@@ -24188,7 +24214,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 
 ---
 
-#### 690. Black turtleneck portrait
+#### 691. Black turtleneck portrait
 
 <a href="https://aiistudio.com/en/prompt/2013234871238598793?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013234871238598793/0.jpg" alt="Black turtleneck portrait" width="560"></a>
 
@@ -24214,7 +24240,7 @@ Moody cinematic portrait of a young woman with clear fair skin and barely-there 
 
 ---
 
-#### 691. Ink sketch side portrait
+#### 692. Ink sketch side portrait
 
 <a href="https://aiistudio.com/en/prompt/2013084813037814209?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013084813037814209/0.jpg" alt="Ink sketch side portrait" width="560"></a>
 
@@ -24232,7 +24258,7 @@ Use the uploaded photo as the main face referenc. Preserve the exact facial stru
 
 ---
 
-#### 692. Silver maxi dress portrait
+#### 693. Silver maxi dress portrait
 
 <a href="https://aiistudio.com/en/prompt/2012944621815386617?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012944621815386617/0.jpg" alt="Silver maxi dress portrait" width="560"></a>
 
@@ -24339,7 +24365,7 @@ Use the uploaded photo as the main face referenc. Preserve the exact facial stru
 
 ---
 
-#### 693. Poolside S-curve portrait
+#### 694. Poolside S-curve portrait
 
 <a href="https://aiistudio.com/en/prompt/2012936215176073501?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012936215176073501/0.jpg" alt="Poolside S-curve portrait" width="560"></a>
 
@@ -24404,7 +24430,7 @@ Use the uploaded photo as the main face referenc. Preserve the exact facial stru
 
 ---
 
-#### 694. Teddy-fleece collar portrait
+#### 695. Teddy-fleece collar portrait
 
 <a href="https://aiistudio.com/en/prompt/2012894412276473967?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012894412276473967/0.jpg" alt="Teddy-fleece collar portrait" width="560"></a>
 
@@ -24422,7 +24448,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 ---
 
-#### 695. Y2K casino flash portrait
+#### 696. Y2K casino flash portrait
 
 <a href="https://aiistudio.com/en/prompt/2012893873866145840?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012893873866145840/0.jpg" alt="Y2K casino flash portrait" width="560"></a>
 
@@ -24466,7 +24492,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 ---
 
-#### 696. Film-noir black suit portrait
+#### 697. Film-noir black suit portrait
 
 <a href="https://aiistudio.com/en/prompt/2012888202760384949?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012888202760384949/0.jpg" alt="Film-noir black suit portrait" width="560"></a>
 
@@ -24546,7 +24572,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 ---
 
-#### 697. 3x3 male lookbook pose grid
+#### 698. 3x3 male lookbook pose grid
 
 <a href="https://aiistudio.com/en/prompt/2012446568528687434?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012446568528687434/0.jpg" alt="3x3 male lookbook pose grid" width="560"></a>
 
@@ -24604,7 +24630,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 ---
 
-#### 698. 3D cartoon female triptych
+#### 699. 3D cartoon female triptych
 
 <a href="https://aiistudio.com/en/prompt/2012437899955097836?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2012437899955097836/0.jpg" alt="3D cartoon female triptych" width="560"></a>
 
@@ -24746,7 +24772,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 ---
 
-#### 699. 4-style cinematic pose grid
+#### 700. 4-style cinematic pose grid
 
 <a href="https://aiistudio.com/en/prompt/2012389636329644376?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012389636329644376/0.jpg" alt="4-style cinematic pose grid" width="560"></a>
 
@@ -24764,7 +24790,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 700. Swan Lake white dress fine art
+#### 701. Swan Lake white dress fine art
 
 <a href="https://aiistudio.com/en/prompt/2012242083927437636?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012242083927437636/0.jpg" alt="Swan Lake white dress fine art" width="560"></a>
 
@@ -24850,7 +24876,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 701. Indoor candid birthday night portrait
+#### 702. Indoor candid birthday night portrait
 
 <a href="https://aiistudio.com/en/prompt/2012224161460920512?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012224161460920512/0.jpg" alt="Indoor candid birthday night portrait" width="560"></a>
 
@@ -24965,7 +24991,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 702. Phone reflection hazel-green eye macro
+#### 703. Phone reflection hazel-green eye macro
 
 <a href="https://aiistudio.com/en/prompt/2012216058770247872?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012216058770247872/0.jpg" alt="Phone reflection hazel-green eye macro" width="560"></a>
 
@@ -25126,7 +25152,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 703. Ana de Armas stone wall pose
+#### 704. Ana de Armas stone wall pose
 
 <a href="https://aiistudio.com/en/prompt/2012212911637217522?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012212911637217522/0.jpg" alt="Ana de Armas stone wall pose" width="560"></a>
 
@@ -25208,7 +25234,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 704. Sajiao puppy-eyes celebrity portrait
+#### 705. Sajiao puppy-eyes celebrity portrait
 
 <a href="https://aiistudio.com/en/prompt/2012152968796049803?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012152968796049803/0.jpg" alt="Sajiao puppy-eyes celebrity portrait" width="560"></a>
 
@@ -25278,7 +25304,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 705. Playful winking blonde studio portrait
+#### 706. Playful winking blonde studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2012148686831206421?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012148686831206421/0.jpg" alt="Playful winking blonde studio portrait" width="560"></a>
 
@@ -25346,7 +25372,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 706. Lace mini dress glamorous wave portrait
+#### 707. Lace mini dress glamorous wave portrait
 
 <a href="https://aiistudio.com/en/prompt/2012147176810651809?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012147176810651809/0.jpg" alt="Lace mini dress glamorous wave portrait" width="560"></a>
 
@@ -25410,7 +25436,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 707. Vertical split black-and-white poster
+#### 708. Vertical split black-and-white poster
 
 <a href="https://aiistudio.com/en/prompt/2012132360779923648?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012132360779923648/0.jpg" alt="Vertical split black-and-white poster" width="560"></a>
 
@@ -25668,7 +25694,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 708. Freckled blonde messy bun portrait
+#### 709. Freckled blonde messy bun portrait
 
 <a href="https://aiistudio.com/en/prompt/2012098266360578337?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012098266360578337/0.jpg" alt="Freckled blonde messy bun portrait" width="560"></a>
 
@@ -25732,7 +25758,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 709. Lingerie messy bun alluring portrait
+#### 710. Lingerie messy bun alluring portrait
 
 <a href="https://aiistudio.com/en/prompt/2012085863476498803?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012085863476498803/0.jpg" alt="Lingerie messy bun alluring portrait" width="560"></a>
 
@@ -25796,7 +25822,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 710. Surreal red sunglasses fashion portrait
+#### 711. Surreal red sunglasses fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2012011717975556167?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012011717975556167/0.jpg" alt="Surreal red sunglasses fashion portrait" width="560"></a>
 
@@ -25885,7 +25911,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 711. Studio wall vector portrait combo
+#### 712. Studio wall vector portrait combo
 
 <a href="https://aiistudio.com/en/prompt/2011898760650170378?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011898760650170378/0.jpg" alt="Studio wall vector portrait combo" width="560"></a>
 
@@ -25903,7 +25929,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 712. Red rose dark window leaning shot
+#### 713. Red rose dark window leaning shot
 
 <a href="https://aiistudio.com/en/prompt/2011890067220975925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011890067220975925/0.jpg" alt="Red rose dark window leaning shot" width="560"></a>
 
@@ -26025,7 +26051,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 713. Stone wall introspective brunette portrait
+#### 714. Stone wall introspective brunette portrait
 
 <a href="https://aiistudio.com/en/prompt/2011866699075895370?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011866699075895370/0.jpg" alt="Stone wall introspective brunette portrait" width="560"></a>
 
@@ -26101,7 +26127,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 ---
 
-#### 714. Wide-angle 4-style dynamic poses
+#### 715. Wide-angle 4-style dynamic poses
 
 <a href="https://aiistudio.com/en/prompt/2011850528897319098?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011850528897319098/0.jpg" alt="Wide-angle 4-style dynamic poses" width="560"></a>
 
@@ -26119,7 +26145,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ---
 
-#### 715. Photographer street monochrome portrait
+#### 716. Photographer street monochrome portrait
 
 <a href="https://aiistudio.com/en/prompt/2011845501357064442?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011845501357064442/0.jpg" alt="Photographer street monochrome portrait" width="560"></a>
 
@@ -26137,7 +26163,7 @@ A cinematic black-and-white street portrait of a young woman photographer standi
 
 ---
 
-#### 716. Blue hour winter forest lantern portrait
+#### 717. Blue hour winter forest lantern portrait
 
 <a href="https://aiistudio.com/en/prompt/2011831086180155868?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011831086180155868/0.jpg" alt="Blue hour winter forest lantern portrait" width="560"></a>
 
@@ -26155,7 +26181,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 717. 8K rear-view fitness model portrait
+#### 718. 8K rear-view fitness model portrait
 
 <a href="https://aiistudio.com/en/prompt/2011810184612757973?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011810184612757973/0.jpg" alt="8K rear-view fitness model portrait" width="560"></a>
 
@@ -26255,7 +26281,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 718. Vertical triptych identity-locked portrait
+#### 719. Vertical triptych identity-locked portrait
 
 <a href="https://aiistudio.com/en/prompt/2011768680279834631?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011768680279834631/0.jpg" alt="Vertical triptych identity-locked portrait" width="560"></a>
 
@@ -26357,7 +26383,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 719. Sun-kissed playful side profile portrait
+#### 720. Sun-kissed playful side profile portrait
 
 <a href="https://aiistudio.com/en/prompt/2011768378969481414?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011768378969481414/0.jpg" alt="Sun-kissed playful side profile portrait" width="560"></a>
 
@@ -26416,7 +26442,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 720. Hyper-real cartoon doppelgänger street hug
+#### 721. Hyper-real cartoon doppelgänger street hug
 
 <a href="https://aiistudio.com/en/prompt/2011759353561563589?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011759353561563589/0.jpg" alt="Hyper-real cartoon doppelgänger street hug" width="560"></a>
 
@@ -26456,7 +26482,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 721. Arched-back fitness model rear shot
+#### 722. Arched-back fitness model rear shot
 
 <a href="https://aiistudio.com/en/prompt/2011714932211908616?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011714932211908616/0.jpg" alt="Arched-back fitness model rear shot" width="560"></a>
 
@@ -26556,7 +26582,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 722. Lying down face-locked self portrait
+#### 723. Lying down face-locked self portrait
 
 <a href="https://aiistudio.com/en/prompt/2011682126073307641?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011682126073307641/0.jpg" alt="Lying down face-locked self portrait" width="560"></a>
 
@@ -26652,7 +26678,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 723. Luminous fair-skin face-locked portrait
+#### 724. Luminous fair-skin face-locked portrait
 
 <a href="https://aiistudio.com/en/prompt/2011656328620503227?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011656328620503227/0.jpg" alt="Luminous fair-skin face-locked portrait" width="560"></a>
 
@@ -26789,7 +26815,7 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 ---
 
-#### 724. Executive business portrait
+#### 725. Executive business portrait
 
 <a href="https://aiistudio.com/en/prompt/2011653000000127336?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011653000000127336/0.jpg" alt="Executive business portrait" width="560"></a>
 
@@ -26813,7 +26839,7 @@ Ultra realistic professional business portrait based on the attached image. Keep
 
 ---
 
-#### 725. iPhone RAW candid Pinterest portrait
+#### 726. iPhone RAW candid Pinterest portrait
 
 <a href="https://aiistudio.com/en/prompt/2011649686797688977?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011649686797688977/0.jpg" alt="iPhone RAW candid Pinterest portrait" width="560"></a>
 
@@ -26918,7 +26944,7 @@ Ultra realistic professional business portrait based on the attached image. Keep
 
 ---
 
-#### 726. Gray turtleneck studio portrait
+#### 727. Gray turtleneck studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2011645375460057533?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011645375460057533/0.jpg" alt="Gray turtleneck studio portrait" width="560"></a>
 
@@ -26942,7 +26968,7 @@ Ultra-realistic studio portrait of a young woman, front-facing, centered composi
 
 ---
 
-#### 727. Felt wool celebrity doll diorama
+#### 728. Felt wool celebrity doll diorama
 
 <a href="https://aiistudio.com/en/prompt/2011634592810438835?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011634592810438835/0.jpg" alt="Felt wool celebrity doll diorama" width="560"></a>
 
@@ -26968,7 +26994,7 @@ A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wo
 
 ---
 
-#### 728. Vogue-inspired monochrome editorial portrait
+#### 729. Vogue-inspired monochrome editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2011598044152938767?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011598044152938767/0.jpg" alt="Vogue-inspired monochrome editorial portrait" width="560"></a>
 
@@ -27004,7 +27030,7 @@ A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wo
 
 ---
 
-#### 729. Yellow house window white satin pose
+#### 730. Yellow house window white satin pose
 
 <a href="https://aiistudio.com/en/prompt/2011519692666470461?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011519692666470461/0.jpg" alt="Yellow house window white satin pose" width="560"></a>
 
@@ -27157,7 +27183,7 @@ A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wo
 
 ---
 
-#### 730. Avant-garde lookbook UI overlay
+#### 731. Avant-garde lookbook UI overlay
 
 <a href="https://aiistudio.com/en/prompt/2011509897175724329?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011509897175724329/0.jpg" alt="Avant-garde lookbook UI overlay" width="560"></a>
 
@@ -27191,7 +27217,7 @@ Framing (STRICT CONSTRAINT): The shot is a Wide Full-Body Photograph. The entire
 
 ---
 
-#### 731. Beige wall leaning fashion editorial
+#### 732. Beige wall leaning fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2011444759605510287?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011444759605510287/0.jpg" alt="Beige wall leaning fashion editorial" width="560"></a>
 
@@ -27224,7 +27250,7 @@ Using the uploaded reference image STRICTLY, preserve the same woman’s face, i
 
 ---
 
-#### 732. Four-frame contact sheet editorial
+#### 733. Four-frame contact sheet editorial
 
 <a href="https://aiistudio.com/en/prompt/2011440040485003768?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011440040485003768/0.jpg" alt="Four-frame contact sheet editorial" width="560"></a>
 
@@ -27253,7 +27279,7 @@ Negative Prompt: exaggerated anatomy, glossy commercial lighting, heavy retouchi
 
 ---
 
-#### 733. Winter portrait woman with wolf
+#### 734. Winter portrait woman with wolf
 
 <a href="https://aiistudio.com/en/prompt/2011395626504966335?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011395626504966335/0.jpg" alt="Winter portrait woman with wolf" width="560"></a>
 
@@ -27369,7 +27395,7 @@ Negative Prompt: exaggerated anatomy, glossy commercial lighting, heavy retouchi
 
 ---
 
-#### 734. Blonde woman on red shipping container
+#### 735. Blonde woman on red shipping container
 
 <a href="https://aiistudio.com/en/prompt/2011379631740633191?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011379631740633191/0.jpg" alt="Blonde woman on red shipping container" width="560"></a>
 
@@ -27422,7 +27448,7 @@ Use the same face from the reference image without changing facial features
 
 ---
 
-#### 735. Polka dot wine bar luxury portrait
+#### 736. Polka dot wine bar luxury portrait
 
 <a href="https://aiistudio.com/en/prompt/2011378277001363610?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011378277001363610/0.jpg" alt="Polka dot wine bar luxury portrait" width="560"></a>
 
@@ -27448,7 +27474,7 @@ Use my uploaded face image as the ONLY facial and identity reference. No other f
 
 ---
 
-#### 736. Extreme profile hyper-realistic skin
+#### 737. Extreme profile hyper-realistic skin
 
 <a href="https://aiistudio.com/en/prompt/2011356173572902941?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011356173572902941/0.jpg" alt="Extreme profile hyper-realistic skin" width="560"></a>
 
@@ -27526,7 +27552,7 @@ Use my uploaded face image as the ONLY facial and identity reference. No other f
 
 ---
 
-#### 737. Executive seated white cube portrait
+#### 738. Executive seated white cube portrait
 
 <a href="https://aiistudio.com/en/prompt/2011355651382104115?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011355651382104115/0.jpg" alt="Executive seated white cube portrait" width="560"></a>
 
@@ -27592,7 +27618,7 @@ Face must remain perfectly consistent from every angle
 
 ---
 
-#### 738. Nano Banana model flatlay shoot
+#### 739. Nano Banana model flatlay shoot
 
 <a href="https://aiistudio.com/en/prompt/2011350251282866545?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011350251282866545/0.jpg" alt="Nano Banana model flatlay shoot" width="560"></a>
 
@@ -27619,7 +27645,7 @@ here’s how (step-by-step): https://t.co/BNpoGI2LiS
 
 ---
 
-#### 739. Floor-seated all-black studio portrait
+#### 740. Floor-seated all-black studio portrait
 
 <a href="https://aiistudio.com/en/prompt/2011340606975721923?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011340606975721923/0.jpg" alt="Floor-seated all-black studio portrait" width="560"></a>
 
@@ -27637,7 +27663,7 @@ High-contrast black-and-white studio photo of a woman seated on the floor wearin
 
 ---
 
-#### 740. Ana de Armas-style soft portrait
+#### 741. Ana de Armas-style soft portrait
 
 <a href="https://aiistudio.com/en/prompt/2011307364671262927?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011307364671262927/0.jpg" alt="Ana de Armas-style soft portrait" width="560"></a>
 
@@ -27711,7 +27737,7 @@ High-contrast black-and-white studio photo of a woman seated on the floor wearin
 
 ---
 
-#### 741. Paris Fashion Week paparazzi flash
+#### 742. Paris Fashion Week paparazzi flash
 
 <a href="https://aiistudio.com/en/prompt/2011304086847832089?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011304086847832089/0.jpg" alt="Paris Fashion Week paparazzi flash" width="560"></a>
 
@@ -27741,7 +27767,7 @@ Quality: “sharp focus on face, background heavily blurred and streaked”
 
 ---
 
-#### 742. Dewy glossy pink lips profile shot
+#### 743. Dewy glossy pink lips profile shot
 
 <a href="https://aiistudio.com/en/prompt/2011292261246718268?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011292261246718268/0.jpg" alt="Dewy glossy pink lips profile shot" width="560"></a>
 
@@ -27775,7 +27801,7 @@ Romantic, quiet, slightly lonely, melancholic yet beautiful. Dreamy, cinematic, 
 
 ---
 
-#### 743. Wet skin aviator close-up portrait
+#### 744. Wet skin aviator close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2011283991870259558?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011283991870259558/0.jpg" alt="Wet skin aviator close-up portrait" width="560"></a>
 
@@ -27795,7 +27821,7 @@ Use my uploaded face image as the  facial and identity reference.
 
 ---
 
-#### 744. Doll on Microsoft Surface diorama
+#### 745. Doll on Microsoft Surface diorama
 
 <a href="https://aiistudio.com/en/prompt/2011268158855000473?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011268158855000473/0.jpg" alt="Doll on Microsoft Surface diorama" width="560"></a>
 
@@ -27823,7 +27849,7 @@ The scene features a vibrant blue and orange color scheme with dynamic lighting.
 
 ---
 
-#### 745. Flour-dusted laughing kitchen portrait
+#### 746. Flour-dusted laughing kitchen portrait
 
 <a href="https://aiistudio.com/en/prompt/2011257477275468178?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011257477275468178/0.jpg" alt="Flour-dusted laughing kitchen portrait" width="560"></a>
 
@@ -27879,7 +27905,7 @@ The scene features a vibrant blue and orange color scheme with dynamic lighting.
 
 ---
 
-#### 746. Avant-garde streetwear typography poster
+#### 747. Avant-garde streetwear typography poster
 
 <a href="https://aiistudio.com/en/prompt/2011170447434649774?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011170447434649774/0.jpg" alt="Avant-garde streetwear typography poster" width="560"></a>
 
@@ -27912,7 +27938,7 @@ Add very small, microscopic functional text in the extreme corners (e.g., "poste
 
 ---
 
-#### 747. Y2K Dior duo editorial fashion shot
+#### 748. Y2K Dior duo editorial fashion shot
 
 <a href="https://aiistudio.com/en/prompt/2011133595042398575?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011133595042398575/0.jpg" alt="Y2K Dior duo editorial fashion shot" width="560"></a>
 
@@ -27966,7 +27992,7 @@ Add very small, microscopic functional text in the extreme corners (e.g., "poste
 
 ---
 
-#### 748. Freckled hazel-eyed natural portrait
+#### 749. Freckled hazel-eyed natural portrait
 
 <a href="https://aiistudio.com/en/prompt/2011084512617246917?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011084512617246917/0.jpg" alt="Freckled hazel-eyed natural portrait" width="560"></a>
 
@@ -28053,7 +28079,7 @@ Add very small, microscopic functional text in the extreme corners (e.g., "poste
 
 ---
 
-#### 749. Ribbon braid windswept selfie
+#### 750. Ribbon braid windswept selfie
 
 <a href="https://aiistudio.com/en/prompt/2011074680808227128?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011074680808227128/0.jpg" alt="Ribbon braid windswept selfie" width="560"></a>
 
@@ -28099,7 +28125,7 @@ Do not alter her face from the image 100%.
 
 ---
 
-#### 750. 90s disposable camera party portrait
+#### 751. 90s disposable camera party portrait
 
 <a href="https://aiistudio.com/en/prompt/2011072669941448785?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011072669941448785/0.jpg" alt="90s disposable camera party portrait" width="560"></a>
 
@@ -28117,7 +28143,7 @@ High-contrast black and white photo taken with a 1990s disposable camera at a da
 
 ---
 
-#### 751. Colossal woman under construction city
+#### 752. Colossal woman under construction city
 
 <a href="https://aiistudio.com/en/prompt/2011072648303018074?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011072648303018074/0.jpg" alt="Colossal woman under construction city" width="560"></a>
 
@@ -28181,7 +28207,7 @@ High-contrast black and white photo taken with a 1990s disposable camera at a da
 
 ---
 
-#### 752. Blonde ponytail headband portrait
+#### 753. Blonde ponytail headband portrait
 
 <a href="https://aiistudio.com/en/prompt/2011032686136275059?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011032686136275059/0.jpg" alt="Blonde ponytail headband portrait" width="560"></a>
 
@@ -28259,7 +28285,7 @@ High-contrast black and white photo taken with a 1990s disposable camera at a da
 
 ---
 
-#### 753. Ferrari jacket bathroom mirror selfie
+#### 754. Ferrari jacket bathroom mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2011028969332805684?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011028969332805684/0.jpg" alt="Ferrari jacket bathroom mirror selfie" width="560"></a>
 
@@ -28285,7 +28311,7 @@ cinematic vibe. Add a moody filter.
 
 ---
 
-#### 754. Casual white bench seated portrait
+#### 755. Casual white bench seated portrait
 
 <a href="https://aiistudio.com/en/prompt/2010886981191131384?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010886981191131384/0.jpg" alt="Casual white bench seated portrait" width="560"></a>
 
@@ -28303,7 +28329,7 @@ A young woman is sitting casually on a white wooden bench, positioned slightly o
 
 ---
 
-#### 755. Candid kitchen lifestyle portrait
+#### 756. Candid kitchen lifestyle portrait
 
 <a href="https://aiistudio.com/en/prompt/2010784341975318837?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010784341975318837/0.jpg" alt="Candid kitchen lifestyle portrait" width="560"></a>
 
@@ -28365,7 +28391,7 @@ A young woman is sitting casually on a white wooden bench, positioned slightly o
 
 ---
 
-#### 756. Film-noir portrait with amber sunglasses
+#### 757. Film-noir portrait with amber sunglasses
 
 <a href="https://aiistudio.com/en/prompt/2010724643737686242?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010724643737686242/0.jpg" alt="Film-noir portrait with amber sunglasses" width="560"></a>
 
@@ -28450,7 +28476,7 @@ A young woman is sitting casually on a white wooden bench, positioned slightly o
 
 ---
 
-#### 757. Underwater action camera portrait
+#### 758. Underwater action camera portrait
 
 <a href="https://aiistudio.com/en/prompt/2010666164129849800?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010666164129849800/0.jpg" alt="Underwater action camera portrait" width="560"></a>
 
@@ -28482,7 +28508,7 @@ Do not alter facial structure or identity. The Subject must remain 1000% identic
 
 ---
 
-#### 758. Monochrome high-fashion portrait
+#### 759. Monochrome high-fashion portrait
 
 <a href="https://aiistudio.com/en/prompt/2010663134743368058?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010663134743368058/0.jpg" alt="Monochrome high-fashion portrait" width="560"></a>
 
@@ -28500,7 +28526,7 @@ Use the attached image of the model as facial reference and physical features. B
 
 ---
 
-#### 759. Direct flash editorial wall portrait
+#### 760. Direct flash editorial wall portrait
 
 <a href="https://aiistudio.com/en/prompt/2010661146349756814?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010661146349756814/0.jpg" alt="Direct flash editorial wall portrait" width="560"></a>
 
@@ -28518,7 +28544,7 @@ A high-resolution, close-up editorial-style portrait of a young woman standing a
 
 ---
 
-#### 760. Macro fine art Leica portrait
+#### 761. Macro fine art Leica portrait
 
 <a href="https://aiistudio.com/en/prompt/2010578685070582235?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010578685070582235/0.jpg" alt="Macro fine art Leica portrait" width="560"></a>
 
@@ -28554,7 +28580,7 @@ Ultra-high resolution 8K, with no AI-generated look.
 
 ---
 
-#### 761. Candid smartphone night portrait
+#### 762. Candid smartphone night portrait
 
 <a href="https://aiistudio.com/en/prompt/2010559842365386883?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010559842365386883/0.jpg" alt="Candid smartphone night portrait" width="560"></a>
 
@@ -28684,7 +28710,7 @@ Ultra-high resolution 8K, with no AI-generated look.
 
 ---
 
-#### 762. Asian schoolgirl streetwear portrait
+#### 763. Asian schoolgirl streetwear portrait
 
 <a href="https://aiistudio.com/en/prompt/2010421791613919416?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010421791613919416/0.jpg" alt="Asian schoolgirl streetwear portrait" width="560"></a>
 
@@ -28752,7 +28778,7 @@ Ultra-high resolution 8K, with no AI-generated look.
 
 ---
 
-#### 763. Top-down skyscraper rooftop portrait
+#### 764. Top-down skyscraper rooftop portrait
 
 <a href="https://aiistudio.com/en/prompt/2010378808176873774?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010378808176873774/0.jpg" alt="Top-down skyscraper rooftop portrait" width="560"></a>
 
@@ -28777,7 +28803,7 @@ Ultra-high resolution 8K, with no AI-generated look.
 
 ---
 
-#### 764. Black-white portrait of bearded man
+#### 765. Black-white portrait of bearded man
 
 <a href="https://aiistudio.com/en/prompt/2010202953123295307?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010202953123295307/0.jpg" alt="Black-white portrait of bearded man" width="560"></a>
 
@@ -28795,7 +28821,7 @@ Use 100% of the uploaded reference image for the exact face, identity, and facia
 
 ---
 
-#### 765. Chinese bridal red portrait
+#### 766. Chinese bridal red portrait
 
 <a href="https://aiistudio.com/en/prompt/2010130164169007195?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010130164169007195/0.jpg" alt="Chinese bridal red portrait" width="560"></a>
 
@@ -28846,7 +28872,7 @@ Use 100% of the uploaded reference image for the exact face, identity, and facia
 
 ---
 
-#### 766. iPhone camera roll selfie
+#### 767. iPhone camera roll selfie
 
 <a href="https://aiistudio.com/en/prompt/2010098987735671074?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010098987735671074/0.jpg" alt="iPhone camera roll selfie" width="560"></a>
 
@@ -28991,7 +29017,7 @@ Use 100% of the uploaded reference image for the exact face, identity, and facia
 
 ---
 
-#### 767. Rembrandt lit man portrait
+#### 768. Rembrandt lit man portrait
 
 <a href="https://aiistudio.com/en/prompt/2009980871760400568?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009980871760400568/0.jpg" alt="Rembrandt lit man portrait" width="560"></a>
 
@@ -29009,7 +29035,7 @@ A dramatic black and white studio portrait of a thoughtful man with short styled
 
 ---
 
-#### 768. Newspaper sketch glasses portrait
+#### 769. Newspaper sketch glasses portrait
 
 <a href="https://aiistudio.com/en/prompt/2009946159532662792?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009946159532662792/0.jpg" alt="Newspaper sketch glasses portrait" width="560"></a>
 
@@ -29033,7 +29059,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 ---
 
-#### 769. Metro platform train portrait
+#### 770. Metro platform train portrait
 
 <a href="https://aiistudio.com/en/prompt/2009944367377653780?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009944367377653780/0.jpg" alt="Metro platform train portrait" width="560"></a>
 
@@ -29119,7 +29145,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 ---
 
-#### 770. Vintage car countryside portrait
+#### 771. Vintage car countryside portrait
 
 <a href="https://aiistudio.com/en/prompt/2009915869489504532?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009915869489504532/0.jpg" alt="Vintage car countryside portrait" width="560"></a>
 
@@ -29166,7 +29192,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 ---
 
-#### 771. Scandinavian camel knit portrait
+#### 772. Scandinavian camel knit portrait
 
 <a href="https://aiistudio.com/en/prompt/2009911679728206114?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009911679728206114/0.jpg" alt="Scandinavian camel knit portrait" width="560"></a>
 
@@ -29273,7 +29299,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 ---
 
-#### 772. Y2K oversized denim streetwear
+#### 773. Y2K oversized denim streetwear
 
 <a href="https://aiistudio.com/en/prompt/2009891192524419457?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009891192524419457/0.jpg" alt="Y2K oversized denim streetwear" width="560"></a>
 
@@ -29297,7 +29323,7 @@ Beard. Makeup is minimal and natural, emphasizing clear skin and subtle lip colo
 
 ---
 
-#### 773. Athletic flex pose editorial
+#### 774. Athletic flex pose editorial
 
 <a href="https://aiistudio.com/en/prompt/2009861254341333164?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009861254341333164/0.jpg" alt="Athletic flex pose editorial" width="560"></a>
 
@@ -29368,7 +29394,7 @@ Beard. Makeup is minimal and natural, emphasizing clear skin and subtle lip colo
 
 ---
 
-#### 774. Red puffer orange sunglasses
+#### 775. Red puffer orange sunglasses
 
 <a href="https://aiistudio.com/en/prompt/2009853598323396674?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009853598323396674/0.jpg" alt="Red puffer orange sunglasses" width="560"></a>
 
@@ -29386,7 +29412,7 @@ A cinematic fashion portrait of a young woman with a short wavy bob haircut and 
 
 ---
 
-#### 775. 9:16 identity-lock selfie
+#### 776. 9:16 identity-lock selfie
 
 <a href="https://aiistudio.com/en/prompt/2009834337043394622?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009834337043394622/0.jpg" alt="9:16 identity-lock selfie" width="560"></a>
 
@@ -29494,7 +29520,7 @@ A cinematic fashion portrait of a young woman with a short wavy bob haircut and 
 
 ---
 
-#### 776. Royal Ana de Armas portrait
+#### 777. Royal Ana de Armas portrait
 
 <a href="https://aiistudio.com/en/prompt/2009672926522397130?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009672926522397130/0.jpg" alt="Royal Ana de Armas portrait" width="560"></a>
 
@@ -29600,7 +29626,7 @@ A cinematic fashion portrait of a young woman with a short wavy bob haircut and 
 
 ---
 
-#### 777. Schuman Paris street portrait
+#### 778. Schuman Paris street portrait
 
 <a href="https://aiistudio.com/en/prompt/2009669647906578908?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009669647906578908/0.jpg" alt="Schuman Paris street portrait" width="560"></a>
 
@@ -29625,7 +29651,7 @@ Ratio: 3:4.
 
 ---
 
-#### 778. Red wall split fashion shot
+#### 779. Red wall split fashion shot
 
 <a href="https://aiistudio.com/en/prompt/2009665973058515294?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009665973058515294/0.jpg" alt="Red wall split fashion shot" width="560"></a>
 
@@ -29674,7 +29700,7 @@ Cluttered layout, oversized text, flashy logos, mannequins, people on left side,
 
 ---
 
-#### 779. East Asian influencer selfie
+#### 780. East Asian influencer selfie
 
 <a href="https://aiistudio.com/en/prompt/2009632266927079556?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009632266927079556/0.jpg" alt="East Asian influencer selfie" width="560"></a>
 
@@ -29752,7 +29778,7 @@ Cluttered layout, oversized text, flashy logos, mannequins, people on left side,
 
 ---
 
-#### 780. B&W pensive man portrait
+#### 781. B&W pensive man portrait
 
 <a href="https://aiistudio.com/en/prompt/2009623964168098296?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009623964168098296/0.jpg" alt="B&W pensive man portrait" width="560"></a>
 
@@ -29770,7 +29796,7 @@ Close-up black and white portrait of a man use image face reference with messy h
 
 ---
 
-#### 781. Skincare routine multi-scene
+#### 782. Skincare routine multi-scene
 
 <a href="https://aiistudio.com/en/prompt/2009580453083201822?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009580453083201822/0.jpg" alt="Skincare routine multi-scene" width="560"></a>
 
@@ -29855,7 +29881,7 @@ Close-up black and white portrait of a man use image face reference with messy h
 
 ---
 
-#### 782. Loft sofa reclining portrait
+#### 783. Loft sofa reclining portrait
 
 <a href="https://aiistudio.com/en/prompt/2009487340285440312?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009487340285440312/0.jpg" alt="Loft sofa reclining portrait" width="560"></a>
 
@@ -29945,7 +29971,7 @@ Close-up black and white portrait of a man use image face reference with messy h
 
 ---
 
-#### 783. Motion blur crowd portrait
+#### 784. Motion blur crowd portrait
 
 <a href="https://aiistudio.com/en/prompt/2009484351873151176?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009484351873151176/0.jpg" alt="Motion blur crowd portrait" width="560"></a>
 
@@ -29963,7 +29989,7 @@ A cinematic street portrait of a young woman standing still in a busy urban crow
 
 ---
 
-#### 784. Dental office mini chibi self
+#### 785. Dental office mini chibi self
 
 <a href="https://aiistudio.com/en/prompt/2009471280643493933?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009471280643493933/0.jpg" alt="Dental office mini chibi self" width="560"></a>
 
@@ -29991,7 +30017,7 @@ Ultra-detailed textures for the real person. Clean 3D textures with a realistic 
 
 ---
 
-#### 785. Wooden pier knit sweater portrait
+#### 786. Wooden pier knit sweater portrait
 
 <a href="https://aiistudio.com/en/prompt/2009467245135806647?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009467245135806647/0.jpg" alt="Wooden pier knit sweater portrait" width="560"></a>
 
@@ -30035,7 +30061,7 @@ Ultra-detailed textures for the real person. Clean 3D textures with a realistic 
 
 ---
 
-#### 786. Athlete photo-mosaic poster
+#### 787. Athlete photo-mosaic poster
 
 <a href="https://aiistudio.com/en/prompt/2009362050888475052?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009362050888475052/0.jpg" alt="Athlete photo-mosaic poster" width="560"></a>
 
@@ -30073,7 +30099,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ---
 
-#### 787. Vertical mirror selfie portrait
+#### 788. Vertical mirror selfie portrait
 
 <a href="https://aiistudio.com/en/prompt/2009278431020929356?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009278431020929356/0.jpg" alt="Vertical mirror selfie portrait" width="560"></a>
 
@@ -30186,7 +30212,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ---
 
-#### 788. Lavender butterfly wing gown
+#### 789. Lavender butterfly wing gown
 
 <a href="https://aiistudio.com/en/prompt/2009263472455172547?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009263472455172547/0.jpg" alt="Lavender butterfly wing gown" width="560"></a>
 
@@ -30215,7 +30241,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ---
 
-#### 789. Lavender fur poppy meadow shot
+#### 790. Lavender fur poppy meadow shot
 
 <a href="https://aiistudio.com/en/prompt/2009251393652314271?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009251393652314271/0.jpg" alt="Lavender fur poppy meadow shot" width="560"></a>
 
@@ -30233,7 +30259,7 @@ Create an eye-catching outdoor fashion portrait in a lively flower meadow under 
 
 ---
 
-#### 790. Photoreal candid film still
+#### 791. Photoreal candid film still
 
 <a href="https://aiistudio.com/en/prompt/2009225482382762410?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009225482382762410/0.jpg" alt="Photoreal candid film still" width="560"></a>
 
@@ -30257,7 +30283,7 @@ Create an eye-catching outdoor fashion portrait in a lively flower meadow under 
 
 ---
 
-#### 791. Top-down social grid portrait
+#### 792. Top-down social grid portrait
 
 <a href="https://aiistudio.com/en/prompt/2009220608026939630?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009220608026939630/0.jpg" alt="Top-down social grid portrait" width="560"></a>
 
@@ -30381,7 +30407,7 @@ Create an eye-catching outdoor fashion portrait in a lively flower meadow under 
 
 ---
 
-#### 792. Vintage film newsstand portrait
+#### 793. Vintage film newsstand portrait
 
 <a href="https://aiistudio.com/en/prompt/2009214441083019511?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009214441083019511/0.jpg" alt="Vintage film newsstand portrait" width="560"></a>
 
@@ -30405,7 +30431,7 @@ The generated image uses the uploaded image as a reference for the character, we
 
 ---
 
-#### 793. Ethereal garden teal dress portrait
+#### 794. Ethereal garden teal dress portrait
 
 <a href="https://aiistudio.com/en/prompt/2009183590035411178?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009183590035411178/0.jpg" alt="Ethereal garden teal dress portrait" width="560"></a>
 
@@ -30491,7 +30517,7 @@ The generated image uses the uploaded image as a reference for the character, we
 
 ---
 
-#### 794. Mother in law photo commentary
+#### 795. Mother in law photo commentary
 
 <a href="https://aiistudio.com/en/prompt/2009106573634011487?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009106573634011487/0.jpg" alt="Mother in law photo commentary" width="560"></a>
 
@@ -30580,7 +30606,7 @@ identity:
 
 ---
 
-#### 795. Lavender fur poppy field portrait
+#### 796. Lavender fur poppy field portrait
 
 <a href="https://aiistudio.com/en/prompt/2009073223758238007?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009073223758238007/0.jpg" alt="Lavender fur poppy field portrait" width="560"></a>
 
@@ -30604,7 +30630,7 @@ Use this photo attached to create a striking outdoor fashion portrait set in a v
 
 ---
 
-#### 796. Dual exposure tribute poster
+#### 797. Dual exposure tribute poster
 
 <a href="https://aiistudio.com/en/prompt/2008976966255337666?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008976966255337666/0.jpg" alt="Dual exposure tribute poster" width="560"></a>
 
@@ -30642,7 +30668,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ---
 
-#### 797. White summer dress ledge portrait
+#### 798. White summer dress ledge portrait
 
 <a href="https://aiistudio.com/en/prompt/2008862441460088992?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008862441460088992/0.jpg" alt="White summer dress ledge portrait" width="560"></a>
 
@@ -30681,7 +30707,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ---
 
-#### 798. Night SUV city lights portrait
+#### 799. Night SUV city lights portrait
 
 <a href="https://aiistudio.com/en/prompt/2008815653424390145?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008815653424390145/0.jpg" alt="Night SUV city lights portrait" width="560"></a>
 
@@ -30699,7 +30725,7 @@ A cinematic night-time urban portrait of a confident, handsome man leaning again
 
 ---
 
-#### 799. Color-block jacket portrait
+#### 800. Color-block jacket portrait
 
 <a href="https://aiistudio.com/en/prompt/2008809100369674649?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008809100369674649/0.jpg" alt="Color-block jacket portrait" width="560"></a>
 
@@ -30717,7 +30743,7 @@ A young women with tousled brown hair, wearing a white, orange, and black color-
 
 ---
 
-#### 800. Luxury elevator mirror selfie
+#### 801. Luxury elevator mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2008782401510494539?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008782401510494539/0.jpg" alt="Luxury elevator mirror selfie" width="560"></a>
 
@@ -30858,7 +30884,7 @@ A young women with tousled brown hair, wearing a white, orange, and black color-
 
 ---
 
-#### 801. Concrete steps streetwear shot
+#### 802. Concrete steps streetwear shot
 
 <a href="https://aiistudio.com/en/prompt/2008777683455656087?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008777683455656087/0.jpg" alt="Concrete steps streetwear shot" width="560"></a>
 
@@ -30876,7 +30902,7 @@ A stylish young man sitting confidently on raw concrete steps inside a dense urb
 
 ---
 
-#### 802. Shallow depth crowd portrait
+#### 803. Shallow depth crowd portrait
 
 <a href="https://aiistudio.com/en/prompt/2008770349715030096?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008770349715030096/0.jpg" alt="Shallow depth crowd portrait" width="560"></a>
 
@@ -30980,7 +31006,7 @@ No text, no logos, no watermarks, no extra accessories, no hats, no sunglasses, 
 
 ---
 
-#### 803. Pedestal lean editorial male portrait
+#### 804. Pedestal lean editorial male portrait
 
 <a href="https://aiistudio.com/en/prompt/2008770294253842780?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008770294253842780/0.jpg" alt="Pedestal lean editorial male portrait" width="560"></a>
 
@@ -31015,7 +31041,7 @@ No text, no logos, no watermarks, no extra accessories, no hats, no sunglasses, 
 
 ---
 
-#### 804. Trench coat crosswalk candid
+#### 805. Trench coat crosswalk candid
 
 <a href="https://aiistudio.com/en/prompt/2008745209547669542?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008745209547669542/0.jpg" alt="Trench coat crosswalk candid" width="560"></a>
 
@@ -31098,7 +31124,7 @@ No text, no logos, no watermarks, no extra accessories, no hats, no sunglasses, 
 
 ---
 
-#### 805. 1970s stone steps cafe portrait
+#### 806. 1970s stone steps cafe portrait
 
 <a href="https://aiistudio.com/en/prompt/2008687707946709129?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008687707946709129/0.jpg" alt="1970s stone steps cafe portrait" width="560"></a>
 
@@ -31125,7 +31151,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 ---
 
-#### 806. White fur balcony portrait
+#### 807. White fur balcony portrait
 
 <a href="https://aiistudio.com/en/prompt/2008657337121223100?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008657337121223100/0.jpg" alt="White fur balcony portrait" width="560"></a>
 
@@ -31149,7 +31175,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 ---
 
-#### 807. Mixed media collage portrait
+#### 808. Mixed media collage portrait
 
 <a href="https://aiistudio.com/en/prompt/2008633447095349411?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008633447095349411/0.jpg" alt="Mixed media collage portrait" width="560"></a>
 
@@ -31175,7 +31201,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 ---
 
-#### 808. Sunset sea red dress editorial
+#### 809. Sunset sea red dress editorial
 
 <a href="https://aiistudio.com/en/prompt/2008595862771892704?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008595862771892704/0.jpg" alt="Sunset sea red dress editorial" width="560"></a>
 
@@ -31238,7 +31264,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 ---
 
-#### 809. Elevator satin gown portrait
+#### 810. Elevator satin gown portrait
 
 <a href="https://aiistudio.com/en/prompt/2008566343147126894?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008566343147126894/0.jpg" alt="Elevator satin gown portrait" width="560"></a>
 
@@ -31267,7 +31293,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 ---
 
-#### 810. 1970s cafe green coffee cup
+#### 811. 1970s cafe green coffee cup
 
 <a href="https://aiistudio.com/en/prompt/2008537400083939763?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008537400083939763/0.jpg" alt="1970s cafe green coffee cup" width="560"></a>
 
@@ -31291,7 +31317,7 @@ Aesthetic 1970s-inspired fashion portrait of a stylish young woman sitting on ou
 
 ---
 
-#### 811. Latent space engineered portrait
+#### 812. Latent space engineered portrait
 
 <a href="https://aiistudio.com/en/prompt/2008523952201863565?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008523952201863565/0.jpg" alt="Latent space engineered portrait" width="560"></a>
 
@@ -31320,7 +31346,7 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
 
 ---
 
-#### 812. Raw flash editorial portrait
+#### 813. Raw flash editorial portrait
 
 <a href="https://aiistudio.com/en/prompt/2008519233072931237?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008519233072931237/0.jpg" alt="Raw flash editorial portrait" width="560"></a>
 
@@ -31376,7 +31402,7 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
 
 ---
 
-#### 813. Golden hour portrait collage
+#### 814. Golden hour portrait collage
 
 <a href="https://aiistudio.com/en/prompt/2008484790287430022?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008484790287430022/0.jpg" alt="Golden hour portrait collage" width="560"></a>
 
@@ -31455,7 +31481,7 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
 
 ---
 
-#### 814. Fairytale park selfie scene
+#### 815. Fairytale park selfie scene
 
 <a href="https://aiistudio.com/en/prompt/2008453808968659330?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008453808968659330/0.jpg" alt="Fairytale park selfie scene" width="560"></a>
 
@@ -31538,7 +31564,7 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
 
 ---
 
-#### 815. Pond linen dress portrait
+#### 816. Pond linen dress portrait
 
 <a href="https://aiistudio.com/en/prompt/2008451510473289969?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008451510473289969/0.jpg" alt="Pond linen dress portrait" width="560"></a>
 
@@ -31558,7 +31584,7 @@ This cinematic, highly detailed scene evokes a profound sense of tranquility, ca
 
 ---
 
-#### 816. Rome Colosseum blue hour portrait
+#### 817. Rome Colosseum blue hour portrait
 
 <a href="https://aiistudio.com/en/prompt/2008449522305740895?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008449522305740895/0.jpg" alt="Rome Colosseum blue hour portrait" width="560"></a>
 
@@ -31582,7 +31608,7 @@ Behind her, the Colosseum glows with warm golden lights, while the sky fades int
 
 ---
 
-#### 817. Pink powder smoke athlete
+#### 818. Pink powder smoke athlete
 
 <a href="https://aiistudio.com/en/prompt/2008434033701879836?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008434033701879836/0.jpg" alt="Pink powder smoke athlete" width="560"></a>
 
@@ -31606,7 +31632,7 @@ A hyper-realistic studio photograph of a male athlete mid-air as if running or j
 
 ---
 
-#### 818. Ink noir graphic novel portrait
+#### 819. Ink noir graphic novel portrait
 
 <a href="https://aiistudio.com/en/prompt/2008431391235862892?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008431391235862892/0.jpg" alt="Ink noir graphic novel portrait" width="560"></a>
 
@@ -31632,7 +31658,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 ---
 
-#### 819. Chinese New Year 3x3 male grid
+#### 820. Chinese New Year 3x3 male grid
 
 <a href="https://aiistudio.com/en/prompt/2008421241091154115?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008421241091154115/0.jpg" alt="Chinese New Year 3x3 male grid" width="560"></a>
 
@@ -31730,7 +31756,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 ---
 
-#### 820. Car visor mirror selfie
+#### 821. Car visor mirror selfie
 
 <a href="https://aiistudio.com/en/prompt/2008420516919468535?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008420516919468535/0.jpg" alt="Car visor mirror selfie" width="560"></a>
 
@@ -31874,7 +31900,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 ---
 
-#### 821. Winter forest woman portrait
+#### 822. Winter forest woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2008379371405668478?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008379371405668478/0.jpg" alt="Winter forest woman portrait" width="560"></a>
 
@@ -31939,7 +31965,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 ---
 
-#### 822. Hand-to-hair feminine portrait
+#### 823. Hand-to-hair feminine portrait
 
 <a href="https://aiistudio.com/en/prompt/2008370131815342380?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008370131815342380/0.jpg" alt="Hand-to-hair feminine portrait" width="560"></a>
 
@@ -32070,7 +32096,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 ---
 
-#### 823. Pixar girl with fennec fox
+#### 824. Pixar girl with fennec fox
 
 <a href="https://aiistudio.com/en/prompt/2008359111650312559?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008359111650312559/0.jpg" alt="Pixar girl with fennec fox" width="560"></a>
 
@@ -32094,7 +32120,7 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 
 ---
 
-#### 824. Lifestyle portrait with animal
+#### 825. Lifestyle portrait with animal
 
 <a href="https://aiistudio.com/en/prompt/2008342320761254374?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008342320761254374/0.jpg" alt="Lifestyle portrait with animal" width="560"></a>
 
@@ -32112,7 +32138,7 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 
 ---
 
-#### 825. Calligraphy gown gallery portrait
+#### 826. Calligraphy gown gallery portrait
 
 <a href="https://aiistudio.com/en/prompt/2007808981847474311?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007808981847474311/0.jpg" alt="Calligraphy gown gallery portrait" width="560"></a>
 
@@ -32141,7 +32167,7 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 
 ---
 
-#### 826. Raven feather couture portrait
+#### 827. Raven feather couture portrait
 
 <a href="https://aiistudio.com/en/prompt/2007661583246471621?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007661583246471621/0.jpg" alt="Raven feather couture portrait" width="560"></a>
 
@@ -32185,7 +32211,7 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 
 ---
 
-#### 827. Pixar golden hour village
+#### 828. Pixar golden hour village
 
 <a href="https://aiistudio.com/en/prompt/2007634587166630152?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007634587166630152/0.jpg" alt="Pixar golden hour village" width="560"></a>
 
@@ -32209,7 +32235,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 828. Polaroid candid couple portrait
+#### 829. Polaroid candid couple portrait
 
 <a href="https://aiistudio.com/en/prompt/2006946255709340062?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2006946255709340062/0.jpg" alt="Polaroid candid couple portrait" width="560"></a>
 
@@ -32299,7 +32325,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 829. Outdoor vertical female portrait
+#### 830. Outdoor vertical female portrait
 
 <a href="https://aiistudio.com/en/prompt/2005459268720550271?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2005459268720550271/0.jpg" alt="Outdoor vertical female portrait" width="560"></a>
 
@@ -32434,7 +32460,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 830. Top-down aerial portrait
+#### 831. Top-down aerial portrait
 
 <a href="https://aiistudio.com/en/prompt/2004854685438804012?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2004854685438804012/0.jpg" alt="Top-down aerial portrait" width="560"></a>
 
@@ -32522,7 +32548,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 831. Freckled close-up portrait
+#### 832. Freckled close-up portrait
 
 <a href="https://aiistudio.com/en/prompt/2004456695301566748?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2004456695301566748/0.jpg" alt="Freckled close-up portrait" width="560"></a>
 
@@ -32631,7 +32657,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 832. Vertical fashion editorial
+#### 833. Vertical fashion editorial
 
 <a href="https://aiistudio.com/en/prompt/2003815849380262231?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2003815849380262231/0.jpg" alt="Vertical fashion editorial" width="560"></a>
 
@@ -32767,7 +32793,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 833. Documentary street portrait
+#### 834. Documentary street portrait
 
 <a href="https://aiistudio.com/en/prompt/2003500034239938642?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2003500034239938642/0.jpg" alt="Documentary street portrait" width="560"></a>
 
@@ -32860,7 +32886,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 834. Soft waves blonde portrait
+#### 835. Soft waves blonde portrait
 
 <a href="https://aiistudio.com/en/prompt/2003418636795674903?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2003418636795674903/0.jpg" alt="Soft waves blonde portrait" width="560"></a>
 
@@ -32989,7 +33015,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 835. Symmetrical studio male portrait
+#### 836. Symmetrical studio male portrait
 
 <a href="https://aiistudio.com/en/prompt/2002763964476965234?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2002763964476965234/0.jpg" alt="Symmetrical studio male portrait" width="560"></a>
 
@@ -33095,7 +33121,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 836. Rugged outdoor male portrait
+#### 837. Rugged outdoor male portrait
 
 <a href="https://aiistudio.com/en/prompt/2001888275724984383?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2001888275724984383/0.jpg" alt="Rugged outdoor male portrait" width="560"></a>
 
@@ -33161,7 +33187,7 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 ---
 
-#### 837. Moody double exposure poster
+#### 838. Moody double exposure poster
 
 <a href="https://aiistudio.com/en/prompt/2001877289303490702?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2001877289303490702/0.jpg" alt="Moody double exposure poster" width="560"></a>
 
@@ -33179,7 +33205,7 @@ moody cinematic portrait of a man in dark jacket, front facing but slightly turn
 
 ---
 
-#### 838. Layered gold jewelry portrait
+#### 839. Layered gold jewelry portrait
 
 <a href="https://aiistudio.com/en/prompt/2001501757478998348?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2001501757478998348/0.jpg" alt="Layered gold jewelry portrait" width="560"></a>
 
@@ -33217,7 +33243,7 @@ Photography style: Y2K glamour, retro nighttime look, luxurious, sensual, and im
 
 ---
 
-#### 839. Warm golden hour product portrait
+#### 840. Warm golden hour product portrait
 
 <a href="https://aiistudio.com/en/prompt/2001428766921208194?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2001428766921208194/0.jpg" alt="Warm golden hour product portrait" width="560"></a>
 
@@ -33251,9 +33277,27 @@ The scene is illuminated by intense, warm golden hour sunlight striking from the
 
 > Product shots, packaging, detail pages, and commerce visuals.
 
-**228 prompts** · [↑ back to top](#-table-of-contents)
+**229 prompts** · [↑ back to top](#-table-of-contents)
 
-#### 1. Break gravity product ad
+#### 1. Shampoo storyboard sheet
+
+<a href="https://aiistudio.com/en/prompt/2082074937519718858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2082074937519718858/0.jpg" alt="Shampoo storyboard sheet" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a professional Hollywood advertising storyboard sheet for a premium anti-dandruff shampoo commercial. The storyboard consists of 10 ultra-realistic cinematic frames arranged in a clean 2×5 grid on a white presentation board. Each frame has a thin black border, bold scene number (01–10), duration timestamp, and a short production caption underneath. Every panel is rendered in vibrant photorealistic color with premium advertising quality, like an international beauty campaign.Title: "FRESH SCALP TECHNOLOGY" Subtitle: "15 Second Shampoo Commercial" Scene 01 (0.0–1.5s) A premium shampoo bottle slowly emerges from crystal-clear ice with cool blue lighting. Fine water mist surrounds the bottle while frozen droplets sparkle in the air. Caption: Ice Reveal Scene 02 (1.5–3.0s) Extreme macro close-up of the shampoo bottle. Crystal-clear condensation droplets cover the surface while cool rim lighting highlights the premium packaging. Caption: Product DetailScene 03 (3.0–4.5s) Powerful streams of crystal water burst upward around the bottle. Fresh mint leaves, eucalyptus branches, aloe vera, and botanical extracts begin floating gracefully. Caption: Fresh Ingredients Scene 04 (4.5–6.0s) A dramatic explosion of water splashes, floating ice crystals, mint leaves, eucalyptus, microscopic cooling particles, and refreshing mist surrounds the bottle in ultra slow motion. Caption: Cooling Explosion Scene 05 (6.0–7.5s)The camera performs a smooth cinematic orbit around the bottle while thousands of sparkling water droplets rotate together with fresh botanical elements. Caption: Dynamic Orbit Scene 06 (7.5–9.0s) Extreme macro shot showing creamy shampoo pouring in slow motion with silky texture, tiny bubbles, and glowing freshness particles. Caption: Cream Formula Scene 07 (9.0–10.5s) Beautiful flowing black hair moves naturally through a powerful stream of crystal-clear water.The hair becomes silky, shiny, healthy, and free-flowing while cool mist fills the background. Caption: Healthy Hair Scene 08 (10.5–12.0s) Everything freezes mid-air. Water splashes, ice cubes, mint leaves, eucalyptus, freshness particles, and flowing hair create a perfectly balanced premium composition. Caption: Frozen Freshness Scene 09 (12.0–13.5s)Hero shot of the shampoo bottle standing proudly on reflective ice surrounded by suspended water splashes, fresh botanicals, and glowing blue light. Caption: Hero Product Scene 10 (13.5–15.0s) Minimal icy background. Brand logo and tagline fade in while cool mist slowly disappears. Tagline: "Feel the Ultimate Freshness." Caption: Brand Signature Visual Language:Inspired by world-class refreshing shampoo campaigns emphasizing crystal-clear water, cooling freshness, healthy hair, premium beauty photography, vibrant botanical ingredients, sparkling droplets, dynamic water physics, clean laboratory aesthetic, and modern beauty advertising. Color Palette: Crystal White Ice Blue Fresh Mint Green Silver Highlights Camera: ARRI Alexa 35 Cooke Anamorphic 50mm High-speed cinematography Macro lens Slow motion HDR Lighting: Bright beauty lighting Cool rim lightVolumetric mist Crystal reflections Style: Ultra photorealistic Hollywood commercial production Premium beauty campaign Luxury cosmetic advertising Advertising agency presentation board 8K Masterpiece
+```
+
+</details>
+
+👤 [@soaima70480](https://x.com/soaima70480) · [Source tweet](https://x.com/soaima70480/status/2082074937519718858) · Tags: `poster` `infographic`
+
+**[🚀 Try it now on aiiStudio →](https://aiistudio.com/en/prompt/2082074937519718858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link)**
+
+---
+
+#### 2. Break gravity product ad
 
 <a href="https://aiistudio.com/en/prompt/2075575662316749255?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075575662316749255/0.jpg" alt="Break gravity product ad" width="560"></a>
 
@@ -33348,7 +33392,7 @@ one polished 16:9 hero advertising image where the product stays perfectly still
 
 ---
 
-#### 2. Surreal product metaphor ad
+#### 3. Surreal product metaphor ad
 
 <a href="https://aiistudio.com/en/prompt/2075307262399176752?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075307262399176752/0.jpg" alt="Surreal product metaphor ad" width="560"></a>
 
@@ -33410,7 +33454,7 @@ Final output: ONE standalone advertising image, portrait 4:5.
 
 ---
 
-#### 3. Shadow sells product ad
+#### 4. Shadow sells product ad
 
 <a href="https://aiistudio.com/en/prompt/2075143065493229752?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2075143065493229752/0.jpg" alt="Shadow sells product ad" width="560"></a>
 
@@ -33465,7 +33509,7 @@ tiny people, miniature worlds, micro cities, fake floating text, unreadable logo
 
 ---
 
-#### 4. Benefit collision product ad
+#### 5. Benefit collision product ad
 
 <a href="https://aiistudio.com/en/prompt/2074781621945868711?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074781621945868711/0.jpg" alt="Benefit collision product ad" width="560"></a>
 
@@ -33516,7 +33560,7 @@ tiny people, miniature worlds, random effects, fake floating text, hidden logo, 
 
 ---
 
-#### 5. Ripple effect product ad
+#### 6. Ripple effect product ad
 
 <a href="https://aiistudio.com/en/prompt/2074781026392416410?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074781026392416410/0.jpg" alt="Ripple effect product ad" width="560"></a>
 
@@ -33568,7 +33612,7 @@ tiny people, miniature worlds, fake floating text, hidden logo, unreadable label
 
 ---
 
-#### 6. Chanel perfume floral poster
+#### 7. Chanel perfume floral poster
 
 <a href="https://aiistudio.com/en/prompt/2074468188394569875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074468188394569875/0.jpg" alt="Chanel perfume floral poster" width="560"></a>
 
@@ -33631,7 +33675,7 @@ cheap fantasy poster, dark gothic mood, cluttered flowers, childish fairy style,
 
 ---
 
-#### 7. Luxury beverage ad campaign
+#### 8. Luxury beverage ad campaign
 
 <a href="https://aiistudio.com/en/prompt/2074109215652659439?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2074109215652659439/0.jpg" alt="Luxury beverage ad campaign" width="560"></a>
 
@@ -33683,7 +33727,7 @@ low quality, blurry, plastic skin, deformed hands, extra fingers, duplicate ingr
 
 ---
 
-#### 8. Beauty product campaign kiss pose
+#### 9. Beauty product campaign kiss pose
 
 <a href="https://aiistudio.com/en/prompt/2073943229033255219?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073943229033255219/0.jpg" alt="Beauty product campaign kiss pose" width="560"></a>
 
@@ -33709,7 +33753,7 @@ Close-up beauty product photo of a young woman with natural glowing skin, glossy
 
 ---
 
-#### 9. Luxury beverage splash ad
+#### 10. Luxury beverage splash ad
 
 <a href="https://aiistudio.com/en/prompt/2073820827641131013?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073820827641131013/0.jpg" alt="Luxury beverage splash ad" width="560"></a>
 
@@ -33763,7 +33807,7 @@ low quality, blurry, plastic skin, deformed hands, extra fingers, duplicate ingr
 
 ---
 
-#### 10. Sony Alpha 7CR sketchbook study
+#### 11. Sony Alpha 7CR sketchbook study
 
 <a href="https://aiistudio.com/en/prompt/2073791442628247794?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073791442628247794/0.jpg" alt="Sony Alpha 7CR sketchbook study" width="560"></a>
 
@@ -33815,7 +33859,7 @@ Negative prompt: generic DSLR, cartoon camera, futuristic sci-fi body, low-detai
 
 ---
 
-#### 11. Purple beauty product ad
+#### 12. Purple beauty product ad
 
 <a href="https://aiistudio.com/en/prompt/2073787523890045341?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073787523890045341/0.jpg" alt="Purple beauty product ad" width="560"></a>
 
@@ -33995,7 +34039,7 @@ Ultra 8k image.
 
 ---
 
-#### 12. FMCG hero product ad
+#### 13. FMCG hero product ad
 
 <a href="https://aiistudio.com/en/prompt/2073777114537660590?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073777114537660590/0.jpg" alt="FMCG hero product ad" width="560"></a>
 
@@ -34289,7 +34333,7 @@ Apple-inspired layout
 
 ---
 
-#### 13. KitKat wrapper miniature ad
+#### 14. KitKat wrapper miniature ad
 
 <a href="https://aiistudio.com/en/prompt/2073686636475654519?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073686636475654519/0.jpg" alt="KitKat wrapper miniature ad" width="560"></a>
 
@@ -34307,7 +34351,7 @@ hyper-realistic forced-perspective miniature photography scene featuring the upl
 
 ---
 
-#### 14. Blueberry lemonade ad poster
+#### 15. Blueberry lemonade ad poster
 
 <a href="https://aiistudio.com/en/prompt/2073638890842517632?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073638890842517632/0.jpg" alt="Blueberry lemonade ad poster" width="560"></a>
 
@@ -34336,7 +34380,7 @@ Use a minimal luxury branding style with excellent typography hierarchy and gene
 
 ---
 
-#### 15. Papercraft travel bookmark
+#### 16. Papercraft travel bookmark
 
 <a href="https://aiistudio.com/en/prompt/2073589668839633280?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073589668839633280/0.jpg" alt="Papercraft travel bookmark" width="560"></a>
 
@@ -34394,7 +34438,7 @@ Avoid mobile app UI elements, device frames, navigation icons, hearts, menus, or
 
 ---
 
-#### 16. Aura field product ad
+#### 17. Aura field product ad
 
 <a href="https://aiistudio.com/en/prompt/2072606903683670040?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2072606903683670040/0.jpg" alt="Aura field product ad" width="560"></a>
 
@@ -34449,7 +34493,7 @@ Aspect ratio: [RATIO]
 
 ---
 
-#### 17. Floating green luxury handbag ad poster
+#### 18. Floating green luxury handbag ad poster
 
 <a href="https://aiistudio.com/en/prompt/2055877438396071947?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055877438396071947/0.jpg" alt="Floating green luxury handbag ad poster" width="560"></a>
 
@@ -34469,7 +34513,7 @@ Showcase your perfect cinematic and graphics designing skills
 
 ---
 
-#### 18. Kawaii dessert cafe doodle overlay
+#### 19. Kawaii dessert cafe doodle overlay
 
 <a href="https://aiistudio.com/en/prompt/2055136953348046922?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2055136953348046922/0.jpg" alt="Kawaii dessert cafe doodle overlay" width="560"></a>
 
@@ -34496,7 +34540,7 @@ Add adorable white doodle-style cartoon overlays directly on the desserts: kawai
 
 ---
 
-#### 19. Nike Air Force 1 streetwear campaign poster
+#### 20. Nike Air Force 1 streetwear campaign poster
 
 <a href="https://aiistudio.com/en/prompt/2053910108057559290?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053910108057559290/0.jpg" alt="Nike Air Force 1 streetwear campaign poster" width="560"></a>
 
@@ -34718,7 +34762,7 @@ Everything must feel balanced despite chaos.
 
 ---
 
-#### 20. Gucci oversized handbag minimalist ad
+#### 21. Gucci oversized handbag minimalist ad
 
 <a href="https://aiistudio.com/en/prompt/2053803928773640201?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053803928773640201/0.jpg" alt="Gucci oversized handbag minimalist ad" width="560"></a>
 
@@ -34736,7 +34780,7 @@ Minimalist commercial ad featuring oversized white GUCCI handbag, ultra-clean de
 
 ---
 
-#### 21. Hot pink Berry Loud cafe food ad
+#### 22. Hot pink Berry Loud cafe food ad
 
 <a href="https://aiistudio.com/en/prompt/2053312926141005835?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053312926141005835/0.jpg" alt="Hot pink Berry Loud cafe food ad" width="560"></a>
 
@@ -34760,7 +34804,7 @@ Vibrant lifestyle food advertisement, smiling woman in a bright hot pink blazer 
 
 ---
 
-#### 22. Vibrant beauty product ad with curly-haired model
+#### 23. Vibrant beauty product ad with curly-haired model
 
 <a href="https://aiistudio.com/en/prompt/2052319535026581611?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2052319535026581611/0.jpg" alt="Vibrant beauty product ad with curly-haired model" width="560"></a>
 
@@ -34785,7 +34829,7 @@ A vibrant, high-energy beauty product advertisement on a bold gradient backgroun
 
 ---
 
-#### 23. Photorealistic French ID card mockup
+#### 24. Photorealistic French ID card mockup
 
 <a href="https://aiistudio.com/en/prompt/2051146058147963020?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2051146058147963020/0.jpg" alt="Photorealistic French ID card mockup" width="560"></a>
 
@@ -34840,7 +34884,7 @@ Style: ultra-detailed, photorealistic, 8K resolution, macro clarity, professiona
 
 ---
 
-#### 24. Exploding food product ad
+#### 25. Exploding food product ad
 
 <a href="https://aiistudio.com/en/prompt/2049806236556964092?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049806236556964092/0.jpg" alt="Exploding food product ad" width="560"></a>
 
@@ -34866,7 +34910,7 @@ Exploding [food item] with [filling], broken into two pieces with [filling actio
 
 ---
 
-#### 25. Wooden bookshelf with 1-3-7 books
+#### 26. Wooden bookshelf with 1-3-7 books
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-5?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/5.jpg" alt="Wooden bookshelf with 1-3-7 books" width="560"></a>
 
@@ -34884,7 +34928,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 ---
 
-#### 26. Logo
+#### 27. Logo
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-117?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/117.jpg" alt="Logo" width="560"></a>
 
@@ -34902,7 +34946,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 ---
 
-#### 27. Vibrant pixel
+#### 28. Vibrant pixel
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-103?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/103.jpg" alt="Vibrant pixel" width="560"></a>
 
@@ -34920,7 +34964,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 ---
 
-#### 28. Infographic commerce infographic
+#### 29. Infographic commerce infographic
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-45?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/45.jpg" alt="Infographic commerce infographic" width="560"></a>
 
@@ -34938,7 +34982,7 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 
 ---
 
-#### 29. Studio lighting icon
+#### 30. Studio lighting icon
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-44?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/44.jpg" alt="Studio lighting icon" width="560"></a>
 
@@ -35047,7 +35091,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 ---
 
-#### 30. Minimalist portrait
+#### 31. Minimalist portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-171?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/171.jpg" alt="Minimalist portrait" width="560"></a>
 
@@ -35092,7 +35136,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 ---
 
-#### 31. Minimalist cat
+#### 32. Minimalist cat
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-170?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/170.jpg" alt="Minimalist cat" width="560"></a>
 
@@ -35129,7 +35173,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 ---
 
-#### 32. PRS guitar lineup vintage
+#### 33. PRS guitar lineup vintage
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-128?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/128.jpg" alt="PRS guitar lineup vintage" width="560"></a>
 
@@ -35147,7 +35191,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 ---
 
-#### 33. Ethnographic Tibetan hat plate
+#### 34. Ethnographic Tibetan hat plate
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-127?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/127.jpg" alt="Ethnographic Tibetan hat plate" width="560"></a>
 
@@ -35165,7 +35209,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 ---
 
-#### 34. Biomimetic aerospace concept
+#### 35. Biomimetic aerospace concept
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-119?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/119.jpg" alt="Biomimetic aerospace concept" width="560"></a>
 
@@ -35183,7 +35227,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 ---
 
-#### 35. Poster
+#### 36. Poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-76?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/76.jpg" alt="Poster" width="560"></a>
 
@@ -35202,7 +35246,7 @@ Create a premium food preparation poster for
 
 ---
 
-#### 36. Poster
+#### 37. Poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-68?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/68.jpg" alt="Poster" width="560"></a>
 
@@ -35220,7 +35264,7 @@ generate an image of a racing car poster with its spec and pricing
 
 ---
 
-#### 37. Studio lighting cat
+#### 38. Studio lighting cat
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-59?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/59.jpg" alt="Studio lighting cat" width="560"></a>
 
@@ -35252,7 +35296,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 ---
 
-#### 38. Professional designer
+#### 39. Professional designer
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-41?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/41.jpg" alt="Professional designer" width="560"></a>
 
@@ -35270,7 +35314,7 @@ Redesign this product ad from a professional designer's perspective. Use a refin
 
 ---
 
-#### 39. Strawberry soft-serve product
+#### 40. Strawberry soft-serve product
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-23?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/23.jpg" alt="Strawberry soft-serve product" width="560"></a>
 
@@ -35298,7 +35342,7 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 ---
 
-#### 40. Green tea film kit packaging
+#### 41. Green tea film kit packaging
 
 <a href="https://aiistudio.com/en/prompt/awesome-portrait-22?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/portrait/22.jpg" alt="Green tea film kit packaging" width="560"></a>
 
@@ -35316,7 +35360,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 ---
 
-#### 41. Exploded VR headset diagram
+#### 42. Exploded VR headset diagram
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-109?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/109.jpg" alt="Exploded VR headset diagram" width="560"></a>
 
@@ -35368,7 +35412,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 ---
 
-#### 42. Four Loko parody ecommerce ad
+#### 43. Four Loko parody ecommerce ad
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-131?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/131.jpg" alt="Four Loko parody ecommerce ad" width="560"></a>
 
@@ -35386,7 +35430,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 ---
 
-#### 43. E-commerce TVC storyboard board
+#### 44. E-commerce TVC storyboard board
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-160?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/160.jpg" alt="E-commerce TVC storyboard board" width="560"></a>
 
@@ -35404,7 +35448,7 @@ Using the provided reference image, transform the single casual product photo in
 
 ---
 
-#### 44. Crocs pastel blue ad poster
+#### 45. Crocs pastel blue ad poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-159?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/159.jpg" alt="Crocs pastel blue ad poster" width="560"></a>
 
@@ -35422,7 +35466,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 ---
 
-#### 45. Fried chicken bucket podium ad
+#### 46. Fried chicken bucket podium ad
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-158?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/158.jpg" alt="Fried chicken bucket podium ad" width="560"></a>
 
@@ -35450,7 +35494,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 ---
 
-#### 46. Lipstick product reference
+#### 47. Lipstick product reference
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-157?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/157.jpg" alt="Lipstick product reference" width="560"></a>
 
@@ -35468,7 +35512,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 ---
 
-#### 47. Eco crew T-shirt editorial
+#### 48. Eco crew T-shirt editorial
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-156?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/156.jpg" alt="Eco crew T-shirt editorial" width="560"></a>
 
@@ -35486,7 +35530,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 ---
 
-#### 48. Apple Pods Pro 3 close-up ad
+#### 49. Apple Pods Pro 3 close-up ad
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-155?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/155.jpg" alt="Apple Pods Pro 3 close-up ad" width="560"></a>
 
@@ -35525,7 +35569,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 ---
 
-#### 49. Wang Ximeng landscape scarf
+#### 50. Wang Ximeng landscape scarf
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-152?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/152.jpg" alt="Wang Ximeng landscape scarf" width="560"></a>
 
@@ -35545,7 +35589,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 ---
 
-#### 50. Miniature diorama skincare ad
+#### 51. Miniature diorama skincare ad
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-151?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/151.jpg" alt="Miniature diorama skincare ad" width="560"></a>
 
@@ -35563,7 +35607,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 ---
 
-#### 51. Luxury perfume on marble
+#### 52. Luxury perfume on marble
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-118?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/118.jpg" alt="Luxury perfume on marble" width="560"></a>
 
@@ -35581,7 +35625,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 ---
 
-#### 52. Black backless loafers try-on
+#### 53. Black backless loafers try-on
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-117?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/117.jpg" alt="Black backless loafers try-on" width="560"></a>
 
@@ -35599,7 +35643,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 ---
 
-#### 53. Locked reference product layout
+#### 54. Locked reference product layout
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-116?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/116.jpg" alt="Locked reference product layout" width="560"></a>
 
@@ -35629,7 +35673,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 ---
 
-#### 54. Tropical citrus soda poster
+#### 55. Tropical citrus soda poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-115?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/115.jpg" alt="Tropical citrus soda poster" width="560"></a>
 
@@ -35647,7 +35691,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 ---
 
-#### 55. Pastel pump bottle on podium
+#### 56. Pastel pump bottle on podium
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-114?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/114.jpg" alt="Pastel pump bottle on podium" width="560"></a>
 
@@ -35665,7 +35709,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 ---
 
-#### 56. Luxury rectangular perfume
+#### 57. Luxury rectangular perfume
 
 <a href="https://aiistudio.com/en/prompt/awesome-ecommerce-113?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ecommerce/113.jpg" alt="Luxury rectangular perfume" width="560"></a>
 
@@ -35683,7 +35727,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 ---
 
-#### 57. Mid-jump streetwear sneaker poster
+#### 58. Mid-jump streetwear sneaker poster
 
 <a href="https://aiistudio.com/en/prompt/2049022501850915160?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049022501850915160/0.jpg" alt="Mid-jump streetwear sneaker poster" width="560"></a>
 
@@ -35714,7 +35758,7 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 ---
 
-#### 58. Sliced ingredient diorama 2x2 grid
+#### 59. Sliced ingredient diorama 2x2 grid
 
 <a href="https://aiistudio.com/en/prompt/2048964671852405035?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048964671852405035/0.jpg" alt="Sliced ingredient diorama 2x2 grid" width="560"></a>
 
@@ -35732,7 +35776,7 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 ---
 
-#### 59. Cinematic luxury perfume shot
+#### 60. Cinematic luxury perfume shot
 
 <a href="https://aiistudio.com/en/prompt/2048956977250726018?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048956977250726018/0.jpg" alt="Cinematic luxury perfume shot" width="560"></a>
 
@@ -35779,7 +35823,7 @@ Cheat Sheet
 
 ---
 
-#### 60. Adidas Aeroblade X drop poster
+#### 61. Adidas Aeroblade X drop poster
 
 <a href="https://aiistudio.com/en/prompt/2048773623297527836?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048773623297527836/0.jpg" alt="Adidas Aeroblade X drop poster" width="560"></a>
 
@@ -35833,7 +35877,7 @@ Make the aspect ratio 9:16
 
 ---
 
-#### 61. Controlled-unsealing object poster
+#### 62. Controlled-unsealing object poster
 
 <a href="https://aiistudio.com/en/prompt/2048765001817805295?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048765001817805295/0.jpg" alt="Controlled-unsealing object poster" width="560"></a>
 
@@ -36014,7 +36058,7 @@ Power under control.
 
 ---
 
-#### 62. Premium automotive hero poster
+#### 63. Premium automotive hero poster
 
 <a href="https://aiistudio.com/en/prompt/2048752153343545390?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048752153343545390/0.jpg" alt="Premium automotive hero poster" width="560"></a>
 
@@ -36045,7 +36089,7 @@ Clean composition, high-end automotive advertisement style, collector poster aes
 
 ---
 
-#### 63. Cozy flat-lay doodle annotations
+#### 64. Cozy flat-lay doodle annotations
 
 <a href="https://aiistudio.com/en/prompt/2048725842096976020?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048725842096976020/0.jpg" alt="Cozy flat-lay doodle annotations" width="560"></a>
 
@@ -36069,7 +36113,7 @@ Top-down flat lay on a rustic wooden table, cozy aesthetic, soft natural light. 
 
 ---
 
-#### 64. Bird-nest sculptural lounge chair
+#### 65. Bird-nest sculptural lounge chair
 
 <a href="https://aiistudio.com/en/prompt/2048667175112802778?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048667175112802778/0.jpg" alt="Bird-nest sculptural lounge chair" width="560"></a>
 
@@ -36089,7 +36133,7 @@ AR – 4:3
 
 ---
 
-#### 65. Face wash watercolor poster
+#### 66. Face wash watercolor poster
 
 <a href="https://aiistudio.com/en/prompt/2048662802475409637?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048662802475409637/0.jpg" alt="Face wash watercolor poster" width="560"></a>
 
@@ -36117,7 +36161,7 @@ Small illustrative bubbles, stars, and botanical accents float around the compos
 
 ---
 
-#### 66. Gourmet bar food poster
+#### 67. Gourmet bar food poster
 
 <a href="https://aiistudio.com/en/prompt/2048659308645106081?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048659308645106081/0.jpg" alt="Gourmet bar food poster" width="560"></a>
 
@@ -36339,7 +36383,7 @@ POSTPRODUCCIÓN:
 
 ---
 
-#### 67. Oversized Apple smartwatch ad
+#### 68. Oversized Apple smartwatch ad
 
 <a href="https://aiistudio.com/en/prompt/2048643867222962518?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048643867222962518/0.jpg" alt="Oversized Apple smartwatch ad" width="560"></a>
 
@@ -36357,7 +36401,7 @@ Minimalist commercial ad featuring oversized white smartwatch, ultra-clean desig
 
 ---
 
-#### 68. Bolt earbuds 9:16 product ad
+#### 69. Bolt earbuds 9:16 product ad
 
 <a href="https://aiistudio.com/en/prompt/2048641686994407474?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048641686994407474/0.jpg" alt="Bolt earbuds 9:16 product ad" width="560"></a>
 
@@ -36433,7 +36477,7 @@ Balanced composition with strong negative space
 
 ---
 
-#### 69. Instax Mini 11 ecommerce ad
+#### 70. Instax Mini 11 ecommerce ad
 
 <a href="https://aiistudio.com/en/prompt/2048636069349138568?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048636069349138568/0.jpg" alt="Instax Mini 11 ecommerce ad" width="560"></a>
 
@@ -36451,7 +36495,7 @@ High-impact e-commerce infographic advertisement for "Fujifilm Instax Mini 11" b
 
 ---
 
-#### 70. Restaurant brand mockup matrix
+#### 71. Restaurant brand mockup matrix
 
 <a href="https://aiistudio.com/en/prompt/2048360321379701233?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048360321379701233/0.jpg" alt="Restaurant brand mockup matrix" width="560"></a>
 
@@ -36535,7 +36579,7 @@ Make the aspect ratio 9:16
 
 ---
 
-#### 71. Hidden-gem food 2x2 diorama grid
+#### 72. Hidden-gem food 2x2 diorama grid
 
 <a href="https://aiistudio.com/en/prompt/2048091166047158761?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048091166047158761/0.jpg" alt="Hidden-gem food 2x2 diorama grid" width="560"></a>
 
@@ -36553,7 +36597,7 @@ Make the aspect ratio 9:16
 
 ---
 
-#### 72. Meal prep wellness poster
+#### 73. Meal prep wellness poster
 
 <a href="https://aiistudio.com/en/prompt/2048076798798217594?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048076798798217594/0.jpg" alt="Meal prep wellness poster" width="560"></a>
 
@@ -36581,7 +36625,7 @@ Design a minimalist healthy meal prep poster for [MEAL PLAN], with clean contain
 
 ---
 
-#### 73. BMW M4 G82 blue poster
+#### 74. BMW M4 G82 blue poster
 
 <a href="https://aiistudio.com/en/prompt/2048063332624843046?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048063332624843046/0.jpg" alt="BMW M4 G82 blue poster" width="560"></a>
 
@@ -36661,7 +36705,7 @@ Add Bottom-right watermark: harboriis , with small x and Instagram logo
 
 ---
 
-#### 74. Selvedge denim editorial ad
+#### 75. Selvedge denim editorial ad
 
 <a href="https://aiistudio.com/en/prompt/2048024788078350620?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048024788078350620/0.jpg" alt="Selvedge denim editorial ad" width="560"></a>
 
@@ -36679,7 +36723,7 @@ A hyperrealistic premium denim advertisement shot in a dark, moody editorial sty
 
 ---
 
-#### 75. Nike sneaker dark editorial ad
+#### 76. Nike sneaker dark editorial ad
 
 <a href="https://aiistudio.com/en/prompt/2048018776785064328?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048018776785064328/0.jpg" alt="Nike sneaker dark editorial ad" width="560"></a>
 
@@ -36700,7 +36744,7 @@ Small yellow plus (+) symbols and diagonal arrows (↗) are scattered throughout
 
 ---
 
-#### 76. Editorial style woman portrait
+#### 77. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2047989228274118901?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047989228274118901/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -36718,7 +36762,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 ---
 
-#### 77. Editorial style king v3
+#### 78. Editorial style king v3
 
 <a href="https://aiistudio.com/en/prompt/2047986905896427670?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047986905896427670/0.jpg" alt="Editorial style king v3" width="560"></a>
 
@@ -36887,7 +36931,7 @@ Driver focus.
 
 ---
 
-#### 78. Editorial style woman portrait
+#### 79. Editorial style woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2047935217231663186?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2047935217231663186/0.jpg" alt="Editorial style woman portrait" width="560"></a>
 
@@ -36996,7 +37040,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 ---
 
-#### 79. Editorial style space scene
+#### 80. Editorial style space scene
 
 <a href="https://aiistudio.com/en/prompt/2047729312384901449?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047729312384901449/0.jpg" alt="Editorial style space scene" width="560"></a>
 
@@ -37024,7 +37068,7 @@ Style: ultra-clean, Apple-style minimalism meets fashion campaign, hyper-realist
 
 ---
 
-#### 80. Cinematic lighting ocean scene
+#### 81. Cinematic lighting ocean scene
 
 <a href="https://aiistudio.com/en/prompt/2047711520059252891?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047711520059252891/0.jpg" alt="Cinematic lighting ocean scene" width="560"></a>
 
@@ -37174,7 +37218,7 @@ premium commercial finish
 
 ---
 
-#### 81. Editorial style creative scene
+#### 82. Editorial style creative scene
 
 <a href="https://aiistudio.com/en/prompt/2047704906904330554?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047704906904330554/0.jpg" alt="Editorial style creative scene" width="560"></a>
 
@@ -37192,7 +37236,7 @@ Minimalist luxury watch campaign, oversized wristwatch positioned like modern sc
 
 ---
 
-#### 82. Editorial style magazine cover
+#### 83. Editorial style magazine cover
 
 <a href="https://aiistudio.com/en/prompt/2047700936605479334?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047700936605479334/0.jpg" alt="Editorial style magazine cover" width="560"></a>
 
@@ -37210,7 +37254,7 @@ Avant-garde fashion advertisement, oversized futuristic sunglasses positioned li
 
 ---
 
-#### 83. Editorial style king v2
+#### 84. Editorial style king v2
 
 <a href="https://aiistudio.com/en/prompt/2047654588657156577?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047654588657156577/0.jpg" alt="Editorial style king v2" width="560"></a>
 
@@ -37313,7 +37357,7 @@ documentary realism with fashion editorial polish.
 
 ---
 
-#### 84. Editorial style creative scene
+#### 85. Editorial style creative scene
 
 <a href="https://aiistudio.com/en/prompt/2047419255931748377?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047419255931748377/0.jpg" alt="Editorial style creative scene" width="560"></a>
 
@@ -37372,7 +37416,7 @@ Hyperreal, cinematic, polished, and aspirational
 
 ---
 
-#### 85. Photorealistic creative scene
+#### 86. Photorealistic creative scene
 
 <a href="https://aiistudio.com/en/prompt/2047273916406677721?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047273916406677721/0.jpg" alt="Photorealistic creative scene" width="560"></a>
 
@@ -37397,7 +37441,7 @@ Keep the layout simple, balanced, and premium with strong brand consistency.
 
 ---
 
-#### 86. Poster king
+#### 87. Poster king
 
 <a href="https://aiistudio.com/en/prompt/2047253028462317674?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047253028462317674/0.jpg" alt="Poster king" width="560"></a>
 
@@ -37443,7 +37487,7 @@ Please create a high-aesthetic, high-completion 'brand packaging system showcase
 
 ---
 
-#### 87. Cinematic lighting man portrait
+#### 88. Cinematic lighting man portrait
 
 <a href="https://aiistudio.com/en/prompt/2047226077760901445?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047226077760901445/0.jpg" alt="Cinematic lighting man portrait" width="560"></a>
 
@@ -37481,7 +37525,7 @@ Include:
 
 ---
 
-#### 88. Dragon artwork v2
+#### 89. Dragon artwork v2
 
 <a href="https://aiistudio.com/en/prompt/2047215501798244570?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047215501798244570/0.jpg" alt="Dragon artwork v2" width="560"></a>
 
@@ -37505,7 +37549,7 @@ Empress lingerie ad in the style of Wu Zetian — bright yellow base color with 
 
 ---
 
-#### 89. Photorealistic king
+#### 90. Photorealistic king
 
 <a href="https://aiistudio.com/en/prompt/2047170094716051776?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047170094716051776/0.jpg" alt="Photorealistic king" width="560"></a>
 
@@ -37631,7 +37675,7 @@ ultra-detailed modern finish
 
 ---
 
-#### 90. Poster food shot
+#### 91. Poster food shot
 
 <a href="https://aiistudio.com/en/prompt/2046995536528445697?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046995536528445697/0.jpg" alt="Poster food shot" width="560"></a>
 
@@ -37655,7 +37699,7 @@ Create a [food name] food preparation poster
 
 ---
 
-#### 91. Creative scene artwork
+#### 92. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2046844986533056947?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046844986533056947/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -37680,7 +37724,7 @@ Zhao Feiyan-style 'Palm-Dance Solid Perfume' ad — gold-inlaid lotus-vine bronz
 
 ---
 
-#### 92. Dragon artwork
+#### 93. Dragon artwork
 
 <a href="https://aiistudio.com/en/prompt/2046766344163737788?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046766344163737788/0.jpg" alt="Dragon artwork" width="560"></a>
 
@@ -37698,7 +37742,7 @@ Empress perfume ad in the style of Wu Zetian — gold bottle with dragon pattern
 
 ---
 
-#### 93. Packaging design creative scene
+#### 94. Packaging design creative scene
 
 <a href="https://aiistudio.com/en/prompt/2046603938485637446?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046603938485637446/0.jpg" alt="Packaging design creative scene" width="560"></a>
 
@@ -37716,7 +37760,7 @@ Generate a complete high-end brand-marketing image. The product is a co-branded 
 
 ---
 
-#### 94. Creative scene artwork
+#### 95. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2046498264774791514?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046498264774791514/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -37734,7 +37778,7 @@ Redesign this product ad from a professional designer's perspective. Use a refin
 
 ---
 
-#### 95. Car shot artwork
+#### 96. Car shot artwork
 
 <a href="https://aiistudio.com/en/prompt/2045852114673635507?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045852114673635507/0.jpg" alt="Car shot artwork" width="560"></a>
 
@@ -37752,7 +37796,7 @@ Image generation: product advertising photo, seasonal product perfect for summer
 
 ---
 
-#### 96. Cinematic lighting forest scene
+#### 97. Cinematic lighting forest scene
 
 <a href="https://aiistudio.com/en/prompt/2045830975318610408?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045830975318610408/0.jpg" alt="Cinematic lighting forest scene" width="560"></a>
 
@@ -37795,7 +37839,7 @@ format: 1:1 square, ultra high resolution, print-ready billboard finish
 
 ---
 
-#### 97. Editorial style king
+#### 98. Editorial style king
 
 <a href="https://aiistudio.com/en/prompt/2044829425464656123?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044829425464656123/0.jpg" alt="Editorial style king" width="560"></a>
 
@@ -37847,7 +37891,7 @@ Render: Octane Render or Redshift with fiber/textile displacement geometry. Thre
 
 ---
 
-#### 98. 3d render king
+#### 99. 3d render king
 
 <a href="https://aiistudio.com/en/prompt/2043013709615022434?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043013709615022434/0.jpg" alt="3d render king" width="560"></a>
 
@@ -37896,7 +37940,7 @@ Output:
 
 ---
 
-#### 99. Photorealistic cityscape
+#### 100. Photorealistic cityscape
 
 <a href="https://aiistudio.com/en/prompt/2042058511937679439?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042058511937679439/0.jpg" alt="Photorealistic cityscape" width="560"></a>
 
@@ -37922,7 +37966,7 @@ A hyper-realistic macro shot of a paintbrush creating a thick textured paint str
 
 ---
 
-#### 100. Photorealistic woman portrait
+#### 101. Photorealistic woman portrait
 
 <a href="https://aiistudio.com/en/prompt/2041761330806595879?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041761330806595879/0.jpg" alt="Photorealistic woman portrait" width="560"></a>
 
@@ -37947,7 +37991,7 @@ Ultra-realistic beauty advertisement, close-up of a young woman with long wavy b
 
 ---
 
-#### 101. Photorealistic robot
+#### 102. Photorealistic robot
 
 <a href="https://aiistudio.com/en/prompt/2041516871133122581?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041516871133122581/0.jpg" alt="Photorealistic robot" width="560"></a>
 
@@ -37965,7 +38009,7 @@ Ultra-realistic beauty advertisement, close-up of a young woman with long wavy b
 
 ---
 
-#### 102. Hyper-real automotive poster
+#### 103. Hyper-real automotive poster
 
 <a href="https://aiistudio.com/en/prompt/2041366564516368436?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041366564516368436/0.jpg" alt="Hyper-real automotive poster" width="560"></a>
 
@@ -37985,7 +38029,7 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 ---
 
-#### 103. Reverse disintegration product
+#### 104. Reverse disintegration product
 
 <a href="https://aiistudio.com/en/prompt/2041263140340486503?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041263140340486503/0.jpg" alt="Reverse disintegration product" width="560"></a>
 
@@ -38011,7 +38055,7 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 ---
 
-#### 104. Starbucks frappuccino fisheye
+#### 105. Starbucks frappuccino fisheye
 
 <a href="https://aiistudio.com/en/prompt/2041163046874382357?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041163046874382357/0.jpg" alt="Starbucks frappuccino fisheye" width="560"></a>
 
@@ -38048,7 +38092,7 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 ---
 
-#### 105. 3x3 product campaign grid
+#### 106. 3x3 product campaign grid
 
 <a href="https://aiistudio.com/en/prompt/2041150657659384180?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041150657659384180/0.jpg" alt="3x3 product campaign grid" width="560"></a>
 
@@ -38107,7 +38151,7 @@ Hyperreal, cinematic, polished, and aspirational
 
 ---
 
-#### 106. Minute Maid coastal campaign
+#### 107. Minute Maid coastal campaign
 
 <a href="https://aiistudio.com/en/prompt/2040646451425063037?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040646451425063037/0.jpg" alt="Minute Maid coastal campaign" width="560"></a>
 
@@ -38131,7 +38175,7 @@ Lighting: soft cool overhead diffused studio light, clean marble reflection, zer
 
 ---
 
-#### 107. Brand resin magnet flatlay
+#### 108. Brand resin magnet flatlay
 
 <a href="https://aiistudio.com/en/prompt/2040498492347420883?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040498492347420883/0.jpg" alt="Brand resin magnet flatlay" width="560"></a>
 
@@ -38149,7 +38193,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 108. Country magnet 9-piece flatlay
+#### 109. Country magnet 9-piece flatlay
 
 <a href="https://aiistudio.com/en/prompt/2040134478203416799?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040134478203416799/0.jpg" alt="Country magnet 9-piece flatlay" width="560"></a>
 
@@ -38167,7 +38211,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 109. Country resin magnet flatlay
+#### 110. Country resin magnet flatlay
 
 <a href="https://aiistudio.com/en/prompt/2040075769448214791?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040075769448214791/0.jpg" alt="Country resin magnet flatlay" width="560"></a>
 
@@ -38185,7 +38229,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 110. Split blueprint car render
+#### 111. Split blueprint car render
 
 <a href="https://aiistudio.com/en/prompt/2039777786639126806?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039777786639126806/0.jpg" alt="Split blueprint car render" width="560"></a>
 
@@ -38374,7 +38418,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 111. Frosted glass packaging render
+#### 112. Frosted glass packaging render
 
 <a href="https://aiistudio.com/en/prompt/2039704935194107907?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039704935194107907/0.jpg" alt="Frosted glass packaging render" width="560"></a>
 
@@ -38392,7 +38436,7 @@ A hyper-detailed 3D frosted translucent glass version of the attached product pa
 
 ---
 
-#### 112. Honey jar wheat meadow
+#### 113. Honey jar wheat meadow
 
 <a href="https://aiistudio.com/en/prompt/2039694451552272532?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039694451552272532/0.jpg" alt="Honey jar wheat meadow" width="560"></a>
 
@@ -38416,7 +38460,7 @@ Ultra-realistic cinematic product shot of a premium honey jar placed inside a sh
 
 ---
 
-#### 113. Industrial packaging design sheet
+#### 114. Industrial packaging design sheet
 
 <a href="https://aiistudio.com/en/prompt/2039679180775063573?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039679180775063573/0.jpg" alt="Industrial packaging design sheet" width="560"></a>
 
@@ -38434,7 +38478,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ---
 
-#### 114. Forest moss perfume macro
+#### 115. Forest moss perfume macro
 
 <a href="https://aiistudio.com/en/prompt/2039312763491917901?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039312763491917901/0.jpg" alt="Forest moss perfume macro" width="560"></a>
 
@@ -38458,7 +38502,7 @@ Ultra-realistic premium fragrance product shot of a perfume bottle (Forest Essen
 
 ---
 
-#### 115. Tiny product fingertip ad
+#### 116. Tiny product fingertip ad
 
 <a href="https://aiistudio.com/en/prompt/2038616252785303612?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038616252785303612/0.jpg" alt="Tiny product fingertip ad" width="560"></a>
 
@@ -38476,7 +38520,7 @@ A high-resolution advertising photograph of a realistic, miniature product in th
 
 ---
 
-#### 116. Chilled Pepsi can ad
+#### 117. Chilled Pepsi can ad
 
 <a href="https://aiistudio.com/en/prompt/2038543008556015633?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038543008556015633/0.jpg" alt="Chilled Pepsi can ad" width="560"></a>
 
@@ -38494,7 +38538,7 @@ High-quality professional product photography of a chilled Pepsi can with conden
 
 ---
 
-#### 117. Children's book seed scene
+#### 118. Children's book seed scene
 
 <a href="https://aiistudio.com/en/prompt/2038525426084323378?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038525426084323378/0.jpg" alt="Children's book seed scene" width="560"></a>
 
@@ -38537,7 +38581,7 @@ High-quality professional product photography of a chilled Pepsi can with conden
 
 ---
 
-#### 118. Top-down chili tomato chutney
+#### 119. Top-down chili tomato chutney
 
 <a href="https://aiistudio.com/en/prompt/2038456800190808446?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038456800190808446/0.jpg" alt="Top-down chili tomato chutney" width="560"></a>
 
@@ -38562,7 +38606,7 @@ Top-down premium food photography of a glass jar of chili tomato chutney placed 
 
 ---
 
-#### 119. Industrial packaging sheet
+#### 120. Industrial packaging sheet
 
 <a href="https://aiistudio.com/en/prompt/2038342534024544736?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038342534024544736/0.jpg" alt="Industrial packaging sheet" width="560"></a>
 
@@ -38588,7 +38632,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ---
 
-#### 120. Matte chronograph rock macro
+#### 121. Matte chronograph rock macro
 
 <a href="https://aiistudio.com/en/prompt/2038224276835471420?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038224276835471420/0.jpg" alt="Matte chronograph rock macro" width="560"></a>
 
@@ -38606,7 +38650,7 @@ A rugged, matte-black chronograph watch with bold orange accents is tightly fram
 
 ---
 
-#### 121. Luxury 9:16 ivory product visual
+#### 122. Luxury 9:16 ivory product visual
 
 <a href="https://aiistudio.com/en/prompt/2037967998565089736?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037967998565089736/0.jpg" alt="Luxury 9:16 ivory product visual" width="560"></a>
 
@@ -38673,7 +38717,7 @@ Depth of Field: f/16 equivalent — everything in sharp focus. Zero bokeh. Tack-
 
 ---
 
-#### 122. Kinder Joy chibi packaging
+#### 123. Kinder Joy chibi packaging
 
 <a href="https://aiistudio.com/en/prompt/2037393068538679624?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037393068538679624/0.jpg" alt="Kinder Joy chibi packaging" width="560"></a>
 
@@ -38699,7 +38743,7 @@ A hyper-realistic product photo of a Kinder Joy surprise egg sitting on a wooden
 
 ---
 
-#### 123. Caravaggio specimen cross-section
+#### 124. Caravaggio specimen cross-section
 
 <a href="https://aiistudio.com/en/prompt/2036472105223467305?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036472105223467305/0.jpg" alt="Caravaggio specimen cross-section" width="560"></a>
 
@@ -38730,7 +38774,7 @@ Mood: Audubon illustration meets Caravaggio meets the most beautiful science pho
 
 ---
 
-#### 124. Premium minimal product shot
+#### 125. Premium minimal product shot
 
 <a href="https://aiistudio.com/en/prompt/2035672892294451691?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035672892294451691/0.jpg" alt="Premium minimal product shot" width="560"></a>
 
@@ -38756,7 +38800,7 @@ studio shot of [PRODUCT], placed on a [background], surrounded by soft shadows a
 
 ---
 
-#### 125. Eco frosted skincare bottle
+#### 126. Eco frosted skincare bottle
 
 <a href="https://aiistudio.com/en/prompt/2035582838649827509?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035582838649827509/0.jpg" alt="Eco frosted skincare bottle" width="560"></a>
 
@@ -38780,7 +38824,7 @@ Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glas
 
 ---
 
-#### 126. Dutch Golden Age dish
+#### 127. Dutch Golden Age dish
 
 <a href="https://aiistudio.com/en/prompt/2035111136958587304?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2035111136958587304/0.jpg" alt="Dutch Golden Age dish" width="560"></a>
 
@@ -38806,7 +38850,7 @@ Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glas
 
 ---
 
-#### 127. Food packaging line illustration
+#### 128. Food packaging line illustration
 
 <a href="https://aiistudio.com/en/prompt/2034640645877321998?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034640645877321998/0.jpg" alt="Food packaging line illustration" width="560"></a>
 
@@ -38831,7 +38875,7 @@ minimal studio shot on pure white background, real [Food Name] emerging from a p
 
 ---
 
-#### 128. Floating outfit invisible body
+#### 129. Floating outfit invisible body
 
 <a href="https://aiistudio.com/en/prompt/2034382842084708533?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034382842084708533/0.jpg" alt="Floating outfit invisible body" width="560"></a>
 
@@ -38857,7 +38901,7 @@ Complete [STYLE] outfit floating in its exact worn position around  an invisible
 
 ---
 
-#### 129. Protein shake splash advert
+#### 130. Protein shake splash advert
 
 <a href="https://aiistudio.com/en/prompt/2034139605696712863?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034139605696712863/0.jpg" alt="Protein shake splash advert" width="560"></a>
 
@@ -38882,7 +38926,7 @@ Hyper-realistic product advertisement of a protein shake can with yellow and cre
 
 ---
 
-#### 130. Frosted Apple organ render
+#### 131. Frosted Apple organ render
 
 <a href="https://aiistudio.com/en/prompt/2033543326444720272?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033543326444720272/0.jpg" alt="Frosted Apple organ render" width="560"></a>
 
@@ -38900,7 +38944,7 @@ A hyper-realistic 3D anatomical human [organ] made from semi-translucent frosted
 
 ---
 
-#### 131. Subway suit thriller portrait
+#### 132. Subway suit thriller portrait
 
 <a href="https://aiistudio.com/en/prompt/2033407780640698583?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033407780640698583/0.jpg" alt="Subway suit thriller portrait" width="560"></a>
 
@@ -38918,7 +38962,7 @@ Cinematic portrait of a stylish man standing on a busy subway platform, wearing 
 
 ---
 
-#### 132. Snack technical infographic
+#### 133. Snack technical infographic
 
 <a href="https://aiistudio.com/en/prompt/2031795709243019280?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031795709243019280/0.jpg" alt="Snack technical infographic" width="560"></a>
 
@@ -38954,7 +38998,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark
 
 ---
 
-#### 133. Beige flat lay outfit
+#### 134. Beige flat lay outfit
 
 <a href="https://aiistudio.com/en/prompt/2030807641187045608?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030807641187045608/0.jpg" alt="Beige flat lay outfit" width="560"></a>
 
@@ -39000,7 +39044,7 @@ Important requirements: • No person
 
 ---
 
-#### 134. Eco flower packaging sleeve
+#### 135. Eco flower packaging sleeve
 
 <a href="https://aiistudio.com/en/prompt/2030282080945647687?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030282080945647687/0.jpg" alt="Eco flower packaging sleeve" width="560"></a>
 
@@ -39018,7 +39062,7 @@ Minimalist branded flower packaging design for [brand], eco-friendly cardboard s
 
 ---
 
-#### 135. LEGO Technic real car twin
+#### 136. LEGO Technic real car twin
 
 <a href="https://aiistudio.com/en/prompt/2030236225815416875?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2030236225815416875/0.jpg" alt="LEGO Technic real car twin" width="560"></a>
 
@@ -39050,7 +39094,7 @@ Aspect Ratio 9:16
 
 ---
 
-#### 136. Vine Glow grape can
+#### 137. Vine Glow grape can
 
 <a href="https://aiistudio.com/en/prompt/2029476310125560281?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029476310125560281/0.jpg" alt="Vine Glow grape can" width="560"></a>
 
@@ -39077,7 +39121,7 @@ Minimalist product photography of a 330ml aluminum can labeled “VINE GLOW – 
 
 ---
 
-#### 137. Nutella ski diorama
+#### 138. Nutella ski diorama
 
 <a href="https://aiistudio.com/en/prompt/2029194313784016901?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029194313784016901/0.jpg" alt="Nutella ski diorama" width="560"></a>
 
@@ -39103,7 +39147,7 @@ Minimalist product photography of a 330ml aluminum can labeled “VINE GLOW – 
 
 ---
 
-#### 138. Top-down orange jar zoom
+#### 139. Top-down orange jar zoom
 
 <a href="https://aiistudio.com/en/prompt/2029116168800485686?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029116168800485686/0.jpg" alt="Top-down orange jar zoom" width="560"></a>
 
@@ -39132,7 +39176,7 @@ The jar remains perfectly still in the center of the frame.
 
 ---
 
-#### 139. Floating product engineering
+#### 140. Floating product engineering
 
 <a href="https://aiistudio.com/en/prompt/2028956048531288229?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028956048531288229/0.jpg" alt="Floating product engineering" width="560"></a>
 
@@ -39162,7 +39206,7 @@ Check ALTs for ideas 👇 @AdobeFirefly
 
 ---
 
-#### 140. Three hands clinking sodas
+#### 141. Three hands clinking sodas
 
 <a href="https://aiistudio.com/en/prompt/2028836648398778447?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028836648398778447/0.jpg" alt="Three hands clinking sodas" width="560"></a>
 
@@ -39197,7 +39241,7 @@ Three hands holding glowing sports drink bottles stacked vertically, neon blue a
 
 ---
 
-#### 141. Die-cut cartoon-face packaging
+#### 142. Die-cut cartoon-face packaging
 
 <a href="https://aiistudio.com/en/prompt/2027806040109289487?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027806040109289487/0.jpg" alt="Die-cut cartoon-face packaging" width="560"></a>
 
@@ -39215,7 +39259,7 @@ Playful designer packaging for [product name], creative box shaped like the prod
 
 ---
 
-#### 142. Torn paper soda can shot
+#### 143. Torn paper soda can shot
 
 <a href="https://aiistudio.com/en/prompt/2027470188644626803?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027470188644626803/0.jpg" alt="Torn paper soda can shot" width="560"></a>
 
@@ -39233,7 +39277,7 @@ A photorealistic, highly detailed commercial product photograph of a standard al
 
 ---
 
-#### 143. Floating football jersey lookbook
+#### 144. Floating football jersey lookbook
 
 <a href="https://aiistudio.com/en/prompt/2027393294469128313?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027393294469128313/0.jpg" alt="Floating football jersey lookbook" width="560"></a>
 
@@ -39265,7 +39309,7 @@ Lighting: sophisticated studio lighting. Soft, diffused light that sculpts the f
 
 ---
 
-#### 144. Ghibli pizza recipe infographic
+#### 145. Ghibli pizza recipe infographic
 
 <a href="https://aiistudio.com/en/prompt/2027140890247246017?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027140890247246017/0.jpg" alt="Ghibli pizza recipe infographic" width="560"></a>
 
@@ -39283,7 +39327,7 @@ margherita pizza recipe infographic, Studio Ghibli inspired illustration, tradit
 
 ---
 
-#### 145. 9-image Instagram product feed
+#### 146. 9-image Instagram product feed
 
 <a href="https://aiistudio.com/en/prompt/2027122256426521040?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027122256426521040/0.jpg" alt="9-image Instagram product feed" width="560"></a>
 
@@ -39309,7 +39353,7 @@ with/without "same aesthetic"
 
 ---
 
-#### 146. Skincare product shot v2
+#### 147. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2025391098437529837?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025391098437529837/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -39416,7 +39460,7 @@ with/without "same aesthetic"
 
 ---
 
-#### 147. Creative scene
+#### 148. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2025073987521507338?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025073987521507338/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -39434,7 +39478,7 @@ A small chili plant with glossy green leaves and one tiny white flower bud formi
 
 ---
 
-#### 148. Skincare product shot
+#### 149. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2025013736139096574?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025013736139096574/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -39530,7 +39574,7 @@ A small chili plant with glossy green leaves and one tiny white flower bud formi
 
 ---
 
-#### 149. Product packaging shot v3
+#### 150. Product packaging shot v3
 
 <a href="https://aiistudio.com/en/prompt/2024758790038442001?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024758790038442001/0.jpg" alt="Product packaging shot v3" width="560"></a>
 
@@ -39548,7 +39592,7 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 ---
 
-#### 150. Skincare product shot
+#### 151. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2024104039827578910?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024104039827578910/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -39644,7 +39688,7 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 ---
 
-#### 151. Skincare product shot
+#### 152. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2023760359493194030?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023760359493194030/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -39662,7 +39706,7 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 ---
 
-#### 152. Creative scene
+#### 153. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2023170582796542373?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2023170582796542373/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -39688,7 +39732,7 @@ macro photograph, minimalist advertising style, a hyper-realistic miniature [PRO
 
 ---
 
-#### 153. Skincare product shot
+#### 154. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2022677800046797093?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022677800046797093/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -39713,7 +39757,7 @@ Ultra-realistic commercial product photography of a pastel peach-colored soda ca
 
 ---
 
-#### 154. Product packaging shot v2
+#### 155. Product packaging shot v2
 
 <a href="https://aiistudio.com/en/prompt/2022199501168038032?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022199501168038032/0.jpg" alt="Product packaging shot v2" width="560"></a>
 
@@ -39735,7 +39779,7 @@ Features clever die-cut windows that reveal the actual [Actual Product Inside] s
 
 ---
 
-#### 155. Skincare product shot v3
+#### 156. Skincare product shot v3
 
 <a href="https://aiistudio.com/en/prompt/2021939791768826247?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021939791768826247/0.jpg" alt="Skincare product shot v3" width="560"></a>
 
@@ -39771,7 +39815,7 @@ Style: high-end commercial fragrance advertising, macro lens, 85mm, f/2.0, shall
 
 ---
 
-#### 156. Skincare product shot v2
+#### 157. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2021835757183209806?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021835757183209806/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -39797,7 +39841,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-#### 157. Editorial poster v2
+#### 158. Editorial poster v2
 
 <a href="https://aiistudio.com/en/prompt/2021462365146116101?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021462365146116101/0.jpg" alt="Editorial poster v2" width="560"></a>
 
@@ -39898,7 +39942,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-#### 158. Product packaging shot
+#### 159. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2021205279933857921?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2021205279933857921/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -39916,7 +39960,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 159. Skincare product shot v2
+#### 160. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2020367995131105685?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020367995131105685/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -40039,7 +40083,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 160. Skincare product shot v2
+#### 161. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2020329970497999135?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2020329970497999135/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -40190,7 +40234,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 161. Logo design v2
+#### 162. Logo design v2
 
 <a href="https://aiistudio.com/en/prompt/2020134464349958346?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020134464349958346/0.jpg" alt="Logo design v2" width="560"></a>
 
@@ -40208,7 +40252,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 162. Skincare product shot
+#### 163. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2020094371107074147?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020094371107074147/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -40331,7 +40375,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 163. Product packaging shot
+#### 164. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2019847469165896077?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019847469165896077/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -40370,7 +40414,7 @@ Lighting & Background: Set against a pitch-black minimalist background. Cinemati
 
 ---
 
-#### 164. Skincare product shot
+#### 165. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2019637570133717072?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019637570133717072/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -40395,7 +40439,7 @@ A hyper-realistic beauty product photograph of a pink [LANEIGE Lip Sleeping Mask
 
 ---
 
-#### 165. Editorial poster
+#### 166. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2019098547451568397?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019098547451568397/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -40430,7 +40474,7 @@ Technical Specs
 
 ---
 
-#### 166. Skincare product shot
+#### 167. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2018899983752380850?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2018899983752380850/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -40554,7 +40598,7 @@ Technical Specs
 
 ---
 
-#### 167. Skincare product shot
+#### 168. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2018215856577360311?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018215856577360311/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -40572,7 +40616,7 @@ Commercial luxury product photography, photorealistic, ultra high detail, 8K qua
 
 ---
 
-#### 168. Skincare product shot
+#### 169. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2018191168451043584?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018191168451043584/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -40598,7 +40642,7 @@ Commercial luxury product photography, photorealistic, ultra high detail, 8K qua
 
 ---
 
-#### 169. Mango passionfruit scrub
+#### 170. Mango passionfruit scrub
 
 <a href="https://aiistudio.com/en/prompt/2017969858017931581?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017969858017931581/0.jpg" alt="Mango passionfruit scrub" width="560"></a>
 
@@ -40626,7 +40670,7 @@ Subtle lens flare from warm golden light for cinematic luxury feel.
 
 ---
 
-#### 170. Skincare education poster
+#### 171. Skincare education poster
 
 <a href="https://aiistudio.com/en/prompt/2017961648213168490?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017961648213168490/0.jpg" alt="Skincare education poster" width="560"></a>
 
@@ -40644,7 +40688,7 @@ Subtle lens flare from warm golden light for cinematic luxury feel.
 
 ---
 
-#### 171. Red sparkling water can
+#### 172. Red sparkling water can
 
 <a href="https://aiistudio.com/en/prompt/2017622879190573425?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017622879190573425/0.jpg" alt="Red sparkling water can" width="560"></a>
 
@@ -40670,7 +40714,7 @@ A premium studio product photograph of a tall, slim red aluminum sparkling water
 
 ---
 
-#### 172. Product spec sheet layout
+#### 173. Product spec sheet layout
 
 <a href="https://aiistudio.com/en/prompt/2017550187363750190?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017550187363750190/0.jpg" alt="Product spec sheet layout" width="560"></a>
 
@@ -40806,7 +40850,7 @@ A premium studio product photograph of a tall, slim red aluminum sparkling water
 
 ---
 
-#### 173. Packaging design sheet
+#### 174. Packaging design sheet
 
 <a href="https://aiistudio.com/en/prompt/2017093337564746040?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017093337564746040/0.jpg" alt="Packaging design sheet" width="560"></a>
 
@@ -40847,7 +40891,7 @@ Aspect Ratio: 3:4
 
 ---
 
-#### 174. Chowmein recipe infographic
+#### 175. Chowmein recipe infographic
 
 <a href="https://aiistudio.com/en/prompt/2016502011278324039?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016502011278324039/0.jpg" alt="Chowmein recipe infographic" width="560"></a>
 
@@ -40865,7 +40909,7 @@ Ultra-clean modern recipe infographic. Showcase chowmin in a visually appealing 
 
 ---
 
-#### 175. Floating quinoa burger
+#### 176. Floating quinoa burger
 
 <a href="https://aiistudio.com/en/prompt/2016340217146507313?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016340217146507313/0.jpg" alt="Floating quinoa burger" width="560"></a>
 
@@ -40913,7 +40957,7 @@ Ultra-clean modern recipe infographic. Showcase chowmin in a visually appealing 
 
 ---
 
-#### 176. Botanical lotion shot
+#### 177. Botanical lotion shot
 
 <a href="https://aiistudio.com/en/prompt/2016138326571626611?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016138326571626611/0.jpg" alt="Botanical lotion shot" width="560"></a>
 
@@ -40957,7 +41001,7 @@ photorealism.
 
 ---
 
-#### 177. Pink dropper skincare lay
+#### 178. Pink dropper skincare lay
 
 <a href="https://aiistudio.com/en/prompt/2016131317759672439?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016131317759672439/0.jpg" alt="Pink dropper skincare lay" width="560"></a>
 
@@ -40983,7 +41027,7 @@ Ultra-realistic minimalist studio product photography of a small transparent gla
 
 ---
 
-#### 178. Skincare splash flat-lay
+#### 179. Skincare splash flat-lay
 
 <a href="https://aiistudio.com/en/prompt/2016074622882742569?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016074622882742569/0.jpg" alt="Skincare splash flat-lay" width="560"></a>
 
@@ -41009,7 +41053,7 @@ Ultra-realistic minimalist studio product photography of a small transparent gla
 
 ---
 
-#### 179. Creamy white-sauce penne
+#### 180. Creamy white-sauce penne
 
 <a href="https://aiistudio.com/en/prompt/2016073152820846633?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016073152820846633/0.jpg" alt="Creamy white-sauce penne" width="560"></a>
 
@@ -41027,7 +41071,7 @@ Ultra-realistic food photography of a prepared creamy white sauce penne pasta se
 
 ---
 
-#### 180. Aesthetic flat-lay product
+#### 181. Aesthetic flat-lay product
 
 <a href="https://aiistudio.com/en/prompt/2015992913000595614?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015992913000595614/0.jpg" alt="Aesthetic flat-lay product" width="560"></a>
 
@@ -41054,7 +41098,7 @@ Ultra-realistic macro product photography, 100mm lens look, f/8, sharp focus, cl
 
 ---
 
-#### 181. Brand merch drop poster
+#### 182. Brand merch drop poster
 
 <a href="https://aiistudio.com/en/prompt/2015869121058030001?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015869121058030001/0.jpg" alt="Brand merch drop poster" width="560"></a>
 
@@ -41104,7 +41148,7 @@ Under the logo, small white text with the brand's official slogan.
 
 ---
 
-#### 182. Hypebeast merch rack shot
+#### 183. Hypebeast merch rack shot
 
 <a href="https://aiistudio.com/en/prompt/2015862641311219772?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015862641311219772/0.jpg" alt="Hypebeast merch rack shot" width="560"></a>
 
@@ -41146,7 +41190,7 @@ Under the logo, small white text with the brand's official slogan.
 
 ---
 
-#### 183. Living-moss product render
+#### 184. Living-moss product render
 
 <a href="https://aiistudio.com/en/prompt/2015443794217361458?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015443794217361458/0.jpg" alt="Living-moss product render" width="560"></a>
 
@@ -41172,7 +41216,7 @@ A [PRODUCT] rendered as if entirely grown from living moss, perfectly maintainin
 
 ---
 
-#### 184. Skincare splash flat-lay
+#### 185. Skincare splash flat-lay
 
 <a href="https://aiistudio.com/en/prompt/2015423674061643925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015423674061643925/0.jpg" alt="Skincare splash flat-lay" width="560"></a>
 
@@ -41190,7 +41234,7 @@ A [PRODUCT] rendered as if entirely grown from living moss, perfectly maintainin
 
 ---
 
-#### 185. Levitating food triptych
+#### 186. Levitating food triptych
 
 <a href="https://aiistudio.com/en/prompt/2013488775356391702?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013488775356391702/0.jpg" alt="Levitating food triptych" width="560"></a>
 
@@ -41215,7 +41259,7 @@ Professional studio food photography series featuring deconstructed dishes in hi
 
 ---
 
-#### 186. Brand collab Crocs clog
+#### 187. Brand collab Crocs clog
 
 <a href="https://aiistudio.com/en/prompt/2013325907843219831?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013325907843219831/0.jpg" alt="Brand collab Crocs clog" width="560"></a>
 
@@ -41269,7 +41313,7 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 ---
 
-#### 187. Mercedes flash glamour shot
+#### 188. Mercedes flash glamour shot
 
 <a href="https://aiistudio.com/en/prompt/2013259843688346087?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013259843688346087/0.jpg" alt="Mercedes flash glamour shot" width="560"></a>
 
@@ -41307,7 +41351,7 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 ---
 
-#### 188. Golden-hour food hero
+#### 189. Golden-hour food hero
 
 <a href="https://aiistudio.com/en/prompt/2013251289254420955?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013251289254420955/0.jpg" alt="Golden-hour food hero" width="560"></a>
 
@@ -41333,7 +41377,7 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 ---
 
-#### 189. Editorial recipe infographic
+#### 190. Editorial recipe infographic
 
 <a href="https://aiistudio.com/en/prompt/2013233539706233086?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013233539706233086/0.jpg" alt="Editorial recipe infographic" width="560"></a>
 
@@ -41357,7 +41401,7 @@ Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing f
 
 ---
 
-#### 190. Biryani recipe infographic
+#### 191. Biryani recipe infographic
 
 <a href="https://aiistudio.com/en/prompt/2013186574390046844?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013186574390046844/0.jpg" alt="Biryani recipe infographic" width="560"></a>
 
@@ -41375,7 +41419,7 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 ---
 
-#### 191. 16:9 helicopter edge aerial portrait
+#### 192. 16:9 helicopter edge aerial portrait
 
 <a href="https://aiistudio.com/en/prompt/2012141043492545021?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012141043492545021/0.jpg" alt="16:9 helicopter edge aerial portrait" width="560"></a>
 
@@ -41466,7 +41510,7 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 ---
 
-#### 192. Infinity Energy Drink headphones ad
+#### 193. Infinity Energy Drink headphones ad
 
 <a href="https://aiistudio.com/en/prompt/2012092187509768400?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012092187509768400/0.jpg" alt="Infinity Energy Drink headphones ad" width="560"></a>
 
@@ -41492,7 +41536,7 @@ Ultra-cinematic product photography of a purple energy drink can labeled “INFI
 
 ---
 
-#### 193. 8K editorial food infographic
+#### 194. 8K editorial food infographic
 
 <a href="https://aiistudio.com/en/prompt/2011994819124752631?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011994819124752631/0.jpg" alt="8K editorial food infographic" width="560"></a>
 
@@ -41609,7 +41653,7 @@ Ultra-cinematic product photography of a purple energy drink can labeled “INFI
 
 ---
 
-#### 194. Volt Rush neon energy drink ad
+#### 195. Volt Rush neon energy drink ad
 
 <a href="https://aiistudio.com/en/prompt/2011981449688482135?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011981449688482135/0.jpg" alt="Volt Rush neon energy drink ad" width="560"></a>
 
@@ -41635,7 +41679,7 @@ Ultra-cinematic product photography of a neon-green energy drink can labeled “
 
 ---
 
-#### 195. Stacked food magazine cover shot
+#### 196. Stacked food magazine cover shot
 
 <a href="https://aiistudio.com/en/prompt/2011829870893125708?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011829870893125708/0.jpg" alt="Stacked food magazine cover shot" width="560"></a>
 
@@ -41659,7 +41703,7 @@ a stack of three [FOOD ITEM] with [LIQUID] dripping down, on a white background,
 
 ---
 
-#### 196. Forced-perspective giant sneaker street
+#### 197. Forced-perspective giant sneaker street
 
 <a href="https://aiistudio.com/en/prompt/2011823507932659844?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011823507932659844/0.jpg" alt="Forced-perspective giant sneaker street" width="560"></a>
 
@@ -41677,7 +41721,7 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 
 ---
 
-#### 197. Reference-faithful taco commercial close-up
+#### 198. Reference-faithful taco commercial close-up
 
 <a href="https://aiistudio.com/en/prompt/2011770206839062641?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011770206839062641/0.jpg" alt="Reference-faithful taco commercial close-up" width="560"></a>
 
@@ -41735,7 +41779,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 198. Macro exploded mechanics product ad
+#### 199. Macro exploded mechanics product ad
 
 <a href="https://aiistudio.com/en/prompt/2011630600101429445?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011630600101429445/0.jpg" alt="Macro exploded mechanics product ad" width="560"></a>
 
@@ -41753,7 +41797,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 199. Luxury packaging unboxing reveal
+#### 200. Luxury packaging unboxing reveal
 
 <a href="https://aiistudio.com/en/prompt/2011439171760767441?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011439171760767441/0.jpg" alt="Luxury packaging unboxing reveal" width="560"></a>
 
@@ -41771,7 +41815,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 200. Lime soda can mid-air explosion
+#### 201. Lime soda can mid-air explosion
 
 <a href="https://aiistudio.com/en/prompt/2011423604823720358?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011423604823720358/0.jpg" alt="Lime soda can mid-air explosion" width="560"></a>
 
@@ -41796,7 +41840,7 @@ A hyper-realistic commercial product shot of a refreshing lime soda can explodin
 
 ---
 
-#### 201. Floating perfume bottle autumn leaves
+#### 202. Floating perfume bottle autumn leaves
 
 <a href="https://aiistudio.com/en/prompt/2011385771530592547?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011385771530592547/0.jpg" alt="Floating perfume bottle autumn leaves" width="560"></a>
 
@@ -41820,7 +41864,7 @@ Ultra-realistic luxury perfume product shot (9: 16, 4K). A clear rectangular gla
 
 ---
 
-#### 202. Cinematic food production manifest
+#### 203. Cinematic food production manifest
 
 <a href="https://aiistudio.com/en/prompt/2011044123818549711?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011044123818549711/0.jpg" alt="Cinematic food production manifest" width="560"></a>
 
@@ -41917,7 +41961,7 @@ Ultra-realistic luxury perfume product shot (9: 16, 4K). A clear rectangular gla
 
 ---
 
-#### 203. Chrome inflated product transformation
+#### 204. Chrome inflated product transformation
 
 <a href="https://aiistudio.com/en/prompt/2010733004423918031?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010733004423918031/0.jpg" alt="Chrome inflated product transformation" width="560"></a>
 
@@ -41943,7 +41987,7 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 ---
 
-#### 204. Macro exploded product advertising
+#### 205. Macro exploded product advertising
 
 <a href="https://aiistudio.com/en/prompt/2010665188731785382?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010665188731785382/0.jpg" alt="Macro exploded product advertising" width="560"></a>
 
@@ -41961,7 +42005,7 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 ---
 
-#### 205. Surreal product composition top-down
+#### 206. Surreal product composition top-down
 
 <a href="https://aiistudio.com/en/prompt/2010615081491677185?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010615081491677185/0.jpg" alt="Surreal product composition top-down" width="560"></a>
 
@@ -42115,7 +42159,7 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 ---
 
-#### 206. Strawberry juice box packaging design
+#### 207. Strawberry juice box packaging design
 
 <a href="https://aiistudio.com/en/prompt/2010381897730339152?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010381897730339152/0.jpg" alt="Strawberry juice box packaging design" width="560"></a>
 
@@ -42218,7 +42262,7 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 ---
 
-#### 207. Luxury serum bottle with driftwood
+#### 208. Luxury serum bottle with driftwood
 
 <a href="https://aiistudio.com/en/prompt/2010381168810799353?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010381168810799353/0.jpg" alt="Luxury serum bottle with driftwood" width="560"></a>
 
@@ -42248,7 +42292,7 @@ ultra-high-definition realism.
 
 ---
 
-#### 208. Exploded view product with mechanics
+#### 209. Exploded view product with mechanics
 
 <a href="https://aiistudio.com/en/prompt/2010350005870276897?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010350005870276897/0.jpg" alt="Exploded view product with mechanics" width="560"></a>
 
@@ -42266,7 +42310,7 @@ Create an exploded products with inner mechanics [product], high-end product adv
 
 ---
 
-#### 209. Exploded vertical food infographic
+#### 210. Exploded vertical food infographic
 
 <a href="https://aiistudio.com/en/prompt/2010305720764551520?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010305720764551520/0.jpg" alt="Exploded vertical food infographic" width="560"></a>
 
@@ -42290,7 +42334,7 @@ Pure white background, soft studio lighting, subtle shadows beneath each floatin
 
 ---
 
-#### 210. Editorial skincare product on stone slab
+#### 211. Editorial skincare product on stone slab
 
 <a href="https://aiistudio.com/en/prompt/2010275488703381858?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010275488703381858/0.jpg" alt="Editorial skincare product on stone slab" width="560"></a>
 
@@ -42316,7 +42360,7 @@ A high-end editorial studio photograph of a (PRODUCT FORM, e.g. bottle, jar, tub
 
 ---
 
-#### 211. Premium beverage product close-up
+#### 212. Premium beverage product close-up
 
 <a href="https://aiistudio.com/en/prompt/2010210489813680211?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010210489813680211/0.jpg" alt="Premium beverage product close-up" width="560"></a>
 
@@ -42348,7 +42392,7 @@ The background is a soft neutral [BACKGROUND COLOR TONE], studio-style, clean an
 
 ---
 
-#### 212. Sizzling gourmet cheeseburger
+#### 213. Sizzling gourmet cheeseburger
 
 <a href="https://aiistudio.com/en/prompt/2009984389481148510?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009984389481148510/0.jpg" alt="Sizzling gourmet cheeseburger" width="560"></a>
 
@@ -42373,7 +42417,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 213. Frontal product hero shot
+#### 214. Frontal product hero shot
 
 <a href="https://aiistudio.com/en/prompt/2009947657905811727?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009947657905811727/0.jpg" alt="Frontal product hero shot" width="560"></a>
 
@@ -42502,7 +42546,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 214. Hyper-real street food char shot
+#### 215. Hyper-real street food char shot
 
 <a href="https://aiistudio.com/en/prompt/2009941784965853278?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009941784965853278/0.jpg" alt="Hyper-real street food char shot" width="560"></a>
 
@@ -42702,7 +42746,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 215. Martabak telur macro tear
+#### 216. Martabak telur macro tear
 
 <a href="https://aiistudio.com/en/prompt/2009937038670540843?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009937038670540843/0.jpg" alt="Martabak telur macro tear" width="560"></a>
 
@@ -42728,7 +42772,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 216. Mid-air taco cinematic shot
+#### 217. Mid-air taco cinematic shot
 
 <a href="https://aiistudio.com/en/prompt/2009887009591226787?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009887009591226787/0.jpg" alt="Mid-air taco cinematic shot" width="560"></a>
 
@@ -42871,7 +42915,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 217. Candy-shaped 3D word render
+#### 218. Candy-shaped 3D word render
 
 <a href="https://aiistudio.com/en/prompt/2009664169331839410?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009664169331839410/0.jpg" alt="Candy-shaped 3D word render" width="560"></a>
 
@@ -42889,7 +42933,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 218. Floating beverage can hero shot
+#### 219. Floating beverage can hero shot
 
 <a href="https://aiistudio.com/en/prompt/2009519057717088345?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009519057717088345/0.jpg" alt="Floating beverage can hero shot" width="560"></a>
 
@@ -42966,7 +43010,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 219. Studio commercial food close-up
+#### 220. Studio commercial food close-up
 
 <a href="https://aiistudio.com/en/prompt/2009446363331973461?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009446363331973461/0.jpg" alt="Studio commercial food close-up" width="560"></a>
 
@@ -43083,7 +43127,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 220. Mid-air commercial dessert shot
+#### 221. Mid-air commercial dessert shot
 
 <a href="https://aiistudio.com/en/prompt/2009204329236828239?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009204329236828239/0.jpg" alt="Mid-air commercial dessert shot" width="560"></a>
 
@@ -43208,7 +43252,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 221. Chocolate coffee exploded shot
+#### 222. Chocolate coffee exploded shot
 
 <a href="https://aiistudio.com/en/prompt/2008986705962123774?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008986705962123774/0.jpg" alt="Chocolate coffee exploded shot" width="560"></a>
 
@@ -43273,7 +43317,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 222. Plush fabric beverage can ad
+#### 223. Plush fabric beverage can ad
 
 <a href="https://aiistudio.com/en/prompt/2008753339966877924?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008753339966877924/0.jpg" alt="Plush fabric beverage can ad" width="560"></a>
 
@@ -43305,7 +43349,7 @@ Sharp focus, high color saturation, smooth shadows, modern commercial product sh
 
 ---
 
-#### 223. Pizza cheese pull macro shot
+#### 224. Pizza cheese pull macro shot
 
 <a href="https://aiistudio.com/en/prompt/2008416515129999715?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008416515129999715/0.jpg" alt="Pizza cheese pull macro shot" width="560"></a>
 
@@ -43327,7 +43371,7 @@ Warm studio lighting with natural highlights, rich colors, realistic shadows, pr
 
 ---
 
-#### 224. Pixelized 3D food fragmentation
+#### 225. Pixelized 3D food fragmentation
 
 <a href="https://aiistudio.com/en/prompt/2008127774750548155?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008127774750548155/0.jpg" alt="Pixelized 3D food fragmentation" width="560"></a>
 
@@ -43345,7 +43389,7 @@ Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, ma
 
 ---
 
-#### 225. Origami paper food art
+#### 226. Origami paper food art
 
 <a href="https://aiistudio.com/en/prompt/2007809696334479420?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007809696334479420/0.jpg" alt="Origami paper food art" width="560"></a>
 
@@ -43363,7 +43407,7 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 
 ---
 
-#### 226. Phone screen hockey rink poster
+#### 227. Phone screen hockey rink poster
 
 <a href="https://aiistudio.com/en/prompt/2007711515458318421?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007711515458318421/0.jpg" alt="Phone screen hockey rink poster" width="560"></a>
 
@@ -43381,7 +43425,7 @@ Create a hyper-realistic, stylish vertical poster featuring a smartphone lying o
 
 ---
 
-#### 227. Phone screen football stadium
+#### 228. Phone screen football stadium
 
 <a href="https://aiistudio.com/en/prompt/2006679801256656925?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2006679801256656925/0.jpg" alt="Phone screen football stadium" width="560"></a>
 
@@ -43438,7 +43482,7 @@ Create a hyper-realistic, stylish vertical poster featuring a smartphone lying o
 
 ---
 
-#### 228. Bitten dessert restaurant shot
+#### 229. Bitten dessert restaurant shot
 
 <a href="https://aiistudio.com/en/prompt/2003072041889800346?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2003072041889800346/0.jpg" alt="Bitten dessert restaurant shot" width="560"></a>
 
@@ -43463,9 +43507,142 @@ A bitten realistic classic [brand] product on the dish, revealed inner dessert l
 
 > Logos, identity systems, and brand campaign visuals.
 
-**165 prompts** · [↑ back to top](#-table-of-contents)
+**166 prompts** · [↑ back to top](#-table-of-contents)
 
-#### 1. Luxury diamond jewelry brand board
+#### 1. Brand logo proposal system
+
+<a href="https://aiistudio.com/en/prompt/2082468021407285579?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2082468021407285579/0.jpg" alt="Brand logo proposal system" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+You are a senior brand designer, logo designer, visual art director, and editorial layout designer.
+
+Based on the brand information I provide, directly design and generate a four-image brand visual identity proposal for the same brand. Do not output image prompts first, and do not only provide a proposal or page outline. Directly generate four separate images.
+
+Brand information:
+
+Chinese brand name: [fill in]
+English brand name: [fill in]
+Brand industry: [fill in]
+Main product or service: [fill in]
+Brand positioning and target audience: [fill in]
+Core brand concept: [fill in]
+Brand personality keywords: [fill in 3 to 5]
+Brand slogan: [fill in, or refine based on the concept]
+
+Logo inspiration source: [fill in]
+Logo type: [abstract symbol / Chinese character fusion / letter graphic / geometric symbol / badge, etc.]
+Meaning the logo should express: [fill in]
+Elements that should not appear: [fill in]
+
+Overall visual style: [fill in]
+Primary color palette: [fill in]
+Secondary and accent colors: [fill in]
+Main materials: [fill in 3 to 5]
+Photography or spatial atmosphere: [fill in]
+Main products, packaging, and application scenarios: [fill in]
+
+Aspect ratio: [default 4:5 vertical]
+Text language: [mainly Chinese / mainly English / Chinese-English mix]
+Additional requirements: [fill in]
+
+If some information is missing, automatically supplement a reasonable solution based on the brand industry, positioning, and concept. Do not stop because non-critical fields are blank.
+
+Design task:
+
+First design and lock a unified brand system, including:
+
+- An original, clear logo mark that can be used independently
+- Chinese and English wordmarks
+- Primary, secondary, and accent colors
+- Typography, materials, and photography language
+- Supporting graphics and patterns extended from the logo
+- Product, packaging, collateral, and spatial applications
+
+The logo cannot be pure text only. It must include a well-designed independent symbol related to the brand concept, with a clear silhouette, negative space, or geometric structure. It must remain recognizable when scaled down and be suitable for embossing, foil stamping, embroidery, engraving, and spatial signage.
+
+Avoid directly using ordinary industry icons such as incense burners, tea leaves, female profiles, houses, common leaves, lotus flowers, auspicious clouds, taiji symbols, or traditional seals. These elements must be abstracted, simplified, and recomposed into an original brand symbol.
+
+Once the logo is determined, the core outline, internal structure, wordmark, and combinations must remain consistent across all four images. Do not redesign the logo separately in each image.
+
+Four image contents:
+
+Image 1: Brand worldbuilding and concept cover.
+Use a large brand key visual to establish the brand mood and world, while clearly showing the full logo, Chinese name, English name, concept title, brand manifesto, 3 to 5 mood or material images, and a small number of handwritten concept notes.
+Use a structure of large headline plus large key visual plus full logo plus irregular mood collage. The logo must be clearly visible, but must not overpower the main title or brand atmosphere.
+
+Image 2: Logo concept and symbol generation logic.
+Place an oversized logo symbol at the visual center and show the full logo, Chinese and English wordmarks, horizontal and vertical lockups, simplified versions, concept source sketches, negative space, and structural relationships.
+Add a few hand-drawn outlines, arrows, circles, and designer handwritten notes so viewers understand why the logo is designed this way. The page should feel research-oriented, but not like a complex engineering diagram or traditional VI table.
+
+Image 3: Brand visual language and design system.
+Show primary colors, secondary colors, typography, materials, photography language, cropped logo details, and supporting patterns.
+Colors need to connect with real materials such as stone, paper, metal, glass, plants, or fabric. Supporting graphics must be extracted from the logo silhouette, internal curves, negative space, or strokes, without adding unrelated decoration.
+Use a layout that combines an orderly grid with free collage, including large typography, vertical text, fine lines, and a few handwritten marks.
+
+Image 4: Brand applications and experience scenarios.
+Show how the brand enters real products, packaging, paper goods, textiles, and spaces. Choose 5 to 7 reasonable touchpoints based on the industry, such as the main product, gift box, shopping bag, card, label, uniform, towel, metal plaque, storefront, reception desk, or wayfinding.
+Use a structure of one large product or spatial key visual plus 4 to 6 application details. The full logo, independent symbol, and supporting patterns should be used in layers. Do not print the full brand name repeatedly on every item.
+
+Overall visual requirements:
+
+The complete set should use a design language combining premium brand proposals, editorial magazine design, art direction boards, and modern visual identity case studies.
+
+Every image must include:
+
+- A striking large main title
+- A short subtitle
+- One core explanatory sentence
+- 2 to 4 keywords or information labels
+- 2 to 4 meaningful handwritten notes
+- A clear visual center
+- About 25% to 35% whitespace
+
+The main title should participate in the composition. It may be enlarged, cropped, offset, arranged vertically, or interwoven with images and the logo. It cannot be a plain page header.
+
+Handwritten marks can use short phrases, arrows, circles, underlines, or simple sketches to explain the logo, typography, colors, materials, and process. Handwritten content must be short, clear, and meaningful. Avoid meaningless garbled writing and excessive scribbling.
+
+All four images must use the same brand name, logo, typography, color palette, materials, photography atmosphere, margins, and guide lines, but the layouts must not be identical:
+
+- Image 1: Large key visual and mood collage
+- Image 2: Oversized logo and structural research
+- Image 3: Color, typography, and material system
+- Image 4: Product, space, and application rollout
+
+Avoid ordinary PowerPoint pages, simple moodboards, traditional VI tables, stock mockup collections, neatly repeated grids, long body copy, information crowding, low-quality 3D materials, cheap-looking gold, color drift, and logo structure changes.
+
+Output requirements:
+
+Directly generate four independent 4:5 vertical images. Do not merge the four contents into one collage, and do not output image prompts first.
+
+Generate them in this order:
+
+1. Brand worldbuilding and concept cover
+2. Logo concept and symbol generation logic
+3. Brand visual language and design system
+4. Brand applications and experience scenarios
+
+If only one image can be generated at a time, start directly from Image 1 and continue generating Images 2, 3, and 4 using the same locked logo and visual system. Do not re-plan or change the design direction.
+```
+
+</details>
+
+<details><summary>🖼️ More renders</summary>
+
+<img src="https://cdn.aiistudio.com/twitter/2082468021407285579/1.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2082468021407285579/2.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2082468021407285579/3.jpg" width="320">
+
+</details>
+
+👤 [@MrLarus](https://x.com/MrLarus) · [Source tweet](https://x.com/MrLarus/status/2082468021407285579) · Tags: `product` `poster`
+
+**[🚀 Try it now on aiiStudio →](https://aiistudio.com/en/prompt/2082468021407285579?utm_source=github&utm_medium=readme&utm_campaign=prompt-link)**
+
+---
+
+#### 2. Luxury diamond jewelry brand board
 
 <a href="https://aiistudio.com/en/prompt/2073814538936619048?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073814538936619048/0.jpg" alt="Luxury diamond jewelry brand board" width="560"></a>
 
@@ -43553,7 +43730,7 @@ cheap jewelry ad, flashy mall luxury, oversized fake diamonds, cluttered collage
 
 ---
 
-#### 2. LULU Cookies brand collage
+#### 3. LULU Cookies brand collage
 
 <a href="https://aiistudio.com/en/prompt/2073687219928486274?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2073687219928486274/0.jpg" alt="LULU Cookies brand collage" width="560"></a>
 
@@ -43708,7 +43885,7 @@ watermark, signature, UI, app interface, random text artifacts, unreadable text,
 
 ---
 
-#### 3. Chinese retro F&B emblem logo template
+#### 4. Chinese retro F&B emblem logo template
 
 <a href="https://aiistudio.com/en/prompt/2056293511033446503?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056293511033446503/0.jpg" alt="Chinese retro F&B emblem logo template" width="560"></a>
 
@@ -43746,7 +43923,7 @@ Output: a high-completeness Chinese Retro Food Emblem Logo centered on the Chine
 
 ---
 
-#### 4. MS Paint scribble logo doodle
+#### 5. MS Paint scribble logo doodle
 
 <a href="https://aiistudio.com/en/prompt/2050923480422703191?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050923480422703191/0.jpg" alt="MS Paint scribble logo doodle" width="560"></a>
 
@@ -43764,7 +43941,7 @@ Output: a high-completeness Chinese Retro Food Emblem Logo centered on the Chine
 
 ---
 
-#### 5. Giant lace bridal sandal scene
+#### 6. Giant lace bridal sandal scene
 
 <a href="https://aiistudio.com/en/prompt/2050576905431334949?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050576905431334949/0.jpg" alt="Giant lace bridal sandal scene" width="560"></a>
 
@@ -43795,7 +43972,7 @@ Output: a high-completeness Chinese Retro Food Emblem Logo centered on the Chine
 
 ---
 
-#### 6. Female mid-air sneaker ad
+#### 7. Female mid-air sneaker ad
 
 <a href="https://aiistudio.com/en/prompt/2050064844746027230?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050064844746027230/0.jpg" alt="Female mid-air sneaker ad" width="560"></a>
 
@@ -43825,7 +44002,7 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 ---
 
-#### 7. Jack Ryan Ghost War poster
+#### 8. Jack Ryan Ghost War poster
 
 <a href="https://aiistudio.com/en/prompt/2049907807122587943?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2049907807122587943/0.jpg" alt="Jack Ryan Ghost War poster" width="560"></a>
 
@@ -43859,7 +44036,7 @@ Highly detailed, epic composition, realistic, cinematic lighting, movie poster s
 
 ---
 
-#### 8. Samsung 8K TV breakthrough ad
+#### 9. Samsung 8K TV breakthrough ad
 
 <a href="https://aiistudio.com/en/prompt/2049535684403417294?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049535684403417294/0.jpg" alt="Samsung 8K TV breakthrough ad" width="560"></a>
 
@@ -43912,7 +44089,7 @@ Ultra-realistic, cinematic interior luxury ad, refined reflections, premium prod
 
 ---
 
-#### 9. Oversized KFC bucket ad
+#### 10. Oversized KFC bucket ad
 
 <a href="https://aiistudio.com/en/prompt/2049527944905982314?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049527944905982314/0.jpg" alt="Oversized KFC bucket ad" width="560"></a>
 
@@ -43930,7 +44107,7 @@ Minimalist commercial ad featuring oversized KFC bucket, ultra-clean design. A y
 
 ---
 
-#### 10. Dyson Gen5detect futuristic ad
+#### 11. Dyson Gen5detect futuristic ad
 
 <a href="https://aiistudio.com/en/prompt/2049490134966620280?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049490134966620280/0.jpg" alt="Dyson Gen5detect futuristic ad" width="560"></a>
 
@@ -43980,7 +44157,7 @@ Hyper-detailed commercial product photography, cinematic premium lighting, elega
 
 ---
 
-#### 11. Graffiti hallway juice bottle ad
+#### 12. Graffiti hallway juice bottle ad
 
 <a href="https://aiistudio.com/en/prompt/2049452842931630202?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049452842931630202/0.jpg" alt="Graffiti hallway juice bottle ad" width="560"></a>
 
@@ -43998,7 +44175,7 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 
 ---
 
-#### 12. K-pop drink sticker poster
+#### 13. K-pop drink sticker poster
 
 <a href="https://aiistudio.com/en/prompt/2049398853326049334?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049398853326049334/0.jpg" alt="K-pop drink sticker poster" width="560"></a>
 
@@ -44016,7 +44193,7 @@ A high-quality, interactive Korean-style poster featuring a cheerful, expressive
 
 ---
 
-#### 13. Dating app match success
+#### 14. Dating app match success
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-50?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/50.jpg" alt="Dating app match success" width="560"></a>
 
@@ -44034,7 +44211,7 @@ Social-app match-success screen — two user profile cards collide with a heart 
 
 ---
 
-#### 14. YouTube thumbnail from video
+#### 15. YouTube thumbnail from video
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-40?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/40.jpg" alt="YouTube thumbnail from video" width="560"></a>
 
@@ -44052,7 +44229,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 ---
 
-#### 15. Studio lighting logo
+#### 16. Studio lighting logo
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-116?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/116.jpg" alt="Studio lighting logo" width="560"></a>
 
@@ -44070,7 +44247,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 ---
 
-#### 16. Resolution commercial
+#### 17. Resolution commercial
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-46?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/46.jpg" alt="Resolution commercial" width="560"></a>
 
@@ -44088,7 +44265,7 @@ A high-resolution commercial marketing photograph features a young woman with sl
 
 ---
 
-#### 17. Information about
+#### 18. Information about
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-34?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/34.jpg" alt="Information about" width="560"></a>
 
@@ -44106,7 +44283,7 @@ Use GPT Image 2 to look up information about OpenClaw and generate an image styl
 
 ---
 
-#### 18. Retro poster
+#### 19. Retro poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-173?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/173.jpg" alt="Retro poster" width="560"></a>
 
@@ -44124,7 +44301,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 ---
 
-#### 19. Car
+#### 20. Car
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-169?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/169.jpg" alt="Car" width="560"></a>
 
@@ -44154,7 +44331,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 ---
 
-#### 20. Cinematic lighting poster
+#### 21. Cinematic lighting poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-168?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/168.jpg" alt="Cinematic lighting poster" width="560"></a>
 
@@ -44204,7 +44381,7 @@ Aspect ratio: 1:1 (square collage)
 
 ---
 
-#### 21. Photorealistic logo
+#### 22. Photorealistic logo
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-80?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/80.jpg" alt="Photorealistic logo" width="560"></a>
 
@@ -44227,7 +44404,7 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 ---
 
-#### 22. Minimalist poster
+#### 23. Minimalist poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-78?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/78.jpg" alt="Minimalist poster" width="560"></a>
 
@@ -44245,7 +44422,7 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 
 ---
 
-#### 23. Minimalist publicitario surreali
+#### 24. Minimalist publicitario surreali
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-75?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/75.jpg" alt="Minimalist publicitario surreali" width="560"></a>
 
@@ -44268,7 +44445,7 @@ Establecer la relación de aspecto en 3:4.
 
 ---
 
-#### 24. Cinematic lighting fashion
+#### 25. Cinematic lighting fashion
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-74?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/74.jpg" alt="Cinematic lighting fashion" width="560"></a>
 
@@ -44286,7 +44463,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 ---
 
-#### 25. Cinematic lighting fashion
+#### 26. Cinematic lighting fashion
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-73?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/73.jpg" alt="Cinematic lighting fashion" width="560"></a>
 
@@ -44304,7 +44481,7 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 
 ---
 
-#### 26. Cinematic lighting portrait
+#### 27. Cinematic lighting portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-71?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/71.jpg" alt="Cinematic lighting portrait" width="560"></a>
 
@@ -44330,7 +44507,7 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 
 ---
 
-#### 27. Studio lighting poster
+#### 28. Studio lighting poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-70?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/70.jpg" alt="Studio lighting poster" width="560"></a>
 
@@ -44358,7 +44535,7 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 
 ---
 
-#### 28. Pilates studio
+#### 29. Pilates studio
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-51?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/51.jpg" alt="Pilates studio" width="560"></a>
 
@@ -44376,7 +44553,7 @@ I want to create an ad image for a Pilates studio. The text should be more entic
 
 ---
 
-#### 29. Feel more
+#### 30. Feel more
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-46?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/46.jpg" alt="Feel more" width="560"></a>
 
@@ -44394,7 +44571,7 @@ It's getting a bit hot now — I want to feel more strongly that refreshing, cri
 
 ---
 
-#### 30. Yue Super League invite poster
+#### 31. Yue Super League invite poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-13?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/13.jpg" alt="Yue Super League invite poster" width="560"></a>
 
@@ -44412,7 +44589,7 @@ Invitation poster design for the Guangdong City Football Super League (Yue Super
 
 ---
 
-#### 31. 1:1 professional ad poster
+#### 32. 1:1 professional ad poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-10?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/10.jpg" alt="1:1 professional ad poster" width="560"></a>
 
@@ -44433,7 +44610,7 @@ As soon as you think of it, you can play with it. AI × browser game-making is g
 
 ---
 
-#### 32. Perfume bottle in golden faux fur
+#### 33. Perfume bottle in golden faux fur
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-149?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/149.jpg" alt="Perfume bottle in golden faux fur" width="560"></a>
 
@@ -44451,7 +44628,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 ---
 
-#### 33. Byredo perfume driftwood still life
+#### 34. Byredo perfume driftwood still life
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-148?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/148.jpg" alt="Byredo perfume driftwood still life" width="560"></a>
 
@@ -44469,7 +44646,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 
 ---
 
-#### 34. Osaka Six powder-blue sweatshirt
+#### 35. Osaka Six powder-blue sweatshirt
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-147?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/147.jpg" alt="Osaka Six powder-blue sweatshirt" width="560"></a>
 
@@ -44487,7 +44664,7 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 ---
 
-#### 35. NESS STUDIO seated streetwear poster
+#### 36. NESS STUDIO seated streetwear poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-146?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/146.jpg" alt="NESS STUDIO seated streetwear poster" width="560"></a>
 
@@ -44505,7 +44682,7 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 
 ---
 
-#### 36. Nike neon mid-jump campaign
+#### 37. Nike neon mid-jump campaign
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-145?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/145.jpg" alt="Nike neon mid-jump campaign" width="560"></a>
 
@@ -44523,7 +44700,7 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 ---
 
-#### 37. Motorsport chronograph watch ad
+#### 38. Motorsport chronograph watch ad
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-144?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/144.jpg" alt="Motorsport chronograph watch ad" width="560"></a>
 
@@ -44541,7 +44718,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 ---
 
-#### 38. Japanese Chinese delivery flyer
+#### 39. Japanese Chinese delivery flyer
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-166?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/166.jpg" alt="Japanese Chinese delivery flyer" width="560"></a>
 
@@ -44573,7 +44750,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ---
 
-#### 39. Tea shop 18-panel brand identity
+#### 40. Tea shop 18-panel brand identity
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-107?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/107.jpg" alt="Tea shop 18-panel brand identity" width="560"></a>
 
@@ -44676,7 +44853,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ---
 
-#### 40. Dark-mode SaaS landing page
+#### 41. Dark-mode SaaS landing page
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-108?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/108.jpg" alt="Dark-mode SaaS landing page" width="560"></a>
 
@@ -44761,7 +44938,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ---
 
-#### 41. 2x2 Japanese ad banner grid
+#### 42. 2x2 Japanese ad banner grid
 
 <a href="https://aiistudio.com/en/prompt/awesome-ad-90?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ad/90.jpg" alt="2x2 Japanese ad banner grid" width="560"></a>
 
@@ -44874,7 +45051,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ---
 
-#### 42. Velvet Bite chocolate luxury ad
+#### 43. Velvet Bite chocolate luxury ad
 
 <a href="https://aiistudio.com/en/prompt/2049334513504055739?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049334513504055739/0.jpg" alt="Velvet Bite chocolate luxury ad" width="560"></a>
 
@@ -44919,7 +45096,7 @@ Make the ads feel realistic, premium, polished, and cohesive, like they all belo
 
 ---
 
-#### 43. Hyundai Creta resale ad collage
+#### 44. Hyundai Creta resale ad collage
 
 <a href="https://aiistudio.com/en/prompt/2049019141093528045?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049019141093528045/0.jpg" alt="Hyundai Creta resale ad collage" width="560"></a>
 
@@ -45079,7 +45256,7 @@ High conversion intent.
 
 ---
 
-#### 44. Brand digital collage Instagram art
+#### 45. Brand digital collage Instagram art
 
 <a href="https://aiistudio.com/en/prompt/2048963140222861357?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048963140222861357/0.jpg" alt="Brand digital collage Instagram art" width="560"></a>
 
@@ -45254,7 +45431,7 @@ TECHNICAL SPECS:
 
 ---
 
-#### 45. Brand-logo fluid bubble ad
+#### 46. Brand-logo fluid bubble ad
 
 <a href="https://aiistudio.com/en/prompt/2048828286466134200?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048828286466134200/0.jpg" alt="Brand-logo fluid bubble ad" width="560"></a>
 
@@ -45274,7 +45451,7 @@ ABSOLUTE RULE — READ BEFORE GENERATING ANYTHING: The fluid mass in this image 
 
 ---
 
-#### 46. Brand fashion collage Instagram
+#### 47. Brand fashion collage Instagram
 
 <a href="https://aiistudio.com/en/prompt/2048802776419799152?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048802776419799152/0.jpg" alt="Brand fashion collage Instagram" width="560"></a>
 
@@ -45293,7 +45470,7 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 ---
 
-#### 47. Obsidian coffee 4-image ad
+#### 48. Obsidian coffee 4-image ad
 
 <a href="https://aiistudio.com/en/prompt/2048598185841734064?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048598185841734064/0.jpg" alt="Obsidian coffee 4-image ad" width="560"></a>
 
@@ -45311,7 +45488,7 @@ Create four connected premium realistic editorial images for OBSIDIAN coffee. Da
 
 ---
 
-#### 48. Streetwear digital collage
+#### 49. Streetwear digital collage
 
 <a href="https://aiistudio.com/en/prompt/2048114730061926699?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048114730061926699/0.jpg" alt="Streetwear digital collage" width="560"></a>
 
@@ -45330,7 +45507,7 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 ---
 
-#### 49. Photorealistic baby scene
+#### 50. Photorealistic baby scene
 
 <a href="https://aiistudio.com/en/prompt/2047645038147166555?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047645038147166555/0.jpg" alt="Photorealistic baby scene" width="560"></a>
 
@@ -45359,7 +45536,7 @@ clean composition, aesthetic, viral beauty ad style, Instagram / TikTok/ X frien
 
 ---
 
-#### 50. Creative scene artwork
+#### 51. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2047546614257221653?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047546614257221653/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -45385,7 +45562,7 @@ Create a cohesive collection of playful icons for [BRAND NAME], a [BRAND TYPE/IN
 
 ---
 
-#### 51. Photorealistic man portrait
+#### 52. Photorealistic man portrait
 
 <a href="https://aiistudio.com/en/prompt/2047172163313222013?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047172163313222013/0.jpg" alt="Photorealistic man portrait" width="560"></a>
 
@@ -45475,7 +45652,7 @@ A highly realistic single-image campaign board showing a landing page, email, an
 
 ---
 
-#### 52. Car shot artwork
+#### 53. Car shot artwork
 
 <a href="https://aiistudio.com/en/prompt/2047064581051142166?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047064581051142166/0.jpg" alt="Car shot artwork" width="560"></a>
 
@@ -45495,7 +45672,7 @@ Mobile-first, 4:5, advanced design level.
 
 ---
 
-#### 53. Editorial style creative scene
+#### 54. Editorial style creative scene
 
 <a href="https://aiistudio.com/en/prompt/2046682439985082441?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046682439985082441/0.jpg" alt="Editorial style creative scene" width="560"></a>
 
@@ -45515,7 +45692,7 @@ Include a sense of product obsession, visual experimentation, packaging explorat
 
 ---
 
-#### 54. Illustration food shot
+#### 55. Illustration food shot
 
 <a href="https://aiistudio.com/en/prompt/2046460259817210284?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046460259817210284/0.jpg" alt="Illustration food shot" width="560"></a>
 
@@ -45579,7 +45756,7 @@ Output: a single high-impact visual combining all 4 ads.
 
 ---
 
-#### 55. Editorial style king v2
+#### 56. Editorial style king v2
 
 <a href="https://aiistudio.com/en/prompt/2046265195434070061?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2046265195434070061/0.jpg" alt="Editorial style king v2" width="560"></a>
 
@@ -45617,7 +45794,7 @@ Lens: 85mm equivalent, f/4.5. Depth of field: object fully sharp, background sof
 
 ---
 
-#### 56. Editorial style logo concept
+#### 57. Editorial style logo concept
 
 <a href="https://aiistudio.com/en/prompt/2045938770906657274?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045938770906657274/0.jpg" alt="Editorial style logo concept" width="560"></a>
 
@@ -45660,7 +45837,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 57. 3d render king v2
+#### 58. 3d render king v2
 
 <a href="https://aiistudio.com/en/prompt/2045580765136920938?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045580765136920938/0.jpg" alt="3d render king v2" width="560"></a>
 
@@ -45704,7 +45881,7 @@ The single most important instruction in this entire prompt: the logo must read 
 
 ---
 
-#### 58. Y2k aesthetic creative scene
+#### 59. Y2k aesthetic creative scene
 
 <a href="https://aiistudio.com/en/prompt/2045378877363798279?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045378877363798279/0.jpg" alt="Y2k aesthetic creative scene" width="560"></a>
 
@@ -45728,7 +45905,7 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 
 ---
 
-#### 59. Minimalist logo concept
+#### 60. Minimalist logo concept
 
 <a href="https://aiistudio.com/en/prompt/2045199443960439023?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045199443960439023/0.jpg" alt="Minimalist logo concept" width="560"></a>
 
@@ -45765,7 +45942,7 @@ Goal: Generate a single, minimalist, and surreal image where a cloud is shaped l
 
 ---
 
-#### 60. Minimalist food shot
+#### 61. Minimalist food shot
 
 <a href="https://aiistudio.com/en/prompt/2045009725218226475?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2045009725218226475/0.jpg" alt="Minimalist food shot" width="560"></a>
 
@@ -45791,7 +45968,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ---
 
-#### 61. Photorealistic cityscape
+#### 62. Photorealistic cityscape
 
 <a href="https://aiistudio.com/en/prompt/2044599335221104970?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044599335221104970/0.jpg" alt="Photorealistic cityscape" width="560"></a>
 
@@ -45863,7 +46040,7 @@ Physically accurate material aging and layering.
 
 ---
 
-#### 62. Cinematic lighting king
+#### 63. Cinematic lighting king
 
 <a href="https://aiistudio.com/en/prompt/2044465748714594617?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2044465748714594617/0.jpg" alt="Cinematic lighting king" width="560"></a>
 
@@ -45899,7 +46076,7 @@ Rendering style: photorealistic, cinematic, ultra-detailed, physically based ren
 
 ---
 
-#### 63. 3d render logo concept
+#### 64. 3d render logo concept
 
 <a href="https://aiistudio.com/en/prompt/2043753023004954753?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043753023004954753/0.jpg" alt="3d render logo concept" width="560"></a>
 
@@ -45917,7 +46094,7 @@ A premium 3D stylized version of attached logo, rendered as thick, translucent c
 
 ---
 
-#### 64. 3d render cityscape
+#### 65. 3d render cityscape
 
 <a href="https://aiistudio.com/en/prompt/2043748561729302884?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043748561729302884/0.jpg" alt="3d render cityscape" width="560"></a>
 
@@ -45962,7 +46139,7 @@ Render: Octane Render with full caustics enabled at maximum quality settings. Ra
 
 ---
 
-#### 65. 3d render king
+#### 66. 3d render king
 
 <a href="https://aiistudio.com/en/prompt/2043381172646920237?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043381172646920237/0.jpg" alt="3d render king" width="560"></a>
 
@@ -46006,7 +46183,7 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 ---
 
-#### 66. Photorealistic logo concept
+#### 67. Photorealistic logo concept
 
 <a href="https://aiistudio.com/en/prompt/2043027627640799569?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043027627640799569/0.jpg" alt="Photorealistic logo concept" width="560"></a>
 
@@ -46035,7 +46212,7 @@ Rendered with Arnold or Octane. Phase One XF, 120mm Macro lens. Aperture f/5.6 f
 
 ---
 
-#### 67. Cinematic lighting man portrait
+#### 68. Cinematic lighting man portrait
 
 <a href="https://aiistudio.com/en/prompt/2042593441150837246?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2042593441150837246/0.jpg" alt="Cinematic lighting man portrait" width="560"></a>
 
@@ -46094,7 +46271,7 @@ Goal: "Subliminal Advertising" Landscape Photography.
 
 ---
 
-#### 68. North Face streetwear poster
+#### 69. North Face streetwear poster
 
 <a href="https://aiistudio.com/en/prompt/2041451587403399395?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041451587403399395/0.jpg" alt="North Face streetwear poster" width="560"></a>
 
@@ -46112,7 +46289,7 @@ A high-fashion, cinematic brand concept poster for "The North Face." The scene f
 
 ---
 
-#### 69. Adidas shrink-wrapped logo
+#### 70. Adidas shrink-wrapped logo
 
 <a href="https://aiistudio.com/en/prompt/2040963305901273505?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040963305901273505/0.jpg" alt="Adidas shrink-wrapped logo" width="560"></a>
 
@@ -46170,7 +46347,7 @@ Mood: the product is packed and ready for opening, the shape is known, but not y
 
 ---
 
-#### 70. Square shampoo luxury campaign
+#### 71. Square shampoo luxury campaign
 
 <a href="https://aiistudio.com/en/prompt/2040831603199672577?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040831603199672577/0.jpg" alt="Square shampoo luxury campaign" width="560"></a>
 
@@ -46191,7 +46368,7 @@ Lighting: lighting direction — single hard overhead spotlight / soft diffused 
 
 ---
 
-#### 71. Sandwich-effect editorial poster
+#### 72. Sandwich-effect editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2040806718523748627?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040806718523748627/0.jpg" alt="Sandwich-effect editorial poster" width="560"></a>
 
@@ -46245,7 +46422,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 72. Y2K Tokyo brand sticker
+#### 73. Y2K Tokyo brand sticker
 
 <a href="https://aiistudio.com/en/prompt/2040769988466733167?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040769988466733167/0.jpg" alt="Y2K Tokyo brand sticker" width="560"></a>
 
@@ -46297,7 +46474,7 @@ Flat vector only — zero gradients, zero effects, zero rendering, zero blur. Cl
 
 ---
 
-#### 73. 3D photo and graphics overlap
+#### 74. 3D photo and graphics overlap
 
 <a href="https://aiistudio.com/en/prompt/2040459414084170157?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040459414084170157/0.jpg" alt="3D photo and graphics overlap" width="560"></a>
 
@@ -46344,7 +46521,7 @@ High-end commercial aesthetic. Crisp, saturated, professional fusion of flat vec
 
 ---
 
-#### 74. Y2K Harajuku vector badge
+#### 75. Y2K Harajuku vector badge
 
 <a href="https://aiistudio.com/en/prompt/2040157426775724206?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040157426775724206/0.jpg" alt="Y2K Harajuku vector badge" width="560"></a>
 
@@ -46388,7 +46565,7 @@ Flat vector only — zero gradients, zero effects, zero rendering, zero blur. Cl
 
 ---
 
-#### 75. Celestial zodiac VTuber logo
+#### 76. Celestial zodiac VTuber logo
 
 <a href="https://aiistudio.com/en/prompt/2039682237751509053?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039682237751509053/0.jpg" alt="Celestial zodiac VTuber logo" width="560"></a>
 
@@ -46453,7 +46630,7 @@ request:
 
 ---
 
-#### 76. Shrink-wrapped logo render
+#### 77. Shrink-wrapped logo render
 
 <a href="https://aiistudio.com/en/prompt/2039404183250522151?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039404183250522151/0.jpg" alt="Shrink-wrapped logo render" width="560"></a>
 
@@ -46493,7 +46670,7 @@ The entire image is one color — [COLOR] — applied to every surface with vari
 
 ---
 
-#### 77. Embossed metal logo relief
+#### 78. Embossed metal logo relief
 
 <a href="https://aiistudio.com/en/prompt/2039041297286053931?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2039041297286053931/0.jpg" alt="Embossed metal logo relief" width="560"></a>
 
@@ -46537,7 +46714,7 @@ The single most important instruction in this entire prompt: the logo must read 
 
 ---
 
-#### 78. Hero color mixed-media campaign
+#### 79. Hero color mixed-media campaign
 
 <a href="https://aiistudio.com/en/prompt/2038707148981432392?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038707148981432392/0.jpg" alt="Hero color mixed-media campaign" width="560"></a>
 
@@ -46630,7 +46807,7 @@ Aesthetic: mixed media — real photograph integrated with hand-drawn 2D illustr
 
 ---
 
-#### 79. Capsule pill brand poster
+#### 80. Capsule pill brand poster
 
 <a href="https://aiistudio.com/en/prompt/2038694130650435769?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2038694130650435769/0.jpg" alt="Capsule pill brand poster" width="560"></a>
 
@@ -46648,7 +46825,7 @@ Create a minimal poster. A large capsule pill centered in the frame. The top hal
 
 ---
 
-#### 80. Square mixed-media campaign
+#### 81. Square mixed-media campaign
 
 <a href="https://aiistudio.com/en/prompt/2038319037248114957?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038319037248114957/0.jpg" alt="Square mixed-media campaign" width="560"></a>
 
@@ -46733,7 +46910,7 @@ Aesthetic: mixed media — real photograph integrated with hand-drawn 2D illustr
 
 ---
 
-#### 81. Slogan typography silhouette
+#### 82. Slogan typography silhouette
 
 <a href="https://aiistudio.com/en/prompt/2038261502696648942?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038261502696648942/0.jpg" alt="Slogan typography silhouette" width="560"></a>
 
@@ -46751,7 +46928,7 @@ Create a typographic illustration shaped like a [OBJECT], where the text [BRAND 
 
 ---
 
-#### 82. Luxury 3D logo key visual
+#### 83. Luxury 3D logo key visual
 
 <a href="https://aiistudio.com/en/prompt/2037605625463550080?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2037605625463550080/0.jpg" alt="Luxury 3D logo key visual" width="560"></a>
 
@@ -46795,7 +46972,7 @@ roughness noise map). Mood reference: luxury brand retrospective editorial for H
 
 ---
 
-#### 83. Nike Lumina iridescent jump
+#### 84. Nike Lumina iridescent jump
 
 <a href="https://aiistudio.com/en/prompt/2036806218988315056?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2036806218988315056/0.jpg" alt="Nike Lumina iridescent jump" width="560"></a>
 
@@ -46819,7 +46996,7 @@ A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twi
 
 ---
 
-#### 84. 2x2 era typography grid
+#### 85. 2x2 era typography grid
 
 <a href="https://aiistudio.com/en/prompt/2034557489258078352?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2034557489258078352/0.jpg" alt="2x2 era typography grid" width="560"></a>
 
@@ -46842,7 +47019,7 @@ A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twi
 
 ---
 
-#### 85. 3D ice logo on snow
+#### 86. 3D ice logo on snow
 
 <a href="https://aiistudio.com/en/prompt/2033619671522345426?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033619671522345426/0.jpg" alt="3D ice logo on snow" width="560"></a>
 
@@ -46883,7 +47060,7 @@ Constraint: NO TEXT inside or immediately near the central ice icon. Only the bo
 
 ---
 
-#### 86. Logo-shaped pancake shot
+#### 87. Logo-shaped pancake shot
 
 <a href="https://aiistudio.com/en/prompt/2033181947103773158?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033181947103773158/0.jpg" alt="Logo-shaped pancake shot" width="560"></a>
 
@@ -46901,7 +47078,7 @@ hyper-realistic food photography of a pancake shaped precisely like the [brand n
 
 ---
 
-#### 87. Cobalt blue letter A studio
+#### 88. Cobalt blue letter A studio
 
 <a href="https://aiistudio.com/en/prompt/2033180206975135824?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2033180206975135824/0.jpg" alt="Cobalt blue letter A studio" width="560"></a>
 
@@ -46926,7 +47103,7 @@ Minimalist fashion studio photoshoot featuring stylish people sitting confidentl
 
 ---
 
-#### 88. Brand logo cumulus cloud
+#### 89. Brand logo cumulus cloud
 
 <a href="https://aiistudio.com/en/prompt/2032908105994961090?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032908105994961090/0.jpg" alt="Brand logo cumulus cloud" width="560"></a>
 
@@ -46963,7 +47140,7 @@ Goal: Generate a single, minimalist, and surreal image where a cloud is shaped l
 
 ---
 
-#### 89. Notion mascot head icon
+#### 90. Notion mascot head icon
 
 <a href="https://aiistudio.com/en/prompt/2032819091485110500?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032819091485110500/0.jpg" alt="Notion mascot head icon" width="560"></a>
 
@@ -46981,7 +47158,7 @@ Create a clean high-contrast vector mascot icon in Notion-style artwork based on
 
 ---
 
-#### 90. Brazil jersey jungle armchair
+#### 91. Brazil jersey jungle armchair
 
 <a href="https://aiistudio.com/en/prompt/2032756394202657147?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032756394202657147/0.jpg" alt="Brazil jersey jungle armchair" width="560"></a>
 
@@ -46999,7 +47176,7 @@ Cinematic portrait of a confident football player sitting on a dark armchair, tr
 
 ---
 
-#### 91. Fisheye streetwear squat
+#### 92. Fisheye streetwear squat
 
 <a href="https://aiistudio.com/en/prompt/2032542713170838002?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032542713170838002/0.jpg" alt="Fisheye streetwear squat" width="560"></a>
 
@@ -47024,7 +47201,7 @@ Generate a highly detailed, photorealistic 8K streetwear fashion portrait of Ros
 
 ---
 
-#### 92. Fintech dynamic brand grid
+#### 93. Fintech dynamic brand grid
 
 <a href="https://aiistudio.com/en/prompt/2032185087534477643?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032185087534477643/0.jpg" alt="Fintech dynamic brand grid" width="560"></a>
 
@@ -47166,7 +47343,7 @@ visualized as a modern startup brand identity board similar to a design presenta
 
 ---
 
-#### 93. Object plus doodle ad
+#### 94. Object plus doodle ad
 
 <a href="https://aiistudio.com/en/prompt/2032094792583430443?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2032094792583430443/0.jpg" alt="Object plus doodle ad" width="560"></a>
 
@@ -47184,7 +47361,7 @@ A minimalist and creative advertisement set on a pure white background. A real p
 
 ---
 
-#### 94. Scrapbook torn-edge poster
+#### 95. Scrapbook torn-edge poster
 
 <a href="https://aiistudio.com/en/prompt/2031446250214572438?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031446250214572438/0.jpg" alt="Scrapbook torn-edge poster" width="560"></a>
 
@@ -47238,7 +47415,7 @@ Goal: Generate a professional "scrapbook" style collage poster for [BRAND NAME] 
 
 ---
 
-#### 95. Brand impasto oil painting
+#### 96. Brand impasto oil painting
 
 <a href="https://aiistudio.com/en/prompt/2031083098364858524?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2031083098364858524/0.jpg" alt="Brand impasto oil painting" width="560"></a>
 
@@ -47282,7 +47459,7 @@ Goal: Generate a professional mixed-media oil painting on textured canvas where 
 
 ---
 
-#### 96. Racing green hoodie cube ad
+#### 97. Racing green hoodie cube ad
 
 <a href="https://aiistudio.com/en/prompt/2029599397483532714?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029599397483532714/0.jpg" alt="Racing green hoodie cube ad" width="560"></a>
 
@@ -47320,7 +47497,7 @@ Color Palette: Deep forest green, bright white, and golden yellow accents.
 
 ---
 
-#### 97. Amber hair oil cinematic
+#### 98. Amber hair oil cinematic
 
 <a href="https://aiistudio.com/en/prompt/2029369297030807801?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029369297030807801/0.jpg" alt="Amber hair oil cinematic" width="560"></a>
 
@@ -47395,7 +47572,7 @@ Color Palette: Deep forest green, bright white, and golden yellow accents.
 
 ---
 
-#### 98. Berry red scrub jar shot
+#### 99. Berry red scrub jar shot
 
 <a href="https://aiistudio.com/en/prompt/2029237707386568814?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029237707386568814/0.jpg" alt="Berry red scrub jar shot" width="560"></a>
 
@@ -47413,7 +47590,7 @@ Ultra-realistic luxury cosmetic product photography of a deep red glass jar labe
 
 ---
 
-#### 99. Doodle character product ad
+#### 100. Doodle character product ad
 
 <a href="https://aiistudio.com/en/prompt/2029211910621806728?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029211910621806728/0.jpg" alt="Doodle character product ad" width="560"></a>
 
@@ -47439,7 +47616,7 @@ Product description and its placement], minimalist product photography, clean wa
 
 ---
 
-#### 100. Logo-shaped cake bite
+#### 101. Logo-shaped cake bite
 
 <a href="https://aiistudio.com/en/prompt/2029164036588241196?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029164036588241196/0.jpg" alt="Logo-shaped cake bite" width="560"></a>
 
@@ -47457,7 +47634,7 @@ Generate a hyper-realistic digital illustration of a cake meticulously stylized 
 
 ---
 
-#### 101. Strawberry jar assembly
+#### 102. Strawberry jar assembly
 
 <a href="https://aiistudio.com/en/prompt/2029019321364824452?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2029019321364824452/0.jpg" alt="Strawberry jar assembly" width="560"></a>
 
@@ -47529,7 +47706,7 @@ Ultra clean luxury skincare commercial finish.
 
 ---
 
-#### 102. Venom Monster Energy can
+#### 103. Venom Monster Energy can
 
 <a href="https://aiistudio.com/en/prompt/2028650885472203209?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028650885472203209/0.jpg" alt="Venom Monster Energy can" width="560"></a>
 
@@ -47584,7 +47761,7 @@ ratio 4:5
 
 ---
 
-#### 103. Mario Pepsi can ad
+#### 104. Mario Pepsi can ad
 
 <a href="https://aiistudio.com/en/prompt/2028636305803051268?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028636305803051268/0.jpg" alt="Mario Pepsi can ad" width="560"></a>
 
@@ -47610,7 +47787,7 @@ Shot outdoors in natural daylight with a soft, blurred garden background (bokeh 
 
 ---
 
-#### 104. Pepsi through phone screen
+#### 105. Pepsi through phone screen
 
 <a href="https://aiistudio.com/en/prompt/2028309848429846690?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028309848429846690/0.jpg" alt="Pepsi through phone screen" width="560"></a>
 
@@ -47632,7 +47809,7 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 ---
 
-#### 105. Rose Velvet shake splash
+#### 106. Rose Velvet shake splash
 
 <a href="https://aiistudio.com/en/prompt/2028279420419752307?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028279420419752307/0.jpg" alt="Rose Velvet shake splash" width="560"></a>
 
@@ -47695,7 +47872,7 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 ---
 
-#### 106. Levitating product in void
+#### 107. Levitating product in void
 
 <a href="https://aiistudio.com/en/prompt/2027745604600811970?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027745604600811970/0.jpg" alt="Levitating product in void" width="560"></a>
 
@@ -47760,7 +47937,7 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 ---
 
-#### 107. Skincare 360 splash commercial
+#### 108. Skincare 360 splash commercial
 
 <a href="https://aiistudio.com/en/prompt/2027645181538025847?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027645181538025847/0.jpg" alt="Skincare 360 splash commercial" width="560"></a>
 
@@ -47792,7 +47969,7 @@ Sensual, elegant, and premium beauty campaign. Smooth motion, glossy textures, s
 
 ---
 
-#### 108. Sanzo Calamansi green can shot
+#### 109. Sanzo Calamansi green can shot
 
 <a href="https://aiistudio.com/en/prompt/2027171001486967062?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027171001486967062/0.jpg" alt="Sanzo Calamansi green can shot" width="560"></a>
 
@@ -47818,7 +47995,7 @@ A photorealistic product shot of a person holding a slim, light green can of San
 
 ---
 
-#### 109. Editorial poster v5
+#### 110. Editorial poster v5
 
 <a href="https://aiistudio.com/en/prompt/2027040971016351786?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2027040971016351786/0.jpg" alt="Editorial poster v5" width="560"></a>
 
@@ -47860,7 +48037,7 @@ PHASE 5: FINAL BRANDING.
 
 ---
 
-#### 110. Product packaging shot
+#### 111. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2026929094164885863?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026929094164885863/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -47878,7 +48055,7 @@ Use the uploaded image as the exact visual reference for product design, label, 
 
 ---
 
-#### 111. Editorial poster v4
+#### 112. Editorial poster v4
 
 <a href="https://aiistudio.com/en/prompt/2026316195977146728?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2026316195977146728/0.jpg" alt="Editorial poster v4" width="560"></a>
 
@@ -47925,7 +48102,7 @@ High-end commercial aesthetic. Crisp, saturated, professional fusion of flat vec
 
 ---
 
-#### 112. Creative scene
+#### 113. Creative scene
 
 <a href="https://aiistudio.com/en/prompt/2025261764795826531?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2025261764795826531/0.jpg" alt="Creative scene" width="560"></a>
 
@@ -47958,7 +48135,7 @@ Prompt 👇
 
 ---
 
-#### 113. Space scene
+#### 114. Space scene
 
 <a href="https://aiistudio.com/en/prompt/2024563588602429812?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024563588602429812/0.jpg" alt="Space scene" width="560"></a>
 
@@ -47984,7 +48161,7 @@ The lighting is [Lighting Type: e.g., Sharp/Soft], crisp, and commercial, emphas
 
 ---
 
-#### 114. Logo design
+#### 115. Logo design
 
 <a href="https://aiistudio.com/en/prompt/2022269227286102243?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2022269227286102243/0.jpg" alt="Logo design" width="560"></a>
 
@@ -48002,7 +48179,7 @@ Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect 
 
 ---
 
-#### 115. Product packaging shot
+#### 116. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2021057289785053348?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2021057289785053348/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -48028,7 +48205,7 @@ Hyper-realistic cinematic 8k photograph, low-angle wide perspective. A massive M
 
 ---
 
-#### 116. Editorial poster v2
+#### 117. Editorial poster v2
 
 <a href="https://aiistudio.com/en/prompt/2020895358126002197?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020895358126002197/0.jpg" alt="Editorial poster v2" width="560"></a>
 
@@ -48106,7 +48283,7 @@ TECHNICAL SPECS:
 
 ---
 
-#### 117. Logo design
+#### 118. Logo design
 
 <a href="https://aiistudio.com/en/prompt/2019773851211886665?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019773851211886665/0.jpg" alt="Logo design" width="560"></a>
 
@@ -48124,7 +48301,7 @@ Cinematic 3D action-packed advertisement for [INSERT PRODUCT/BRAND HERE], captur
 
 ---
 
-#### 118. Product packaging shot v2
+#### 119. Product packaging shot v2
 
 <a href="https://aiistudio.com/en/prompt/2019629174374429017?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019629174374429017/0.jpg" alt="Product packaging shot v2" width="560"></a>
 
@@ -48150,7 +48327,7 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 ---
 
-#### 119. Skincare product shot v2
+#### 120. Skincare product shot v2
 
 <a href="https://aiistudio.com/en/prompt/2019431396885070327?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019431396885070327/0.jpg" alt="Skincare product shot v2" width="560"></a>
 
@@ -48240,7 +48417,7 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 ---
 
-#### 120. Skincare product shot
+#### 121. Skincare product shot
 
 <a href="https://aiistudio.com/en/prompt/2019404118486389234?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019404118486389234/0.jpg" alt="Skincare product shot" width="560"></a>
 
@@ -48327,7 +48504,7 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 ---
 
-#### 121. Product packaging shot
+#### 122. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2019069034365698163?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2019069034365698163/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -48444,7 +48621,7 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 ---
 
-#### 122. Product packaging shot
+#### 123. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2018776000532717836?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018776000532717836/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -48483,7 +48660,7 @@ A raw, textured, vintage-style poster design.
 
 ---
 
-#### 123. Logo design
+#### 124. Logo design
 
 <a href="https://aiistudio.com/en/prompt/2018348054789640565?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018348054789640565/0.jpg" alt="Logo design" width="560"></a>
 
@@ -48536,7 +48713,7 @@ The image must be a clean, gap-separated grid featuring these specific blocks:
 
 ---
 
-#### 124. Custom-shape table flat-lay
+#### 125. Custom-shape table flat-lay
 
 <a href="https://aiistudio.com/en/prompt/2017847584115548498?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017847584115548498/0.jpg" alt="Custom-shape table flat-lay" width="560"></a>
 
@@ -48567,7 +48744,7 @@ Lighting & Quality: Professional studio lighting with crisp, distinct drop shado
 
 ---
 
-#### 125. Brand flagship concept
+#### 126. Brand flagship concept
 
 <a href="https://aiistudio.com/en/prompt/2017682012987970042?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017682012987970042/0.jpg" alt="Brand flagship concept" width="560"></a>
 
@@ -48596,7 +48773,7 @@ Professional product photography, soft volumetric lighting, clean light pastel b
 
 ---
 
-#### 126. Beverage splash duo shot
+#### 127. Beverage splash duo shot
 
 <a href="https://aiistudio.com/en/prompt/2017420332458774791?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017420332458774791/0.jpg" alt="Beverage splash duo shot" width="560"></a>
 
@@ -48707,7 +48884,7 @@ Professional product photography, soft volumetric lighting, clean light pastel b
 
 ---
 
-#### 127. Brand concept-study object
+#### 128. Brand concept-study object
 
 <a href="https://aiistudio.com/en/prompt/2017345945025822871?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017345945025822871/0.jpg" alt="Brand concept-study object" width="560"></a>
 
@@ -48742,7 +48919,7 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 ---
 
-#### 128. Salad explosion bowl shot
+#### 129. Salad explosion bowl shot
 
 <a href="https://aiistudio.com/en/prompt/2017200760631828679?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017200760631828679/0.jpg" alt="Salad explosion bowl shot" width="560"></a>
 
@@ -48792,7 +48969,7 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 ---
 
-#### 129. Split product brand poster
+#### 130. Split product brand poster
 
 <a href="https://aiistudio.com/en/prompt/2017188683766538498?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017188683766538498/0.jpg" alt="Split product brand poster" width="560"></a>
 
@@ -48821,7 +48998,7 @@ Official logo placed subtly and professionally in one corner.
 
 ---
 
-#### 130. Branded glazed popsicle
+#### 131. Branded glazed popsicle
 
 <a href="https://aiistudio.com/en/prompt/2016567546325979473?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016567546325979473/0.jpg" alt="Branded glazed popsicle" width="560"></a>
 
@@ -48847,7 +49024,7 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 ---
 
-#### 131. Heat-haze luxury product
+#### 132. Heat-haze luxury product
 
 <a href="https://aiistudio.com/en/prompt/2016559834456273296?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016559834456273296/0.jpg" alt="Heat-haze luxury product" width="560"></a>
 
@@ -48985,7 +49162,7 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 ---
 
-#### 132. Ice cream splash triptych
+#### 133. Ice cream splash triptych
 
 <a href="https://aiistudio.com/en/prompt/2016534463459832095?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016534463459832095/0.jpg" alt="Ice cream splash triptych" width="560"></a>
 
@@ -49129,7 +49306,7 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 ---
 
-#### 133. 3x3 brand identity grid
+#### 134. 3x3 brand identity grid
 
 <a href="https://aiistudio.com/en/prompt/2016511852927438909?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016511852927438909/0.jpg" alt="3x3 brand identity grid" width="560"></a>
 
@@ -49159,7 +49336,7 @@ no people, no readable real-world brand names, no watermark.
 
 ---
 
-#### 134. Fruit AR HUD POV shot
+#### 135. Fruit AR HUD POV shot
 
 <a href="https://aiistudio.com/en/prompt/2016421696299991337?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016421696299991337/0.jpg" alt="Fruit AR HUD POV shot" width="560"></a>
 
@@ -49221,7 +49398,7 @@ no people, no readable real-world brand names, no watermark.
 
 ---
 
-#### 135. Techwear blueprint profile
+#### 136. Techwear blueprint profile
 
 <a href="https://aiistudio.com/en/prompt/2016245336948244946?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016245336948244946/0.jpg" alt="Techwear blueprint profile" width="560"></a>
 
@@ -49269,7 +49446,7 @@ PHASE 4: TECH SPECS
 
 ---
 
-#### 136. Chanel perfume 2x2 ads
+#### 137. Chanel perfume 2x2 ads
 
 <a href="https://aiistudio.com/en/prompt/2016146144590541290?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016146144590541290/0.jpg" alt="Chanel perfume 2x2 ads" width="560"></a>
 
@@ -49344,7 +49521,7 @@ Optimized for luxury brand advertising and social campaigns
 
 ---
 
-#### 137. Dark horizon product reveal
+#### 138. Dark horizon product reveal
 
 <a href="https://aiistudio.com/en/prompt/2015866705197580703?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015866705197580703/0.jpg" alt="Dark horizon product reveal" width="560"></a>
 
@@ -49414,7 +49591,7 @@ Optimized for luxury brand advertising and social campaigns
 
 ---
 
-#### 138. Jam jar AR HUD POV
+#### 139. Jam jar AR HUD POV
 
 <a href="https://aiistudio.com/en/prompt/2015794054110552310?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015794054110552310/0.jpg" alt="Jam jar AR HUD POV" width="560"></a>
 
@@ -49432,7 +49609,7 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 
 ---
 
-#### 139. 3x3 product campaign grid
+#### 140. 3x3 product campaign grid
 
 <a href="https://aiistudio.com/en/prompt/2015634929066070042?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015634929066070042/0.jpg" alt="3x3 product campaign grid" width="560"></a>
 
@@ -49491,7 +49668,7 @@ Hyperreal, cinematic, polished, and aspirational
 
 ---
 
-#### 140. Beige Crocs ad poster
+#### 141. Beige Crocs ad poster
 
 <a href="https://aiistudio.com/en/prompt/2015437854206529710?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015437854206529710/0.jpg" alt="Beige Crocs ad poster" width="560"></a>
 
@@ -49562,7 +49739,7 @@ Low resolution, incorrect shoe shape, warped branding, misspelled logo, glossy p
 
 ---
 
-#### 141. Red tea tin 3x3 grid
+#### 142. Red tea tin 3x3 grid
 
 <a href="https://aiistudio.com/en/prompt/2015257114529419733?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015257114529419733/0.jpg" alt="Red tea tin 3x3 grid" width="560"></a>
 
@@ -49595,7 +49772,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 142. Orange milk splash macro
+#### 143. Orange milk splash macro
 
 <a href="https://aiistudio.com/en/prompt/2013660094664446322?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013660094664446322/0.jpg" alt="Orange milk splash macro" width="560"></a>
 
@@ -49652,7 +49829,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 143. 3x3 product mockup grid
+#### 144. 3x3 product mockup grid
 
 <a href="https://aiistudio.com/en/prompt/2013268963266904438?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013268963266904438/0.jpg" alt="3x3 product mockup grid" width="560"></a>
 
@@ -49710,7 +49887,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 144. Chrome 3D logo render
+#### 145. Chrome 3D logo render
 
 <a href="https://aiistudio.com/en/prompt/2012978382812635204?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012978382812635204/0.jpg" alt="Chrome 3D logo render" width="560"></a>
 
@@ -49728,7 +49905,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 145. Mid-air coffee chocolate explosion
+#### 146. Mid-air coffee chocolate explosion
 
 <a href="https://aiistudio.com/en/prompt/2012291576119312710?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012291576119312710/0.jpg" alt="Mid-air coffee chocolate explosion" width="560"></a>
 
@@ -49811,7 +49988,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 146. Noir Brew matte black coffee bottle
+#### 147. Noir Brew matte black coffee bottle
 
 <a href="https://aiistudio.com/en/prompt/2012108162447585523?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2012108162447585523/0.jpg" alt="Noir Brew matte black coffee bottle" width="560"></a>
 
@@ -49829,7 +50006,7 @@ Ultra-cinematic premium coffee bottle labeled “NOIR BREW”, matte black glass
 
 ---
 
-#### 147. Cinematic 3:4 commercial product shoot
+#### 148. Cinematic 3:4 commercial product shoot
 
 <a href="https://aiistudio.com/en/prompt/2011708873418424581?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011708873418424581/0.jpg" alt="Cinematic 3:4 commercial product shoot" width="560"></a>
 
@@ -49947,7 +50124,7 @@ Ultra-cinematic premium coffee bottle labeled “NOIR BREW”, matte black glass
 
 ---
 
-#### 148. Neo-Tokyo rainy alley red jacket
+#### 149. Neo-Tokyo rainy alley red jacket
 
 <a href="https://aiistudio.com/en/prompt/2011634939490672664?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011634939490672664/0.jpg" alt="Neo-Tokyo rainy alley red jacket" width="560"></a>
 
@@ -49965,7 +50142,7 @@ A raw, candid street-style shot of reference running through a rain-soaked Neo-T
 
 ---
 
-#### 149. Brand campaign visual identity grid
+#### 150. Brand campaign visual identity grid
 
 <a href="https://aiistudio.com/en/prompt/2011094013101695427?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011094013101695427/0.jpg" alt="Brand campaign visual identity grid" width="560"></a>
 
@@ -50030,7 +50207,7 @@ Texture: Apply strong halftone dot patterns (raster dots) and heavy film grain. 
 
 ---
 
-#### 150. Lime soda can explosion shot
+#### 151. Lime soda can explosion shot
 
 <a href="https://aiistudio.com/en/prompt/2011078719734235390?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011078719734235390/0.jpg" alt="Lime soda can explosion shot" width="560"></a>
 
@@ -50056,7 +50233,7 @@ Texture: Apply strong halftone dot patterns (raster dots) and heavy film grain. 
 
 ---
 
-#### 151. Monthly icon collection in 3D
+#### 152. Monthly icon collection in 3D
 
 <a href="https://aiistudio.com/en/prompt/2010302396355026978?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2010302396355026978/0.jpg" alt="Monthly icon collection in 3D" width="560"></a>
 
@@ -50090,7 +50267,7 @@ Maintain consistent proportions, materials, and visual language across all icons
 
 ---
 
-#### 152. Soap foam logo bathroom tiles
+#### 153. Soap foam logo bathroom tiles
 
 <a href="https://aiistudio.com/en/prompt/2009722852010852444?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009722852010852444/0.jpg" alt="Soap foam logo bathroom tiles" width="560"></a>
 
@@ -50108,7 +50285,7 @@ Create a soap foam sculpture in the exact shape of the uploaded logo, made entir
 
 ---
 
-#### 153. Brand sticker sheet vector set
+#### 154. Brand sticker sheet vector set
 
 <a href="https://aiistudio.com/en/prompt/2009717451710509473?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009717451710509473/0.jpg" alt="Brand sticker sheet vector set" width="560"></a>
 
@@ -50143,7 +50320,7 @@ The stickers are scattered naturally across the sheet (knolling layout) with eve
 
 ---
 
-#### 154. 3x3 themed 3D icon grid
+#### 155. 3x3 themed 3D icon grid
 
 <a href="https://aiistudio.com/en/prompt/2009660363227152653?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009660363227152653/0.jpg" alt="3x3 themed 3D icon grid" width="560"></a>
 
@@ -50174,7 +50351,7 @@ Create a collection of icons representing [a theme], they belong together as a s
 
 ---
 
-#### 155. Personal branding mockup kit
+#### 156. Personal branding mockup kit
 
 <a href="https://aiistudio.com/en/prompt/2009592182630744078?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009592182630744078/0.jpg" alt="Personal branding mockup kit" width="560"></a>
 
@@ -50192,7 +50369,7 @@ A clean, modern personal branding mockup featuring a cohesive visual identity fo
 
 ---
 
-#### 156. Clay miniature company campus
+#### 157. Clay miniature company campus
 
 <a href="https://aiistudio.com/en/prompt/2009430294286553161?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2009430294286553161/0.jpg" alt="Clay miniature company campus" width="560"></a>
 
@@ -50215,7 +50392,7 @@ Example: Company – Google, Date – 01/01/2026.
 
 ---
 
-#### 157. Teddy bear soda fridge fantasy
+#### 158. Teddy bear soda fridge fantasy
 
 <a href="https://aiistudio.com/en/prompt/2008912370551357865?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008912370551357865/0.jpg" alt="Teddy bear soda fridge fantasy" width="560"></a>
 
@@ -50235,7 +50412,7 @@ The can is placed inside a glowing refrigerator filled with neatly stacked glass
 
 ---
 
-#### 158. Surreal oil ingredient landscape
+#### 159. Surreal oil ingredient landscape
 
 <a href="https://aiistudio.com/en/prompt/2008878369107276184?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008878369107276184/0.jpg" alt="Surreal oil ingredient landscape" width="560"></a>
 
@@ -50261,7 +50438,7 @@ Surreal premium commercial illustration for [BRAND NAME] [OIL TYPE], featuring t
 
 ---
 
-#### 159. Luxury editorial brand poster
+#### 160. Luxury editorial brand poster
 
 <a href="https://aiistudio.com/en/prompt/2008592833406791789?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008592833406791789/0.jpg" alt="Luxury editorial brand poster" width="560"></a>
 
@@ -50282,7 +50459,7 @@ Create ONE luxury editorial poster. Keep the product EXACT and unchanged. Use th
 
 ---
 
-#### 160. Vlog skincare serum scene
+#### 161. Vlog skincare serum scene
 
 <a href="https://aiistudio.com/en/prompt/2008519940761153975?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008519940761153975/0.jpg" alt="Vlog skincare serum scene" width="560"></a>
 
@@ -50321,7 +50498,7 @@ No face morphing, no extra limbs or fingers, no warped text or logo distortion, 
 
 ---
 
-#### 161. Miniature planet city render
+#### 162. Miniature planet city render
 
 <a href="https://aiistudio.com/en/prompt/2008272089682199025?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008272089682199025/0.jpg" alt="Miniature planet city render" width="560"></a>
 
@@ -50339,7 +50516,7 @@ Create a hyperrealistic miniature planet showcasing [CITY] with famous landmarks
 
 ---
 
-#### 162. Surreal hero product brand ad
+#### 163. Surreal hero product brand ad
 
 <a href="https://aiistudio.com/en/prompt/2008248159815036942?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008248159815036942/0.jpg" alt="Surreal hero product brand ad" width="560"></a>
 
@@ -50365,7 +50542,7 @@ Ultra-high quality, perfectly balanced framing, strong realism, luxury style—n
 
 ---
 
-#### 163. Miniature brand store dolly shot
+#### 164. Miniature brand store dolly shot
 
 <a href="https://aiistudio.com/en/prompt/2008172655308849411?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008172655308849411/0.jpg" alt="Miniature brand store dolly shot" width="560"></a>
 
@@ -50383,7 +50560,7 @@ A dynamic aerial view of a bustling city street, focusing on a miniature [BRAND]
 
 ---
 
-#### 164. Phone portal travel poster
+#### 165. Phone portal travel poster
 
 <a href="https://aiistudio.com/en/prompt/2007190982408974659?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007190982408974659/0.jpg" alt="Phone portal travel poster" width="560"></a>
 
@@ -50401,7 +50578,7 @@ A hyper-realistic travel advertisement in square format (1080x1080), featuring a
 
 ---
 
-#### 165. Typographic slogan illustration
+#### 166. Typographic slogan illustration
 
 <a href="https://aiistudio.com/en/prompt/2005620980891480567?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2005620980891480567/0.jpg" alt="Typographic slogan illustration" width="560"></a>
 
@@ -57732,9 +57909,41 @@ No cartoon style, no flat illustration — pure cinematic realism with sculptura
 
 > Infographics, knowledge maps, technical explainers, and diagrams.
 
-**79 prompts** · [↑ back to top](#-table-of-contents)
+**80 prompts** · [↑ back to top](#-table-of-contents)
 
-#### 1. Landmark architectural blueprint poster set
+#### 1. Cornell notes infographic
+
+<a href="https://aiistudio.com/en/prompt/2081354526003712415?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2081354526003712415/0.jpg" alt="Cornell notes infographic" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Design a high-quality infographic using a Cornell Notes layout for studying [topic]. Use an A4 vertical format, 4K resolution, flat design, a clean modern white background, and a macaron palette of blue, green, and orange. Make it suitable for printing and digital reading, with clear Chinese typography, ample whitespace, and a style similar to polished study materials, Notion, and GoodNotes.
+
+Overall layout: the top area includes the title Cornell Notes, date, subject, and topic. The left 25 percent column is the cue/question column and contains 8 to 12 numbered questions related to the topic. The right 75 percent column is the notes/recording column and uses modular knowledge-point sections. Each knowledge point includes a subheading, concise explanation, bullet points, flowchart, arrow relationships, table, diagram, and icons. Combine text and visuals, not text only.
+
+The bottom area is the summary/review section with 2 to 5 sentences summarizing the page. Add a one-sentence memory aid in the lower-right corner that captures the knowledge point in the easiest way to remember.
+
+Content must focus on [topic], be accurate, clearly layered, highlight key points, support review, and feel like a high-quality textbook page. Add unified-style visual elements such as books, light bulbs, notes, flowcharts, network diagrams, module boxes, arrows, check marks, emphasis stars, and target icons. Use modular blocks, generous whitespace, rounded borders, pale section backgrounds, separate modules for each knowledge point, and clear typographic hierarchy. The final result should look like a university textbook study summary page and a professional infographic with the quality of a million-view educational course summary.
+```
+
+</details>
+
+<details><summary>🖼️ More renders</summary>
+
+<img src="https://cdn.aiistudio.com/twitter/2081354526003712415/1.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2081354526003712415/2.jpg" width="320">
+<img src="https://cdn.aiistudio.com/twitter/2081354526003712415/3.jpg" width="320">
+
+</details>
+
+👤 [@knowledgefxg](https://x.com/knowledgefxg) · [Source tweet](https://x.com/knowledgefxg/status/2081354526003712415)
+
+**[🚀 Try it now on aiiStudio →](https://aiistudio.com/en/prompt/2081354526003712415?utm_source=github&utm_medium=readme&utm_campaign=prompt-link)**
+
+---
+
+#### 2. Landmark architectural blueprint poster set
 
 <a href="https://aiistudio.com/en/prompt/2059186971797487755?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2059186971797487755/0.jpg" alt="Landmark architectural blueprint poster set" width="560"></a>
 
@@ -57778,7 +57987,7 @@ architectural blueprint poster, engineering infographic, technical drawing aesth
 
 ---
 
-#### 2. Cyberpunk streetwear fashion blueprint sheet
+#### 3. Cyberpunk streetwear fashion blueprint sheet
 
 <a href="https://aiistudio.com/en/prompt/2057342945901326769?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2057342945901326769/0.jpg" alt="Cyberpunk streetwear fashion blueprint sheet" width="560"></a>
 
@@ -57798,7 +58007,7 @@ Surrounding the model are fashion infographic elements, arrows, typography label
 
 ---
 
-#### 3. Nike sneaker exploded-view infographic
+#### 4. Nike sneaker exploded-view infographic
 
 <a href="https://aiistudio.com/en/prompt/2056219613361320278?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2056219613361320278/0.jpg" alt="Nike sneaker exploded-view infographic" width="560"></a>
 
@@ -57816,7 +58025,7 @@ A premium exploded-view infographic of a futuristic Nike sneaker, all shoe compo
 
 ---
 
-#### 4. Landscape architecture competition board, ecological systems
+#### 5. Landscape architecture competition board, ecological systems
 
 <a href="https://aiistudio.com/en/prompt/2053804243820368205?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2053804243820368205/0.jpg" alt="Landscape architecture competition board, ecological systems" width="560"></a>
 
@@ -57897,7 +58106,7 @@ Calm, ecological, regenerative, scientific yet poetic. The board should communic
 
 ---
 
-#### 5. Mythic creature scientific infographic
+#### 6. Mythic creature scientific infographic
 
 <a href="https://aiistudio.com/en/prompt/2050532829977887073?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2050532829977887073/0.jpg" alt="Mythic creature scientific infographic" width="560"></a>
 
@@ -57921,7 +58130,7 @@ A detailed scientific educational infographic about [Insert Creature, e.g., a Wo
 
 ---
 
-#### 6. 3D dog breed anatomy infographic
+#### 7. 3D dog breed anatomy infographic
 
 <a href="https://aiistudio.com/en/prompt/2049463206670926125?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2049463206670926125/0.jpg" alt="3D dog breed anatomy infographic" width="560"></a>
 
@@ -57939,7 +58148,7 @@ Render_Target =  ( 3D_Raised_Anatomy_And_Action_Map_Of_[DOG_BREED] * 1.2 )  + ( 
 
 ---
 
-#### 7. LIME drug design infographic
+#### 8. LIME drug design infographic
 
 <a href="https://aiistudio.com/en/prompt/awesome-comparison-48?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/comparison/48.jpg" alt="LIME drug design infographic" width="560"></a>
 
@@ -57957,7 +58166,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ---
 
-#### 8. Selena gomez
+#### 9. Selena gomez
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-95?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/95.jpg" alt="Selena gomez" width="560"></a>
 
@@ -57975,7 +58184,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ---
 
-#### 9. Generate screenshots
+#### 10. Generate screenshots
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-47?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/47.jpg" alt="Generate screenshots" width="560"></a>
 
@@ -57993,7 +58202,7 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 ---
 
-#### 10. Livestream backdrop
+#### 11. Livestream backdrop
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-43?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/43.jpg" alt="Livestream backdrop" width="560"></a>
 
@@ -58011,7 +58220,7 @@ Li Jiaqi's livestream backdrop — wall of lipstick matrix display, warm ambient
 
 ---
 
-#### 11. Character
+#### 12. Character
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-41?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/41.jpg" alt="Character" width="560"></a>
 
@@ -58029,7 +58238,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 ---
 
-#### 12. Wide powerpoint
+#### 13. Wide powerpoint
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-40?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/40.jpg" alt="Wide powerpoint" width="560"></a>
 
@@ -58049,7 +58258,7 @@ Also make a PowerPoint slide on game-development tech, analyzing where the effor
 
 ---
 
-#### 13. Robot
+#### 14. Robot
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-39?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/39.jpg" alt="Robot" width="560"></a>
 
@@ -58070,7 +58279,7 @@ Also make a PowerPoint slide on game-development tech, analyzing where the effor
 
 ---
 
-#### 14. Cyberpunk car
+#### 15. Cyberpunk car
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-38?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/38.jpg" alt="Cyberpunk car" width="560"></a>
 
@@ -58088,7 +58297,7 @@ Generate a UI design system in a future-city style, inspired by a cyberpunk city
 
 ---
 
-#### 15. Photorealistic logo
+#### 16. Photorealistic logo
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-36?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/36.jpg" alt="Photorealistic logo" width="560"></a>
 
@@ -58114,7 +58323,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ---
 
-#### 16. Japanese mobile
+#### 17. Japanese mobile
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-35?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/35.jpg" alt="Japanese mobile" width="560"></a>
 
@@ -58132,7 +58341,7 @@ Generate a Japanese mobile-game gacha screen.
 
 ---
 
-#### 17. Detailed appraisal
+#### 18. Detailed appraisal
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-32?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/32.jpg" alt="Detailed appraisal" width="560"></a>
 
@@ -58152,7 +58361,7 @@ Focus on advice and compile it into a high-quality fortune-telling report.
 
 ---
 
-#### 18. Infographic portrait
+#### 19. Infographic portrait
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-25?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/25.jpg" alt="Infographic portrait" width="560"></a>
 
@@ -58185,7 +58394,7 @@ Avoid: poster feel, photo-studio feel, e-commerce feel, anime feel, cosplay feel
 
 ---
 
-#### 19. Diagram momotaro explanation
+#### 20. Diagram momotaro explanation
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-10?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/10.jpg" alt="Diagram momotaro explanation" width="560"></a>
 
@@ -58203,7 +58412,7 @@ Create a Momotaro explanation slide (illustrative diagram) that fuses the warm, 
 
 ---
 
-#### 20. Car
+#### 21. Car
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-9?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/9.jpg" alt="Car" width="560"></a>
 
@@ -58221,7 +58430,7 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 ---
 
-#### 21. Please create
+#### 22. Please create
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-8?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/8.jpg" alt="Please create" width="560"></a>
 
@@ -58239,7 +58448,7 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 ---
 
-#### 22. Image ratio
+#### 23. Image ratio
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-7?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/7.jpg" alt="Image ratio" width="560"></a>
 
@@ -58257,7 +58466,7 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 ---
 
-#### 23. Girl
+#### 24. Girl
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-5?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/5.jpg" alt="Girl" width="560"></a>
 
@@ -58278,7 +58487,7 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 ---
 
-#### 24. Car
+#### 25. Car
 
 <a href="https://aiistudio.com/en/prompt/awesome-ui-1?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/ui/1.jpg" alt="Car" width="560"></a>
 
@@ -58296,7 +58505,7 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 ---
 
-#### 25. Infographic icon
+#### 26. Infographic icon
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-161?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/161.jpg" alt="Infographic icon" width="560"></a>
 
@@ -58314,7 +58523,7 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 ---
 
-#### 26. Alishan vintage travel poster
+#### 27. Alishan vintage travel poster
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-129?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/129.jpg" alt="Alishan vintage travel poster" width="560"></a>
 
@@ -58332,7 +58541,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ---
 
-#### 27. Claude Shannon information theory
+#### 28. Claude Shannon information theory
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-121?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/121.jpg" alt="Claude Shannon information theory" width="560"></a>
 
@@ -58350,7 +58559,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ---
 
-#### 28. 3D realistic evolution timeline
+#### 29. 3D realistic evolution timeline
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-111?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/111.jpg" alt="3D realistic evolution timeline" width="560"></a>
 
@@ -58408,7 +58617,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ---
 
-#### 29. Watercolor map infographic
+#### 30. Watercolor map infographic
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-110?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/110.jpg" alt="Watercolor map infographic" width="560"></a>
 
@@ -58460,7 +58669,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ---
 
-#### 30. Detailed step
+#### 31. Detailed step
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-55?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/55.jpg" alt="Detailed step" width="560"></a>
 
@@ -58478,7 +58687,7 @@ Make a detailed step-by-step illustration of how to make 'Stir-fried Pork with C
 
 ---
 
-#### 31. Infographic icon
+#### 32. Infographic icon
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-57?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/57.jpg" alt="Infographic icon" width="560"></a>
 
@@ -58514,7 +58723,7 @@ Don't make it look like a commercial poster. Highlight 'knowledge organization +
 
 ---
 
-#### 32. Marca sony
+#### 33. Marca sony
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-53?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/53.jpg" alt="Marca sony" width="560"></a>
 
@@ -58532,7 +58741,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 ---
 
-#### 33. Written chinese
+#### 34. Written chinese
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-47?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/47.jpg" alt="Written chinese" width="560"></a>
 
@@ -58550,7 +58759,7 @@ Generate a hand-written Chinese / Western medical prescription image.
 
 ---
 
-#### 34. Infographic icon
+#### 35. Infographic icon
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-39?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/39.jpg" alt="Infographic icon" width="560"></a>
 
@@ -58586,7 +58795,7 @@ Don't make it look like a commercial poster. Highlight 'knowledge organization +
 
 ---
 
-#### 35. Quality vertical
+#### 36. Quality vertical
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-32?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/32.jpg" alt="Quality vertical" width="560"></a>
 
@@ -58604,7 +58813,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 ---
 
-#### 36. Watercolor food
+#### 37. Watercolor food
 
 <a href="https://aiistudio.com/en/prompt/awesome-poster-3?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/awesome-gpt2/poster/3.jpg" alt="Watercolor food" width="560"></a>
 
@@ -58622,7 +58831,7 @@ A hand-drawn city food map themed around Chengdu. The base is a bird's-eye-view,
 
 ---
 
-#### 37. Isometric vehicle technical diagram
+#### 38. Isometric vehicle technical diagram
 
 <a href="https://aiistudio.com/en/prompt/2048733383140712808?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2048733383140712808/0.jpg" alt="Isometric vehicle technical diagram" width="560"></a>
 
@@ -58653,7 +58862,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized
 
 ---
 
-#### 38. Minimalist palm reading guide
+#### 39. Minimalist palm reading guide
 
 <a href="https://aiistudio.com/en/prompt/2048426035541135437?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/twitter/2048426035541135437/0.jpg" alt="Minimalist palm reading guide" width="560"></a>
 
@@ -58672,7 +58881,7 @@ Focus on the palm reading, create a simple black on white contour of my main lin
 
 ---
 
-#### 39. Routine editorial infographic
+#### 40. Routine editorial infographic
 
 <a href="https://aiistudio.com/en/prompt/2048044376366948849?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048044376366948849/0.jpg" alt="Routine editorial infographic" width="560"></a>
 
@@ -58690,7 +58899,7 @@ Ultra-clean modern editorial infographic. The topic is [ROUTINE] routine. Base a
 
 ---
 
-#### 40. Editorial style space scene
+#### 41. Editorial style space scene
 
 <a href="https://aiistudio.com/en/prompt/2047683043918311670?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047683043918311670/0.jpg" alt="Editorial style space scene" width="560"></a>
 
@@ -58708,7 +58917,7 @@ Ultra-clean modern editorial infographic on the topic of [ROUTINE] routine. Hero
 
 ---
 
-#### 41. Editorial style logo concept
+#### 42. Editorial style logo concept
 
 <a href="https://aiistudio.com/en/prompt/2047375056125428013?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047375056125428013/0.jpg" alt="Editorial style logo concept" width="560"></a>
 
@@ -58734,7 +58943,7 @@ Create a premium brand kit board for [BRAND NAME], presented like a professional
 
 ---
 
-#### 42. Creative scene artwork
+#### 43. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2047204364499276110?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047204364499276110/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -58752,7 +58961,7 @@ Generate a full detail diagram of Tesla's main components, with detail views of 
 
 ---
 
-#### 43. Photorealistic king
+#### 44. Photorealistic king
 
 <a href="https://aiistudio.com/en/prompt/2047153211560399009?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047153211560399009/0.jpg" alt="Photorealistic king" width="560"></a>
 
@@ -58778,7 +58987,7 @@ Guess which is which?
 
 ---
 
-#### 44. Creative scene artwork
+#### 45. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2046717569013293231?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2046717569013293231/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -58796,7 +59005,7 @@ Create a polished email sequence template for fenty beauty
 
 ---
 
-#### 45. Creative scene artwork
+#### 46. Creative scene artwork
 
 <a href="https://aiistudio.com/en/prompt/2046705259267948789?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046705259267948789/0.jpg" alt="Creative scene artwork" width="560"></a>
 
@@ -58814,7 +59023,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ---
 
-#### 46. Editorial style space scene
+#### 47. Editorial style space scene
 
 <a href="https://aiistudio.com/en/prompt/2046615173411262959?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046615173411262959/0.jpg" alt="Editorial style space scene" width="560"></a>
 
@@ -58871,7 +59080,7 @@ English only
 
 ---
 
-#### 47. Poster owl
+#### 48. Poster owl
 
 <a href="https://aiistudio.com/en/prompt/2046231542817497392?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046231542817497392/0.jpg" alt="Poster owl" width="560"></a>
 
@@ -58915,7 +59124,7 @@ Do not make it look like a commercial poster. Highlight the characteristics of '
 
 ---
 
-#### 48. Anime style man portrait
+#### 49. Anime style man portrait
 
 <a href="https://aiistudio.com/en/prompt/2045504669401653414?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045504669401653414/0.jpg" alt="Anime style man portrait" width="560"></a>
 
@@ -58948,7 +59157,7 @@ Avoid: poster feel, photo-studio feel, e-commerce feel, anime feel, cosplay feel
 
 ---
 
-#### 49. Editorial style cityscape
+#### 50. Editorial style cityscape
 
 <a href="https://aiistudio.com/en/prompt/2043047413770809708?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2043047413770809708/0.jpg" alt="Editorial style cityscape" width="560"></a>
 
@@ -58966,7 +59175,7 @@ A hyper-realistic 3D travel guide infographic poster for [COUNTRY]. The country 
 
 ---
 
-#### 50. Premium technical infographic
+#### 51. Premium technical infographic
 
 <a href="https://aiistudio.com/en/prompt/2041160547001864242?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2041160547001864242/0.jpg" alt="Premium technical infographic" width="560"></a>
 
@@ -58984,7 +59193,7 @@ Premium technical infographic of [OBJECT]. Use the reference image only to under
 
 ---
 
-#### 51. Dark blueprint house split
+#### 52. Dark blueprint house split
 
 <a href="https://aiistudio.com/en/prompt/2040757362382798888?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2040757362382798888/0.jpg" alt="Dark blueprint house split" width="560"></a>
 
@@ -59117,7 +59326,7 @@ Premium technical infographic of [OBJECT]. Use the reference image only to under
 
 ---
 
-#### 52. Technical infographic overlay
+#### 53. Technical infographic overlay
 
 <a href="https://aiistudio.com/en/prompt/2038346918406115788?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2038346918406115788/0.jpg" alt="Technical infographic overlay" width="560"></a>
 
@@ -59143,7 +59352,7 @@ Create an infographic image of [OBJECT], combining a realistic photograph or pho
 
 ---
 
-#### 53. Exploded vertical food chart
+#### 54. Exploded vertical food chart
 
 <a href="https://aiistudio.com/en/prompt/2028451530198642753?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028451530198642753/0.jpg" alt="Exploded vertical food chart" width="560"></a>
 
@@ -59167,7 +59376,7 @@ Pure white background, soft studio lighting, subtle shadows beneath each floatin
 
 ---
 
-#### 54. Cross-section product anatomy
+#### 55. Cross-section product anatomy
 
 <a href="https://aiistudio.com/en/prompt/2028376944996470842?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2028376944996470842/0.jpg" alt="Cross-section product anatomy" width="560"></a>
 
@@ -59186,7 +59395,7 @@ white background, museum specimen aesthetic, scientific illustration style
 
 ---
 
-#### 55. Product packaging shot v2
+#### 56. Product packaging shot v2
 
 <a href="https://aiistudio.com/en/prompt/2024375445345779759?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2024375445345779759/0.jpg" alt="Product packaging shot v2" width="560"></a>
 
@@ -59217,7 +59426,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ---
 
-#### 56. Editorial poster
+#### 57. Editorial poster
 
 <a href="https://aiistudio.com/en/prompt/2020051579710374133?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2020051579710374133/0.jpg" alt="Editorial poster" width="560"></a>
 
@@ -59283,7 +59492,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ---
 
-#### 57. Food photography v2
+#### 58. Food photography v2
 
 <a href="https://aiistudio.com/en/prompt/2019806212599284155?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019806212599284155/0.jpg" alt="Food photography v2" width="560"></a>
 
@@ -59307,7 +59516,7 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 ---
 
-#### 58. Food photography
+#### 59. Food photography
 
 <a href="https://aiistudio.com/en/prompt/2019418461869650379?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2019418461869650379/0.jpg" alt="Food photography" width="560"></a>
 
@@ -59372,7 +59581,7 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 ---
 
-#### 59. Illustration
+#### 60. Illustration
 
 <a href="https://aiistudio.com/en/prompt/2018964408417018277?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018964408417018277/0.jpg" alt="Illustration" width="560"></a>
 
@@ -59449,7 +59658,7 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 ---
 
-#### 60. Isometric 3d scene
+#### 61. Isometric 3d scene
 
 <a href="https://aiistudio.com/en/prompt/2018935306473590938?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018935306473590938/0.jpg" alt="Isometric 3d scene" width="560"></a>
 
@@ -59488,7 +59697,7 @@ Cartoon style, low detail, cluttered composition, modern elements, unrealistic p
 
 ---
 
-#### 61. Product packaging shot
+#### 62. Product packaging shot
 
 <a href="https://aiistudio.com/en/prompt/2018668607966769212?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018668607966769212/0.jpg" alt="Product packaging shot" width="560"></a>
 
@@ -59539,7 +59748,7 @@ Output:
 
 ---
 
-#### 62. Food photography
+#### 63. Food photography
 
 <a href="https://aiistudio.com/en/prompt/2018252656574185981?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018252656574185981/0.jpg" alt="Food photography" width="560"></a>
 
@@ -59601,7 +59810,7 @@ Output:
 
 ---
 
-#### 63. Indonesian ASAL food poster
+#### 64. Indonesian ASAL food poster
 
 <a href="https://aiistudio.com/en/prompt/2018167340417130614?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2018167340417130614/0.jpg" alt="Indonesian ASAL food poster" width="560"></a>
 
@@ -59625,7 +59834,7 @@ A hyper-realistic Indonesian food infographic poster with dramatic floating ingr
 
 ---
 
-#### 64. Field journal eruption
+#### 65. Field journal eruption
 
 <a href="https://aiistudio.com/en/prompt/2017981012614009229?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017981012614009229/0.jpg" alt="Field journal eruption" width="560"></a>
 
@@ -59651,7 +59860,7 @@ Epic 3D scene: a weathered field journal lies open on a naturalist's camp table,
 
 ---
 
-#### 65. Isometric device infographic
+#### 66. Isometric device infographic
 
 <a href="https://aiistudio.com/en/prompt/2017928823497453789?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017928823497453789/0.jpg" alt="Isometric device infographic" width="560"></a>
 
@@ -59682,7 +59891,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ---
 
-#### 66. Floating Indonesian dish
+#### 67. Floating Indonesian dish
 
 <a href="https://aiistudio.com/en/prompt/2017865644365255078?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017865644365255078/0.jpg" alt="Floating Indonesian dish" width="560"></a>
 
@@ -59745,7 +59954,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ---
 
-#### 67. Snack brand-color schematic
+#### 68. Snack brand-color schematic
 
 <a href="https://aiistudio.com/en/prompt/2017669983916982605?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017669983916982605/0.jpg" alt="Snack brand-color schematic" width="560"></a>
 
@@ -59781,7 +59990,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark
 
 ---
 
-#### 68. Exploded mechanical knolling
+#### 69. Exploded mechanical knolling
 
 <a href="https://aiistudio.com/en/prompt/2017611578284401056?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017611578284401056/0.jpg" alt="Exploded mechanical knolling" width="560"></a>
 
@@ -59827,7 +60036,7 @@ Goal: "Exploded Construction" Tabletop Photography.
 
 ---
 
-#### 69. Summer outfit infographic
+#### 70. Summer outfit infographic
 
 <a href="https://aiistudio.com/en/prompt/2017128891568312769?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2017128891568312769/0.jpg" alt="Summer outfit infographic" width="560"></a>
 
@@ -59851,7 +60060,7 @@ High-fashion summer outfit infographic with color-coordinated floating elements 
 
 ---
 
-#### 70. Watermelon juice infographic
+#### 71. Watermelon juice infographic
 
 <a href="https://aiistudio.com/en/prompt/2016432642951151894?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2016432642951151894/0.jpg" alt="Watermelon juice infographic" width="560"></a>
 
@@ -59875,7 +60084,7 @@ Bright summer infographic showcasing watermelon juice, icy texture, watermelon w
 
 ---
 
-#### 71. Country annotation poster
+#### 72. Country annotation poster
 
 <a href="https://aiistudio.com/en/prompt/2015850590283124768?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015850590283124768/0.jpg" alt="Country annotation poster" width="560"></a>
 
@@ -59919,7 +60128,7 @@ Output:
 
 ---
 
-#### 72. Food annotation infographic
+#### 73. Food annotation infographic
 
 <a href="https://aiistudio.com/en/prompt/2015488786445082660?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2015488786445082660/0.jpg" alt="Food annotation infographic" width="560"></a>
 
@@ -59962,7 +60171,7 @@ Output:
 
 ---
 
-#### 73. Anatomy annotation infographic
+#### 74. Anatomy annotation infographic
 
 <a href="https://aiistudio.com/en/prompt/2013677966283149542?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013677966283149542/0.jpg" alt="Anatomy annotation infographic" width="560"></a>
 
@@ -60005,7 +60214,7 @@ Output:
 
 ---
 
-#### 74. Laptop annotation infographic
+#### 75. Laptop annotation infographic
 
 <a href="https://aiistudio.com/en/prompt/2013602849658429459?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013602849658429459/0.jpg" alt="Laptop annotation infographic" width="560"></a>
 
@@ -60050,7 +60259,7 @@ Es par ek text post bnao X ke liye ki ye mere dwara bnata gya hai
 
 ---
 
-#### 75. Technical annotation infographic
+#### 76. Technical annotation infographic
 
 <a href="https://aiistudio.com/en/prompt/2013316513701216688?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2013316513701216688/0.jpg" alt="Technical annotation infographic" width="560"></a>
 
@@ -60093,7 +60302,7 @@ Output:
 
 ---
 
-#### 76. Expedition planning board mission map
+#### 77. Expedition planning board mission map
 
 <a href="https://aiistudio.com/en/prompt/2011097657385619460?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2011097657385619460/0.jpg" alt="Expedition planning board mission map" width="560"></a>
 
@@ -60119,7 +60328,7 @@ An expedition leader's planning board for [JOURNEY / MISSION] — [DESTINATION /
 
 ---
 
-#### 77. Architectural survey board
+#### 78. Architectural survey board
 
 <a href="https://aiistudio.com/en/prompt/2008559432016286198?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2008559432016286198/0.jpg" alt="Architectural survey board" width="560"></a>
 
@@ -60145,7 +60354,7 @@ A preservation architect's survey board for [BUILDING / STRUCTURE] — [STYLE / 
 
 ---
 
-#### 78. Blueprint landmark infographic
+#### 79. Blueprint landmark infographic
 
 <a href="https://aiistudio.com/en/prompt/2007523056822939698?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2007523056822939698/0.jpg" alt="Blueprint landmark infographic" width="560"></a>
 
@@ -60163,7 +60372,7 @@ Create an infographic image of [LANDMARK], combining a real photograph of the la
 
 ---
 
-#### 79. Indian yoga steps infographic
+#### 80. Indian yoga steps infographic
 
 <a href="https://aiistudio.com/en/prompt/2005950026581958720?utm_source=github&utm_medium=readme&utm_campaign=prompt-link"><img src="https://cdn.aiistudio.com/meigen/2005950026581958720/0.jpg" alt="Indian yoga steps infographic" width="560"></a>
 
@@ -68444,4 +68653,4 @@ Repo content released under the [MIT License](LICENSE). Original prompt copyrigh
 
 ---
 
-<p align="center"><sub>Built with ❤️ at <a href="https://aiistudio.com">aiistudio.com</a> · last synced 2026-07-27</sub></p>
+<p align="center"><sub>Built with ❤️ at <a href="https://aiistudio.com">aiistudio.com</a> · last synced 2026-07-30</sub></p>
