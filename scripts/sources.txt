@@ -81,3 +81,6 @@ https://github.com/alphatrait/100000-ai-prompts-by-contentifyai
 
 # Otomatik kesif: 2026-07-27 | konu: midjourney-prompts | 29 star
 https://github.com/pyronn/prompt-studio
+
+# Otomatik kesif: 2026-08-04 | konu: gpt-image-2-prompts | 62 star
+https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts
