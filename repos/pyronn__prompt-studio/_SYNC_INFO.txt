@@ -1,2 +1,2 @@
 Kaynak: https://github.com/pyronn/prompt-studio
-Son senkronizasyon: 2026-08-04 05:40 UTC
+Son senkronizasyon: 2026-08-07 04:48 UTC
